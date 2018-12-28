@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:4">
+	<library>
+		<sw5e static="true">
+			<categoryname type="string">Sci-Fi</categoryname>
+			<name type="string">sw5e</name>
+			<entries>
+				<race>
+					<librarylink type="windowreference">
+						<class>reference_list</class>
+						<recordname>..</recordname>
+					</librarylink>
+					<name type="string">Races</name>
+					<recordtype type="string">race</recordtype>
+				</race>
+			</entries>
+		</sw5e>
+	</library>
+	<reference static="true">
+		<racedata>
+			<category name="" baseicon="0" decalicon="0">
+				<id-00001>
+					<name type="string">Bothan</name>
+					<subraces>
+					</subraces>
+					<text type="formattedtext">
+						<h>BIOLOGY AND APPEARANCE</h>
+						<p>Bothans are a short species of furry humanoids. Bothans are covered in fur which shifted in response to their emotional state by way of gentle ripplings. It is this trait, named Wrendui, that betrays them when members of their kind intend to be duplicitous in their dealings with others. They possess tapered pointed ears, and both males and females were known to sport beards. Bothans are able to interbreed with the other species, though it is rare that they do so. Such hybrids somewhat resembled baseline humans with haunches, hooves, fur, pointed ears and a long tail.</p>
+						<h>SOCIETY AND CULTURE</h>
+						<p>Bothan culture is guided by the philosophy and principles from the ancient text known as The Way, written by Golm Fervse'dra. In this &#34;Bothan Way&#34;, the pursuit of power and in??uence is paramount. Thus, individual Bothans put their own political and economic success above all other concerns, and as a species, Bothans put their own advancement ahead of other intergalactic interests. The volume of backstabbing, subtle character assassination and political maneuvering in Bothan society is dizzying, and results in many species stereotyping Bothans as untrustworthy. In fact, most Bothans are habitually paranoid, believing that anyone who's not working with them, is working against them. In times of crisis, the focus of Bothan society shifts to a survivalist state known as &#34;ar'krai&#34;. When engaged in ar'krai, all ??t Bothans volunteer to defend their species from impending extinction.</p>
+					</text>
+					<traits>
+						<id-00001>
+							<locked type="number">1</locked>
+							<name type="string">Ability Score Increase</name>
+							<text type="formattedtext">
+								<p>Your Intelligence score increases by 2.</p>
+							</text>
+						</id-00001>
+						<id-00002>
+							<locked type="number">1</locked>
+							<name type="string">Age</name>
+							<text type="formattedtext">
+								<p>Bothans reach adulthood in their late teens and live less than a century.</p>
+							</text>
+						</id-00002>
+					</traits>
+				</id-00001>
+			</category>
+		</racedata>
+	</reference>
+</root>
