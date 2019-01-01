@@ -15,10 +15,10 @@ Tongue. Ranged Weapon Attack: +7 to hit, range 30 ft., one target. Hit: The targ
 Bite. Melee Weapon Attack: +7 to hit, reach 5ft., one target. Hit: 30 (4d12+4)
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The opee sea killer, sometimes referred to as simply an opee, is a large meat-eating crustaceous sea creature of approximately 60 feet in length. A hybrid of crustacean and fish, the opee sea killer is indigenous to the watery planet core of Naboo.\par
 }
 
 ***Part 3***
@@ -29,8 +29,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\opeeseakiller.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\opeeseakiller.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\opeeseakiller.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\opeeseakiller.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

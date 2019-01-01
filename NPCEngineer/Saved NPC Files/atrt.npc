@@ -8,9 +8,9 @@ STR DEX CON INT WIS CHA 15 (+2) 16 (+3) 12 (+1) 10 (+0) 10 (+0) 7 (-2)
 Saving Throws Dex +5
 Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
-Senses passive Perception 1
+Senses passive Perception 10
 Languages —
-Challenge 4 (1,100 XP)
+Challenge 4 (1100 XP)
 Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
 ACTIONS
 Multiattack. The construct makes two attacks with its repeating blaster cannon or uses its mortar launcher.
@@ -20,10 +20,10 @@ REACTIONS
 Redirect. If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The All Terrain Recon Transport (or AT-RT) is a one-man bipedal walker used for reconnaissance and patrolling made by Kuat Drive Yards as part of their All Terrain series. It is equipped with a single seat for a pilot, as well as a repeating blaster cannon and mortar launcher.\par
 }
 
 ***Part 3***
@@ -34,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\atrt.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\atrt.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\atrt.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\atrt.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

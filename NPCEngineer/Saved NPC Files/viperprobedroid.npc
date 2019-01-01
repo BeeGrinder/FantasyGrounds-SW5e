@@ -17,10 +17,11 @@ Blaster Cannon. Ranged Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7
 Self-Destruct. When the probe droid is reduced to half of its hit point maximum, it attempts to selfdestruct.\rEach creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The Viper Probe Droid is a deep-space exploration and reconnaissance probe droid produced by Arakyd Industries.\par
+The probe droid is equipped with a blaster cannon and a selfdestruct mechanism.\par
 }
 
 ***Part 3***
@@ -31,8 +32,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\viperprobedroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\viperprobedroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\viperprobedroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\viperprobedroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

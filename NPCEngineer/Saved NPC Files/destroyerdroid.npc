@@ -10,7 +10,7 @@ Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
 Senses darkvision 60 ft., passive Perception 15
 Languages Binary, Galactic Basic
-Challenge 7 (2,900 XP)
+Challenge 7 (2900 XP)
 Ball Form. As a bonus action, the destroyer droid can transform into or out of ball form. While in ball form, the destroyer droid has increased speed, but it can not attack.
 ACTIONS
 Multiattack. The destroyer droid makes two weapon attacks.
@@ -20,10 +20,10 @@ REACTIONS
 Deflector Shield. The destroyer droid adds 3 to its AC against one attack that would hit it. To do so, the super battle droid must see the attacker.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The destroyer droid is a type of heavy battle droid originally crafted by colicoids. It has a reputation for deadliness due to its resilience and firepower, as well as the fear it can instill in even the most powerful Jedi. They are also used for executions. Destroyer droids are equipped with dual built-in blaster cannons and a built-in deflector shield generator. Due to their ponderous nature, destroyer droids have a ball-form that they can transform into, granting them great speed.\par
 }
 
 ***Part 3***
@@ -34,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\destroyerdroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\destroyerdroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\destroyerdroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\destroyerdroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

@@ -10,7 +10,7 @@ Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
 Senses darkvision 60 ft., passive Perception 14
 Languages Binary, Galactic Basic
-Challenge 4 (1,100 XP)
+Challenge 4 (1100 XP)
 ACTIONS
 Multiattack. The super battle droid makes two weapon attacks.
 Strike. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
@@ -19,10 +19,10 @@ Wrist Blaster Volley (Recharge 5-6). The super battle droid sprays a 10-foot-cub
 Rocket Launcher (1/Day). Each creature in a 20-footradius sphere centered on a point that you can see within 150 feet must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The B2 super battle droid is an upgraded version of the B1 battle droid, with superior armament and armor. It features dual integrated wrist blasters. The B2-HA model was equipped with an integrated rocket launcher.\par
 }
 
 ***Part 3***
@@ -33,8 +33,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\b2hasuperbattledroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\b2hasuperbattledroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\b2hasuperbattledroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\b2hasuperbattledroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

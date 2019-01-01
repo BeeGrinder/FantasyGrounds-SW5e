@@ -10,7 +10,7 @@ Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
 Senses darkvision 60 ft., passive Perception 17
 Languages Binary, Galactic Basic
-Challenge 9 (5,000 XP)
+Challenge 9 (5000 XP)
 Droid Synergy. Once per turn, the assassin droid can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the assassin droid that isn't incapacitated.
 Legendary Resistance (3/Day). If the assassin droid fails a saving throw, it can choose to succeed instead.
 ACTIONS
@@ -26,10 +26,10 @@ Detect. The assassin droid makes a Wisdom (Perception) check.
 Rocket Boost. The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The HK series assassin droid, also known as the HK series protocol droid, is a combination of an assassin droid and protocol droid. The series designation stands for "Hunter Killer," befitting their primary functions as assassins. They are manufactured by Czerka Corporation. Their ability to perform the functions of a protocol droid became a major reason for their unmatched lethality, as they could and would often act as normal (if quite sinister looking) protocol droids, thus concealing their true function and allowing them to get closer to intended targets. HK series assassin droids are equipped with an integrated emergency shield and jet pack.\par
 }
 
 ***Part 3***
@@ -40,8 +40,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\hk47assassindroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\hk47assassindroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\hk47assassindroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\hk47assassindroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

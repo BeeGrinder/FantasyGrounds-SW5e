@@ -8,7 +8,7 @@ STR DEX CON INT WIS CHA 6 (-2) 13 (+1) 11 (+0) 17 (+3) 12 (+1) 7 (-2)
 Skills Perception +3
 Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
-Senses darkvision 60 ft., passive Perception 1
+Senses darkvision 60 ft., passive Perception 13
 Languages Speaks binary, understands Galactic Basic
 Challenge 1/8 (25 XP)
 Keen Hearing And Sight. The astromech droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.
@@ -16,10 +16,10 @@ ACTIONS
 Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) lightning damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The R2 series is one of the most popular models of astromechs. Created by a company called Industrial Automaton, the R2 unit's excellent design, high quality marketing, and lucky timing made this the standard by which other astromech droids are measured.\par
 }
 
 ***Part 3***
@@ -30,8 +30,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\r2seriesastromechdroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\r2seriesastromechdroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\r2seriesastromechdroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\r2seriesastromechdroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 
