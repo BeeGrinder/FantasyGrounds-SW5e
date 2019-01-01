@@ -1,0 +1,42 @@
+#@;Strength
+##;Athletics
+Your Strength (Athletics) check covers difficult situations you encounter while Climbing. jumping. or swimming. Examples include the following activities:
+#ls;
+#li;You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
+#li;You try to jump an unusually long distance or pull off a stunt midjump.
+#li;You struggle to swim or stay afloat in treacherous currents. storm—tossed waves. or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+#le;
+Other Strength Checks. 
+The DM might also call for a Strength check when you try to accomplish tasks like the following:
+#ls;
+#li;Force open a stuck, locked, or barred door.
+#li;Break free of bonds.
+#li;Push through a tunnel that is too small.
+#li;Hang on to a wagon while being dragged behind it.
+#li;Tip over a statue.
+#li;Keep a boulder from rolling.
+#le;
+#@;Dexterity
+##;Acrobatics
+Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking spaceship’s deck. The DM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+##;Sleight of Hand
+Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The DM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a wallet off another person or slip something out of another person’s pocket.
+##;Stealth
+Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+#@;Intelligence
+##;Investigation
+##;Lore
+##;Nature
+##;Piloting
+##;Technology
+#@;Wisdom
+##;Animal handling
+##;Insight
+##;Medicine
+##;Perception
+##;Survival
+#@;Charisma
+##;Deception
+##;Intimidation
+##;Performance
+##;Persuasion

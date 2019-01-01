@@ -1,0 +1,5 @@
+#@;Strength
+##;Escape Artist
+The Escape Artist skill represents your expertise in escaping from bonds. It includes the ability to wriggle free from ropes or manacles, squeeze into small spaces, or pick the lock on manacles binding you (all usually Dexterity checks), as well as your ability to break bonds encircling you or tying you down (typically a Strength check).
+##;Swim
+You can use the Swim skill when you’re attempting to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. You might also apply this skill to a check you make when a creature tries to push or pull you underwater or otherwise interfere with your swimming. Your Swim skill generally applies to a Strength check.
