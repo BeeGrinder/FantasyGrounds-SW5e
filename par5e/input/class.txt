@@ -1,0 +1,73 @@
+##;ENGINEER
+#h;Engineer
+Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off.
+Inside, the human captain jumps into the cockpit. She nods to her droid co-pilot, who quickly begins charting a course home. Before the calculations can be completed, enemy Starfighters scream in from the clouds. The pilot rolls the ship, nimbly evading incoming fire. She reroutes the power to shields, leaving just enough for astronavigation. Just as the energy reserves near depletion, the exosphere and stars beyond blur into streaks of light. In a flash, they warp to safety.
+A Cerean officer surveys the battlefield, looking for weaknesses. When he identifies a potential problem, he keys in a quick combination in his wristpad. In a blink, a custom suit of armor assembles itself around him. As the helmet locks into place, the officer leaps into the air, flying overhead and raining destruction on the opposition.
+Every machine needs an engineer to run it, and a living crew is no different. Engineers are the experts and professionals who rely on skill, bravery, and their tools to survive and keep others alive. While they do not claim to be fighters, their mere presence can turn the tide of battle or simply keep operations running.
+BEHIND THE CURTAIN
+While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic. They are armorers and gunsmiths, electricians and welders, or any other facet to be found in facilities across the galaxy. Their work, often unsung, is what keeps starships (and their crew) intact.
+UNFLAPPABLE
+It takes bravery for a soldier to enter a battlefield. It perhaps takes more for someone who is unarmed, and untrained in combat, to do the same. Engineers put their lives on the line for a living, whether by choice or acknowledging their plights as an occupational hazard. Whether they come from an elite training academy or learned their talents surviving in the slums, they are no strangers to danger and conflict.
+CREATING AN ENGINEER
+While creating your engineer character, consider what your primary skill set is and how you use it. You could be a street-smart mechanic who taught yourself how to fix swoop bikes as a teenager. Perhaps you are the recent graduate of an esteemed medical college, or a rookie pilot in the fledgling Rebel Alliance. What is the number one skill you are known for? Why are you willing to enter battles when you have no combat training? How do you view the more adventurous members of your group, and how do they see you and your role?
+QUICK BUILD
+You can make an engineer quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Constitution. Second, choose the guild artisan background.
+The Engineer
+#ts;
+#th;Level;Proficiency Bonus;Features;Superiority Dice;Maneuvers Known;
+#tr;1;+2;Fighting Style,Second Wind;—;—;
+#tr;2;+2;Action Surge,Combat Superiority;2;2;
+#tr;3;+2;Fighter Speciality;2;2;
+#te;
+Class Features
+As an engineer, you gain the following class features.
+Hit Points
+Hit Dice: 1d8 per engineer level
+Hit Points at 1st Level: 8 + your Constitution modifier
+Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per engineer level after 1st
+Proficiencies
+Armor: Light armor
+Weapons: Simple blasters, simple vibroweapons
+Tools: Tinker's tools
+Saving Throws: Constitution, Intelligence
+Skills: Choose three from Investigation, Lore, Medicine, Nature, Piloting, and Technology
+Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+#ls;
+#li;(a) a simple vibroweapon or (b) a simple blaster and two power cells
+#li;(a) a dungeoneer's pack or (b) an explorer's pack
+Combat suit, a set of tinker's tools, a vibrodagger, and a wristpad
+#le;
+VARIANT: STARTING WEALTH
+In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth.((1,000 cr) + (3d4 x 100 cr))
+#fe;TECHCASTING;1
+During your training you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
+#bp;TECH POWERS KNOWN
+You learn 6 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Engineer class table. You may not learn a tech power of a level higher than your Max Power Level.
+#bp;TECH POINTS
+You have a number of tech points points equal to your engineer level x 2, and you earn more at higher levels, as shown in the Tech Points column of the Engineer class table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
+#bp;MAX POWER LEVEL
+Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Engineer class table. You may only cast tech powers at 5th, 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a short or long rest.
+#bp;TECHCASTING ABILITY
+Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
+<b>Tech save DC</b> = 8 + your proficiency bonus + your Intelligence modifier
+<b>Tech attack modifier</b> = your proficiency bonus + your Intelligence modifier
+#bp;TECHCASTING FOCUS
+You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
+#fe;POTENT APTITUDE;1,5,10,15
+Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d6.
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the DM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost. A creature can have only one Potent Aptitude die at a time.
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Your Potent Aptitude die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+#abh;ENGINEERING DISCIPLINES
+The wide range of tool applications gives birth to well defined distinctions between different engineering disciplines. Each discipline focuses on maximizing the personal use of a certain tool.
+#ab;ARMORMECH ENGINEERING
+Those engineers who choose the Armormech Engineering discipline focus on the ability to work with hard metals and electronic shielding to construct and enhance all types of personal armor.
+#abf;BONUS PROFICIENCIES;3
+When you choose this discipline at 3rd level, you gain proficiency in armormech's tools, medium armor, and heavy armor.
+#abf;MODIFIED ARMOR;3
+Also at 3rd level, you learn to modify one unenhanced suit of armor or shield utilizing your armormech knowledge. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to modify it. You must have the armor, materials, and armormech's tools in order to perform this modification.
+Your modified armor requires attunement, and can only be used by you. Your modified armor has 3 upgrade slots, and it gains more at higher levels, as shown in the Upgrade Slots column of the Engineer class table.
+Some upgrade effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+Over the course of a long rest, you can change a number of upgrades up to your Intelligence modifier (minimum of one).
+At 9th level, you can maintain both a modified suit of armor and shield. The total upgrade slots are split across the two items.
