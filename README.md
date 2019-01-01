@@ -1,9 +1,13 @@
 # FantasyGrounds-SW5e
 #### A FantasyGrounds module to implement SW5e game
 
+#### User Information
+
 SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works within the D&D 5e ruleset.
 
 To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.
+
+#### Developer Information
 
 The *__par5e</b>__* directory is for the text files that are parsed into the Players Handbook (PHB) module and the "source" of the module content.</p>
 
