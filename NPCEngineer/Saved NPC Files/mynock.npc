@@ -15,10 +15,12 @@ ACTIONS
 Energy Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) kinetic damage, and the mynock attaches to the target. If attached to a droid or construct, at the start of each of the mynock's turns, the target loses 5 (1d4 + 3) hit points due to energy being drained.\rThe mynock can detach itself by spending 5 feet of its Movement. It does so after it drains 10 Hit Points of energy from the target or the target dies. A creature, including the target, can use its action to detach the Mynock.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Mynocks are a species of silicon-based bat-like parasites that chew on the power cables and energy conductors of starships, and can drain a ship's entire power supply. They reproduce by splitting in two and growing new creatures from each half.\par
+Mynocks are capable of surviving in the atmospheres of planets and the vacuum of space, though only a few varieties lived on planets.\par
+They are also known to inhabit asteroid fields and the gullets of exogorths, where they share in its meals.\par
 }
 
 ***Part 3***
@@ -29,8 +31,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\mynock.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\mynock.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\mynock.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\mynock.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

@@ -11,7 +11,7 @@ Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
 Senses darkvision 60 ft., passive Perception 14
 Languages Binary, Galactic Basic
-Challenge 5 (1,800 XP)
+Challenge 5 (1800 XP)
 Droid Synergy. Once per turn, the commando droid can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the commando droid that isn't incapacitated.
 Stealth Field Generator. The commando droid has advantage on Dexterity (Stealth) checks that rely on sight.
 ACTIONS
@@ -20,10 +20,10 @@ Blaster Carbine. Ranged Weapon Attack: +7 to hit, range 60/240 ft., one target. 
 Techblade. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The BX series commando droid is an elite battle droid model made for stealth assignments. Equipped with a stealth field generator, they are perfectly designed for espionage.\par
 }
 
 ***Part 3***
@@ -34,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\bx5csupercommandodroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\bx5csupercommandodroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\bx5csupercommandodroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\bx5csupercommandodroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

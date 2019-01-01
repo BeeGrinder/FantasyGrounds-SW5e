@@ -14,10 +14,10 @@ Claw. Melee Weapon Attack: +8 to hit, reach 5ft., one target. Hit 7 (1d6+4) kine
 Bite. Melee Weapon Attack: +8 to hit, reach 5ft., one target. Hit 9 (1d10+4) kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Rancors are large carnivorous reptomammals native to the planet of Dathomir. They are commonly kept as pets by affluent, less-than-reputable types.\par
 }
 
 ***Part 3***
@@ -28,8 +28,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\juvenilerancor.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\juvenilerancor.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\juvenilerancor.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\juvenilerancor.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

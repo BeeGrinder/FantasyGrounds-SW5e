@@ -14,10 +14,11 @@ ACTIONS
 Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Porgs are a species of non-sentient birds. They are stocky in nature, with two short wings, flat, beak-less faces, and two webbed feet. Porgs are sexually dimorphic; males are slightly larger than females, and males also have orange plumage around the eyes. Porgs of both sexes are covered in dense feathers, with white coloration on the body and face, and gray to brown on the wings and back. They are much lighter than they looked, thanks to a thick outer layer of waterproof feathers with a fluffy underlayer for warmth. They can fly short distances but not far enough to leave their native island.\par
+They can also run quite swiftly on the ground and are good at maneuvering into small spaces. The birds have stereoscopic vision, colored with brown irises and black pupils. Porgs favor cold environments.\par
 }
 
 ***Part 3***
@@ -28,8 +29,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\porg.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\porg.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\porg.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\porg.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

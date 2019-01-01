@@ -13,10 +13,10 @@ ACTIONS
 Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Kaadu are creatures native and indigenous to the planet Naboo. Kaadu in the wild traveled in herds numbering in the millions. They are amphibious, being able to stay underwater for up to two hours. Kaadu feel most at home building their nests in muddy swamps and grassy plains, where the females lay between 100 and 250 eggs at a time.\par
 }
 
 ***Part 3***
@@ -27,8 +27,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\kaadu.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\kaadu.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\kaadu.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\kaadu.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

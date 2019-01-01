@@ -8,7 +8,7 @@ STR DEX CON INT WIS CHA 21 (+5) 11 (+0) 18 (+4) 5 (-3) 13 (+1) 12 (+1)
 Skills Athletics +8, Perception +4, Stealth +3
 Senses darkvision 60 ft., passive Perception 14
 Languages —
-Challenge 5 (1,800 XP)
+Challenge 5 (1800 XP)
 Keen Smell. The wampa has advantage on Wisdom (Perception) checks that rely on smell.
 Rocky Camouflage. The wampa has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 ACTIONS
@@ -18,10 +18,10 @@ Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 7 (1d10+5)
 Throw Boulder. Ranged Weapon Attack: +8 to hit, reach 5 ft., range 25/50 ft., one target. Hit: 8 (1d8+5) kinetic damage. If the target is a creature, it must succeed a DC 15 Strength saving throw or be knocked prone
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Wampas are semi-sentient predators with humanoid proportions that stand up to 12 feet tall. While they all share characteristics in common, there are three variations of wampa that are distinct based on their native planet.\par
 }
 
 ***Part 3***
@@ -32,8 +32,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\cliffwampa.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\cliffwampa.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\cliffwampa.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\cliffwampa.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

@@ -13,10 +13,10 @@ ACTIONS
 Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4+3) kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Varactyls are a species of majestic, giant reptavian herbivores native to the world of Utapau. They typically have blue and green feather manes and feather ridges along their back. They are incredibly loyal and obedient mounts, that had strong long strides to navigate the uneven and vertical surfaces of their homeworld.\par
 }
 
 ***Part 3***
@@ -27,8 +27,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\adolescentvaractyl.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\adolescentvaractyl.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\adolescentvaractyl.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\adolescentvaractyl.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

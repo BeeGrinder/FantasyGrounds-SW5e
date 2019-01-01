@@ -13,10 +13,10 @@ ACTIONS
 Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Ysalamiri are furry, lizard-like tree-dwellers about 2 feet long native to the planet Myrkr, most known for their ability to repel the Force by creating a Force-neutral bubble. This ability evolved in response to predation by the Force-sensitive vornskrs. Many ysalamiri grouped together can expand their Force-neutral bubble by varying distances \endash  sometimes by miles.\par
 }
 
 ***Part 3***
@@ -27,8 +27,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\ysalamir.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\ysalamir.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\ysalamir.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\ysalamir.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

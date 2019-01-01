@@ -8,7 +8,7 @@ STR DEX CON INT WIS CHA 11 (+0) 17 (+3) 13 (+1) 10 (+0) 10 (+0) 7 (-2)
 Saving Throws Dex +5
 Damage Vulnerabilities lightning
 Damage Resistances necrotic, poison, psychic
-Senses passive Perception 1
+Senses passive Perception 10
 Languages —
 Challenge 1 (200 XP)
 Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
@@ -19,10 +19,11 @@ REACTIONS
 Redirect. If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The Single Trooper Aerial Platform (or STAP) is a Baktoid Armor Workshop product inspired by civilian airhooks. They re-engineered similar craft for greater performance and reliability. Slim and lightweight, the tiny repulsorlift craft is fueled by high-voltage energy cells, which power drive turbines providing the STAP with impressive speed and maneuverability. The agile vessels are popular mounts for droids, and are typically bolstered by signals from an orbital Droid Control Ship, which skillfully guides the STAP's pilots.\par
+However, battle droids are exposed to enemy fire while riding the fragile craft. The vehicles are armed with a pair of forward-mounted blaster cannons.\par
 }
 
 ***Part 3***
@@ -33,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\stap.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\stap.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\stap.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\stap.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

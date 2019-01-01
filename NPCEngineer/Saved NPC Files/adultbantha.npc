@@ -7,17 +7,17 @@ Speed 40 ft.
 STR DEX CON INT WIS CHA 24 (+7) 9 (-1) 21 (+5) 3 (-4) 11 (+0) 6 (-2)
 Senses passive Perception 10
 Languages —
-Challenge 6 (2,300 XP)
+Challenge 6 (2300 XP)
 Trampling Charge. If the bantha moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the bantha can make one stomp attack against it as a bonus action.
 ACTIONS
 Gore. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 25 (4d8+7) kinetic damage.
 Stomp. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 29 (4d10+7) kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Banthas are a species of large, hairy mammals with sharp, spiraling horns. They are native to the desert planet Tatooine, though they are bred on many worlds throughout the galaxy. They are social herd animals, and are often domesticated, and used prominently, by Tusken Raiders as mounts and companions.\par
 }
 
 ***Part 3***
@@ -28,8 +28,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\adultbantha.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\adultbantha.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\adultbantha.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\adultbantha.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

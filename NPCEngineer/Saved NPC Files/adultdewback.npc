@@ -16,10 +16,10 @@ Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) ki
 Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) kinetic damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Dewbacks are large, four-legged, omnivorous, cold-blooded reptiles native to the Dune Sea of Tatooine. As such, they are well-adapted to the harsh desert climate. This and the fact that they could be easily domesticated made them commonly employed as beasts of burden by both the inhabitants of the desert planet and the off-worlders wandering its dunes. Due to their numerous useful traits and versatility, they are quite possibly the most respected of all the creatures native to Tatooine.\par
 }
 
 ***Part 3***
@@ -30,8 +30,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\adultdewback.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\adultdewback.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\adultdewback.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\adultdewback.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

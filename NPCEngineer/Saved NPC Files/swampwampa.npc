@@ -8,7 +8,7 @@ STR DEX CON INT WIS CHA 19 (+4) 11 (+0) 18 (+4) 5 (-3) 10 (+0) 11 (+0)
 Skills Perception +2, Stealth +2
 Senses darkvision 60 ft., passive Perception 12
 Languages —
-Challenge 4 (1,100 XP)
+Challenge 4 (1100 XP)
 Putrid Smell. The wampa has disadvantage on Dexterity (Stealth) checks. At the start of each wampas turns, each creature within 5 feet of it must succeed on a DC 14 Constitution saving throw or take 10 (4d4) poison damage.
 ACTIONS
 Multiattack. The wampa makes two attacks, one with its claw and one with its bite.
@@ -16,10 +16,10 @@ Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d6+4) ki
 Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d10+4) kinetic damage. The target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the wampa can't bite another target.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 Wampas are semi-sentient predators with humanoid proportions that stand up to 12 feet tall. While they all share characteristics in common, there are three variations of wampa that are distinct based on their native planet.\par
 }
 
 ***Part 3***
@@ -30,8 +30,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\swampwampa.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\swampwampa.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\swampwampa.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\swampwampa.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

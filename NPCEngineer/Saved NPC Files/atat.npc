@@ -12,7 +12,7 @@ Damage Immunities necrotic, poison
 Condition Immunities blinded, charmed, frightened, incapacitated, petrified, poisoned, prone, restrained, stunned
 Senses passive Perception 1
 Languages —
-Challenge 19 (22,000 XP)
+Challenge 19 (22000 XP)
 Towering. Creatures of small, medium or large size can stand in the AT-AT's space.
 Heavy Durasteel Armor. The outer layer of the AT-AT is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 30 points, the AT-AT takes no damage from that attack. If the AT-AT takes an amount of damage from a single Attack or effect equal to or greater than its damage threshold, it takes damage as normal.
 Vulnerable Interior. The AT-AT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.
@@ -31,10 +31,10 @@ Repeating Blasters. The AT-AT makes a single attack with its medium repeating bl
 Deploy Troops (Costs 2 Actions). The AT-AT mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers and 1 74-Z speeder bike. These troops appear in any unoccupied spaces within 10 ft. of the ATAT.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\par
+\pard\sa80\cf1\fs20\lang1033 The All-Terrain Armored Transport (or AT-AT) is a behemoth of a war machine, standing at a height of 60 feet. Designed for the dual purpose of crushing and demoralizing enemy forces, and also serving as a transport for troops and light vehicles, the AT-AT is among the most astonishing vehicles ever constructed.\par
 }
 
 ***Part 3***
@@ -45,8 +45,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\atat.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\atat.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\atat.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\atat.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 
