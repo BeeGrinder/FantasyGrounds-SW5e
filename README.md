@@ -5,6 +5,8 @@
 
 SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works within the D&D 5e ruleset.
 
+[SW5e Website](http://star-wars-5e.azurewebsites.net/)
+
 To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.
 
 #### Developer Information
