@@ -1,6 +1,6 @@
 ***Part 1***
 Destroyer Droid
-Large , unaligned
+Large construct, unaligned
 Armor Class 17 (armor plating)
 Hit Points 142 (15d10+60)
 Speed 15 ft.
@@ -34,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\destroyerdroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\destroyerdroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\images\destroyerdroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\tokens\destroyerdroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

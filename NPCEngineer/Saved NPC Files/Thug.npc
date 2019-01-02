@@ -1,0 +1,44 @@
+***Part 1***
+Thug
+Medium humanoid (any), any alignment
+Armor Class 12 (heavy combat suit)
+Hit Points 11 (2d8+2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 12 (+1) 12 (+1) 10 (+0) 10 (+0) 8 (-1)
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 1/8 (25 XP)
+ACTIONS
+Slugthrower. Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 6 (2d4+1) energy damage Vibroclub. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 6 (1d10+1) kinetic damage, or 6 (1d10+1) kinetic damage if used with two hands.
+Burst. The thug sprays a 10-foot-cube area within normal range of its slugthrower with shots. Each creature in the area must make a DC 11 Dexterity saving throw, taking normal weapon damage on a failed save.
+
+***Part 2***
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+{\*\generator Riched20 10.0.17134}\viewkind4\uc1 
+\pard\sa80\cf1\f0\fs20\par
+}
+
+***Part 3***
+NPCgender: neutral
+NPCunique: 0
+NPCpropername: 0
+Desc_Add_Text: 1
+Desc_NPC_Title: 1
+Desc_Image_Link: 1
+Desc_Spell_List: 0
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\thug.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\thug.png
+NPCImArt: 
+NPCImLink: 
+NPCNoID: 
+NPC_FS_STR: 0
+NPC_FS_DEX: 0
+NPC_FS_CON: 0
+NPC_FS_INT: 0
+NPC_FS_WIS: 0
+NPC_FS_CHA: 0
+NoLActions: 
+NPCRTF: 1
+Terrain: 
+Lore: 
