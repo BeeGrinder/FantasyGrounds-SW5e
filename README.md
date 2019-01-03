@@ -8,6 +8,12 @@ SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works w
 
 [SW5e Website](http://star-wars-5e.azurewebsites.net/)
 
+ |Sub-Project | Status | Notes |
+| --- | --- | -- |
+| Monster Manual | Released | Give it a try |
+|Player Handbook | Working | nothing to try yet |
+|Ruleset Extension | Planning |Still learning FG extension scripting |
+
 To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.
 
 #### Developer Information
