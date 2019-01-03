@@ -1,3 +1,4 @@
+![alt text](https://github.com/BeeGrinder/FantasyGrounds-SW5e/blob/master/SW5EBW.png "SW5e")
 # FantasyGrounds-SW5e
 #### A FantasyGrounds module to implement SW5e game
 
