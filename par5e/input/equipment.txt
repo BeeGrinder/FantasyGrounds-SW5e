@@ -25,7 +25,7 @@ Antitoxin (vial);50 gp;—;
 #st;Light Armor
 Padded;5 gp;11 + Dex modifier;-;Disadvantage;8 lb.
 Leather;10 gp;11 + Dex modifier;-;-;10 lb.
-#@;WEAPON
+#@;WEAPONS
 #th;Name;Cost;Damage;Weight;Properties
 #st;Simple Melee Weapons
 Club;1 sp;1d4 bludgeoning;2 lb.;Light

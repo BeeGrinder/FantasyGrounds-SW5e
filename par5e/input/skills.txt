@@ -25,18 +25,32 @@ Whenever you attempt an act of legerdemain or manual trickery, such as planting 
 Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
 #@;Intelligence
 ##;Investigation
+When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient materials in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
 ##;Lore
+Your Intelligence (Lore) check measures your ability to recall information about the Force, artifacts, histories, and religions.
 ##;Nature
+Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
 ##;Piloting
+Your Intelligence (Piloting) check measures your ability to control vehicles, aircraft, and spaceships. Piloting governs your ability to maneuver through tight spaces and debris fields or dogfight with enemy craft.
 ##;Technology
+Your Intelligence (Technology) checks measure your ability to recall information about droids, vehicles, spaceships, aircraft, and computers, as well as your ability to interface with them.
 #@;Wisdom
 ##;Animal handling
+When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the DM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.
 ##;Insight
+Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
 ##;Medicine
+A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.
 ##;Perception
+Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
 ##;Survival
+The DM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that rancors live nearby, predict the weather, or avoid quicksand and other natural hazards.
 #@;Charisma
 ##;Deception
+Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone’s suspicions with false assurances, or maintain a straight face while telling a blatant lie.
 ##;Intimidation
+When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 ##;Performance
+Your Charisma (Performance) check determines how well you can delight an audience with music, dance. acting, storytelling, or some other form of entertainment.
 ##;Persuasion
+When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a Chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
