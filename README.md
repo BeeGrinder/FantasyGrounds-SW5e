@@ -4,25 +4,27 @@
 
 #### User Information
 
-SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works within the D&D 5e ruleset.
+SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works within the 5e ruleset.
 
 [SW5e Website](http://star-wars-5e.azurewebsites.net/)
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
-| Monster Manual | Released | Give it a try |
-|Player Handbook | Working | nothing to try yet |
+|Player Book | In Progress | nothing to try yet |
+|NPC Book | Released | Give it a try |
 |Ruleset Extension | Released | Ready to go |
 
-To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.  Note: It's best not to load other modules because they will contain D&D NPCs, Classes, etc.
+When creating your new campaign in FG for SW5e, select the 5e ruleset.  All the SW5e content is dependent on the base 5e ruleset.  Note: It's best to only load SW5e modules and extensions. Other modules may contain 5e NPCs, Classes, etc. that are not compatible with the SW5e modified rules.
+
+To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
 To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.
 
 #### Developer Information
 
-The *__par5e__* directory is for the text files that are parsed into the Players Handbook (PHB) module and the "source" of the module content.</p>
+The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content.</p>
 
-The *__NPCEngineer__* directory is for the text files that are parsed into the Monster Manual (MM) module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
+The *__NPCEngineer__* directory is for the text files that are parsed into the *__NPC Book__* module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
 
 The *__ext-src__* dirctory is for the extension sources.
 
