@@ -1,11 +1,63 @@
-##;Human
-#h;LASTING INSTITUTIONS
-Where a single elf or dwarf might take on the responsibility of guarding a special location or a powerful secret, humans found sacred orders and institutions for such purposes. While dwarf c1ans and halfling elders pass on the ancient traditions to each new generation, human temples, governments, libraries, and codes of law fix their traditions in the bedrock of history. Humans dream of immorality, but (except for those few who seek undeath or divine ascension to escape death's c1utches) they achieve it by ensuring that they will be remembered when they are gone.
-Allhough some humans can be xenophobic, in general their societies are inclusive. Human lands welcome large numbers of nonhumans compared to the proportion of humans who live in nonhuman lands.
-Human Traits
-#!;Ability Score Increase. Your ability scores each increase by 1.
-#!;Age. Humans reach adulthood in their late teens and live less than a century.
-#!;Alignment. Humans tend toward no particular alignment. The best and the worst are found among them.
-#!;Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range. your size is Medium.
+##;Bith
+#h;BIOLOGY AND APPEARANCE
+Bith are craniopods with pale pink, yellow, or green skin, large heads, large lidless eyes, toeless feet, and long fingers. Their thumb and small finger were both fully opposable. The Bith's internal systems are different from most humanoids, as the Bith have only one lung, and exhale through their skin. Bith also lack a proper nose, instead having highly sensitive olfactory organs hidden in the skin-flaps of their cheeks.
+The other Bith senses are also acute. Bith can sense the tonal qualities of sound as well as other species sensed colors. Their eyes, as big as a Menahuun's, can see microscopic details of nearby objects, but are extremely nearsighted as a result. An interesting side effect of their incredible sensors is the effect of sonic grenades, or screamers, on them. It is described as causing their heads to explode. Similarly, Bith have high manual dexterity which helps them manipulate fine tools, though their physical prowess with gross motor skills was only average.
+#h;SOCIETY AND CULTURE
+Bith are one of the galaxy's most ancient civilizations, with a history going back millions of years. This antiquity garners respect in certain quarters, such as among the Gree, who gave them more respect than other, younger species. Their society is highly regimented, with everything from mate selection to political leadership controlled by sophisticated computer programs.
+#h;NAMES
+Bith names are quite diverse. Some names look complicated and difficult to pronounce, while others are quite simple.
+#bs;Male Names: Fedu, Jenkiss, Kabadons, Ph'teumkiass
+#bs;Female Names: Duhia, F'hubama, R'hothal, Thidus
+#bs;Surnames: D'intes, Hern, K'sarorn, Nimum, Rumo
+Bith Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Dexterity score increases by 1.
+#!;Age. Bith reach adulthood in their late teens and live less than a century.
+#!;Alignment. Biths' benevolent nature causes them to tend toward the light side, though there are exceptions.
+#!;Size. Bith typically stand 5 to 6 feet tall and generally weigh about 120 lbs. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 30 feet.
-#!;Languages. You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+#!;Detail Oriented. You are practiced at scouring for details. You have advantage on Intelligence (Investigation) checks within 5 feet.
+#!;Keen Hearing and Smell. You have advantage on Wisdom (Perception) checks that involve hearing or smell.
+#!;Musician. You are proficient in one musical instrument of your choice.
+#!;Programmer. Whenever you make an Intelligence (Technology) check related to computers, you are considered proficient in the Technology skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+#!;Languages. You can speak, read, and write Galactic Basic, Bith, and one more language of your choice.
+##;Bothan
+#h;BIOLOGY AND APPEARANCE
+Bothans are a short species of furry humanoids. Bothans are covered in fur which shifted in response to their emotional state by way of gentle ripplings. It is this trait, named Wrendui, that betrays them when members of their kind intend to be duplicitous in their dealings with others. They possess tapered pointed ears, and both males and females were known to sport beards. Bothans are able to interbreed with the other species, though it is rare that they do so. Such hybrids somewhat resembled baseline humans with haunches, hooves, fur, pointed ears and a long tail.
+#h;SOCIETY AND CULTURE
+Bothan culture is guided by the philosophy and principles from the ancient text known as The Way, written by Golm Fervse'dra. In this "Bothan Way", the pursuit of power and influence is paramount. Thus, individual Bothans put their own political and economic success above all other concerns, and as a species,
+Bothans put their own advancement ahead of other intergalactic interests. The volume of backstabbing, subtle character assassination and political maneuvering in Bothan society is dizzying, and results in many species stereotyping Bothans as untrustworthy. In fact, most Bothans are habitually paranoid, believing that anyone who's not working with them, is working against them. In times of crisis, the focus of Bothan society shifts to a survivalist state known as "ar'krai". When engaged in ar'krai, all fit Bothans volunteer to defend their species from impending extinction.
+#h;NAMES
+Male Bothan names are often tricky while female's are soft. Surnames are familial.
+#bs;Male Names: Garc, Hibriak, Nith, Tramom, Ventagt
+#bs;Female Names: Ceerriah, Dhaim, Gnam, Meenn, Vit
+#bs;Surnames: Bwif'livi, Gra'kit, Hia'faitu, Main'dil
+
+Bothan Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Dexterity score increases by 1.
+#!;Age. Bothans reach adulthood in their late teens and live less than a century.
+#!;Alignment. Bothans' duplicitous nature causes them to tend toward the dark side, though there are exceptions.
+#!;Size. Bothans stand 4-5 tall and weigh under 100 pounds. Regardless of your position in that range, your size is Small.
+#!;Speed. Your base walking speed is 25 feet.
+#!;Shrewd. You have proficiency in the Insight and Deception skills.
+#!;Naturally Stealthy. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+#!;Nimble Escape. Bothans can take the Disengage or Hide action as a Bonus Action on each of its turns.
+#!;Languages. You can speak, read, and write Galactic Basic and Bothese. Bothese had a great influence on the forming of Galactic Basic; the two languages share many cognates.
+##;Chiss
+#h;BIOLOGY AND APPEARANCE
+The Chiss are a near-Human species distinguished by their blue skin and glowing red eyes. Genetic analysis indicate that they are an offshoot of humanity, and it is believed that moving underground led to a divergence between them and baseline Humans. Their blue skin, jet black hair and red eyes generally command attention; these features make them physically striking and instantly recognizable.
+#h;SOCIETY AND CULTURE
+Chiss society is highly structured and ordered with the rule of law being enforced by a group of four affiliation known as the Ruling Families: the Csapla, Nuruodo, Inrokini and Sabosen. These are not biological family groupings but instead different branches of their government. Every Chiss claims affiliation to one of the four families, as determined by both tradition and place of birth. The family names are more of a cultural holdover; the bloodlines had grown so co-meddled that any Chiss could claim affiliation to any of the ruling families. In spite of the outward impression of calm and order that the Chiss like to project to outsiders, there were evidently tensions within the Families; political assassinations are a real part of Chiss political life for the Ruling Families.
+#h;NAMES
+A Chiss true-name has 3 parts, each separated by an apostrophe. The first part is their family name, the second part is their root name, and the third part is their occupation. Chiss rarely share their true-name with non-Chiss, and usually go by their root name. Male and female names do not significantly deviate.
+#bs;Names. Crorcu'ecuk'unist, Dash'esoru'ishur, Jerd'ecer'lonii, Kisk'egauw'eqhi, Pommo'icuote'nlerme, Vornu'wuzi'lerdim
+Chiss Traits
+As a chiss, you have the following special traits.
+#!;Ability Score Increase. Your intelligence score increases by 2, and your charisma score increases by 1.
+#!;Age. Chiss reach adulthood in their late teens and live less than a century.
+#!;Alignment. Chiss' tactical and selfish nature cause them to tend toward lawful dark side, though there are exceptions.
+#!;Size. Chiss typically stand between 5 and 6 feet tall and weigh about 160 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Tech Resistance. Growing up around technology leaves an impact on Chiss. You have advantage on saving throws against tech powers.
+#!;Darkvision. You have a keen eyesight, especially in the dark. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Martial Proficiency. You have proficiency with light and medium armor as well as the blaster pistol and sniper rife.
+#!;Languages. You can speak, read, and write Galactic Basic and Cheunh. Cheunh is a complex language that is difficult for non-Chiss to learn. Chiss take pride in this difficulty.

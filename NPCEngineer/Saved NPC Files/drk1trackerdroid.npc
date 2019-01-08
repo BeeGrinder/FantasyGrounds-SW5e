@@ -1,6 +1,6 @@
 ***Part 1***
 Drk-1 Tracker Droid
-Tiny , unaligned
+Tiny ooze, unaligned
 Armor Class 11 (armor plating)
 Hit Points 1 (1d4-1)
 Speed 5 ft., fly 60 ft.
@@ -31,8 +31,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\drk1trackerdroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\drk1trackerdroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\images\drk1trackerdroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\tokens\drk1trackerdroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

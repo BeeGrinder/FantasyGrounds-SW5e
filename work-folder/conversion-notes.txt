@@ -1,0 +1,18 @@
+******************************************************************
+ EDITS FOR REPLACEMENT IN FINAL FG XML
+******************************************************************
+
+Spell/Power conversions
+Because the parsers do not recognize the power names I substitute the following and will need to change them back in the final XML documents:
+light side power=divination
+dark side power=necromancy
+universal power=enchantment
+tech power=Transmutation
+
+******************************************************************
+Permanant Replacements/Substitutions
+******************************************************************
+
+In the spell lists, "At Higher Levels" took the place of the more flavorful "Overcharge Tech" and "Force Potency" in the SW5e PHB, but the effect and intent is the same.
+
+

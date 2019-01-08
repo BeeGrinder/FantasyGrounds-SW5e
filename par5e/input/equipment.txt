@@ -1,53 +1,62 @@
 #@;ADVENTURING GEAR
 #th;Item;Cost;Weight
 #st;Ammunition
-Arrows, bow (20);1 gp;3 lb.
-Bolts, crossbow (10);1 gp;3 lb.
-
-#st;Arcane Focus
-Crystal;10 gp;1 lb.
-Orb;20 gp;3 lb.
-#st;Druidic focus
-Sprig of mistletoe;1 gp;—
-Totem;1 gp;—
-#st;Holy symbol
-Amulet;5 gp;1 lb.
-#st;Equipment Kits
-Adventurer’s kit;9 gp;39 lb.
-#st;Equipment Packs
-Burglar's Pack;16gp;50 lb;
-#st;Standard
-Abacus;2gp;2 lb.
-Acid (vial);25 gp;1 lb.
-Antitoxin (vial);50 gp;—;
+Carbonite canister;150 cr;2 lb.
+Dart;50 cr;0 lb.
+Flame projector canister;350 cr;2 lb.
+Missile, fragmentation;100 cr;1/2 lb.
+Power cell;10 cr;1 lb.
+Plasma cell;200 cr;1 lb.
+#st;Clothing
+Clothes, common;5 cr;5 lb.
+Clothes, fine;150 cr;6 lb.
+Clothes, traveler's;20 cr;4 lb.
 #@;ARMOR
 #th;Armor;Cost;Armor Class (AC);Strength;Stealth;Weight
 #st;Light Armor
-Padded;5 gp;11 + Dex modifier;-;Disadvantage;8 lb.
-Leather;10 gp;11 + Dex modifier;-;-;10 lb.
-#@;WEAPONS
+Combat suit;100 cr;11 + Dex modifier;-;-;10 lb.
+Heavy combat suit;450 cr;12 + Dex modifier;-;-;13 lb.
+#st;Medium Armor
+Light battle armor;500 cr;13 + Dex modifier (max 2);—;—;20 lb.
+Battle armor;1,000 cr;14 + Dex modifier (max 2);—;—;20 lb.
+Powered battle armor;2,500 cr;15 + Dex modifier (max 2);—;Disadvantage;45 lb.
+
+#@;WEAPON
 #th;Name;Cost;Damage;Weight;Properties
-#st;Simple Melee Weapons
-Club;1 sp;1d4 bludgeoning;2 lb.;Light
-Dagger;2 gp;1d4 piercing;1 lb.;Finesse, light, thrown (range 20/60)
-#st;Simple Ranged Weapons
-Crossbow, light;25 gp;1d8 piercing;5 lb.;Ammunition (range 80/320), loading, two-handed
-Dart;5 cp each;1d4 piercing;1/4 lb.;Finesse, thrown (range 20/60) !
+#st;Simple Lightsabers
+Lightdagger;300 cr;1d4 energy;1 lb.;Finesse, hidden, light, luminous, thrown (20/60)
+Sabercane;500 cr;1d6 energy;4 lb.;Hidden, luminous, versatile (2d4)
+Shotosaber;1,250 cr;1d6 energy;2 lb.;Finesse, hidden, light, luminous
+#st;Simple Blasters
+Rifle, automatic;1,000 cr;2d8 piercing;8 lb.;Ammunition (range 80/240), burst fire, reload (30 shots) , two-handed
+Blaster carbine;300 cr;1d6 energy;8 lb.;Ammunition (range 60/240), reload (16 shots), two-handed
+Bowcaster;400 cr;1d10 energy;16 lb.;Ammunition (range 40/160), burst (8 shots), reload (8 shots), strength 13, two-handed
+
 #@;TOOLS
 #th;Item;Cost;Weight
+#st;Tools
+Biochemist's kit;500 cr;8 lb.
+Chef's kit;70 cr;8 lb.
 #st;Artisan's Tools
-Alchemist's supplies;50 gp;8 lb.
+Armormech's tools;200 cr;8 lb.
+Armstech's tools;250 cr;9 lb.
+#st;Musical instrument
+Bagpipes;300 cr;6 lb.
+Bandfill;300 cr;2 lb.
 #@;MOUNTS AND OTHER ANIMALS
 #th;Item;Cost;Speed;Carrying Capacity
 #st;Mounts & Animals
-Camel;50 gp;50 ft.;480 lb. !
+Tauntaun;500 cr;50 ft.;480 lb.
+Kaadu;450 cr;40 ft.;620 lb.
 #@;TACK, HARNESS, AND DRAWN VEHICLES
 #th;Item;Cost;Weight
 #st;Tack and Harness
-Barding;x4;x2
-Bit and bridle;2 gp;1 lb. !
+Barding;x4;x2.
+Bit and bridle;20 cr;1 lb.
+Cart;150 cr;200 lb.
 #@;WATERBORNE VEHICLES
 #th;Item;Cost;Speed
 #st;Surface Vehicles
-Galley;30,000 gp;4 mph
-Keelboat;3,000 gp;1 mph
+Airspeeder;14,500 cr;750 mph
+Landspeeder;10,000 cr;220 mph
+Speederbike;6,000 cr;300 mph
