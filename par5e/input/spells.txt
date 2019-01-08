@@ -1,42 +1,50 @@
 #@;
-Cleric Spells !
+Engineer Spells
 Cantrips (0 Level)
-Druidcraft
-
+Acid Splash
 
 1st Level
-Aid
+Absorb Energy
+Alarm
 
 2nd Level
-Antimagic Field
+Acid Dart
 
 ##;
 
-Druidcraft
-Transmutation cantrip
+Absorb Energy
+1st-level Transmutation
+Casting Time: 1 reaction, which you take when you take acid, cold, energy, fire, ion, kinetic, lightning, or sonic damage
+Range: Self
+Components:
+Duration: 1 round
+The power captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the power ends.
+At Higher Levels. When you cast this power using a power slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+
+Acid Dart
+2nd-level Transmutation
 Casting Time: 1 action
-Range: 30 feet
-Components: V, S
+Range: 90 feet
+Components:
 Duration: Instantaneous
-Whispering to the spirits of nature, you create one of the
-following effects within range:
-You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb.
+A shimmering green dart streaks toward a target within range and bursts in a spray of acid. Make a ranged tech attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the dart splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
+At Higher Levels. When you cast this power using a tech slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
 
-Aid
-1st-level abjuration
+Acid Splash
+Transmutation Cantrip
 Casting Time: 1 action
+Range: 60 feet
+Components:
+Duration: Instantaneous
+You emit a burst of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+This power's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+Alarm
+1st-level Transmutation
+Casting Time: 1 minute
 Range: 30 feet
-Components: V, S, M (a tiny strip of white cloth)
+Components:
 Duration: 8 hours
-Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.
-At Higher Levels. When you cast this spell using a spell slot of 3rd leveI or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
-
-Antimagic Field
-2nd-level abjuration
-Casting Time: 1 action
-Range: Self (10-foot-radius sphere)
-Components: V, S, M (a pinch of powdered iron or iron filings)
-Duration: Concentration, up to 1 hour
-A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells can't be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.
-Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
-Targeted Effects. Spells and other magical effects, such as magic missile and charm person, that target a creature or an object in the sphere have no effect on that target.
+You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the power ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the power, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.
+A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.
+An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet.

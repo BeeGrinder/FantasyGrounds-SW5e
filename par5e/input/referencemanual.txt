@@ -1,0 +1,213 @@
+#@;Fantasy Grounds Conversion
+#!;Fantasy Grounds Specific Instructions
+##;Fantasy Grounds Specific Instructions
+#h;Changes from the SW5e PDF Document
+asdf asdf.
+#h;Other Things
+asdf asdf asdf.
+#h;More Other Things
+asdf asdf asdf asdf.
+#@;Credits and Attribution
+#!;Credits
+##;Fantasy Grounds Conversion Copyright Information
+This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
+##;Credits from the SW5e Player Handbook
+First and foremost, I have to thank the person who got me into D&D: my buddy, Ross. That playgroup was not great, but it started my journey.
+Second, I have to thank the original guinea pigs of this conversion: Drew, Eric, and Rickey. It was comically bad, but we had fun with it.
+Lastly, while I would love to say that I created everything in this conversion, that wouldn't be entirely true. The following people deserve credit as well:
+Shout out to the /r/sw5e mod team:
+#ls;
+#li;/u/Grelite for all his help with editing and creation
+#li;/u/karbacca for the epic cover and SW5e logo
+#li;/u/LordAelfric for the awesome theme
+#li;/u/playking57 for his help with artwork
+#li;/u/stormchaser6 for his help with the Starships overhaul that you haven't seen yet
+#le;
+The following noteworthy contributors:
+#ls;
+#li;/u/Charrmeleon for the entire Scholar class
+#li;/u/Bioremnant for the overhaul of the Scholar class
+#li;/u/MayB_259 for their Human species
+#li;/u/SpiketailDrake for the Bloodstorm Approach Berserker archetype
+#li;/u/TheGentGamer for the Warchief Approach Berserker archetype
+#le;
+And all of the reddit users on discord who have been greatly helpful and developing and reviewing new content:
+#ls;
+#li;a_dnd_guy
+#li;ATrolllol
+#li;Big_D_McGee
+#li;BioRemnant
+#li;Butts_Are_Butts
+#li;ColdPlacentaSandwich
+#li;Croceus
+#li;EskrimadorNC
+#li;GAdvance
+#li;Jondragonskin
+#li;karbacca
+#li;LordAelfric
+#li;mowliegrowlie
+#li;OberonGypsy
+#li;playking57
+#li;Professorpenquin
+#li;Rhylith
+#li;Samuel_L_Blackson
+#li;Shock3600
+#li;spacenavy
+#li;Stoneward13
+#li;Stormchaser6
+#li;tomato-andrew
+#li;Xorius5
+#le;
+If you don't see your name here, it's because I hate you. Or I forgot to add your name to the list.
+#h;ART ASSETS
+Listed alphabetically
+#ls;
+#li;AdmYrrek
+#li;Andrew Johanson
+#li;Anna Christenson
+#li;Arden Beckwith
+#li;Art of Bartlett
+#li;Audrey Wright
+#li;AV-6R7
+#li;Brandon Harris
+#li;Brian Rood
+#li;canuckcrazed007
+#li;Chris Trevas
+#li;CloneCommanderNeyo
+#li;Cristi Balanescu
+#li;Dangerous Covenants
+#li;Dark Dream
+#li;Darren Tan
+#li;Dave Seeley
+#li;David Kegg
+#li;David Nash
+#li;Diogo Saito
+#li;echostain
+#li;Eiluvision
+#li;Entar0178
+#li;Fantasy Flight Games
+#li;Gregory Vlasenko
+#li;Hui Zou
+#li;ianllanas
+#li;Jake Murray
+#li;Jason Edmiston
+#li;Jhomar Soriano
+#li;Joel Hustak
+#li;Knight of Malta
+#li;Matt Difa
+#li;Metropolis-Hero1125
+#li;Mike Nash
+#li;RamArtwork
+#li;Ron-faure
+#li;Sam Wood
+#li;Skip Skyhook
+#li;Smokeh
+#li;Solo: A Star Wars Story The Official Guide
+#li;Somarinoa
+#li;Sperasoft
+#li;Star Wars Battlefront
+#li;Star Wars Character Encyclopedia
+#li;Star Wars Encyclopedia of Starfighters and Other Vehicles
+#li;Stu Cunningham
+#li;Terryl Whitlatch
+#li;The New Essential Guide to Droids
+#li;The New Essential Guide to Vehicles and Vessels
+#li;Weasyl
+#li;Whitelight369
+#li;William O'Connor
+#le;
+And of course
+Star Wars
+Star Wars: Rebels
+Star Wars: The Clone Wars
+Star Wars: The Old Republic
+If I missed you and you feel you deserve credit please let me know. I've been working on this for years, and I'm fallible.
+I hope you like it.
+#@;Preface
+#!;Preface
+##;Rule Set Conversion
+#h;Rule Set Conversion
+This conversion has been a labor of love of mine starting three years ago. Back when I was a fledgling DM, I undertook the foolish effort of attempting the first version of this overhaul, which was comically terrible. It featured four classes, which were just severely bastardized versions of their standard counterparts. 
+This version, which I will call version 1.0 as an absolute snub to my first attempt, I've been working on pretty consistently for about nine consecutive months. I've had some help from various sources (who will be credited accordingly), but for the most part this has come from mine own brain. 
+This book is designed to parallel the official 5e Player's Handbook. It includes all the relevant chapters, reskinned to fit a Star Wars setting. The significant differences will be listed below.
+#h;What's Different
+While this expansion utilizes the base rules of 5th Edition, there are significant differences that will be illustrated here, broken down by chapter. There is more information in each chapter, as per the SRD.
+#h;Chapter 1: Step-by-Step Characters
+Reskinned for the setting, with no noteworthy differences.
+
+#h;CHAPTER 2: SPECIES
+Races relabeled to species, all of which are brand new.
+#h;CHAPTER 3: CLASSES
+There are ten classes. Berserker, Monk, Operative, and Scout, are mostly reskinned, with some variation to ft the setting. Fighter utilizes my homebrew of baseline combat superiority. Engineer is based of Artificer, but extrapolated to be a full caster. Guardian is based of of Paladin, and Consular is based of of Sorcerer, with changes to better ft a force-wielder. Sentinel is a reimagining of a monk, but as a 2/3 caster. Scholar is a brand new class.
+#h;CHAPTER 4: BACKGROUNDS
+For the most part, these are reskinned from 5E with one major difference; each background also offers a choice of feat. This is a houserule I've been using for a while that has become quite popular. You can very easily ignore this houserule if you're so inclined.
+#h;CHAPTER 5: EQUIPMENT
+Currency has been changed to credits, with roughly 1 gp = 10 cr. Magic items are reskinned as enhanced or modified items, as appropriate, with rarities designed to mimic those of Star Wars: the Old Republic. Equipment functions similarly, with the exception of the breakdown of weapons; rather than simply simple and martial, they are broken down into blasters, lightsabers, and vibroweapons. This also utilizes a few houserules: light, medium, and heavy shields with proficiencies collapsed into the appropriate armor, new weapon features, etc.
+#h;CHAPTER 6: CUSTOMIZATION OPTIONS
+New multiclassing requirements/profciencies, and with the exception of the spell point variant (discussed in chapter 10), the only difference is new or different feats.
+#h;CHAPTER 7: USING ABILITY SCORES
+Generally the same, with the exception of skills; Arcana, History, and Religion have been collapsed into Lore, with Piloting and Technology being new skills.
+#h;CHAPTER 8: ADVENTURING
+Basically identical with some reskinning.
+#h;CHAPTER 9: COMBAT
+Basically identical with some reskinning with the exception of damage types.
+#ls;
+#li;Bludgeoning, piercing, and slashing are collapsed into kinetic damage.
+#li;Ion is a new damage with improved efficacy against constructs, droids, and electronics.
+#li;Radiant has become energy damage.
+#li;Thunder has become sonic damage.
+#le;
+#h;CHAPTER 10: FORCE- AND TECH-CASTING
+There are two major changes in this section:
+#ls;
+#li;Spells are now called powers.
+#li;Cantrips are now called at-will powers.
+#li;My own interpretation and simplification of the spell point variant from the DMG. Basically, casting a power at a given level costs that level + 1 points.
+#le;
+Spellcasting has been separated into forcecasting and techcasting.
+#ls;
+#li;Forcecasting uses Wisdom/Charisma and Force
+#li;Points, which regenerate on a long rest.
+#li;Techcasting uses Intelligence and Tech Points, which regenerate on a short rest.
+#li;While a character can have both force and techcasting, they are kept completely separate.
+#le;
+#h;CHAPTERS 11 AND 12: FORCE AND TECH POWERS
+Chapter 11 has been broken down into two chapters to keep force and tech powers separate.
+#h;MONSTER MANUAL
+There is a Monster Manual ready to use.
+#h;STARSHIPS OF THE GALAXY
+There is a space expansion optional rule set called Starships of the Galaxy, in honor of the Saga edition's book.
+#h;GOING FORWARD
+Additional content will be released bi-weekly, on Tuesdays, for the foreseeable future.
+
+
+#@;Open Gaming License
+#!;Open Gaming License (OGL) and SRD5
+##;Open Gaming License (OGL) and SRD5
+Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a. 
+This material is being released using the Open Gaming License Version 1.0a and you should read and understand the terms of that license before using this material. 
+The text of the Open Gaming License itself is not Open Game Content. Instructions on using the License are provided within the License itself. 
+The following items are designated Product Identity, as defined in Section 1(e) of the Open Game License Version 1.0a, and are subject to the conditions set forth in Section 7 of the OGL, and are not Open Content: Dungeons & Dragons, D&D, Player’s Handbook, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, d20 (when used as a trademark), Forgotten Realms, Faerûn, proper names (including those used in the names of spells or items), places, Underdark, Red Wizard of Thay, the City of Union, Heroic Domains of Ysgard, EverChanging Chaos of Limbo, Windswept Depths of Pandemonium, Infinite Layers of the Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal Battlefield of Acheron, Clockwork Nirvana of Mechanus, Peaceable Kingdoms of Arcadia, Seven Mounting Heavens of Celestia, Twin Paradises of Bytopia, Blessed Fields of Elysium, Wilderness of the Beastlands, Olympian Glades of Arborea, Concordant Domain of the Outlands, Sigil, Lady of Pain, Book of Exalted Deeds, Book of Vile Darkness, beholder, gauth, carrion crawler, tanar’ri, baatezu, displacer beast, githyanki, githzerai, mind flayer, illithid, umber hulk, yuan-ti.
+All of the rest of the SRD5 is Open Game Content as described in Section 1(d) of the License. 
+The terms of the Open Gaming License Version 1.0a are as follows: 
+OPEN GAME LICENSE Version 1.0a
+The	following	text	is	the	property	of	Wizards	of	the	
+Coast,	Inc.	and	is	Copyright	2000	Wizards	of	the	
+Coast,	Inc	("Wizards").	All	Rights	Reserved.	
+1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement. 
+2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License. 
+3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License. 
+4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, nonexclusive license with the exact terms of this License to Use, the Open Game Content. 
+5.Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License. 
+6.Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute. 
+7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity. 
+8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content. 
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License. 
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute. 
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so. 
+12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected. 
+13. Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses shall survive the termination of this License. 
+14. Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. 
+15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. 
+System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson. 
+END OF LICENSE
