@@ -1,0 +1,34 @@
+ACE PILOT
+You're quite experienced both on land and in the air, be
+it from time in a navy, as a mercenary, or perhaps even
+piracy. You gain the following benets:
+Increase your Intelligence score by 1, to a maximum of
+20.
+You gain prociency in the Piloting skill. If you are
+already procient in the skill, you add double your
+prociency bonus to checks you make with it.
+Whenever you make an Intelligence (Investigation) or
+Wisdom (Perception) check related to vehicles or ships,
+you are considered procient in the Investigation or
+Perception skill and add double your prociency bonus
+to the check, instead of your normal prociency bonus.
+ACROBAT
+You become more nimble, gaining the following
+benets:
+Increase your Dexterity score by 1, to a maximum of
+20.
+You gain prociency in the Acrobatics skill. If you are
+already procient in the skill, you add double your
+prociency bonus to checks you make with it.
+As a bonus action, you can make a DC 15 Dexterity
+(Acrobatics) check. If you succeed, dicult terrain
+doesn’t cost you extra movement until the end of the
+current turn.
+ACTOR
+Skilled at mimicry and dramatics, you gain the following
+benets:
+Increase your Charisma score by 1, to a maximum of
+20.
+You have advantage on Charisma (Deception) and
+Charisma (Performance) checks when trying to pass
+yourself o as a dierent person. 

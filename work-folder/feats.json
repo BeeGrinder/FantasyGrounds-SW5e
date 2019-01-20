@@ -1,0 +1,1230 @@
+ 
+[
+  {
+    "name": "Ace Pilot",
+    "description": "You're quite experienced both on land and in the air, be it from time in a navy, as a mercenary, or perhaps even piracy. You gain the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency in the Piloting skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check related to vehicles or ships, you are considered proficient in the Investigation or Perception skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Piloting"
+    ]
+  },
+  {
+    "name": "Acrobat",
+    "description": "You become more nimble, gaining the following benefits: \n * Increase your Dexterity score by 1, to a maximum of 20.\n * You gain proficiency in the Acrobatics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it. \n * As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn’t cost you extra movement until the end of the current turn.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Acrobatics"
+    ]
+  },
+  {
+    "name": "Actor",
+    "description": "Skilled at mimicry and dramatics, you gain the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.\n * You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Alert",
+    "description": "Always on the lookout for danger, you gain the following benefits:\n * You gain a +5 bonus to initiative.\n * You can’t be surprised while you are conscious.\n * Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Animal Handler",
+    "description": "You master the techniques needed to train and handle animals. You gain the following benefits:\n * Increase your Wisdom score by 1, to a maximum of 20.\n * You gain proficiency in the Animal Handling skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn’t currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Animal Handling"
+    ]
+  },
+  {
+    "name": "Ashla Mastery",
+    "description": "Your calmness in the face of adversity allow you to more adeptly channel the light side of the Force. You gain the following benefits:\n * You gain a +1 bonus to your force save DC and force attack modifier of your light side force powers.\n * You can add one light side power of your max power level or below to the list of powers you can cast. This does not count against your powers known.\n * When you successfully cast a light side power, either your or the target's (your choice) hit point maximum and current hit points increase by an amount equal to the power's level. This effect lasts for 1 minute. You can only have one instance of this effect active at a time.",
+    "prerequisites": "The ability to cast force powers*",
+    "bonuses": [
+      {
+        "field": "Force Save DC",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Athlete",
+    "description": "You have undergone extensive physical training to gain the following benefits:\n * Increase your Strength or Dexterity score by 1, to a maximum of 20.\n * When you are prone, standing up uses only 5 feet of your movement.\n * Climbing doesn’t halve your speed.\n * You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strenth",
+        "bonus": 1
+      },
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Battle Scarred",
+    "description": "You've spent a lifetime fighting, with the scars to prove it. You gain the following benefits:\n * Increase your Constitution score by 1, to a maximum of 20.\n * When you roll a 19 or a 20 on the d20 for a death saving throw, you regain 1 hit point.\n * When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you've used this ability, you must complete a long rest before you can use it again.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Constitution",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Bendu Mastery",
+    "description": "You stride the line between the light side and the dark, lending a strength to your universal powers. You gain the following benefits:\n * You gain a +1 bonus to your force save DC and force attack modifier of your universal force powers.\n * You can add one universal power of your max power level or below to the list of powers you can cast. This does not count against your powers known.\n * A creature affected by a universal power you cast gains disadvantage on the next saving throw or ability check made to resist a power you cast. ",
+    "prerequisites": "The ability to cast force powers",
+    "bonuses": [
+      {
+        "field": "Force Save DC",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Biochemist",
+    "description": "You have studied the secrets of chemistry and are an expert in its practice, gaining the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency with biochemist’s kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * As an action, you can identify one medpac, stimpac, or adrenal within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work.\n * Over the course of any short rest, you can temporarily improve the potency of one medpac. To use this benefit, you must have a biochemist’s kit with you, and the medpac must be within reach. If the medpac is consumed no more than 1 hour after the short rest ends, the creature using the medpac can forgo the medpac’s die roll and regains the maximum number of hit points that the medpac can restore.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Biochemist's Kit"
+    ]
+  },
+  {
+    "name": "Blade Mastery",
+    "description": "You master the doubleblade, doublesaber, doubleshoto, doublesword, hidden blade, lightdagger, lightfoil, lightsaber, shotosaber, techblade, vibroblade, vibrodagger, and vibrorapier. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * As a bonus action, you can take a parrying stance. Until the start of your next turn, you have a +1 bonus to AC unless you are disarmed.\n * When you make an opportunity attack with the weapon, you have advantage on the attack roll.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Bloodthirsty",
+    "description": "You fight with reckless abandon, caring not of your own safety. You use your pain to fuel your attacks, causing your enemies even greater pain. You may die one day - but that day will come earlier for your enemies. You gain the following benefits:\n * When a creature within 5 feet of you misses you with a melee attack, you can use your reaction to cause the attack to hit you. If the attack hits and deals damage, you can immediately make a melee weapon attack with advantage against that creature.\n * When a creature scores a critical hit against you, you have advantage on the next attack you make against that creature, until the end of your next turn.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Bogan Mastery",
+    "description": "Your use of intense, raw emotion has improved your ability to harness the dark side of the Force. You gain the following benefits:\n * You gain a +1 bonus to your force save DC and force attack modifier of your dark side force powers.\n * You can add one dark side power of your max power level or below to the list of powers you can cast. This does not count against your powers known.\n * When you roll a 1 or 2 on a damage die for a dark side power, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.",
+    "prerequisites": "The ability to cast force powers",
+    "bonuses": [
+      {
+        "field": "Force Save DC",
+        "bonus": 1
+      },
+      {
+        "field": "Force Attack",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Bountiful Luck",
+    "description": "Your people have extraordinary luck, which you have learned to lend to your companions when you see them falter. You’re not sure how you do it; you just wish it, and it happens. Surely a sign of fortune’s favor!\n\nWhen an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction and expend 1 luck point to let the ally reroll the die. The ally must use the new roll.\n\nWhen you use this ability, you can’t use luck points before the end of your next turn. ",
+    "prerequisites": "Lucky",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Brawling Mastery",
+    "description": "You've mastered using your weight to your advantage, easily wrangling targets around. As long as you are not wearing heavy armor or using a medium or heavy shield, you gain the following benefits:\n * Your unarmed strikes use a d6 for damage.\n * Your improvised weapons use a d6 for damage and gain the versatile (1d8) property.\n * Your speed isn’t halved by carrying a grappled creature who is the same size category as you or smaller.\n * When you take the Attack action and make an attack against a creature grappled by you, you can use a bonus action to make another attack against that creature.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Brawny",
+    "description": "You become stronger, gaining the following benefits:\n * Increase your Strength score by 1, to a maximum of 20.\n * You gain proficiency in the Athletics skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * You count as if you were one size larger for the purpose of determining your carrying capacity.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strength",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Athletics"
+    ]
+  },
+  {
+    "name": "Bypasser",
+    "description": "You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits:\n * Increase your Dexterity score by 1, to a maximum of 20.\n * You gain proficiency with the security kit. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to detect the nature of a lock, you are considered proficient in the Investigation or Perception skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Security Kit"
+    ]
+  },
+  {
+    "name": "Charger",
+    "description": "You can take the Dash action as a bonus action.\n\nIf you move at least 10 feet in a straight line immediately after taking this bonus action, you either gain a +5 bonus to your next melee attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Charming Persona",
+    "description": "You've master the art of charming those around you, gaining the following benefits:\n* Increase your Charisma score by 1, to a maximum of 20.\n * You gain proficiency in the Persuasion skill. If you are already proficient in this skill, you add double your proficiency bonus to checks you make with it.\n * If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature’s Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Persuasion"
+    ]
+  },
+  {
+    "name": "Climber",
+    "description": "You excel at scaling cliffsides, hills, trees, and general climbing. You gain the following benefits:\n * Increase your Strength score by 1, to a maximum of 20.\n * You gain a climbing speed equal to your movement speed.\n * You have advantage on ability checks and saving throws to avoid falling off or down while climbing.\n * You can spend 5 minutes instructing, pointing out handholds, and guiding other creatures before making a climb. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you. Each creature can add a 1d6 to any ability check or saving throw they make for that climb.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strength",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Climbing"
+    ]
+  },
+  {
+    "name": "Close Quarters Caster",
+    "description": "You've practiced utilizing powers in close quarters, learning techniques that grant you the following benefits:\n * When making a ranged force or tech attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll.\n * Your ranged force and tech attacks ignore half cover and three-quarters cover against targets within 30 feet of you.\n * You learn one at-will power that requires an attack roll. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Close Quarters Shooting Mastery",
+    "description": "You've mastered getting up close and personal with ranged weapons, maintain both rate of fire and accuracy. While you are wielding a ranged weapon with which you are proficient, you gain the following benefits:\n * When you take the Attack action, you can choose to fire rapidly at the expense of accuracy. Your ranged weapon attacks are made without the aid of your proficiency bonus, but you use your bonus action to make an additional ranged weapon attack, also without your proficiency bonus.\n * Your ranged weapon attacks ignore half cover against targets within 30 feet of you.\n * Other creatures provoke an opportunity attack from you when they move to within 15 feet of you, and you can used ranged weapons when making opportunity attacks.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Combat Caster",
+    "description": "You've practiced making your powers more difficult to avoid, learning techniques that grant you the following benefits:\n * When a creature rolls a 1 on the d20 roll of a saving throw against a power you cast that deals damage, they instead take the highest number possible for the damage die.\n * You learn one at-will power that requires a saving throw. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Crafter",
+    "description": "You have a knack for crafting; you work with greater efficiency and produce goods of higher quality. Select one type of artisan's tools. You gain the following benefits whilst using it:\n * Increase your Strength, Constitution, or Intelligence score by 1, to a maximum of 20.\n * You gain proficiency with the chosen tool. If you are already proficient with them, you add double your proficiency bonus to checks made with them.\n * When you craft something with the tool you've selected, the total market value you can craft per day increases by an amount of cr equal to your 5 x your character level. If you have expertise in the tools, the market value increases by 10 x your character level.\n * If you use the tool you've selected to practice a profession during downtime, you can support a lifestyle one higher than you would normally be able to.\n\nYou can select this feat multiple times. Each time you do so, you must choose a different set of artisan's tools. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strenth",
+        "bonus": 1
+      },
+      {
+        "field": "Constitution",
+        "bonus": 1
+      },
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Artisan's Tool"
+    ]
+  },
+  {
+    "name": "Crushing Weapon Mastery",
+    "description": "You master the electrostaff, greatsaber, techaxe, vibroaxe, vibroclub, vibromace, and vibrosword. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to knock the target prone. If the target is no more than one size larger than you (your size or smaller if your weapon has the *light* property), make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability). If you win the contest, the target is knocked prone.\n * You can ready your weapon to deliver a punishing blow against a foe that tries to advance on you. When you take the Ready action on your turn and make a melee attack as your reaction, you have advantage on your attack roll. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Defense Mastery",
+    "description": "You've mastered the art of defending yourself, treating your armor as a second skin. While you are wearing armor with which you are proficient, you gain the following benefits:\n * Critical hits made against you are treated as normal hits.\n * When a creature makes a melee attack against you and misses, you can use your reaction to attempt to shove that creature up to 10 feet directly away from you.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Demolitionist",
+    "description": "You have extensive experience with explosives, gaining the following benefits:\n * Increase your Intelligence by 1, to a maximum of 20.\n * You gain proficiency with demolitions kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * Whenever you make an Intelligence (Demolitions Kit) check to disarm an explosive, you can treat a d20 roll of 9 or lower as a 10, as long as you spend at least one minute disarming it.\n * Over the course of a short rest, you can temporarily improve the potency of one grenade or mine. To use this benefit, you must have a demolitions kit, and the explosive must be within reach. The explosive’s DC becomes 8 + your proficiency bonus + your Intelligence modifier, and it deals extra damage equal to your Intelligence modifier of the same type it would normally deal. This effect lasts until the end of your next long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Demolitions Kit"
+    ]
+  },
+  {
+    "name": "Dual Focused Caster",
+    "description": "You have learned to bifurcate your attention while concentrating on powers, learning techniques that grant you the following benefits:\n * If you attempt to cast a power that requires concentration while already concentrating on an existing power, you can maintain concentration on both powers simultaneously. You must spend your action each subsequent round on maintaining this concentration, or lose concentration for both powers.\n * At the end of each of your turns where you have two powers you are concentrating on, you must make a Constitution saving throw (DC equals 10 + the number of complete rounds you’ve been concentrating on two powers). On a failure, you lose concentration for both powers. You can drop concentration on one of your powers during your turn as a free action to avoid this saving throw.\n * Any time you would be forced to make a Constitution saving throw to maintain concentration due to taking damage, the DC equals 10 + both powers’ levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both powers.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Dueling Mastery",
+    "description": "Your mastery of fighting with a single melee weapon is unsurpassed; you make one weapon feel like many. While you are wielding a melee weapon in one hand with which you are proficient and no other weapons, you gain the following benefits:\n * When you take the Attack action, you can decide to attack with haste at the expense of accuracy. Your melee weapon attacks are made without the aid of your proficiency bonus, but you use your reaction to make an additional melee weapon attack, also without your proficiency bonus. n*  When a creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Dungeon Delver",
+    "description": "Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:\n * Increase your Intelligence or Wisdom score by 1, to a maximum of 20.\n * You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.\n * You have advantage on saving throws made to avoid or resist traps.\n * You have resistance to the damage dealt by traps. \n * You can search for traps while traveling at a normal pace, instead of only at a slow pace.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Durable",
+    "description": "Hardy and resilient, you gain the following benefits:\n * Increase your Constitution score by 1, to a maximum of 20.\n * When you roll a Hit Die to regain hit points, the minimum number of hit points you can regain from the roll equals twice your Constitution modifier (minimum of 2).\n * Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Constitution",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Empathic",
+    "description": "You possess keen insight into how other people think and feel. You gain the following benefits:\n * Increase your Wisdom score by 1, to a maximum of 20.\n * You gain proficiency in the Insight skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the target’s Charisma (Deception) check. On a success, you have advantage on attack rolls and ability checks against the target until the end of your next turn.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Insight"
+    ]
+  },
+  {
+    "name": "Entertaining Competitor",
+    "description": "You have a natural gift for performing and competing. Select one gaming set or musical instrument. You gain the following benefits:\n * Increase your Dexterity, Wisdom, or Charisma score by 1, to a maximum of 20.\n * You gain proficiency in the chosen gaming set or musical instrument. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * While playing your chosen instrument or game, you can always readily read the emotions of those paying attention to you. During this time, and for up to one minute after completing, you have advantage on Wisdom (Insight) checks to read the emotions of those you performed for or competed against.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      },
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      },
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Gaming Set",
+      "Musical Instrument"
+    ]
+  },
+  {
+    "name": "Equilibrium Mastery",
+    "description": "You've mastered the art of fighting while minimally armored, treating combat as an elegant dance. While you are wearing no armor and not wielding a medium or heavy shield, you gain the following benefits:\n * You gain a +1 bonus to damage rolls you make with unarmed strikes and weapon attacks.\n * When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on the roll. You can choose to use this feature after the creature makes its attack roll, but before the DM determines whether the attack hits.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Fanatic",
+    "description": "Every blow that hits your enemies make you feel closer to victory, making you shake in excitement. You gain the following benefits:\n * When you score a critical hit with an attack roll or reduce a creature to 0 hit points, you can make one weapon attack as a bonus action.\n * Whenever a creature you can see within 30 feet is reduce to 0 hit points, you go into a fervor gaining temporary hit points equal to 1d4 + your Constitution modifier.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Feigned Confidence",
+    "description": "You've spent years pretending you know what you're doing, gaining the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * When you would make an ability check that doesn't add your proficiency bonus, you can first make a DC 15 (Charisma) Deception check. On a success, you can add your proficiency bonus to the check. You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a short or long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Fighting Stylist",
+    "description": "You adopt a particular style of fighting as your specialty, gaining the following benefits:\n * Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.\n * Choose one of the Fighting Style options, detailed above.\n\nYou can select this feat multiple times. You can't take a Fighting Style option more than once, even if you later get to choose again.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strength",
+        "bonus": 1
+      },
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      },
+      {
+        "field": "Constitution",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Force of Personality",
+    "description": "Rooms never go unalerted to your presence, and the strength of your personality make others lose focus on their own social game. Powers and other effects infrequently override your force of will.\n * Your Charisma score increase by 1, to a maximum of 20.\n * You can use your Charisma modifier instead of your Wisdom modifier when making Insight checks.\n * When you would make a Wisdom saving throw, you can instead make a Charisma saving throw. You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses of this feature when you complete a long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Force Sensitive",
+    "description": "You learn two at-will force powers, and one 1st-level force power, which you cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again. Your forcecasting ability is Wisdom or Charisma (depending on power alignment).",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Galvanizing Presence",
+    "description": "Your presence on the battlefield is a source of inspiration. You gain the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * As a bonus action, you let out a rallying war cry, ending the frightened or charmed condition on yourself and a number of allies that can hear you equal to your Charisma modifier (minimum of one). Once you've used this ability, you must complete a short or long rest before you can use it again.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Genius Mechanic",
+    "description": "You have spent prolonged use with a mechanic's kit, gaining the following benefits:\n * Increase your Intelligence by 1, to a maximum of 20.\n * You gain proficiency with mechanic's kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * Whenever you make an Intelligence (Mechanic's Kit) check to make a repair, you can treat a d20 roll of 9 or lower as a 10, as long as you spend at least ten minutes repairing it.\n * Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to find a construct's weakness, you are considered proficient in the Investigation or Perception skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Mechanic's Kit"
+    ]
+  },
+  {
+    "name": "Gourmand",
+    "description": "You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits:\n * Increase your Constitution score by 1, to a maximum of 20.\n * You gain proficiency with chef's kit. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it. \n * During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, chef’s kit, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Constitution",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Chef's Kit"
+    ]
+  },
+  {
+    "name": "Great Weapon Mastery",
+    "description": "You’ve mastered putting the weight of a weapon to your advantage, letting its momentum empower your strikes. While you are wielding a melee weapon in two hands with which you are proficient, you gain the following benefits:\n * On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.\n * Before you make a melee attack with a weapon that you are wielding in two-hands with which you are proficient with, you can choose to forgo your proficiency bonus. If the attack hits, you add double your proficiency bonus to the attack's damage.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Haggler",
+    "description": "Your skills at bartering have granted you the following benefits:\n * Increase your Charisma score by 1 up to a maximum of 20.\n * You have advantage on Charisma (Persuasion) and Charisma (Deception) checks when attempting to barter or trade.\n * You are always aware of the current monetary value for any unenhanced or common enhanced item. Whenever you identify an item, you gain a rough estimate of its current monetary value.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Healer",
+    "description": "You are an able medic, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:\n * Increase your Intelligence or Wisdom score by 1, to a maximum of 20.\n * When you use a medkit to stabilize a dying creature, that creature also regains 1 hit point.\n * As an action, you can spend one use of a medkit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points again in this way until it finishes a short or long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Heavily Armored",
+    "description": "You have trained to master the use of heavy armor, gaining the following benefits:\n * You gain proficiency with heavy armor. If you are already proficient with heavy armor, instead increase your Strength score by 1, to a maximum of 20.\n * While you are wearing heavy armor, kinetic and energy damage that you take from unenhanced weapons is reduced by an amount equal to your proficiency bonus.",
+    "prerequisites": "Proficiency with medium armor",
+    "bonuses": [],
+    "proficiencies": [
+      "Heavy Armor"
+    ]
+  },
+  {
+    "name": "Heavy Weapons Mastery",
+    "description": "You master the assault cannon, bowcaster, scattergun, and shotgun. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * When a creature rolls a 1 on the saving throw against one of these weapons, it takes damage as if suffering a critical hit.\n * Whenever you score a critical hit against a creature that is holding a weapon, you can attempt to disarm the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the *light* property), it must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Dexterity modifier) or it drops an object of your choice at its feet. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Herbalist",
+    "description": "You are adept at harnessing the useful properties of herbs and other plants. You gain the following benefits:\n * Increase your Intelligence or Wisdom score by 1, to a maximum of 20.\n * You gain proficiency with herbalism kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * As an action, you can inspect a plant within 5 feet of you and determine whether it is edible or poisonous, provided that you can see and smell it.\n * You can apply herbal remedies to help yourself or your allies recover from maladies. Over the course of a short rest, you can remove one poison or disease from a friendly creature within reach. You must have an herbalism kit and access to local herbs to use this benefit.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Herbalism Kit"
+    ]
+  },
+  {
+    "name": "Inspiring Leader",
+    "description": "You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.",
+    "prerequisites": "Charisma 13 or higher",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Investigator",
+    "description": "You have an eye for detail and can pick out the smallest clues. You gain the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency in the Investigation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * You can take the Search action as a bonus action.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Investigation"
+    ]
+  },
+  {
+    "name": "Jedi Slayer",
+    "description": "You have practiced techniques useful in melee combat against forcewielders, gaining the following benefits:\n * When a creature within 5 feet of you casts a force power, you can use your reaction to make a melee weapon attack against that creature.\n * When you damage a creature that is concentrating on a power, that creature has disadvantage on the saving throw it makes to maintain its concentration.\n * You have advantage on saving throws against force powers cast by creatures within 5 feet of you.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Keen Mind",
+    "description": "You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You always know which way is north.\n * You always know the number of hours left before the next sunrise or sunset.\n * You can accurately recall anything you have seen or heard within the past month.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Lightly Armored",
+    "description": "You have trained to master the use of light armor, gaining the following benefits:\n * You gain proficiency with light armor. If you are already proficient with light armor, instead increase your Strength or Dexterity score by 1, to a maximum of 20.\n * Your speed increases by 5 feet.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Speed",
+        "bonus": 5
+      }
+    ],
+    "proficiencies": [
+      "Light Armor"
+    ]
+  },
+  {
+    "name": "Linguist",
+    "description": "You have studied languages and codes, gaining the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You learn three languages of your choice.\n * You can ably create written ciphers. Others can’t decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use a power to decipher it.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Loremaster",
+    "description": "Your study of history rewards you with the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency in the Lore skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * When you take the Help action to aid another creature’s ability check, you can make a DC 15 Intelligence (Lore) check. On a success, that creature’s check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you’re saying.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Lore"
+    ]
+  },
+  {
+    "name": "Lucky",
+    "description": "You have inexplicable luck that seems to kick in at just the right moment.\n\nYou have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.\n\nYou can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker’s roll or yours. If more than one creature spends a luck point to influence the outcome o f a roll, the points cancel each other out; no additional dice are rolled.\n\nYou regain your expended luck points when you finish a long rest.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Maneuverable",
+    "description": "You've learned that you are at your best when you're on the move.\n * Your speed increases by 5 feet.\n * When you hit a creature with a melee attack, you can move 5 feet at no movement cost as part of the attack.\n * When you hit a creature with a melee attack that you have not already attacked on your current turn, you gain a +2 bonus to the damage roll.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Speed",
+        "bonus": 5
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Mariner",
+    "description": "You've spent an exorbitant amount of time in water. You gain the following benefits:\n * Increase your Constitution by 1, to a maximum of 20.\n * You gain a swimming speed equal to your movement speed.\n * You have advantage on a ability checks and saving throws related to swimming.\n * You can hold your breath for a number of minutes equal to 1 + twice your Constitution modifier.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Constitution",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Martial Adept",
+    "description": "You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:\n * You learn two maneuvers of your choice from among those available to the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).\n * If you already have superiority dice, you gain one more; otherwise, you have two superiority dice, which are d4s. These dice are used to fuel your maneuvers. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Master of Disguise",
+    "description": "You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * You gain proficiency with the disguise kit. If you are already proficient with it, you add double your proficiency bonus to checks you make with it.\n * If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Disguise Kit"
+    ]
+  },
+  {
+    "name": "Medic",
+    "description": "You master the physician’s arts, gaining the following benefits:\n * Increase your Wisdom score by 1, to a maximum of 20.\n * You gain proficiency in the Medicine skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Medicine"
+    ]
+  },
+  {
+    "name": "Modbile",
+    "description": "You are exceptionally speedy and agile. You gain the following benefits:\n * Your speed increases by 10 feet.\n * When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.\n * When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Speed",
+        "bonus": 10
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Moderately Armored",
+    "description": "You have trained to master the use of medium armor, gaining the following benefits:\n * You gain proficiency with medium armor. If you are already proficient with medium armor, instead increase your Strength or Dexterity score by 1, to a maximum of 20.\n * You can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.\n * Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.",
+    "prerequisites": "Proficiency with light armor",
+    "bonuses": [
+      {
+        "field": "",
+        "bonus": 2
+      }
+    ],
+    "proficiencies": [
+      "Medium Armor"
+    ]
+  },
+  {
+    "name": "Mounted Caster",
+    "description": "You are trained in the use of powers while mounted. While you are mounted and aren’t incapacitated, you gain the following benefits:\n * When you cast a power targeting yourself, you can also affect your mount with the power.\n * You have advantage on melee force or tech attack rolls against any unmounted creature that is smaller than your mount.\n * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Mounted Combatant",
+    "description": "You are a dangerous foe to face while mounted. While you are mounted and aren’t incapacitated, you gain the following benefits:\n * You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.\n * You can force an attack targeted at your mount to target you instead.\n * If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Naturalist",
+    "description": "Your extensive study of nature rewards you with the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency in the Nature skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * You learn the *toxin scan* tech power. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Nature"
+    ]
+  },
+  {
+    "name": "Observant",
+    "description": "Quick to notice details of your environment, you gain the following benefits:\n * Increase your Intelligence or Wisdom score by 1, to a maximum of 20. \n * If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.\n * You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Perceptive",
+    "description": "You hone your senses until they become razor sharp. You gain the following benefits:\n * Increase your Wisdom score by 1, to a maximum of 20.\n * You gain proficiency in the Perception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * Being in a lightly obscured area doesn’t impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Perception"
+    ]
+  },
+  {
+    "name": "Performer",
+    "description": "You master performance so that you can command any stage. You gain the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * You gain proficiency in the Performance skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid’s Wisdom (Insight) check. If your check succeeds, you grab the humanoid’s attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Performance"
+    ]
+  },
+  {
+    "name": "Poisoner",
+    "description": "You have studied the secrets of poisons and toxins, gaining the following benefits:\n * Increase your Intelligence by 1, to a maximum of 20.\n * You gain proficiency with poisoner’s kits. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * As an action, you can identify one poison within 5 feet of you. You must see the poison for this benefit to work.\n * Over the course of a short rest, you can temporarily improve the potency of one dose of poison. To use this benefit, you must have a poisoner’s kit, and the poison must be within reach. If the poison is applied within 1 hour after the short rest ends, its DC becomes 8 + your proficiency bonus + your Intelligence modifier, and it deals extra poison damage equal to your Intelligence modifier.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Poisoner's Kit"
+    ]
+  },
+  {
+    "name": "Polearm Mastery",
+    "description": "You master the lightsaber pike, saberspear, vibrolance, vibropike, and vibrospear. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * When you take the Attack action, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon’s damage die for this attack is a d4, and the attack deals kinetic damage. If the weapon has the reach property, the bonus action attack does not benefit from this property.\n * Other creatures provoke an opportunity attack from you when they enter your reach. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Lightsaber Pike",
+      "Saberspeak",
+      "Vibrolance",
+      "Vibropike",
+      "Vibrospear"
+    ]
+  },
+  {
+    "name": "Power Adept",
+    "description": "When you gain this feat, choose one of the following damage types: acid, cold, fire, force, lightning, or necrotic. Powers you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a power you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.\n\nYou can select this feat multiple times. Each time you do so, you must choose a different damage type.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Practiced",
+    "description": "You have acquired skills over your career, gaining the following benefits:\n * Increase an ability score of your choice by 1, to a maximum of 20.\n * You gain proficiency in any combination of two skills or tools of your choice.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strength",
+        "bonus": 1
+      },
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      },
+      {
+        "field": "Constitution",
+        "bonus": 1
+      },
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      },
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Promising Commander",
+    "description": "You've trained relentless to lead your allies on the field of battle, gaining the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * As an action, you can gain tactical insight. For one minute, once per turn you can can utter a special command or warning whenever an ally you can see within 30 feet makes an attack roll or saving throw. This creature can add a d4 to the roll provided it can hear and understand you. A creature can only benefit from one such die at a time. Once you've used this feature, you must complete a short or long rest before you can use it again.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Prone Combatant",
+    "description": "You've practiced fighting while prone, gaining the following benefits:\n * Increase your Dexterity score by 1, to a maximum of 20.\n * You gain a crawling speed equal to your movement speed.\n * You no longer have disadvantage on ranged attack rolls against targets within 30 feet.\n * When you attempt to hide on your turn while prone, you can opt to not move on that turn. If you avoid moving, you are considered lightly obscured. You lose this benefit if you move or stand up, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden. If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Quick-Fingered",
+    "description": "Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits:\n * Increase your Dexterity score by 1, to a maximum of 20.\n * You gain proficiency in the Sleight of Hand skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Sleight of Hand"
+    ]
+  },
+  {
+    "name": "Quick-Witted",
+    "description": "Great ideas come to you naturally, often when your life depends on it. You always have a plan, or at least parts of it. You gain the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You can use your Intelligence modifier instead of your Dexterity modifier when making initiative checks.\n * When you would make a Dexterity saving throw, you can instead make an Intelligence saving throw. You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses of this feature when you complete a long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Quick Caster",
+    "description": "You've practiced casting powers in quick succession, learning techniques that grant you the following benefits:\n * When you cast a power with a casting time of a bonus action, you may use your action to cast a power with a power level no higher than half your proficiency bonus (rounded down).\n * When you cast a power with a casting time of a bonus action, you can cast it without expending force or tech points as long as it is no higher level than your proficiency bonus. Once you've used this feature, you must complete a long rest before you can use it again.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Resilient",
+    "description": "Choose one ability score. You gain the following benefits:\n * Increase the chosen ability score by 1, to a maximum of 20.\n * You gain proficiency in saving throws using the chosen ability.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Strength",
+        "bonus": 1
+      },
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      },
+      {
+        "field": "Constitution",
+        "bonus": 1
+      },
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      },
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Rifle Mastery",
+    "description": "You master the use of blaster carbine, blaster rifle, ion rifle, lightbow, sniper rifle, and slugthrower. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to snare the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the *light* property), it must succeed on a Dexterity saving throw (DC 8 + your proficiency bonus + your Dexterity modifier) or its movement speed is halved until the end of your next turn.\n * When a creature you can see misses you with an attack roll, you can use your reaction to disengage and move up to half your speed. You must end this movement further away from the creature than you started. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Sentinel Mastery",
+    "description": "You've mastered techniques to take advantage of every drop in any enemy’s guard; in tight spaces you are indomitable. While you are wielding a melee weapon with which you are proficient, you gain the following benefits:\n * When you hit a creature with an opportunity attack, the creature’s speed becomes 0 for the rest of the turn.\n * Creatures within 5 feet of you provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Sharpshooting Mastery",
+    "description": "You have mastered ranged weapons and can easily make shots that others find impossible. While you are wielding a ranged weapon with which you are proficient, you gain the following benefits:\n * Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n * Your ranged weapon attacks ignore half cover and three-quarters cover.\n * Before you make an attack with a ranged weapon that you are proficient with, you can choose to forgo your proficiency bonus. If the attack hits, you add double your proficiency bonus to the attack's damage.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Shielding Mastery",
+    "description": "You've mastered using a shield to defend your allies as well as yourself, and you understand that shields are not just for protection but also for offense. While you are wielding a medium or heavy shield with which you are proficient, you gain the following benefits:\n * If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.\n * If you aren’t incapacitated, you can add your shield’s AC bonus to any Dexterity saving throw you make against a power or other harmful effect.\n * If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Sidearm Mastery",
+    "description": "You master the blaster pistol, heavy pistol, hold out, ion blaster, light pistol, and wrist launcher. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * You learn to load and fire your weapon more efficiently. You can now reload these weapons using your reaction. You must have one free hand to reload.\n * Whenever you score a critical hit against a living creature that has a head, you can attempt to daze the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the *light* property), it must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Dexterity modifier) or be stunned until the end of its next turn. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Silver-Tongued",
+    "description": "You develop your conversational skill to better deceive others. You gain the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * You gain proficiency in the Deception skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * When you take the Attack action, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target’s Wisdom (Insight) check. If your check succeeds, your movement doesn’t provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can’t be deceived by you in this way for 1 hour.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Deception"
+    ]
+  },
+  {
+    "name": "Skulker",
+    "description": "You are expert at slinking through shadows. You gain the following benefits:\n * You can try to hide when you are lightly obscured from the creature from which you are hiding.\n * When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.\n * Dim light doesn’t impose disadvantage on your Wisdom (Perception) checks relying on sight.",
+    "prerequisites": "Dexterity 13 or higher",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Slicer",
+    "description": "You are an expert at finding things in computers you shouldn't. You gain the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency with the slicer's kit. If you are already proficient with them, you add double your proficiency bonus to checks you make with them.\n * Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to detect the nature of computer software, you are considered proficient in the Investigation or Perception skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Slicer's Kit"
+    ]
+  },
+  {
+    "name": "Snappy Interjection",
+    "description": "You’ve mastered a quick tongue to aid your allies. You gain the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * When an ally makes an attack roll, an ability check or a saving throw, you may spend your reaction to give them advantage on the roll. Once you use this ability, you can’t use it again until you finish a short or long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Power Sniper",
+    "description": "You've practiced casting powers more accurately from long range, learning techniques that give you the following benefits:\n * When you cast a power that requires you to make an attack roll, the power’s range is doubled.\n * Your ranged force and tech attacks ignore half cover and three-quarters cover.\n * You learn one at-will power that requires an attack roll. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Stealthy",
+    "description": "You know how best to hide. You gain the following benefits:\n * Increase your Dexterity score by 1, to a maximum of 20.\n * You gain proficiency in the Stealth skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you’re not clearly visible.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Stealth"
+    ]
+  },
+  {
+    "name": "Supreme Accuracy",
+    "description": "You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:\n * Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.\n * Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma you can reroll one of the dice once. ",
+    "prerequisites": "Dexterity, Intelligence, Wisdom, or Charisma 13",
+    "bonuses": [
+      {
+        "field": "Dexterity",
+        "bonus": 1
+      },
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      },
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      },
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Survivalist",
+    "description": "You master wilderness lore, gaining the following benefits:\n * Increase your Wisdom score by 1, to a maximum of 20.\n * You gain proficiency in the Survival skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it .\n * You learn the *alarm* tech power. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a long rest.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Wisdom",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Survival"
+    ]
+  },
+  {
+    "name": "Techie",
+    "description": "You master the theory and practice of technology, gaining the following benefits:\n * Increase your Intelligence score by 1, to a maximum of 20.\n * You gain proficiency in the Technology skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * You learn the *repair droid* tech power. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a long rest. ",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Intelligence",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Technology"
+    ]
+  },
+  {
+    "name": "Tech Dabbler",
+    "description": "You learn two at-will tech powers, and one 1st-level tech power, which you cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Threatening",
+    "description": "You become fearsome to others, gaining the following benefits:\n * Increase your Charisma score by 1, to a maximum of 20.\n * You gain proficiency in the Intimidation skill. If you are already proficient in the skill, you add double your proficiency bonus to checks you make with it.\n * When you take the Attack action, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target’s Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can’t be frightened by you in this way for 1 hour.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Charisma",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": [
+      "Intimidation"
+    ]
+  },
+  {
+    "name": "Throwing Mastery",
+    "description": "You've mastered the techniques of throwing weapons, readily blending the weapons with your movements. While you are wielding a weapon with the *thrown* property with which you are proficient, you gain the following benefits:\n * You gain a +1 bonus to ranged attack rolls you make with thrown weapons.\n * Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls with thrown weapons.\n * When you hit a creature with a ranged weapon attack with a thrown weapon, you have advantage on your next melee weapon attack against that creature before the end of your next turn.\n * You can use two-weapon fighting even when the melee weapons you are wielding in one hand aren't light, if at least one of them has the *thrown* property.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Tough",
+    "description": "You have the blood of heroes flowing through your veins. You gain the following benefits:\n * Increase your Constitution score by 1, to a maximum of 20.\n * Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of one).",
+    "prerequisites": "Durable Feat",
+    "bonuses": [
+      {
+        "field": "Constitution",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Trip Weapon Mastery",
+    "description": "You master the chakram, light ring, net, sabercane, saberwhip, vibrobaton, vibrostaff, and vibrowhip. You gain the following benefits while wielding any of these weapons, if you are proficient with it:\n * You gain a +1 bonus to the weapon's attack rolls.\n * As a bonus action on your turn, you can extend your weapon to sweep around and pull down an opponent's shield. Until the end of that creature's next turn, it gains no benefit to armor class from its shield.\n * When you score a critical hit with the weapon or hit with an opportunity attack using the weapon, you can attempt to trip the opponent as well. If the target is no more than one size larger (your size or smaller if your weapon has the light property), it must succeed on a Strength saving throw (DC 8 + your proficiency + your choice of either your Strength or Dexterity modifier) or be knocked prone.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Attack Rolls",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Two-Weapon Mastery",
+    "description": "You've mastered fighting with two weapons, becoming a flurry of motion. While you are wielding separate weapons in each hand with which you are proficient, you gain the following benefits:\n * You gain a +1 bonus to AC while you are wielding a separate weapon in each hand.\n * You can use two-weapon fighting even when the weapons you are wielding aren’t *light*.\n * You can draw or stow two weapons when you would normally be able to draw or stow only one.\n * When you engage in two-weapon fighting, you can choose to forgo your proficiency bonus. If you do so, you can make an additional two-weapon fighting attack, also without your proficiency bonus.",
+    "prerequisites": "",
+    "bonuses": [
+      {
+        "field": "Armor Class",
+        "bonus": 1
+      }
+    ],
+    "proficiencies": []
+  },
+  {
+    "name": "Versatile Mastery",
+    "description": "You've mastered the art of using weapons in different ways, altering your attack patterns mid-swing. While you are wielding a melee weapon with the *versatile* property with which you are proficient and no other weapons, you gain the following benefits:\n * When you are the target of a melee weapon attack, you can immediately use your reaction to make a melee weapon attack against the target. On a hit, you impose disadvantage on the attack roll made against you.\n * If you miss an attack while wielding a weapon in two hands, you can immediately make an attack roll against the same target using one hand. You can only make this attack once per turn.\n * If you miss an attack while wielding a weapon in one hand, you can immediately attempt to shove that creature up to 5 feet directly away from you. You can only make this attempt once per turn.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "War Caster",
+    "description": "You've practiced casting powers in the midst of combat, learning techniques that grant you the following benefits:\n * You have advantage on Constitution saving throws that you make to maintain your concentration on a power when you take damage.\n * When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a power at the creature, rather than making an opportunity attack. The power must have a casting time of 1 action and must target only that creature.",
+    "prerequisites": "The ability to cast at least one power",
+    "bonuses": [],
+    "proficiencies": []
+  },
+  {
+    "name": "Weapon Expert",
+    "description": "You have practiced extensively with a variety of weapons, gaining the following benefits:\n * You gain proficiency with all blasters, lightsabers, and vibroweapons. If you are already proficient with them, instead increase your Strength or Dexterity score by 1, to a maximum of 20.\n * Once per turn when you roll damage for a weapon attack using a weapon with which you are proficient, you can reroll the weapon's damage dice and use either total.",
+    "prerequisites": "",
+    "bonuses": [],
+    "proficiencies": []
+  }
+]
