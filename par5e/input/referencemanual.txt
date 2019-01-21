@@ -182,6 +182,7 @@ Additional content will be released bi-weekly, on Tuesdays, for the foreseeable 
 #@;Copyright Information
 #!;Copyright Information
 ##;Fantasy Grounds Conversion Copyright Information
+Fantasy Grounds Conversion Copyright Information
 This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
 ##;Open Gaming License (OGL) and SRD5
 Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a. 
@@ -211,3 +212,65 @@ Coast,	Inc	("Wizards").	All	Rights	Reserved.
 15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. 
 System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson. 
 END OF LICENSE
+
+#@;Player Reference
+#!;Money
+##;Costs and Currency
+The marketplace of a large city teems with buyers and sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.
+For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
+#h;Wealth
+Wealth generally appears in the form of credits. The Galactic Republic and Sith Empire have their own mints, but in most worlds, the chits are interchangeable. Other trade goods, gemstones, artifacts, and property can reflect your character’s financial well-being. Members of the lower class trade in goods, bartering for what they need and paying taxes in raw materials. Members of the nobility trade either in legal rights, such as the rights to a mine, a port, or a company, or in high denomination credits. Only merchants, adventurers, and those offering professional services for hire commonly deal in credits.
+#h;VARIANT: STARTING WEALTH BY CLASS
+#ts;
+#th;Class;Funds;
+#tr;Berserker;1,000 + 2d4 x 100 cr;
+#tr;Consular;1,000 + 2d4 x 100 cr;
+#tr;Engineer;1,000 + 3d4 x 100 cr;
+#tr;Fighter;1,000 + 5d4 x 100 cr;
+#tr;Guardian;1,000 + 5d4 x 100 cr;
+#tr;Monk;1,000 + 1d4 x 100 cr;
+#tr;Operative;1,000 + 4d4 x 100 cr;
+#tr;Scholar;1,000 + 3d4 x 100 cr;
+#tr;Scout;1,000 + 5d4 x 100 cr;
+#tr;Sentinel;1,000 + 3d4 x 100 cr;
+#te;
+#h;Currency
+Credits come in a variety of denominations: from a single chit to cards loaded with incredible value. While the Republic and Empire have their own currencies, in most worlds they can be used interchangeably.
+With ten credits, a character can buy a power cell, a stylus, or a glowrod. A skilled (but not exceptional) artisan can earn ten credits a day. The credit is the standard unit of measure for wealth, even if the chit itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of credits, the transactions don’t usually involve the exchange of individual chits. Rather, the credit is a standard measure of value, and the actual exchange is in credit cards, letters of credit, or valuable goods.
+A standard chit weighs about a third of an ounce, so fifty chits weigh a pound.
+#h;Light Weapon Cost
+#ls;
+#li;The listed cost of lightweapons is equal to 5x their vibroweapon counterpart. If you use the Variant: Starting Wealth rule, you should consider letting players use the value of the vibroweapon counterpart as their purchase price.
+#li;Additionally, lightweapons are a scarce and restricted resource. Finding a buyer for a salvaged lightweapon is often diffcult due to their clandestine nature.
+#le;
+#h;SELLING TREASURE
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+#h;ARMS, ARMOR, AND OTHER EQUIPMENT
+As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Used weapons and armor aren't always in good enough condition to sell.
+#h;ENHANCED ITEMS
+Selling enhanced items can be problematic. Finding someone to find an overtuned blaster isn't hard, but the most unique of items are beyond all but the wealthiest denizens. Likewise, aside from a few common enhanced items, you won't normally come across enhanced items to purchase. The value of special equipment is far beyond simple credits and should always be treated as such.
+#h;GEMS, JEWELRY, AND ART OBJECTS
+These items retain their full value in the marketplace, and you can either trade them in for credits or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large city or even another planet.
+#h;TRADE GOODS
+In the Outer Rim, many people conduct transactions through barter. Like gems and art objects, trade goods -raw materials like bags of salt, livestock, and so on- retain their full value in the market and can be used as currency.
+#!;Equipment
+##;EQUIPMENT PACKS
+This section describes items that have special rules or require further explanation.
+#h;EQUIPMENT PACKS
+The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+#h;BURGLAR’S PACK
+Costs 290 credits. Includes a backpack, two glow rods, a hydrospanner, a fusion cutter, a chronometer, a grappling hook, 5 days of field rations, and a canteen.
+#h;DIPLOMAT'S PACK
+Costs 330 credits. Includes a chest, a set of fine clothes, a datapad, 5 datacards, a stylus, 5 days of field rations, and a canteen.
+#h;DUNGEONEER’S PACK
+Costs 320 credits. Includes a backpack, five glow rods, a fusion cutter, a grappling hook, a chronometer, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
+#h;ENTERTAINER’S PACK
+Costs 420 credits. Includes a backpack, a bedroll, two costumes, two glowrods, 5 days of field rations, a canteen, and a disguise kit.
+#h;EXPLORER’S PACK
+Costs 250 credits. Includes a backpack, a bedroll, a blanket, a mess kit, two glowrods, a commlink, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
+#h;PRIEST’S PACK
+Costs 275 credits. Includes a backpack, a blanket, two glowrods, a datapad, a medkit, 5 days of field rations, and a canteen.
+#h;SCHOLAR’S PACK
+Costs 290 credits. Includes a backpack, a datapad, 5 datacards, a stylus, a holorecorder, 5 days of field rations, and a canteen.
+#h;TECHNOLOGIST'S PACK
+Costs 670 credits. Includes a backpack, chronometer, respirator, datapad, holocomm, comlink, bedroll, canteen, and 5 days of field rations.

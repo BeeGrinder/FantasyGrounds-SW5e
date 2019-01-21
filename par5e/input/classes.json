@@ -16,7 +16,7 @@
       }
     ],
     "createInfo": {
-      "intro": "A massive wookiee hunter prowls through the forest, hefting his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin.\n\nA gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals. \n\nFrothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.\n\nThese berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.",
+      "intro": "A massive wookiee hunter prowls through the forest, hefting his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin.\nA gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals. \nFrothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.\nThese berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.",
       "helpText": "When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?\nWhat led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to 'civilized' lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.",
       "quickBuild": "You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the barbarian background.",
       "hitDice": 12,
@@ -83,7 +83,7 @@
         "levelEarned": [
           1
         ],
-        "markdown": "In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.\n\nWhile raging, you gain the following benefits if you aren't wearing heavy armor:\n\n- You have advantage on Strength checks and Strength saving throws\n\n- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a berserker, as shown in the Rage Damage column of the Berserker table.\n\n- You have resistance to kinetic and energy damage.\n\nIf you are able to cast powers, you can't cast them or concentrate on them while raging.\n\nYour rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.\n\nOnce you have raged the number of times shown for your berserker level in the Rages column of the Berserker table, you must finish a long rest before you can rage again."
+        "markdown": "In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.\nWhile raging, you gain the following benefits if you aren't wearing heavy armor:\n- You have advantage on Strength checks and Strength saving throws\n- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a berserker, as shown in the Rage Damage column of the Berserker table.\n- You have resistance to kinetic and energy damage.\nIf you are able to cast powers, you can't cast them or concentrate on them while raging.\nYour rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.\nOnce you have raged the number of times shown for your berserker level in the Rages column of the Berserker table, you must finish a long rest before you can rage again."
       },
       {
         "name": "Unarmored Defense",
@@ -104,7 +104,7 @@
         "levelEarned": [
           2
         ],
-        "markdown": "At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.\n\nYou have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can't be blinded, deafened, or incapacitated."
+        "markdown": "At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.\nYou have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can't be blinded, deafened, or incapacitated."
       },
       {
         "name": "Berserker Approach",
@@ -146,21 +146,21 @@
         "levelEarned": [
           7
         ],
-        "markdown": "By 7th level, your instincts are so honed that you have advantage on initiative rolls.\n\nAdditionally, if you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
+        "markdown": "By 7th level, your instincts are so honed that you have advantage on initiative rolls.\nAdditionally, if you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn."
       },
       {
         "name": "Brutal Critical",
         "levelEarned": [
           9
         ],
-        "markdown": "Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.\n\nThis increases to two additional dice at 13th level and three additional dice at 17th level."
+        "markdown": "Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.\nThis increases to two additional dice at 13th level and three additional dice at 17th level."
       },
       {
         "name": "Relentless Rage",
         "levelEarned": [
           11
         ],
-        "markdown": "Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.\n\nEach time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10."
+        "markdown": "Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.\nEach time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10."
       },
       {
         "name": "Persistent Rage",
@@ -411,7 +411,7 @@
                 "levelEarned": [
                   3
                 ],
-                "markdown": "While raging, your unarmed strike deals 1d4 + Strength modier kinetic damage and when you take the Attack action and attack with a melee weapon or unarmed strike, you can use a bonus action to make an unarmed attack.\n\nThis unarmed attack die increases to 1d6 at 5th level, 1d8 at 11th level, and 1d10 at 17th level. "
+                "markdown": "While raging, your unarmed strike deals 1d4 + Strength modier kinetic damage and when you take the Attack action and attack with a melee weapon or unarmed strike, you can use a bonus action to make an unarmed attack.\nThis unarmed attack die increases to 1d6 at 5th level, 1d8 at 11th level, and 1d10 at 17th level. "
               },
               {
                 "name": "Pressurised Limbs",
@@ -546,21 +546,21 @@
             "levelEarned": [
               3
             ],
-            "markdown": "Many force powers can be overpowered, consuming more force points to create a greater eect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Marauder Approach Forcecasting table.\n\nYou may only cast force powers at 4th-level once. You regain the ability to do so after a short or long rest."
+            "markdown": "Many force powers can be overpowered, consuming more force points to create a greater eect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Marauder Approach Forcecasting table.\nYou may only cast force powers at 4th-level once. You regain the ability to do so after a short or long rest."
           },
           {
             "name": "Forcecasting Ability",
             "levelEarned": [
               3
             ],
-            "markdown": "Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modier whenever a power refers to your forcecasting ability. In addition, you use this ability score modier when setting the saving throw DC for a force power you cast and when making an attack roll with one.\n\n**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier\n**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier"
+            "markdown": "Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modier whenever a power refers to your forcecasting ability. In addition, you use this ability score modier when setting the saving throw DC for a force power you cast and when making an attack roll with one.\n**Force save DC** = 8 + your proficiency bonus + your forcecasting ability modifier\n**Force attack modifier** = your proficiency bonus + your forcecasting ability modifier"
           },
           {
             "name": "Furious Force",
             "levelEarned": [
               3
             ],
-            "markdown": "Also at 3rd level, you can cast force powers while raging as long as the power's casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor or wielding a medium or heavy shield. While raging, you add your rage damage to damage rolls from force powers you cast. If a force power damages more than one target, you may only apply your rage damage to one of the targets.\n\nCasting force powers during rage counts as attacking for the purposes of maintaining rage."
+            "markdown": "Also at 3rd level, you can cast force powers while raging as long as the power's casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor or wielding a medium or heavy shield. While raging, you add your rage damage to damage rolls from force powers you cast. If a force power damages more than one target, you may only apply your rage damage to one of the targets.\nCasting force powers during rage counts as attacking for the purposes of maintaining rage."
           },
           {
             "name": "Reckless Power",
@@ -574,7 +574,7 @@
             "levelEarned": [
               10
             ],
-            "markdown": "Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Select up to ten other creatures of your choice within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.\n\nOnce you've used this feature, you can't use it again until you nish a long rest."
+            "markdown": "Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Select up to ten other creatures of your choice within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.\nOnce you've used this feature, you can't use it again until you nish a long rest."
           },
           {
             "name": "Force Storm",
@@ -957,7 +957,7 @@
       }
     ],
     "createInfo": {
-      "intro": "A twi'lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his fingers, illuminating his red and black tattoos. The rodian's pleas for mercy fall on deaf ears as the Sith channels his lightning into his failed apprentice, leaving nothing but a charred husk behind.\n\nSitting cross-legged on a dense patch of grass, a miraluka mystic meditates on the Force. With every breath, the trees sway with a rhythmic breeze. Though she lacks simple vision, she can see the Force as it moves everything around her.\n\nA drably-robed human focuses inward, channeling the Force into the ground around him. Slowly, all the debris within arms reach rises into the air around him; with a flick of his wrist, he clears the air, sending his projectiles to pound on the approaching tank.\n\nConsulars are the supreme wielders of the Force, defined and united by the powers they cast. Drawing on the omnipresent Force that permeates the universe, consulars cast powers of rejuvenating healing and destructive lightning, draining life-force and manipulating minds; the most powerful with the Force can even experience brief glimpses of the future.",
+      "intro": "A twi'lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his fingers, illuminating his red and black tattoos. The rodian's pleas for mercy fall on deaf ears as the Sith channels his lightning into his failed apprentice, leaving nothing but a charred husk behind.\nSitting cross-legged on a dense patch of grass, a miraluka mystic meditates on the Force. With every breath, the trees sway with a rhythmic breeze. Though she lacks simple vision, she can see the Force as it moves everything around her.\nA drably-robed human focuses inward, channeling the Force into the ground around him. Slowly, all the debris within arms reach rises into the air around him; with a flick of his wrist, he clears the air, sending his projectiles to pound on the approaching tank.\nConsulars are the supreme wielders of the Force, defined and united by the powers they cast. Drawing on the omnipresent Force that permeates the universe, consulars cast powers of rejuvenating healing and destructive lightning, draining life-force and manipulating minds; the most powerful with the Force can even experience brief glimpses of the future.",
       "helpText": "While creating your consular, consider your personal philosophy in regards to the Force and its most famous practitioners - the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path? Perhaps you were ostracized from your primitive village out of superstition or jealousy. You may have been brutally trained from a young age in the dark side, fueling your innate thirst for power, or perhaps you were trained as a padawan in one of the Jedi temples. How do you treat strangers, and how do they treat you once they know your abilities? What was your family like, or what did you have instead of a family? Do you see the Force as light and dark, or an impartial river of gray?",
       "quickBuild": "You can make a consular quickly by following these suggestions. First, make Wisdom or Charisma your highest ability score, followed by Dexterity. Second, choose the Jedi or Sith background.",
       "hitDice": 6,
@@ -1027,14 +1027,14 @@
           10,
           17
         ],
-        "markdown": "At 2nd level, you gain the ability to twist your powers to suit your needs. When you cast a force power, you can expend additional force points to modify the power. You gain two of the following Empowerment options of your choice. You gain another one at 10th and 17th level.\n\nYou can use only one Empowerment option on a power when you cast it, unless otherwise noted."
+        "markdown": "At 2nd level, you gain the ability to twist your powers to suit your needs. When you cast a force power, you can expend additional force points to modify the power. You gain two of the following Empowerment options of your choice. You gain another one at 10th and 17th level.\nYou can use only one Empowerment option on a power when you cast it, unless otherwise noted."
       },
       {
         "name": "Hidden Force",
         "levelEarned": [
           2
         ],
-        "markdown": "Also at 2nd level, you learn how to conceal the casting of your force powers. When you cast a force power, you can choose to conceal the presence of that casting from others. A creature that sees you cast the force power can make an Investigation (Intelligence) check against your universal force save DC. On a success, they can determine that you used the Force in some way. If a creature has the *force sight* force power active, they automatically succeed on this check. A creature that cannot see you automatically fails this check.\n\nYou can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a short or long rest."
+        "markdown": "Also at 2nd level, you learn how to conceal the casting of your force powers. When you cast a force power, you can choose to conceal the presence of that casting from others. A creature that sees you cast the force power can make an Investigation (Intelligence) check against your universal force save DC. On a success, they can determine that you used the Force in some way. If a creature has the *force sight* force power active, they automatically succeed on this check. A creature that cannot see you automatically fails this check.\nYou can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a short or long rest."
       },
       {
         "name": "Consular Tradition",
@@ -1063,7 +1063,7 @@
         "levelEarned": [
           20
         ],
-        "markdown": "At 20th level, your attunement to the Force is absolute. Your Wisdom or Charisma score increases by 4, and your maximum for this score is now 24.\n\nAdditionally, you gain mastery over a single force power, and can cast it with little effort. Choose one 3rd-level force power that you know as your signature power. You can cast it once at 3rd level without expending force points. When you do so, you can't do so again until you finish a short or long rest.\n\nIf you want to cast it at a higher level, you must expend force points as normal."
+        "markdown": "At 20th level, your attunement to the Force is absolute. Your Wisdom or Charisma score increases by 4, and your maximum for this score is now 24.\nAdditionally, you gain mastery over a single force power, and can cast it with little effort. Choose one 3rd-level force power that you know as your signature power. You can cast it once at 3rd level without expending force points. When you do so, you can't do so again until you finish a short or long rest.\nIf you want to cast it at a higher level, you must expend force points as normal."
       }
     ],
     "subClasses": [
@@ -1618,7 +1618,7 @@
       }
     ],
     "createInfo": {
-      "intro": "Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off.\n\nInside, the human captain jumps into the cockpit. She nods to her droid co-pilot, who quickly begins charting a course home. Before the calculations can be completed, enemy Starfighters scream in from the clouds. The pilot rolls the ship, nimbly evading incoming fire. She reroutes the power to shields, leaving just enough for astronavigation. Just as the energy reserves near depletion, the exosphere and stars beyond blur into streaks of light. In a flash, they warp to safety.\n\nA Cerean officer surveys the battlefield, looking for weaknesses. When he identifies a potential problem, he keys in a quick combination in his wristpad. In a blink, a custom suit of armor assembles itself around him. As the helmet locks into place, the officer leaps into the air, flying overhead and raining destruction on the opposition.\n\nEvery machine needs an engineer to run it, and a living crew is no different. Engineers are the experts and professionals who rely on skill, bravery, and their tools to survive and keep others alive. While they do not claim to be fighters, their mere presence can turn the tide of battle or simply keep operations running.",
+      "intro": "Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off.\nInside, the human captain jumps into the cockpit. She nods to her droid co-pilot, who quickly begins charting a course home. Before the calculations can be completed, enemy Starfighters scream in from the clouds. The pilot rolls the ship, nimbly evading incoming fire. She reroutes the power to shields, leaving just enough for astronavigation. Just as the energy reserves near depletion, the exosphere and stars beyond blur into streaks of light. In a flash, they warp to safety.\nA Cerean officer surveys the battlefield, looking for weaknesses. When he identifies a potential problem, he keys in a quick combination in his wristpad. In a blink, a custom suit of armor assembles itself around him. As the helmet locks into place, the officer leaps into the air, flying overhead and raining destruction on the opposition.\nEvery machine needs an engineer to run it, and a living crew is no different. Engineers are the experts and professionals who rely on skill, bravery, and their tools to survive and keep others alive. While they do not claim to be fighters, their mere presence can turn the tide of battle or simply keep operations running.",
       "helpText": "While creating your engineer character, consider what your primary skill set is and how you use it. You could be a street-smart mechanic who taught yourself how to fix swoop bikes as a teenager. Perhaps you are the recent graduate of an esteemed medical college, or a rookie pilot in the fledgling Rebel Alliance. What is the number one skill you are known for? Why are you willing to enter battles when you have no combat training? How do you view the more adventurous members of your group, and how do they see you and your role?",
       "quickBuild": "You can make an engineer quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Constitution. Second, choose the guild artisan background.",
       "hitDice": 8,
@@ -1682,7 +1682,7 @@
         "levelEarned": [
           1
         ],
-        "markdown": "Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\n\n**Tech save DC** = 8 + your proficiency bonus +your Intelligence modifier\n\n**Tech attack modifier** = your proficiency bonus + your Intelligence modifier"
+        "markdown": "Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\n**Tech save DC** = 8 + your proficiency bonus +your Intelligence modifier\n**Tech attack modifier** = your proficiency bonus + your Intelligence modifier"
       },
       {
         "name": "Potent Aptitude",
@@ -1692,14 +1692,14 @@
           10,
           15
         ],
-        "markdown": "Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d6.\n\nOnce within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the DM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost. A creature can have only one Potent Aptitude die at a time\n\nYou can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest\n\nYour Potent Aptitude die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
+        "markdown": "Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d6.\nOnce within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the DM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost. A creature can have only one Potent Aptitude die at a time\nYou can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest\nYour Potent Aptitude die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level."
       },
       {
         "name": "Infuse Item",
         "levelEarned": [
           2
         ],
-        "markdown": "At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.\n\nOnce you've used this feature, you can't use it again until you finish a long rest."
+        "markdown": "At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.\nOnce you've used this feature, you can't use it again until you finish a long rest."
       },
       {
         "name": "Tool Understanding",
@@ -1741,7 +1741,7 @@
         "levelEarned": [
           20
         ],
-        "markdown": "At 20th level, your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores is now 22.\n\nAdditionally, when you roll initiative and have no uses of Potent Aptitude left, you regain one use."
+        "markdown": "At 20th level, your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores is now 22.\nAdditionally, when you roll initiative and have no uses of Potent Aptitude left, you regain one use."
       }
     ],
     "subClasses": [
@@ -2394,7 +2394,7 @@
                   3
                 ],
                 "prerequisite": "",
-                "markdown": "You install dual arm cannons in your droid. The arm cannons have 2 charges. As an action, your droid can use charges to cast the *overload* tech power, using 1 charge per level. The saving throw is made against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus).\n\nYou can choose this upgrade multiple times. Each time you do so, the arm cannons gain another charge, to a maximum of 4. The arm cannons regain all charges after a long rest."
+                "markdown": "You install dual arm cannons in your droid. The arm cannons have 2 charges. As an action, your droid can use charges to cast the *overload* tech power, using 1 charge per level. The saving throw is made against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus).\nYou can choose this upgrade multiple times. Each time you do so, the arm cannons gain another charge, to a maximum of 4. The arm cannons regain all charges after a long rest."
               },
               {
                 "name": "Back-Up Protocol",
@@ -3640,7 +3640,7 @@
       }
     ],
     "createInfo": {
-      "intro": "A Trandoshan runs frantically across rooftops, constantly</span> looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.\n\nWith his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodthirsty crowd. He turns back to his arena opponent just in time to see the Besalisk take a swing. He ducks, punching the four-armed fighter in the gut. Two wild haymakers later, and he stands alone as the gladiatorial champion. \n\nTaking a deep breath, a Republic soldier looks out onto the war zone waging across the frozen surface of Ilum. He grips his blaster rifle tightly then, with a nod to the dozen squad-mates beside him, he charges onto the battlefield. \n\nFighters combine discipline with martial skills to become the best pure warriors in the galaxy. Fighters can be stalwart defenders of those in need, cruel marauders, or brave advent-urers. They fight for glory, honor, to right wrongs, to gain power, to acquire wealth, or simple for the thrill of battle.",
+      "intro": "A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.\nWith his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodthirsty crowd. He turns back to his arena opponent just in time to see the Besalisk take a swing. He ducks, punching the four-armed fighter in the gut. Two wild haymakers later, and he stands alone as the gladiatorial champion. \nTaking a deep breath, a Republic soldier looks out onto the war zone waging across the frozen surface of Ilum. He grips his blaster rifle tightly then, with a nod to the dozen squad-mates beside him, he charges onto the battlefield. \nFighters combine discipline with martial skills to become the best pure warriors in the galaxy. Fighters can be stalwart defenders of those in need, cruel marauders, or brave advent-urers. They fight for glory, honor, to right wrongs, to gain power, to acquire wealth, or simple for the thrill of battle.",
       "quickBuild": "You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability modifier, depending on whether you want to focus on melee combat or on ranged weapons (or finesse weapons). Your next-highest score should be Constitution. Second, choose the soldier background.",
       "helpText": "While creating your fighter character, consider where your loyalties lie. You could be part of a formal military, one of countless troopers fighting for your enterprise. Perhaps you are a gun-for-hire, traveling the galaxy in search of your next gig. What weapons do you prefer and specialize in? Who or what do you fight for? Do you have aspirations of a life beyond the battlefield, or have you been at war so long you know of nothing else?",
       "hitDice": 10,
@@ -3709,7 +3709,7 @@
           1,
           17
         ],
-        "markdown": "Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.\n\nOnce you've used this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
+        "markdown": "Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.\nOnce you've used this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn."
       },
       {
         "name": "Second Wind",
@@ -3730,7 +3730,7 @@
         "levelEarned": [
           2
         ],
-        "markdown": "You learn two maneuvers of your choice, which are detailed under \"Maneuvers\" below, and you earn more at higher levels, as shown in the Maneuvers Known column of the Fighter class table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\n\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one."
+        "markdown": "You learn two maneuvers of your choice, which are detailed under \"Maneuvers\" below, and you earn more at higher levels, as shown in the Maneuvers Known column of the Fighter class table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one."
       },
       {
         "name": "Superiority Dice",
@@ -3744,7 +3744,7 @@
         "levelEarned": [
           2
         ],
-        "markdown": "Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: \n\n**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)"
+        "markdown": "Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: \n**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)"
       },
       {
         "name": "Fighter Speciality",
@@ -3783,21 +3783,21 @@
           9,
           13
         ],
-        "markdown": "Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.\n\nYou can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level."
+        "markdown": "Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.\nYou can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level."
       },
       {
         "name": "Greater Extra Attack",
         "levelEarned": [
           11
         ],
-        "markdown": "Beginning at 11th level, you can attack three times, instead of once, whenever you take the Attack action on your turn.\n\nAdditionally, when you use a bonus action to engage in two-weapon fighting, you can make two attacks instead of one."
+        "markdown": "Beginning at 11th level, you can attack three times, instead of once, whenever you take the Attack action on your turn.\nAdditionally, when you use a bonus action to engage in two-weapon fighting, you can make two attacks instead of one."
       },
       {
         "name": "Master of Combat",
         "levelEarned": [
           20
         ],
-        "markdown": "At 20th level, you are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores is now 22.\n\nAdditionally, you can attack four times, instead of once, whenever you take the Attack action on your turn."
+        "markdown": "At 20th level, you are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores is now 22.\nAdditionally, you can attack four times, instead of once, whenever you take the Attack action on your turn."
       }
     ],
     "subClasses": [
@@ -3932,7 +3932,7 @@
                 "levelEarned": [
                   3
                 ],
-                "markdown": "Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\n\n **Tech Save DC** = 8 + your prociency bonus + your Intelligence modifier\n **Tech Attack Modifier** = your proficiency bonus + your Intelligence modifier"
+                "markdown": "Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\n **Tech Save DC** = 8 + your prociency bonus + your Intelligence modifier\n **Tech Attack Modifier** = your proficiency bonus + your Intelligence modifier"
               },
               {
                 "name": "Techcasting Focus",
@@ -4820,8 +4820,8 @@
     ],
     "classInfo": [
       {
-        "name": "",
-        "value": ""
+        "name": "PROTECTOR OR PREDATOR",
+        "value": "An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons. Their skills with a lightsaber are unrivalled. Subduing their enemies and bolstering their allies, the guardian uses the Force to control what happens around them."
       }
     ],
     "createInfo": {
@@ -4907,28 +4907,28 @@
         "levelEarned": [
           1
         ],
-        "markdown": "Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Guardian class table.\n\nYou may only cast force powers at 5th-level once. You regain the ability to do so after a short or long rest."
+        "markdown": "Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Guardian class table.\nYou may only cast force powers at 5th-level once. You regain the ability to do so after a short or long rest."
       },
       {
         "name": "Forcecasting Ability",
         "levelEarned": [
           1
         ],
-        "markdown": "Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.\n\n**Force save DC** = 8 + your proficiency bonus +your forcecasting ability modifier \n\n**Force attack modifier** = your proficiency bonus +your forcecasting ability modifier"
+        "markdown": "Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.\n**Force save DC** = 8 + your proficiency bonus +your forcecasting ability modifier \n**Force attack modifier** = your proficiency bonus +your forcecasting ability modifier"
       },
       {
         "name": "Channel the Force",
         "levelEarned": [
           1
         ],
-        "markdown": "You know how to channel the Force to create a unique effect. You start with your choice from two such effects: Cause Harm and Lend Aid. At 3rd level, your Guardian Focus grants you an additional effect. When you use your Channel the Force, you choose which effect to create.\n\nSome Channel the Force effects require saving throws. When you use such an effect from this class, the DC equals your force save DC.\n\nYou can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, minimum of once). You regain expended uses when you finish a short or long rest."
+        "markdown": "You know how to channel the Force to create a unique effect. You start with your choice from two such effects: Cause Harm and Lend Aid. At 3rd level, your Guardian Focus grants you an additional effect. When you use your Channel the Force, you choose which effect to create.\nSome Channel the Force effects require saving throws. When you use such an effect from this class, the DC equals your force save DC.\nYou can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, minimum of once). You regain expended uses when you finish a short or long rest."
       },
       {
         "name": "Force-Empowered Strikes",
         "levelEarned": [
           2
         ],
-        "markdown": "Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend force points to deal additional damage to the target. The extra damage is 2d8 for a 1st-level force slot, plus 1d8 for each slot level higher than 1st, to a maximum of 5d8. The damage is the same type as the weapon's damage.\n\nYou can't use a higher level force slot than your Max Power Level."
+        "markdown": "Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend force points to deal additional damage to the target. The extra damage is 2d8 for a 1st-level force slot, plus 1d8 for each slot level higher than 1st, to a maximum of 5d8. The damage is the same type as the weapon's damage.\nYou can't use a higher level force slot than your Max Power Level."
       },
       {
         "name": "Guardian Aura",
@@ -5007,7 +5007,7 @@
             "levelEarned": [
               3
             ],
-            "markdown": "Also at 3rd level, as a bonus action, you can enter a frenetic stance for one minute. While in this stance, the first time you hit a creature with a melee weapon attack on your turn, it has disadvantage on the next melee attack roll it makes against you before the start of your next turn. Additionally, if that creature is within 5 feet of you, it must make a Strength saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just<br> vacated without provoking opportunity attacks.\nThis effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest."
+            "markdown": "Also at 3rd level, as a bonus action, you can enter a frenetic stance for one minute. While in this stance, the first time you hit a creature with a melee weapon attack on your turn, it has disadvantage on the next melee attack roll it makes against you before the start of your next turn. Additionally, if that creature is within 5 feet of you, it must make a Strength saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.\nThis effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest."
           },
           {
             "name": "Unpredictable Motion",
@@ -5862,12 +5862,12 @@
       },
       {
         "name": "Training and Asceticism",
-        "value": "Most monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other power.\n\nThe majority of monks don't shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or brigands.\n\nFor a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth. "
+        "value": "Most monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other power.\nThe majority of monks don't shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or brigands.\nFor a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth. "
       }
     ],
     "createInfo": {
-      "intro": "Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.\n\nTaking a deep breath, a zabrak covered in tattoos settles into a battle stance. As the first charging mercenaries reach him, he exhales and a blast of negative energy courses from his hands, engulfing his foes.\n\nMoving with the silence of the night, a black-clad mirialan steps into a shadow beneath an arch and nimbly climbs to the balcony a stone's throw above her. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the warlord, so vulnerable in the grip of sleep.\n\nWhatever their discipline, monks are united in their ability to harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.",
-      "helpText": "As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?\n\nConsider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?\n\nAs a result of the structured life of a monastic community and the discipline required to harness focus, monks are typically lawful in alignment.",
+      "intro": "Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.\nTaking a deep breath, a zabrak covered in tattoos settles into a battle stance. As the first charging mercenaries reach him, he exhales and a blast of negative energy courses from his hands, engulfing his foes.\nMoving with the silence of the night, a black-clad mirialan steps into a shadow beneath an arch and nimbly climbs to the balcony a stone's throw above her. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the warlord, so vulnerable in the grip of sleep.\nWhatever their discipline, monks are united in their ability to harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.",
+      "helpText": "As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?\nConsider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?\nAs a result of the structured life of a monastic community and the discipline required to harness focus, monks are typically lawful in alignment.",
       "quickBuild": "You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.",
       "hitDice": 8,
       "firstLevelHP": "+ your Constitution Modifier",
@@ -5928,21 +5928,21 @@
         "levelEarned": [
           1
         ],
-        "markdown": "At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are techblades and any simple vibroweapons that don't have the two-handed or heavy property.\n\nYou gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:\n- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.\n- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.\n- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn."
+        "markdown": "At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are techblades and any simple vibroweapons that don't have the two-handed or heavy property.\nYou gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:\n- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.\n- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.\n- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn."
       },
       {
         "name": "Focus",
         "levelEarned": [
           2
         ],
-        "markdown": "Starting at 2nd level, your training allows you to harness the mystic energy of focus. Your access to this energy is represented by a number of focus points. Your monk level determines the number of points you have, as shown in the Focus Points column of the Monk table.\n\nYou can spend these points to fuel various focus features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more focus features as you gain levels in this class.\n\nWhen you spend a focus point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended focus back into yourself. You must spend at least 30 minutes of the rest meditating to regain your focus points.\n\nSome of your focus features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:\n\n**Focus save DC** = 8 + your proficiency bonus + your Wisdom modifier"
+        "markdown": "Starting at 2nd level, your training allows you to harness the mystic energy of focus. Your access to this energy is represented by a number of focus points. Your monk level determines the number of points you have, as shown in the Focus Points column of the Monk table.\nYou can spend these points to fuel various focus features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more focus features as you gain levels in this class.\nWhen you spend a focus point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended focus back into yourself. You must spend at least 30 minutes of the rest meditating to regain your focus points.\nSome of your focus features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:\n**Focus save DC** = 8 + your proficiency bonus + your Wisdom modifier"
       },
       {
         "name": "Unarmored Movement",
         "levelEarned": [
           2
         ],
-        "markdown": "Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.\n\nAt 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move."
+        "markdown": "Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.\nAt 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move."
       },
       {
         "name": "Monastic Order",
@@ -5959,7 +5959,7 @@
         "levelEarned": [
           3
         ],
-        "markdown": "Starting at 3rd level, you can use your reaction to deflect a projectile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d 10 + your Dexterity modifier + your monk level.\n\nIf you reduce the damage to 0, and the damage is energy or ion, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 focus point to make a ranged attack as you deflect the projectile, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the projectile counts as a monk weapon for the attack."
+        "markdown": "Starting at 3rd level, you can use your reaction to deflect a projectile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d 10 + your Dexterity modifier + your monk level.\nIf you reduce the damage to 0, and the damage is energy or ion, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 focus point to make a ranged attack as you deflect the projectile, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the projectile counts as a monk weapon for the attack."
       },
       {
         "name": "Ability Score Improvement",
@@ -6033,7 +6033,7 @@
         "levelEarned": [
           14
         ],
-        "markdown": "Beginning at 14th level, your mastery of focus grants you proficiency in all saving throws.\n\nAdditionally, whenever you make a saving throw and fail, you can spend 1 focus point to reroll it and take the second result."
+        "markdown": "Beginning at 14th level, your mastery of focus grants you proficiency in all saving throws.\nAdditionally, whenever you make a saving throw and fail, you can spend 1 focus point to reroll it and take the second result."
       },
       {
         "name": "Timeless Body",
@@ -6106,7 +6106,7 @@
                 "levelEarned": [
                   3
                 ],
-                "markdown": "You can use a bonus action on your turn to make your ranged attacks with an Echani weapon more deadly. When you do so, any target you hit with a ranged attack using an Echani weapon takes an extra 1d4 damage of the weapon's type. You retain this< benefit until the end of the current turn."
+                "markdown": "You can use a bonus action on your turn to make your ranged attacks with an Echani weapon more deadly. When you do so, any target you hit with a ranged attack using an Echani weapon takes an extra 1d4 damage of the weapon's type. You retain this benefit until the end of the current turn."
               }
             ]
           },
@@ -6177,10 +6177,10 @@
         "levelTable": []
       },
       {
-        "name": "Teräs Käsi Order",
+        "name": "Teras Kasi Order",
         "isExpandedContent": false,
         "isPreviewContent": false,
-        "overview": "Monks of the Teräs Käsi Order are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate focus to heal damage to their bodies, and practice advanced meditation that can protect them from harm.",
+        "overview": "Monks of the Teras Kasi Order are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate focus to heal damage to their bodies, and practice advanced meditation that can protect them from harm.",
         "features": [
           {
             "name": "Open Hand Technique",
@@ -6709,7 +6709,7 @@
       }
     ],
     "createInfo": {
-      "intro": "A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.\n\nWith a wary eye on the door, a scruffy-looking Duros plays pazaak in a seedy cantina. When two city guards appear at the exit, he smiles and reaches under the table. Before they can move in, the smuggler flips the table and opens fire. The crowd scatters in panic, giving him just enough cover to escape. \n\nA gorgeous young human dances before an intoxicated senator in his parlor. She winks enticingly through her golden blonde hair as she sways closer. Leaning in for a kiss, the senator is instead surprised by the barrel of a hold-out blaster pistol shoved into his mouth. He has no time to shout before the assassin pulls the trigger. \n\nOperatives, whether good, bad, or neutral, are those who focus on a specific practice and utilize it to get the upper hand. They can come from any world or region in the galaxy, with origins from the lowliest scoundrel to the once social elite.",
+      "intro": "A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.\nWith a wary eye on the door, a scruffy-looking Duros plays pazaak in a seedy cantina. When two city guards appear at the exit, he smiles and reaches under the table. Before they can move in, the smuggler flips the table and opens fire. The crowd scatters in panic, giving him just enough cover to escape. \nA gorgeous young human dances before an intoxicated senator in his parlor. She winks enticingly through her golden blonde hair as she sways closer. Leaning in for a kiss, the senator is instead surprised by the barrel of a hold-out blaster pistol shoved into his mouth. He has no time to shout before the assassin pulls the trigger. \nOperatives, whether good, bad, or neutral, are those who focus on a specific practice and utilize it to get the upper hand. They can come from any world or region in the galaxy, with origins from the lowliest scoundrel to the once social elite.",
       "quickBuild": "You can make an operative quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Intelligence or Charisma. Second, choose the faction agent background.",
       "helpText": "While creating your operative character, consider how you first started on your path. Maybe you were raised on the street and fell into the criminal element as a means of survival. You could be a simple trader who decided to strike against the Sith Empire when it encroached on your business. What would you say is your greatest skill set? What is your core, the truest essence about yourself that keeps you focused? Why would society treat you as a criminal, yet your allies hold you as a loyal companion?",
       "hitDice": 8,
@@ -6780,21 +6780,21 @@
           1,
           6
         ],
-        "markdown": "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and one of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.\n\nAt 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit."
+        "markdown": "At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and one of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.\nAt 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit."
       },
       {
         "name": "Sneak Attack",
         "levelEarned": [
           1
         ],
-        "markdown": "Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.\n\nYou don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.\n\nThe amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Operative class table."
+        "markdown": "Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.\nYou don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.\nThe amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Operative class table."
       },
       {
         "name": "Bad Feeling",
         "levelEarned": [
           2
         ],
-        "markdown": "Starting at 2nd level, you have a wary eye, bordering on paranoia. When you roll for initiative, you can move up to your speed. This movement happens before the initiative order is determined. \n\nOnce you've used this feature, you can't use it again until you finish a long rest."
+        "markdown": "Starting at 2nd level, you have a wary eye, bordering on paranoia. When you roll for initiative, you can move up to your speed. This movement happens before the initiative order is determined. \nOnce you've used this feature, you can't use it again until you finish a long rest."
       },
       {
         "name": "Cunning Action",
@@ -6872,7 +6872,7 @@
         "levelEarned": [
           20
         ],
-        "markdown": "At 20th level, you have an uncanny knack for succeeding when you need to. Your Dexterity and Intelligence scores increase by 2. Your maximum for those scores is now 22. Additionally, if your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.\n\nOnce you've used this feature, you can't use it again until you finish a short or long rest."
+        "markdown": "At 20th level, you have an uncanny knack for succeeding when you need to. Your Dexterity and Intelligence scores increase by 2. Your maximum for those scores is now 22. Additionally, if your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.\nOnce you've used this feature, you can't use it again until you finish a short or long rest."
       }
     ],
     "subClasses": [
@@ -7744,7 +7744,7 @@
       }
     ],
     "createInfo": {
-      "intro": "An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.\n\nDeep within the once thought abandoned ruins, a nautolan tends to his companions wounds as they rest. Countless long nights of study and training have conditioned him to keep going even when all others have exhausted themselves. He will see them through this.\n\nA twi'lek in fine vestments addresses a gathering crowd. What was the making of an angry mob begins to disperse, his mere presence putting them at ease, giving his companions time to make their escape.\n\nScholars are master of the mundane arts, using methodical practices to turn the tables to their advantage. From years of study and testing, scholars take in the situation around them and quickly formulate the means to achieve whatever they have minds set to. Whatever pursuit they follow, a scholar will have a plan for anything that comes their way.",
+      "intro": "An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.\nDeep within the once thought abandoned ruins, a nautolan tends to his companions wounds as they rest. Countless long nights of study and training have conditioned him to keep going even when all others have exhausted themselves. He will see them through this.\nA twi'lek in fine vestments addresses a gathering crowd. What was the making of an angry mob begins to disperse, his mere presence putting them at ease, giving his companions time to make their escape.\nScholars are master of the mundane arts, using methodical practices to turn the tables to their advantage. From years of study and testing, scholars take in the situation around them and quickly formulate the means to achieve whatever they have minds set to. Whatever pursuit they follow, a scholar will have a plan for anything that comes their way.",
       "quickBuild": "You can make a scholar quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Dexterity. Second, choose the student background if you plan on following the Physician Pursuit, the noble background if you plan on following the Politician Pursuit, or the soldier background if you plan on following the Tactician Pursuit.",
       "helpText": "As you create a scholar, it's important to think of where you gained your knowledge. Did you serve as an apprentice under a master? Did you attend college or other formal education? Perhaps you gained it on your own, searching out and pouring over dusty tomes found in forgotten places. Where did your thirst for knowledge come from? Insatiable curiosity? Always wanting to know the right answer? Or do you have something to prove? Think about what field you wish to pursue and think of what is driving you in that direction.",
       "hitDice": 8,
@@ -7809,21 +7809,21 @@
         "levelEarned": [
           1
         ],
-        "markdown": "You know two maneuvers of your choice, which are detailed under \"Maneuvers\" below, and you earn more at higher levels, as shown in the Maneuvers Known column of the Scholar class table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\n\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one."
+        "markdown": "You know two maneuvers of your choice, which are detailed under \"Maneuvers\" below, and you earn more at higher levels, as shown in the Maneuvers Known column of the Scholar class table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.\nEach time you learn new maneuvers, you can also replace one maneuver you know with a different one."
       },
       {
         "name": "Superiority Dice",
         "levelEarned": [
           1
         ],
-        "markdown": "You have two superiority dice, which are d6s, and you earn more at higher levels, as shown in the Superiority Dice column of the Scholar class table. This die changes as you gain Scholar levels, as shown in the Academic Superiority column of the Scholar table. A superiority die is expended when you use it.\n\nYou regain all of your expended superiority dice when you finish a short or long rest."
+        "markdown": "You have two superiority dice, which are d6s, and you earn more at higher levels, as shown in the Superiority Dice column of the Scholar class table. This die changes as you gain Scholar levels, as shown in the Academic Superiority column of the Scholar table. A superiority die is expended when you use it.\nYou regain all of your expended superiority dice when you finish a short or long rest."
       },
       {
         "name": "Saving Throws",
         "levelEarned": [
           1
         ],
-        "markdown": "Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: \n\n**Maneuver save DC** = 8 + your proficiency bonus + your Intelligence modifier"
+        "markdown": "Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: \n**Maneuver save DC** = 8 + your proficiency bonus + your Intelligence modifier"
       },
       {
         "name": "Critical Analysis",
@@ -7837,21 +7837,21 @@
         "levelEarned": [
           2
         ],
-        "markdown": "As you adventure, your studies have helped you discover new practices you can apply to your skills.\n\nAt 2nd level, you master two discoveries of your choice. Your discovery options are detailed at the end of the class description. When you gain certain scholar levels, you gain additional discoveries of your choice, as shown in the Discoveries column of the Scholar class table.\n\nAdditionally, when you gain a level in this class, you can choose one of the discoveries you know and replace it with another discovery that you could learn at that level."
+        "markdown": "As you adventure, your studies have helped you discover new practices you can apply to your skills.\nAt 2nd level, you master two discoveries of your choice. Your discovery options are detailed at the end of the class description. When you gain certain scholar levels, you gain additional discoveries of your choice, as shown in the Discoveries column of the Scholar class table.\nAdditionally, when you gain a level in this class, you can choose one of the discoveries you know and replace it with another discovery that you could learn at that level."
       },
       {
         "name": "Sage Advice",
         "levelEarned": [
           2
         ],
-        "markdown": "When you reach 2nd level, you can spend 1 minute spreading your knowledge and experience, advising those around you. When you do so, choose a skill or tool you are proficient with and a number of friendly creatures up to your Intelligence modifier within 30 feet of you who can hear you and who can understand you. Once within the next hour, the next time each creature would make an ability check with the chosen skill or tool, they may add their proficiency bonus to the roll if they are not already proficient. A creature may only benefit from this feature once. If a creature is targeted by this feature again before using it, they can choose to retain the first benefit or replace it with the new skill or tool instead.\n\nOnce you've used this feature, you can't use it again until you finish a long rest. Starting at 13th level, you regain the ability to use it after you complete a short or long rest."
+        "markdown": "When you reach 2nd level, you can spend 1 minute spreading your knowledge and experience, advising those around you. When you do so, choose a skill or tool you are proficient with and a number of friendly creatures up to your Intelligence modifier within 30 feet of you who can hear you and who can understand you. Once within the next hour, the next time each creature would make an ability check with the chosen skill or tool, they may add their proficiency bonus to the roll if they are not already proficient. A creature may only benefit from this feature once. If a creature is targeted by this feature again before using it, they can choose to retain the first benefit or replace it with the new skill or tool instead.\nOnce you've used this feature, you can't use it again until you finish a long rest. Starting at 13th level, you regain the ability to use it after you complete a short or long rest."
       },
       {
         "name": "Expertise",
         "levelEarned": [
           3
         ],
-        "markdown": "At 3rd level, choose two of your skill proficiencies, or one of skill proficiencies and one of your tool proficiencies, or two of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.\n\nAt 10th level, you can choose another two proficiencies (in skills or tools) to gain this benefit."
+        "markdown": "At 3rd level, choose two of your skill proficiencies, or one of skill proficiencies and one of your tool proficiencies, or two of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.\nAt 10th level, you can choose another two proficiencies (in skills or tools) to gain this benefit."
       },
       {
         "name": "Academic Pursuit",
@@ -7886,7 +7886,7 @@
         "levelEarned": [
           14
         ],
-        "markdown": "Beginning at 14th level, when you make a saving throw from an effect you can see, you may gain a bonus to the saving throw equal to your Intelligence modifier. \n\nOnce you have used this feature, you must wait until a short or long rest before using it again."
+        "markdown": "Beginning at 14th level, when you make a saving throw from an effect you can see, you may gain a bonus to the saving throw equal to your Intelligence modifier. \nOnce you have used this feature, you must wait until a short or long rest before using it again."
       },
       {
         "name": "Adaptable Intellectual",
@@ -8188,14 +8188,6 @@
                 ],
                 "prerequisite": "12th Level, Physician Pursuit",
                 "markdown": "The range of your Remote Healer feature increases to 60 feet."
-              },
-              {
-                "name": "Experimental Treatments",
-                "levelEarned": [
-                  3
-                ],
-                "prerequisite": "Physician Pursuit",
-                "markdown": ""
               },
               {
                 "name": "Experimental Treatments",
@@ -8657,13 +8649,6 @@
                   3
                 ],
                 "markdown": "When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone."
-              },
-              {
-                "name": "",
-                "levelEarned": [
-                  3
-                ],
-                "markdown": ""
               }
             ]
           },
@@ -9143,7 +9128,7 @@
     "classInfo": [
       {
         "name": "Deadly Hunters",
-        "value": "Warriors in their own right, scouts specialize in tracking and hunting the monsters that threaten civilization-humanoid raiders, rampaging beasts and monstrosities, terrible Force-wielders, and renegade droids. They learn to track their quarry as a predator does, moving stealthily through any terrain and hiding themselves in brush and rubble. Scouts focus their combat training on techniques that are particularly useful against their specific favored foes.\n\nScouts acquire the ability to cast tech powers through utilization of a wristpad. Their powers, like their combat abilities, emphasize speed, stealth, and the hunt. A scout's talents and abilities are honed with deadly focus on the grim task of protecting the civilization."
+        "value": "Warriors in their own right, scouts specialize in tracking and hunting the monsters that threaten civilization-humanoid raiders, rampaging beasts and monstrosities, terrible Force-wielders, and renegade droids. They learn to track their quarry as a predator does, moving stealthily through any terrain and hiding themselves in brush and rubble. Scouts focus their combat training on techniques that are particularly useful against their specific favored foes.\nScouts acquire the ability to cast tech powers through utilization of a wristpad. Their powers, like their combat abilities, emphasize speed, stealth, and the hunt. A scout's talents and abilities are honed with deadly focus on the grim task of protecting the civilization."
       },
       {
         "name": "Independent Adventurers",
@@ -9151,9 +9136,9 @@
       }
     ],
     "createInfo": {
-      "intro": "Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.\n\nAfter tumbling away from the shrapnel of a missile's explosion, a bothan finds her feet and quick-fires two shots from her carbine at the oncoming tank. Shrugging off the wave of fear that threatens to permeate her entire being, she strafes around her foe, firing shot after shot to try to penetrate the tank's thick armor.\n\nGlancing at his wristpad, a sullustan looks through the eyes of his tracker droid. Transmitting instructions, he sends his droid to distract the houk he's been tracking while he readies his sniper rifle for the shot.\n\nScouts are the first on the trail and the last to lose it, tracking their quarry for miles unimpeded. They are adaptable, wielding both tech powers and their weaponry to overcome their foes.",
+      "intro": "Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.\nAfter tumbling away from the shrapnel of a missile's explosion, a bothan finds her feet and quick-fires two shots from her carbine at the oncoming tank. Shrugging off the wave of fear that threatens to permeate her entire being, she strafes around her foe, firing shot after shot to try to penetrate the tank's thick armor.\nGlancing at his wristpad, a sullustan looks through the eyes of his tracker droid. Transmitting instructions, he sends his droid to distract the houk he's been tracking while he readies his sniper rifle for the shot.\nScouts are the first on the trail and the last to lose it, tracking their quarry for miles unimpeded. They are adaptable, wielding both tech powers and their weaponry to overcome their foes.",
       "quickBuild": "You can make a scout quickly by following these suggestions. First, make Strength or Dexterity your highest ability modifier, depending on whether you want to focus on melee combat or on ranged weapons (or finesse weapons). Your next-highest score should be Intelligence. Second, choose the bounty hunter background.",
-      "helpText": "As you create your scout character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, tracking together until you mastered the scout's ways? Did you leave your apprenticeship, or was your mentor slain-perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of mercenaries. \n\nWhat's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work, or a significant change?\n\nWhat made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?",
+      "helpText": "As you create your scout character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, tracking together until you mastered the scout's ways? Did you leave your apprenticeship, or was your mentor slain-perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of mercenaries. \nWhat's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work, or a significant change?\nWhat made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?",
       "hitDice": 10,
       "firstLevelHP": "+ your Constitution Modifier",
       "atHigherLevels": "(or 6) + your Constitution modifier per scout level after 1st",
@@ -9212,14 +9197,14 @@
         "levelEarned": [
           1
         ],
-        "markdown": "Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.\n\nChoose a type of favored enemy: beasts, constructs, droids, force-wielders, or humanoids. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them. \n\nWhen you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn."
+        "markdown": "Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.\nChoose a type of favored enemy: beasts, constructs, droids, force-wielders, or humanoids. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them. \nWhen you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn."
       },
       {
         "name": "Skilled Explorer",
         "levelEarned": [
           1
         ],
-        "markdown": "You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits: \n- You ignore difficult terrain\n- You have advantage on initiative rolls. \n- On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted. \n\nIn addition, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more: \n- Difficult terrain doesn't slow your group's travel. \n- Your group can't become lost by unenhanced means. \n- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger. \n- If you are traveling alone, you can move stealthily at a normal pace. \n- When you forage, you find twice as much food as you normally would. \n- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area."
+        "markdown": "You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits: \n- You ignore difficult terrain\n- You have advantage on initiative rolls. \n- On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted. \nIn addition, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more: \n- Difficult terrain doesn't slow your group's travel. \n- Your group can't become lost by unenhanced means. \n- Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger. \n- If you are traveling alone, you can move stealthily at a normal pace. \n- When you forage, you find twice as much food as you normally would. \n- While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area."
       },
       {
         "name": "Fighting Style",
@@ -9254,14 +9239,14 @@
         "levelEarned": [
           2
         ],
-        "markdown": "Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Scout class table.\n\nYou may only cast tech powers at 4th and 5th-level once. You regain the ability to do so after a short or long rest."
+        "markdown": "Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Scout class table.\nYou may only cast tech powers at 4th and 5th-level once. You regain the ability to do so after a short or long rest."
       },
       {
         "name": "Techcasting Ability",
         "levelEarned": [
           2
         ],
-        "markdown": "Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\n\n**Tech save DC** = 8 + your proficiency bonus +your Intelligence modifier\n**Tech attack modifier** = your proficiency bonus +your Intelligence modifier"
+        "markdown": "Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.\n**Tech save DC** = 8 + your proficiency bonus +your Intelligence modifier\n**Tech attack modifier** = your proficiency bonus +your Intelligence modifier"
       },
       {
         "name": "Techcasting Focus",
@@ -9275,7 +9260,7 @@
         "levelEarned": [
           3
         ],
-        "markdown": "Beginning at 3rd level, you learn to establish a link to beasts and to the land around you. \n\nThrough sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes. \n\nAdditionally, you can use your wristpad to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a power), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group."
+        "markdown": "Beginning at 3rd level, you learn to establish a link to beasts and to the land around you. \nThrough sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes. \nAdditionally, you can use your wristpad to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a power), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group."
       },
       {
         "name": "Scout Technique",
@@ -9310,7 +9295,7 @@
         "levelEarned": [
           6
         ],
-        "markdown": "At 6th level, you are ready to hunt even deadlier game. Choose a second type of favored enemy. You gain all the benefits against this chosen enemy that you gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4. \n\nAdditionally, you have advantage on saving throws against the powers and abilities used by a greater favored enemy."
+        "markdown": "At 6th level, you are ready to hunt even deadlier game. Choose a second type of favored enemy. You gain all the benefits against this chosen enemy that you gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4. \nAdditionally, you have advantage on saving throws against the powers and abilities used by a greater favored enemy."
       },
       {
         "name": "Fleet of Foot",
@@ -9324,7 +9309,7 @@
         "levelEarned": [
           10
         ],
-        "markdown": "Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes. \n\nWhen you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or bec-ause of some external effect. You are still automat-ically detected if any effect or action causes you to no longer be hidden. \n\nIf you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected."
+        "markdown": "Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes. \nWhen you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or bec-ause of some external effect. You are still automat-ically detected if any effect or action causes you to no longer be hidden. \nIf you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected."
       },
       {
         "name": "Vanish",
@@ -9338,14 +9323,14 @@
         "levelEarned": [
           18
         ],
-        "markdown": "At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. \n\nYou are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened."
+        "markdown": "At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. \nYou are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened."
       },
       {
         "name": "Foe Slayer",
         "levelEarned": [
           20
         ],
-        "markdown": "At 20th level, you become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores is now 22. \n\nAdditionally, once on each of your turns, you can add your Intelligence modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied."
+        "markdown": "At 20th level, you become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores is now 22. \nAdditionally, once on each of your turns, you can add your Intelligence modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied."
       }
     ],
     "subClasses": [
@@ -9353,7 +9338,7 @@
         "name": "Deadeye Technique",
         "isExpandedContent": false,
         "isPreviewContent": false,
-        "overview": "",
+        "overview": "Followers of the Deadeye Technique the art of the blaster shot and utilize their incredible focus to make shots that most would deem impossible. When everything depends on one shot, you want a Deadeye pulling the trigger.\nDue to their uncanny focus, Deadeyes can make shots that other marksmen would never dare to attempt. Deadeyes know how to make the most of ranged weapons and can use them to greater effect than other Scouts.",
         "features": [
           {
             "name": "Focused Superiority",
@@ -9403,13 +9388,6 @@
               15
             ],
             "markdown": "At 15th level, you have become a master at protecting your allies from afar. When a creature attempts to make an opportunity attack against an allied creature, or forces your ally to make a saving throw, you can use your reaction to make an attack roll against the enemy creature. \nIf your attack hits, either impose disadvantage on the enemy creature's opportunity attack roll or grant advantage to any allies making the saving throw."
-          },
-          {
-            "name": "",
-            "levelEarned": [
-              3
-            ],
-            "markdown": ""
           }
         ],
         "featureGroups": [
@@ -9760,14 +9738,14 @@
             "levelEarned": [
               3
             ],
-            "markdown": "Also at 3rd level, when you take the Attack action against a creature that is surprised, you can make<br> one additional attack against that creature as a<br> part of that action."
+            "markdown": "Also at 3rd level, when you take the Attack action against a creature that is surprised, you can make one additional attack against that creature as a part of that action."
           },
           {
             "name": "Accomplished Ambusher",
             "levelEarned": [
               3
             ],
-            "markdown": "Also at 3rd level, when you take the Attack action against a creature that is surprised, you can make<br> one additional attack against that creature as a<br> part of that action."
+            "markdown": "Also at 3rd level, when you take the Attack action against a creature that is surprised, you can make one additional attack against that creature as a part of that action."
           },
           {
             "name": "Concealment",
@@ -9781,7 +9759,7 @@
             "levelEarned": [
               11
             ],
-            "markdown": "Starting at 11th level, if you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target<br> as a bonus action."
+            "markdown": "Starting at 11th level, if you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action."
           },
           {
             "name": "Stalker's Dodge",
@@ -10147,7 +10125,7 @@
       }
     ],
     "createInfo": {
-      "intro": "Clad in black robes, the rattataki pulls his hood forward and steps into the shadowy alcove, only to reappear further down the hall. As his quarry walks past, he presses the hilt of his lightsaber to the back of their head, quickly toggling it on-and-off. He is gone before the corpse hits the ground.\n\nThe togruta dashes across the battlefield, doublesaber deflecting blaster shots to the ground. She pulls her wounded padawan to her feet, and guides her away from the warzone.\n\nGreen-bladed lightsaber a blur, the cathar ferociously presses the attack. With each strike, she guides her opponent closer to the ravine's edge. A flurry of blows followed by a quick *force push* and her foe tumbles over the edge.\n\nSentinels are the masters of blending force powers with weapon attacks. They weave the two together so expertly that their foes have trouble predicting them.",
+      "intro": "Clad in black robes, the rattataki pulls his hood forward and steps into the shadowy alcove, only to reappear further down the hall. As his quarry walks past, he presses the hilt of his lightsaber to the back of their head, quickly toggling it on-and-off. He is gone before the corpse hits the ground.\nThe togruta dashes across the battlefield, doublesaber deflecting blaster shots to the ground. She pulls her wounded padawan to her feet, and guides her away from the warzone.\nGreen-bladed lightsaber a blur, the cathar ferociously presses the attack. With each strike, she guides her opponent closer to the ravine's edge. A flurry of blows followed by a quick *force push* and her foe tumbles over the edge.\nSentinels are the masters of blending force powers with weapon attacks. They weave the two together so expertly that their foes have trouble predicting them.",
       "quickBuild": "You can make a sentinel quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom or Charisma. Second, choose the Jedi or Sith background.",
       "helpText": "While creating your sentinel, consider your personal philosophy in regards to the Force and its most famous practitioners - the Jedi and the Sith.  Are you a member of one of the two orders, or do you walk a different path? Are you an operative tapping into a latent Force-sensitivity? Were you trained in the force from a young age, or did you discover it as an adult? How do you treat those weaker than you? What was your family like? Do you see the Force as light and dark, or an impartial river of gray?",
       "hitDice": 8,
@@ -10239,7 +10217,7 @@
         "levelEarned": [
           1
         ],
-        "markdown": "Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Sentinel class table.\n\nYou may only cast force powers at 5th, 6th, and 7th-level once. You regain the ability to do so after a short or long rest."
+        "markdown": "Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Sentinel class table.\nYou may only cast force powers at 5th, 6th, and 7th-level once. You regain the ability to do so after a short or long rest."
       },
       {
         "name": "Forcecasting Ability",
@@ -10253,7 +10231,7 @@
         "levelEarned": [
           1
         ],
-        "markdown": "At 1st level, you've learned how to blend your weapon attacks with unarmed strikes while wielding sentinel weapons, which are weapon proficiencies granted by this class.\n\nYou gain the following benefits while you are unarmed or wielding only sentinel weapons and you aren't wearing medium or heavy armor or wielding a heavy shield:\n- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and sentinel weapons.\n- You can roll a d4 in place of the normal damage of your unarmed strike or sentinel weapon. This die changes as you gain sentinel levels, as shown in the Kinetic Combat Damage Die column of the Sentinel table.\n- When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can make one unarmed strike or sentinel weapon attack as a bonus action. This attack deals damage equal to your Kinetic Combat Damage Die."
+        "markdown": "At 1st level, you've learned how to blend your weapon attacks with unarmed strikes while wielding sentinel weapons, which are weapon proficiencies granted by this class.\nYou gain the following benefits while you are unarmed or wielding only sentinel weapons and you aren't wearing medium or heavy armor or wielding a heavy shield:\n- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and sentinel weapons.\n- You can roll a d4 in place of the normal damage of your unarmed strike or sentinel weapon. This die changes as you gain sentinel levels, as shown in the Kinetic Combat Damage Die column of the Sentinel table.\n- When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can make one unarmed strike or sentinel weapon attack as a bonus action. This attack deals damage equal to your Kinetic Combat Damage Die."
       },
       {
         "name": "Force-Empowered Self",
@@ -10269,7 +10247,7 @@
           11,
           17
         ],
-        "markdown": "Also at 2nd level, you can take advantage of brief lulls in combat to redouble your focus. As an action, you can meditate for a moment to regain a number of force points equal to your Wisdom or Charisma modifier (your choice, minimum of one).\n\nOnce you've used this feature, you must finish a long rest before you can use it again. Starting at 11th level, you can use it twice before a rest. Starting at 17th level, you can use it three times."
+        "markdown": "Also at 2nd level, you can take advantage of brief lulls in combat to redouble your focus. As an action, you can meditate for a moment to regain a number of force points equal to your Wisdom or Charisma modifier (your choice, minimum of one).\nOnce you've used this feature, you must finish a long rest before you can use it again. Starting at 11th level, you can use it twice before a rest. Starting at 17th level, you can use it three times."
       },
       {
         "name": "Sentinel Calling",
@@ -10318,7 +10296,7 @@
         "levelEarned": [
           20
         ],
-        "markdown": "At 20th level, you are perfectly centered with the Force. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores is now 22.\n\nAdditionally, once per turn, when you would roll a Kinetic Combat Damage Die, you can instead choose the maximum."
+        "markdown": "At 20th level, you are perfectly centered with the Force. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores is now 22.\nAdditionally, once per turn, when you would roll a Kinetic Combat Damage Die, you can instead choose the maximum."
       }
     ],
     "subClasses": [
@@ -10681,6 +10659,7 @@
         "level": 6,
         "proficiencyBonus": 3,
         "features": [],
+		"kineticDice": 6,
         "forcePowersKnown": 13,
         "forcePoints": 18,
         "maxPowerLevel": 3
@@ -10762,6 +10741,7 @@
         "level": 14,
         "proficiencyBonus": 5,
         "features": [],
+		"kineticDice": 8,
         "forcePowersKnown": 24,
         "forcePoints": 42,
         "maxPowerLevel": 6
