@@ -10,7 +10,7 @@ SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works w
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|Player Book | In Progress | nothing to try yet |
+|Player Book | In Progress | pre-pre-alpha state. Many issues. |
 |NPC Book | Released | Give it a try |
 |Ruleset Extension | Released | Ready to go |
 
