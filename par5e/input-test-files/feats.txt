@@ -1,9 +1,0 @@
-##;DEFENSIVE DUELIST
-Prerequisite: Dexterity 13 or higher
-When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
-##;ATHLETE
-You have undergone extensive physical training to gain the following benefits:
-#ls;
-#li;Increase your Strength or Dexterity score by 1, to a maximum of 20.
-#li;When you are prone, standing up uses only 5 feet of your movement.
-#le;
