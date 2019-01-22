@@ -6,11 +6,11 @@
 -- does not imply any association with the trademark holder of their product brand.
 
 function onInit()
-	-- Languages. 
 	--Debug.console("languages...");
 	--Debug.console(GameSystem.languages);
-	--Debug.console("language fonts...");
-	--Debug.console(GameSystem.languagefonts);
+	-- Languages. 
+	currencies = { "cr" };
+
 	languagefonts = {
 		["Galactic Basic"] = "Common",
 		["Bith"] = "Primordial",
@@ -158,5 +158,6 @@ function onInit()
 	DataCommon.class_valuetoname = class_valuetoname;
 	GameSystem.languages = languages;
 	GameSystem.languagefonts = languagefonts;
+	GameSystem.currencies = currencies;
 
 end
