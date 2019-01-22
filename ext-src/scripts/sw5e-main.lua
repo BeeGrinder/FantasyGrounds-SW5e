@@ -6,6 +6,48 @@
 -- does not imply any association with the trademark holder of their product brand.
 
 function onInit()
+	-- Languages. 
+	--Debug.console("languages...");
+	--Debug.console(GameSystem.languages);
+	--Debug.console("language fonts...");
+	--Debug.console(GameSystem.languagefonts);
+	languagefonts = {
+		["Galactic Basic"] = "Common",
+		["Bith"] = "Primordial",
+		["Bothese"] = "Elven",
+		["Cheunh"] = "Draconic",
+		["Durese"] = "Celestial",
+		["Huttese"] = "Infernal",
+		["Jawaese"] = "Primordial",
+		["Kel Dor"] = "Elven",
+		["Mon Cal"] = "Draconic",
+		["Rodese"] = "Dwarven",
+		["Sith"] = "Infernal",
+		["Togruti"] = "Primordial",
+		["Dosh"] = "Elven",
+		["Twi'leki"] = "Draconic",
+		["Shyriiwook"] = "Dwarven",
+		["Zabraki"] = "Infernal",
+	};
+	
+	languages = {
+		["Galactic Basic"] = "Common",
+		["Bith"] = "Primordial",
+		["Bothese"] = "Elven",
+		["Cheunh"] = "Draconic",
+		["Durese"] = "Celestial",
+		["Huttese"] = "Infernal",
+		["Jawaese"] = "Primordial",
+		["Kel Dor"] = "Elven",
+		["Mon Cal"] = "Draconic",
+		["Rodese"] = "Dwarven",
+		["Sith"] = "Infernal",
+		["Togruti"] = "Primordial",
+		["Dosh"] = "Elven",
+		["Twi'leki"] = "Draconic",
+		["Shyriiwook"] = "Dwarven",
+		["Zabraki"] = "Infernal",
+	};
 	-- Skills.  Added computer Use, Demolitions, Engineering ans Sciences.
 	skilldata = {
 		[Interface.getString("skill_value_acrobatics")] = { lookup = "acrobatics", stat = 'dexterity' },
@@ -114,4 +156,7 @@ function onInit()
 	DataCommon.classes = classes;
 	DataCommon.class_nametovalue = class_nametovalue;
 	DataCommon.class_valuetoname = class_valuetoname;
+	GameSystem.languages = languages;
+	GameSystem.languagefonts = languagefonts;
+
 end
