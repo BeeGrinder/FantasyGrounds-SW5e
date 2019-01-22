@@ -11,12 +11,12 @@
 		<name>SW5e</name>
 		<version>0.1</version>
 		<author>BeeGrinder</author>
-		<description>Community Extension for OGL "Homebrew" Star Wars themed game SW5e.</description>
+		<description>SW5e. A Community Extension for "Homebrew" Star Wars themed games.</description>
 		<ruleset>
 			<name>5E</name>
 		</ruleset>
 	</properties>
-	<announcement text="SW5e rule extension. SW5e can be found here: http://star-wars-5e.azurewebsites.net/  Contains OGL material only.  A copy of the 5E OGL can be found here: http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf" font="emotefont" icon=""/> 
+	<announcement text="SW5e rule extension. SW5e can be found here: http://star-wars-5e.azurewebsites.net/ " font="emotefont" icon=""/> 
 	<base>
 		<!-- Strings -->
 		<includefile source="strings/strings_SW5e.xml" />

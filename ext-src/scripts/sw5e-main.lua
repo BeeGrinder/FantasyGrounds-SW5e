@@ -8,30 +8,37 @@
 function onInit()
 	--Debug.console("languages...");
 	--Debug.console(GameSystem.languages);
-	-- Languages. 
-	currencies = { "cr" };
-
-	languagefonts = {
-		["Galactic Basic"] = "Common",
-		["Bith"] = "Primordial",
-		["Bothese"] = "Elven",
-		["Cheunh"] = "Draconic",
-		["Durese"] = "Celestial",
-		["Huttese"] = "Infernal",
-		["Jawaese"] = "Primordial",
-		["Kel Dor"] = "Elven",
-		["Mon Cal"] = "Draconic",
-		["Rodese"] = "Dwarven",
-		["Sith"] = "Infernal",
-		["Togruti"] = "Primordial",
-		["Dosh"] = "Elven",
-		["Twi'leki"] = "Draconic",
-		["Shyriiwook"] = "Dwarven",
-		["Zabraki"] = "Infernal",
+	
+	-- Damage Types
+	dmgtypes = {
+		Interface.getString("damage_value_kinetic"), -- SW5e Damage Types
+		Interface.getString("damage_value_ion"),
+		Interface.getString("damage_value_energy"),
+		Interface.getString("damage_value_sonic"),
+		"acid",		-- Classic TYPES
+		"cold",
+		"fire",
+		"force",
+		"lightning",
+		"necrotic",
+		"poison",
+		"psychic",
+		"radiant",
+		"thunder",
+		"adamantine", 	-- WEAPON PROPERTY DAMAGE TYPES
+		"bludgeoning",
+		"cold-forged iron",
+		"magic",
+		"piercing",
+		"silver",
+		"slashing",
+		"critical", -- SPECIAL DAMAGE TYPES
 	};
 	
+	-- Languages. 
+
 	languages = {
-		["Galactic Basic"] = "Common",
+		["Galactic Basic"] = "",
 		["Bith"] = "Primordial",
 		["Bothese"] = "Elven",
 		["Cheunh"] = "Draconic",
@@ -41,7 +48,7 @@ function onInit()
 		["Kel Dor"] = "Elven",
 		["Mon Cal"] = "Draconic",
 		["Rodese"] = "Dwarven",
-		["Sith"] = "Infernal",
+		["Sith"] = "",
 		["Togruti"] = "Primordial",
 		["Dosh"] = "Elven",
 		["Twi'leki"] = "Draconic",
@@ -55,6 +62,7 @@ function onInit()
 		[Interface.getString("skill_value_lore")] = { lookup = "lore", stat = 'intelligence' },
 		[Interface.getString("skill_value_athletics")] = { lookup = "athletics", stat = 'strength' },
 		[Interface.getString("skill_value_piloting")] = { lookup = "piloting", stat = 'intelligence' },
+		[Interface.getString("skill_value_computeruse")] = { lookup = "computeruse", stat = 'intelligence' },
 		[Interface.getString("skill_value_deception")] = { lookup = "deception", stat = 'charisma' },
 		[Interface.getString("skill_value_technology")] = { lookup = "technology", stat = 'intelligence' },
 		[Interface.getString("skill_value_insight")] = { lookup = "insight", stat = 'wisdom' },
@@ -76,6 +84,7 @@ function onInit()
 		Interface.getString("skill_value_animalhandling"),
 		Interface.getString("skill_value_lore"),
 		Interface.getString("skill_value_athletics"),
+		Interface.getString("skill_value_piloting"),
 		Interface.getString("skill_value_computeruse"),
 		Interface.getString("skill_value_deception"),
 		Interface.getString("skill_value_technology"),
@@ -93,12 +102,12 @@ function onInit()
 	};
 
 	classes = {
-		"berserker",
-		"consular",
-		"engineer",
-		"fighter",
-		"guardian",
-		"monk",
+		Interface.getString("class_value_berserker"),
+		Interface.getString("class_value_consular"),
+		Interface.getString("class_value_engineer"),
+		Interface.getString("class_value_fighter"),
+		Interface.getString("class_value_guardian"),
+		Interface.getString("class_value_monk"),
 		"operative",
 		"scholar",
 		"scout",
@@ -132,8 +141,8 @@ function onInit()
 	};
 
 	creaturetype = {
-		"droid",
-		"force-wielder",
+		Interface.getString("creature_value_droid"),
+		Interface.getString("creature_value_forcewielder"),
 		"aberration",
 		"beast",
 		"celestial",
@@ -150,6 +159,7 @@ function onInit()
 		"undead",
 	};
 	-- "Push" data changes in this file to the DataCommon package - overwriting the original base data.
+	DataCommon.dmgtypes=dmgtypes;
 	DataCommon.skilldata = skilldata;
 	DataCommon.psskilldata = psskilldata;
 	DataCommon.creaturetype = creaturetype;
@@ -157,7 +167,8 @@ function onInit()
 	DataCommon.class_nametovalue = class_nametovalue;
 	DataCommon.class_valuetoname = class_valuetoname;
 	GameSystem.languages = languages;
-	GameSystem.languagefonts = languagefonts;
 	GameSystem.currencies = currencies;
+	GameSystem.currencies = { Interface.getString("currency_value_cr") };
+	GameSystem.currencyDefault = Interface.getString("currency_value_cr");
 
 end
