@@ -2,25 +2,32 @@
 # FantasyGrounds-SW5e
 #### A FantasyGrounds module to implement SW5e game
 
-#### User Information
-
 SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works within the 5e ruleset.
 
 [SW5e Website](http://star-wars-5e.azurewebsites.net/)
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|Player Book | In Progress | pre-pre-alpha state. Many issues. |
+|Player Book | In Progress | alpha state. Many issues. |
 |NPC Book | Released | Give it a try |
 |Ruleset Extension | Released | Ready to go |
 
-When creating your new campaign in FG for SW5e, select the 5e ruleset.  All the SW5e content is dependent on the base 5e ruleset.  Note: It's best to only load SW5e modules and extensions. Other modules may contain 5e NPCs, Classes, etc. that are not compatible with the SW5e modified rules.
+### Fantasy Grounds User Information
 
-To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+#### Installation
 
-To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.
+* To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+* To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.
 
-#### Developer Information
+#### Creating your sw5e campaign
+
+* When creating your new campaign in FG for SW5e, select the 5e ruleset (All the SW5e content is dependent on the base 5e ruleset).
+* Once you select the 5e rule set, the sw5e extenstion will appear in the extension window.  Select it.
+
+  Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
+* Once your campaign opens, go to *__Library__* then *__Modules__* and open both *__SW5e Player Book__* and *__SW5e NPC Manual__*.
+
+### Developer Information
 
 The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content.</p>
 
