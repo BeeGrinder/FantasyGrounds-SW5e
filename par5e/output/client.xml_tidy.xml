@@ -13293,7 +13293,7 @@
     </backgroundlists>
     <classdata>
       <berserker>
-        <name type="string">BERSERKER</name>
+        <name type="string">Berserker</name>
         <text type="formattedtext">
           <h>Berserker</h>
           <p>A massive wookiee hunter prowls through the forest, hefting his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin.</p>
@@ -14043,7 +14043,7 @@
         </equipment>
       </berserker>
       <consular>
-        <name type="string">CONSULAR</name>
+        <name type="string">Consular</name>
         <text type="formattedtext">
           <h>Consular</h>
           <p>A twi'lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his fingers, illuminating his red and black tattoos. The rodian's pleas for mercy fall on deaf ears as the Sith channels his lightning into his failed apprentice, leaving nothing but a charred husk behind.</p>
@@ -14632,7 +14632,7 @@
         </equipment>
       </consular>
       <engineer>
-        <name type="string">ENGINEER</name>
+        <name type="string">Engineer</name>
         <text type="formattedtext">
           <h>Engineer</h>
           <p>Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off.</p>
@@ -16062,7 +16062,7 @@
         </equipment>
       </engineer>
       <fighter>
-        <name type="string">FIGHTER</name>
+        <name type="string">Fighter</name>
         <text type="formattedtext">
           <h>Fighter</h>
           <p>A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.</p>
@@ -16759,7 +16759,7 @@
         </equipment>
       </fighter>
       <guardian>
-        <name type="string">GUARDIAN</name>
+        <name type="string">Guardian</name>
         <text type="formattedtext">
           <h>Guardian</h>
           <p>While creating your guardian, consider your attraction to the Force and its most famous practitioners - the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path? Are you a soldier tapping into a latent Force-sensitivity? Were you trained in the force from a young age, or did you discover it as an adult? How do you treat those weaker than you? What was your family like? Do you see the Force as light and dark, or an impartial river of gray?</p>
@@ -17439,7 +17439,7 @@
         </equipment>
       </guardian>
       <monk>
-        <name type="string">MONK</name>
+        <name type="string">Monk</name>
         <text type="formattedtext">
           <h>Monk</h>
           <p>Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.</p>
@@ -18126,7 +18126,7 @@
         </equipment>
       </monk>
       <operative>
-        <name type="string">OPERATIVE</name>
+        <name type="string">Operative</name>
         <text type="formattedtext">
           <h>Operative</h>
           <p>A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.</p>
@@ -18785,7 +18785,7 @@
         </equipment>
       </operative>
       <scholar>
-        <name type="string">SCHOLAR</name>
+        <name type="string">Scholar</name>
         <text type="formattedtext">
           <h>Scholar</h>
           <p>An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.</p>
@@ -19902,7 +19902,7 @@
         </equipment>
       </scholar>
       <scout>
-        <name type="string">SCOUT</name>
+        <name type="string">Scout</name>
         <text type="formattedtext">
           <h>Scout</h>
           <p>Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.</p>
@@ -20761,7 +20761,7 @@
         </equipment>
       </scout>
       <sentinel>
-        <name type="string">SENTINEL</name>
+        <name type="string">Sentinel</name>
         <text type="formattedtext">
           <h>Sentinel</h>
           <p>Clad in black robes, the rattataki pulls his hood forward and steps into the shadowy alcove, only to reappear further down the hall. As his quarry walks past, he presses the hilt of his lightsaber to the back of their head, quickly toggling it on-and-off. He is gone before the corpse hits the ground.</p>

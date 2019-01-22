@@ -1,4 +1,4 @@
-##;BERSERKER
+##;Berserker
 #h;Berserker
 A massive wookiee hunter prowls through the forest, hefting his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin.
 A gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals. 
@@ -178,7 +178,7 @@ Starting at 10th level, you learn to are up your allies' drive for combat, urgin
 By 14th level you have memorized the litanies, songs, and chants of your people and their dedication to war. When you enter a rage you can take a commanding stance. If you do so, for the duration of your rage you have a special reaction you can take on a number of allies' turns equal to your Charisma modier (minimum of one). You can only use this special reaction to use your Commanding Rage feature.
 Additionally, during this rage, when an enemy within 10 feet of you makes an attack roll against an ally, you can use your reaction to reduce that roll by an amount equal to your Charisma modier.
 Once you've used this feature, you must complete a long rest before you can use it again.
-##;CONSULAR
+##;Consular
 #h;Consular
 A twi'lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his fingers, illuminating his red and black tattoos. The rodian's pleas for mercy fall on deaf ears as the Sith channels his lightning into his failed apprentice, leaving nothing but a charred husk behind.
 Sitting cross-legged on a dense patch of grass, a miraluka mystic meditates on the Force. With every breath, the trees sway with a rhythmic breeze. Though she lacks simple vision, she can see the Force as it moves everything around her.
@@ -297,7 +297,7 @@ At 14th level you gain the ability to overcome grievous injuries. As a bonus act
 Once you've used this feature, you can't use it again until you nish a long rest.
 #abf;SUPREME HEALING;18
 Starting at 18th level, when you would normally roll one or more dice to restore hit points with a power, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
-##;ENGINEER
+##;Engineer
 #h;Engineer
 Flinching occasionally as a blaster bolt hits the nearby bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off.
 Inside, the human captain jumps into the cockpit. She nods to her droid co-pilot, who quickly begins charting a course home. Before the calculations can be completed, enemy Starfighters scream in from the clouds. The pilot rolls the ship, nimbly evading incoming fire. She reroutes the power to shields, leaving just enough for astronavigation. Just as the energy reserves near depletion, the exosphere and stars beyond blur into streaks of light. In a flash, they warp to safety.
@@ -662,7 +662,7 @@ Your droid learns two at-will tech powers, and one 1st-level tech power, which i
 You upgrade the durability module in your droid, granting the following benefit:
  * Your droid becomes proficient in Constitution saving throws. If it is already proficient, it becomes proficient in another saving throw of your choice.
  * Whenever your droid takes the Dodge action in combat, it can spend one Hit Die to heal itself. Roll the die, add its Constitution modifier, and it regains a number of hit points equal to the total (minimum of one).
-##;FIGHTER
+##;Fighter
 #h;Fighter
 A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.
 With his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodthirsty crowd. He turns back to his arena opponent just in time to see the Besalisk take a swing. He ducks, punching the four-armed fighter in the gut. Two wild haymakers later, and he stands alone as the gladiatorial champion. 
@@ -817,7 +817,7 @@ You learn two additional maneuvers of your choice, and you earn more at higher l
 #abf;ADDITIONAL SUPERIORITY DICE;3
 You have two additional superiority dice, and you earn more at higher levels, as shown in the Superiority Dice column of the Tactical Specialist Combat Superiority table.
 Additionally, your superiority dice become d6s. This die changes as you gain Fighter levels, as shown in the Combat Superiority column of the Tactical Specialist Combat Superiority table
-##;GUARDIAN
+##;Guardian
 #h;Guardian
 While creating your guardian, consider your attraction to the Force and its most famous practitioners - the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path? Are you a soldier tapping into a latent Force-sensitivity? Were you trained in the force from a young age, or did you discover it as an adult? How do you treat those weaker than you? What was your family like? Do you see the Force as light and dark, or an impartial river of gray?
 #h;PROTECTOR OR PREDATOR
@@ -982,7 +982,7 @@ This effect ends early if you are incapacitated or die. Once you've used this fe
 Lastly at 3rd level, you gain the following Channel the Force option.
 #abf;ADVANCING DEFENDER;3
 When you cast the *saber reflect* power, you can expend a use of your Channel the Force to move up to 10 feet as a part of that same reaction. This movement does not provoke opportunity attacks.
-##;MONK
+##;Monk
 #h;Monk
 Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
 Taking a deep breath, a zabrak covered in tattoos settles into a battle stance. As the first charging mercenaries reach him, he exhales and a blast of negative energy courses from his hands, engulfing his foes.
@@ -1143,7 +1143,7 @@ Starting at 11th level, you can enter a special meditation that surrounds you wi
 #abf;QUIVERING PALM;17
 At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 focus points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same planet. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
-##;OPERATIVE
+##;Operative
 #h;Operative
 A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.
 With a wary eye on the door, a scruffy-looking Duros plays pazaak in a seedy cantina. When two city guards appear at the exit, he smiles and reaches under the table. Before they can move in, the smuggler flips the table and opens fire. The crowd scatters in panic, giving him just enough cover to escape. 
@@ -1302,7 +1302,7 @@ Intelligence is your techcasting ability for your tech powers. You use your Inte
 **Tech attack modifier** = your proficiency bonus + your Intelligence modifier
 #abf;TECHCASTING FOCUS;3
 You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
-##;SCHOLAR
+##;Scholar
 #h;Scholar
 An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.
 Deep within the once thought abandoned ruins, a nautolan tends to his companions wounds as they rest. Countless long nights of study and training have conditioned him to keep going even when all others have exhausted themselves. He will see them through this.
@@ -1567,7 +1567,7 @@ As a bonus action, you can take the Help action. Additionally, when you take the
 When you take the Dash action, opportunity attacks made against you are made at disadvantage.
 #abf;OBSERVANT LEADER;3
 You can add your Intelligence modifier to any Wisdom (Perception) skill checks you make.
-##;SCOUT
+##;Scout
 #h;Scout
 Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.
 After tumbling away from the shrapnel of a missile's explosion, a bothan finds her feet and quick-fires two shots from her carbine at the oncoming tank. Shrugging off the wave of fear that threatens to permeate her entire being, she strafes around her foe, firing shot after shot to try to penetrate the tank's thick armor.
@@ -1782,7 +1782,7 @@ Additionally, when you hit a creature with a ranged weapon attack while hidden, 
 Starting at 11th level, if you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
 #abf;STALKER'S DODGE;15
 At 15th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined.
-##;SENTINEL
+##;Sentinel
 #h;Sentinel
 Clad in black robes, the rattataki pulls his hood forward and steps into the shadowy alcove, only to reappear further down the hall. As his quarry walks past, he presses the hilt of his lightsaber to the back of their head, quickly toggling it on-and-off. He is gone before the corpse hits the ground.
 The togruta dashes across the battlefield, doublesaber deflecting blaster shots to the ground. She pulls her wounded padawan to her feet, and guides her away from the warzone.
