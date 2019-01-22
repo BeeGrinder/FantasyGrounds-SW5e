@@ -8,9 +8,9 @@ SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works w
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|Player Book | In Progress | alpha state. Many issues. |
-|NPC Book | Released | Give it a try |
-|Ruleset Extension | Released | Ready to go |
+|Player Book | In Progress | Many issues. Alpha testing. |
+|NPC Book | Released | Give it a try. Beta testing. |
+|Ruleset Extension | Released | Give it a try. Beta testing. |
 
 ### Fantasy Grounds User Information
 
