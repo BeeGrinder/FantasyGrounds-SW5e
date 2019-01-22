@@ -40,5 +40,14 @@ The *__NPCEngineer__* directory is for the text files that are parsed into the *
 
 The *__ext-src__* dirctory is for the extension sources.
 
+#### Release Goals
+* Initial Release (V1.0)
+   * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
+   * If the data is redily available and easily parsed, some expanded content *__may__* be included.
+   * Powers will still be called spells in the FG interface.
+   * Enhanced Items will still be called Magic Items in the FG interface.
+   * Only some information from the PDF(s) will be in the FG Reference Manual.
+   
+   
 ---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
