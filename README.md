@@ -17,7 +17,12 @@ SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works w
 #### Installation
 
 * To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+
+   Download module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/modules)
+ 
 * To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.
+
+   Download the extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
 
 #### Creating your sw5e campaign
 
