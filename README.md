@@ -2,7 +2,7 @@
 # FantasyGrounds-SW5e
 #### A FantasyGrounds module to implement SW5e game
 
-SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works within the 5e ruleset.
+SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works within the 5e ruleset.
 
 [SW5e Website](http://star-wars-5e.azurewebsites.net/)
 
@@ -10,13 +10,13 @@ SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works w
 | --- | --- | -- |
 |Player Book | In Progress | Many issues. Alpha testing. |
 |NPC Book | Released | Give it a try. Beta testing. |
-|Ruleset Extension | Released | Give it a try. Beta testing. |
+|Rule-set Extension | Released | Give it a try. Beta testing. |
 
 ### Fantasy Grounds User Information
 
 #### Installation
 
-* To install the module(s) for use in FantasyGrounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+* To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
    Download module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/modules)
  
@@ -26,8 +26,8 @@ SW5e is a user created (Homebrew) set of Races, Classes, NPCs, etc. that works w
 
 #### Creating your sw5e campaign
 
-* When creating your new campaign in FG for SW5e, select the 5e ruleset (All the SW5e content is dependent on the base 5e ruleset).
-* Once you select the 5e rule set, the sw5e extenstion will appear in the extension window.  Select it.
+* When creating your new campaign in FG for SW5e, select the 5e rule-set (All the SW5e content is dependent on the base 5e rule-set).
+* Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select it.
 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open both *__SW5e Player Book__* and *__SW5e NPC Manual__*.
@@ -43,7 +43,7 @@ The *__ext-src__* dirctory is for the extension sources.
 #### Release Goals
 * Initial Release (V1.0)
    * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
-   * If the data is redily available and easily parsed, some expanded content *__may__* be included.
+   * If the data is readily available and easily parsed, some expanded content *__may__* be included.
    * Powers will still be called spells in the FG interface.
    * Enhanced Items will still be called Magic Items in the FG interface.
    * Only some information from the PDF(s) will be in the FG Reference Manual.
