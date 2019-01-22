@@ -9,8 +9,46 @@
 -->
 
 <root>
-	<!-- Skills -->
+	<!-- SW5e Skills -->
 	<string name="skill_value_lore">Lore</string>
 	<string name="skill_value_piloting">Piloting</string>
 	<string name="skill_value_technology">Technology</string>
+	<!-- SW5e Classes -->
+	<string name="class_value_berserker">Berserker</string>
+	<string name="class_value_consular">Consular</string>
+	<string name="class_value_engineer">Engineer</string>
+	<string name="class_value_fighter">Fighter</string>
+	<string name="class_value_guardian">Guardian</string>
+	<string name="class_value_monk">Monk</string>
+	<string name="class_value_operative">Operative</string>
+	<string name="class_value_scholar">Scholar</string>
+	<string name="class_value_scout">Scout</string>
+	<string name="class_value_sentinel">Sentinel</string>
+	<!-- SW5e Damages -->
+	<string name="damage_value_kinetic">kinetic</string>
+	<string name="damage_value_ion">ion</string>
+	<string name="damage_value_energy">energy</string>
+	<string name="damage_value_sonic">sonic</string>
+	<!-- SW5e Languages -->
+	<string name="language_value_galacticbasic">galactic basic</string>
+	<string name="language_value_bith">bith</string>
+	<string name="language_value_bothese">bothese</string>
+	<string name="language_value_cheunh">cheunh</string>
+	<string name="language_value_durese">durese</string>
+	<string name="language_value_huttese">huttese</string>
+	<string name="language_value_jawaese">jawaese</string>
+	<string name="language_value_keldor">kel dor</string>
+	<string name="language_value_moncal">mon cal</string>
+	<string name="language_value_rodese">rodese</string>
+	<string name="language_value_sith">sith</string>
+	<string name="language_value_togruti">togruti</string>
+	<string name="language_value_dosh">dosh</string>
+	<string name="language_value_twileki">twi'leki</string>
+	<string name="language_value_shyriiwook">shyriiwook</string>
+	<string name="language_value_zabraki">zabraki</string>
+	<!-- SW5e Creature Types -->
+	<string name="creature_value_droid">droid</string>
+	<string name="creature_value_forcewielder">force-wielder</string>
+	<!-- SW5e Currency Types -->
+	<string name="currency_value_cr">cr</string>
 </root>
