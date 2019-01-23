@@ -1,6 +1,6 @@
 ***Part 1***
 R2 Series Astromech Droid
-Small , unaligned
+Small droid, unaligned
 Armor Class 12 (armor plating)
 Hit Points 7 (2d6)
 Speed 25 ft.
@@ -30,8 +30,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\r2seriesastromechdroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\r2seriesastromechdroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\r2seriesastromechdroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\r2seriesastromechdroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

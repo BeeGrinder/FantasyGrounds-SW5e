@@ -1,6 +1,6 @@
 ***Part 1***
 Hk-47 Assassin Droid
-Medium ooze, unaligned
+Medium droid, unaligned
 Armor Class 18 (armor plating)
 Hit Points 214 (10d8+20)
 Speed 40 ft.
@@ -40,8 +40,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\images\hk47assassindroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\tokens\hk47assassindroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\hk47assassindroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\hk47assassindroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

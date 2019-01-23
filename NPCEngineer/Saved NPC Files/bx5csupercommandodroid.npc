@@ -1,6 +1,6 @@
 ***Part 1***
 Bx-5c Supercommando Droid
-Medium ooze, unaligned
+Medium droid, unaligned
 Armor Class 16 (armor plating)
 Hit Points 96 (15d8+30)
 Speed 30 ft.
@@ -34,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\images\bx5csupercommandodroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\tokens\bx5csupercommandodroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\bx5csupercommandodroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\bx5csupercommandodroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

@@ -1,6 +1,6 @@
 ***Part 1***
 Dark Lord
-Medium humanoid, any dark
+Medium force-wielder, any dark
 Armor Class 12 (15 with battle precognition)
 Hit Points 99 (18d8+18)
 Speed 30 ft.
@@ -10,7 +10,7 @@ Skills Insight +13
 Damage Resistances force
 Senses passive Perception 15
 Languages Galactic Basic and one other
-Challenge 12 (8,400 XP)
+Challenge 12 (8400 XP)
 Force Resistance. The dark lord has advantage on saving throws against force powers.
 Forcecasting. The dark lord is an 18st-level forcecaster. Its forcecasting ability is Wisdom (power save DC 17, +9 to hit with force attacks) and it has 72 force points. The dark lord knows the following force powers.
 At-wil. affect mind, denounce, force push/pull, mind trick, saber ward, shock.
@@ -41,8 +41,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\darklord.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\darklord.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\darklord.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\darklord.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

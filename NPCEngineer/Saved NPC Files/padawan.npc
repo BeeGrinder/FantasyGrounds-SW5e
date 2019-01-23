@@ -1,6 +1,6 @@
 ***Part 1***
 Padawan
-Medium humanoid, any light
+Medium force-wielder, any light
 Armor Class 11 (14 with battle precognition)
 Hit Points 27 (5d8+5)
 Speed 30 ft.
@@ -31,8 +31,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\padawan.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved NPC Files\padawan.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\padawan.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\padawan.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 
