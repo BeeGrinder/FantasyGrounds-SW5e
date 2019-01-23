@@ -1,29 +1,29 @@
 ***Part 1***
-Stap
-Large construct, unaligned
-Armor Class 13 (armor plating)
-Hit Points 32 (5d10+5)
-Speed 0 ft., fly 40 ft.
-STR DEX CON INT WIS CHA 11 (+0) 17 (+3) 13 (+1) 10 (+0) 10 (+0) 7 (-2)
-Saving Throws Dex +5
-Damage Vulnerabilities lightning
-Damage Resistances necrotic, poison, psychic
-Senses passive Perception 1
-Languages —
-Challenge 1 (200 XP)
-Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
+Sage
+Medium force-wielder, any universal
+Armor Class 12 (15 with battle precognition)
+Hit Points 40 (9d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 9 (-1) 14 (+2) 11 (+0) 12 (+1) 19 (+4) 11 (+0)
+Saving Throws Int +4, Wis +7
+Skills Medicine +7
+Senses passive Perception 14
+Languages Galactic Basic and two others
+Challenge 6 (2300 XP)
+Forcecasting. The sage is a 9th-level forcecaster. Its forcecasting ability is Wisdom (power save DC 15, +7 to hit with force attacks) and it has 36 force points. The sage knows the following force powers.
+At-will. mind trick, saber ward, turbulence 2 powers 1st-level. breath control, battle precognition, force jump, saber reflect.
+2Nd-level. battle meditation, force confusion, phasewalk.
+3Rd-level. force suppression, sever force, telekinetic gust.
+4Th-level. force immunity, freedom of movement.
+5Th-level. improved battle meditation.
 ACTIONS
-Multiattack. The construct makes two attacks.
-Blaster Cannon. Ranged Weapon Attack: +5 to hit, range 40/160 ft., one target. Hit: 5 (1d4+3) energy damage.
-REACTIONS
-Redirect. If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.
+Shotosaber. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) energy damage.
 
 ***Part 2***
-{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
 {\colortbl ;\red0\green0\blue0;}
 {\*\generator Riched20 10.0.17134}\viewkind4\uc1 
-\pard\sa80\cf1\fs20\lang1033 The Single Trooper Aerial Platform (or STAP) is a Baktoid Armor Workshop product inspired by civilian airhooks. They re-engineered similar craft for greater performance and reliability. Slim and lightweight, the tiny repulsorlift craft is fueled by high-voltage energy cells, which power drive turbines providing the STAP with impressive speed and maneuverability. The agile vessels are popular mounts for droids, and are typically bolstered by signals from an orbital Droid Control Ship, which skillfully guides the STAP's pilots.\par
-However, battle droids are exposed to enemy fire while riding the fragile craft. The vehicles are armed with a pair of forward-mounted blaster cannons.\par
+\pard\sa80\cf1\fs20\par
 }
 
 ***Part 3***
@@ -34,8 +34,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\stap.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\stap.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\sage.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\sage.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

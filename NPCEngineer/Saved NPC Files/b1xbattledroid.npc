@@ -1,6 +1,6 @@
 ***Part 1***
 B1-x Battle Droid
-Medium ooze, unaligned
+Medium droid, unaligned
 Armor Class 15 (armor plating)
 Hit Points 16 (3d8+3)
 Speed 30 ft.
@@ -33,8 +33,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\images\b1xbattledroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual\input\tokens\b1xbattledroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\b1xbattledroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\b1xbattledroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 

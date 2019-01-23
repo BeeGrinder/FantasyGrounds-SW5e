@@ -1,6 +1,6 @@
 ***Part 1***
 Ig-86 Assassin Droid
-Medium , unaligned
+Medium droid, unaligned
 Armor Class 16 (armor plating)
 Hit Points 58 (9d8+18)
 Speed 30 ft.
@@ -31,8 +31,8 @@ Desc_Add_Text: 1
 Desc_NPC_Title: 1
 Desc_Image_Link: 1
 Desc_Spell_List: 0
-NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\images\ig86assassindroid.jpg
-NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e Monster Manual v0.1\input\tokens\ig86assassindroid.png
+NPCimagePath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\images\ig86assassindroid.jpg
+NPCTokenPath: C:\Users\joecy\AppData\Roaming\NPC Engineer\Saved Project Files\SW5e NPC Manual\input\tokens\ig86assassindroid.png
 NPCImArt: 
 NPCImLink: 
 NPCNoID: 
