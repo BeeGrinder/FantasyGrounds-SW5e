@@ -1,25 +1,25 @@
 #@;ARMOR
 #th;Armor;Cost;Armor Class (AC);Strength;Stealth;Weight
 #st;Light Armor
-Combat suit;100 cr;11 + Dex modifier;-;-;10 lb
-Heavy combat suit;450 cr;12 + Dex modifier;-;-;13 lb
+Combat suit;100 cr;11 + Dex modifier;-;-;10 lb.
+Heavy combat suit;450 cr;12 + Dex modifier;-;-;13 lb.
 #st;Medium Armor
-Light battle armor;500 cr;13 + Dex modifier (max 2);-;-;20 lb
-Battle armor;1,000 cr;14 + Dex modifier (max 2);-;-;20 lb
-Powered battle armor;2,500 cr;15 + Dex modifier (max 2);-;Disadvantage;45 lb
+Light battle armor;500 cr;13 + Dex modifier (max 2);-;-;20 lb.
+Battle armor;1,000 cr;14 + Dex modifier (max 2);-;-;20 lb.
+Powered battle armor;2,500 cr;15 + Dex modifier (max 2);-;Disadvantage;45 lb.
 #st;Heavy Armor
-Durasteel armor;750 cr;16;Str 13;Disadvantage;55 lb
-Powered durasteel armor;2,000 cr;17;Str15;Disadvantage;60 lb
-Heavy durasteel armor;15,000 cr;18;Str 15;Disadvantage;65 lb
+Durasteel armor;750 cr;16;Str 13;Disadvantage;55 lb.
+Powered durasteel armor;2,000 cr;17;Str15;Disadvantage;60 lb.
+Heavy durasteel armor;15,000 cr;18;Str 15;Disadvantage;65 lb.
 #st;Shield
-Light shield generator;50 cr;+1;-;-;7 lb
-Medium shield generator;100 cr;+2;-;-;14 lb
-Heavy shield;500 cr;+3;Str 17;Disadvantage;28 lb
+Light shield generator;50 cr;+1;-;-;7 lb.
+Medium shield generator;100 cr;+2;-;-;14 lb.
+Heavy shield;500 cr;+3;Str 17;Disadvantage;28 lb.
 #@;WEAPON
 #th;Name;Cost;Damage;Weight;Properties
 #st;Simple Lightsabers
 Lightdagger;300 cr;1d4 energy;1 lb.;Finesse, hidden, light, luminous, thrown (20/60)
-Lightsaber;500 cr;1d6 energy;4 lb;Hidden, luminous, versatile (1d8)
+Lightsaber;500 cr;1d6 energy;4 lb.;Hidden, luminous, versatile (1d8)
 Shotosaber;1,250 cr;1d6 energy;2 lb.;Finesse, hidden, light, luminous
 #st;Martial Lightsabers
 Doublesaber;3,500 cr;1d8 energy;4 lb.;Double (1d8 energy), finesse, luminous, two-handed
