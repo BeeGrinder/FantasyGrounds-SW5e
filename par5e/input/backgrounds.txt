@@ -1,11 +1,13 @@
 ##;Scientist
 Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people. \n\nWhat is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.
-Skill Proficiencies: Choose two from among Lore, Medicine, Nature, and Technology
+Skill Proficiencies: Choose two from among among Lore, Medicine, Nature, and Technology
 Tool Proficiencies: Biochemist's kit
 Languages: One of your choice
 Equipment: A set of common clothes, a datapad, a book on your field of research, a pouch containing 100 cr
 Feature: Scientific Method
 You are well acquainted with your field of research from having read numerous journals or having attended scientific conferences. Concepts that are complicated, involving technical jargon that usually goes over most people's heads, are simple to you. You fully understand concepts, can recall key information, and know how to use equipment related to your field, unless the research was hidden from the public, in which you may only partially understand. You also recognize well-known figures in your field.
+Suggested Characteristics
+Scientist are interested in things most don't care about. Their research is their life, and drives their persornality traits. Their flaws, ideals, and bond are a result of their hours spent researching.
 Field of Research
 While scientist's are widely knowledgeable, they also choose a focus for their studies. Choose an option or roll on the table below to define your field of research.
 d10 Field of Research
@@ -17,9 +19,7 @@ d10 Field of Research
 6  the Force
 7  Astrogation
 8  Medicine
-Suggested Characteristics
-Scientist are interested in things most don't care about. Their research is their life, and drives their persornality traits. Their flaws, ideals, and bond are a result of their hours spent researching.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1  Loremaster 
@@ -62,12 +62,14 @@ d6 Flaw
 6  I work on my research to the point where I ignore my own bodily needs.
 ##;Scoundrel
 You have always had a way with people. You can tease out their heart’s desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It’s a useful talent, and one that you’re perfectly willing to use for your advantage. You know what people want and you promise to deliver, coaxing people into otherwise foolish decisions. You make the improbable sound plausible, and come ahead on every deal.
-Skill Proficiencies: Choose two from among Deception, Insight, Performance, and Sleight of Hand
+Skill Proficiencies: Choose two from among among Deception, Insight, Performance, and Sleight of Hand
 Tool Proficiencies: Disguise Kit, Forgery Kit
 Languages: null
 Equipment: A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 cr
 Feature: False Identity
 You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona.\n\nAdditionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
+Suggested Characteristics
+Scoundrels are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
 Favorite Schemes
 Every scoundrel has an angle they use in preference to other schemes. Choose a favorite scam or roll on the table below.
 d6 Scam
@@ -77,9 +79,7 @@ d6 Scam
 4 I put on new identities like clothes.
 5 I run sleight-of-hand cons on street corners.
 6 I convince people that worthless junk is worth their hard-earned money.
-Suggested Characteristics
-Scoundrels are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -122,7 +122,7 @@ d6 Flaw
 6 I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.
 ##;Jedi
 You are a devout follower of the Jedi Order: an ancient, monastic peacekeeping organization united in its observance of the light side of the Force. A noble order of protectors noted for their ability to tap into the power of the Force, the Jedi serve as guardians of peace and justice in the Galactic Republic. You follow the Jedi Code:\n\n*"There is no emotion, there is peace.*\n*There is no ignorance, there is knowledge.*\n*There is no passion, there is serenity.*\n*There is no chaos, there is harmony.*\n*There is no death, there is the Force."*
-Skill Proficiencies: Choose two from among Insight, Investigation, Lore, and Persuasion
+Skill Proficiencies: Choose two from among among Insight, Investigation, Lore, and Persuasion
 Tool Proficiencies: Artificer's tools
 Languages: One of your choice
 Equipment: A copy of the Jedi code, a set of common clothes including a robe, and a belt pouch containing 150 cr
@@ -130,7 +130,7 @@ Feature: Shelter of the Faithful
 As a Jedi, you command the respect of those who are loyal to the Jedi Order. You and your adventuring companions can expect to receive free healing and care at any Jedi temple, and those who support your religion will support you (but only you) at a modest lifestyle.\n\nYou might also have ties to a specific Jedi temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Jedi for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
 Suggested Characteristics
 Jedi are shaped by their experience in their temple. Their study of the history and tenets of the Jedi Order and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Empathic
@@ -173,7 +173,7 @@ d6 Flaw
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Noble
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.\n\nWork with your DM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?\n\nWhat’s your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family’s good graces, or shunned by the rest of your family?\n\nDoes your family have a coat of arms you might wear, a signet ring, or particular colors? \n\nThese details help establish your family and your title as features of the world of the campaign.
-Skill Proficiencies: Choose two from among Deception, Insight, Lore, and Persuasion
+Skill Proficiencies: Choose two from among among Deception, Insight, Lore, and Persuasion
 Tool Proficiencies: One type of gaming set
 Languages: One of your choice
 Equipment: A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 cr
@@ -181,7 +181,7 @@ Feature: Position of Privilege
 Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
 Suggested Characteristics
 Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family’s care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -224,12 +224,14 @@ d6 Flaw
 6 By my words and actions, I often bring shame to my family.
 ##;Spacer
 Aboard a star ship in the cold vacuum of space is where you feel most at home. You've spent the majority of your life travelling the stars. Life aboard ships has given you a good understanding of their inner workings. You might be especially skilled as a ship mechanic, a pilot, or support staff.
-Skill Proficiencies: Choose two from among Insight, Investigation, Piloting, and Technology
+Skill Proficiencies: Choose two from among among Insight, Investigation, Piloting, and Technology
 Tool Proficiencies: Your choice of chef's kit, mechanic's kit, or one type of gaming set
 Languages: One of your choice
 Equipment: A set of tools or a gaming set (one of your choice), a set of common clothes, a small souvenir from your travels, and a belt pouch containing 100 cr
 Feature: Well-Traveled
 As a spacer, you've been from one end of the galaxy to the other. You've traveled along many of the trade routes, and know the safest routes. You have expert knowledge of the various hyperlanes. In addition to this, you know a large number of the models and designs of common space ships that are found in the galaxy.
+Suggested Characteristics
+Spacers come from all walks of life, and the responsibilities of life aboard a ship make them generally reliable as well. Spending so much time on their ship shapes their outlook and forms their most important attachments.
 Specialty
 During your time as a spacer, you had a specific role to play aboard the ship. Roll a d8 or choose from the options in the table below to determine your role:
 d8 Specialty
@@ -241,9 +243,7 @@ d8 Specialty
 6 Captain
 7 Communications Officer
 8 Ship Cook
-Suggested Characteristics
-Spacers come from all walks of life, and the responsibilities of life aboard a ship make them generally reliable as well. Spending so much time on their ship shapes their outlook and forms their most important attachments.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Empathic
@@ -286,12 +286,14 @@ d6 Flaw
 6 My pride will probably lead to my destruction.
 ##;Entertainer
 You thrive in front of an audience, knowing how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
-Skill Proficiencies: Choose two from among Acrobatics, Insight, Performance, and Sleight of Hand
+Skill Proficiencies: Choose two from among among Acrobatics, Insight, Performance, and Sleight of Hand
 Tool Proficiencies: Disguise kit, one type of musical instrument
 Languages: null
 Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr
 Feature: By Popular Demand
 You can always find a place to perform, usually in an inn or cantina but possibly with a circus, at a theater, or even in a noble’s court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
+Suggested Characteristics
+Successful entertainers have to be able to capture and hold an audience’s attention, so they tend to have flamboyant or forceful personalities. They’re inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
 Entertainer Routines
 A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
 d10 Entertainer Routine
@@ -305,9 +307,7 @@ d10 Entertainer Routine
 8 Singer
 9 Storyteller
 10 Tumbler
-Suggested Characteristics
-Successful entertainers have to be able to capture and hold an audience’s attention, so they tend to have flamboyant or forceful personalities. They’re inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Acrobat
@@ -350,7 +350,7 @@ d6 Flaw
 6 Despite my best efforts, I am unreliable to my friends.
 ##;Smuggler
 You have spent your life hiding in the darkness, making shady deals behind closed doors. What led you to engage in a life of crime? Do you crave the thrill of lawbreaking, or did you enter the profession to pay off a debt, risking your hide on behalf of a less than honorable noble? A smuggler is an individual trained in the art of acquisition, a professional thug who can deliver anything... for a price. Smugglers tend to be more bolder criminals than most, preferring bribery or distraction over subterfuge and stealth.
-Skill Proficiencies: Choose two from among Deception, Piloting, Sleight of Hand, and Stealth
+Skill Proficiencies: Choose two from among among Deception, Piloting, Sleight of Hand, and Stealth
 Tool Proficiencies: One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit
 Languages: null
 Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 150 cr
@@ -358,7 +358,7 @@ Feature: Careful Selection
 Some close brushes with the law have taught you that not every city guard can be bribed, and some people are simply too keen to miss minute discrepancies. This feature allows you to study a person and gain insight into whether or not they would accept a bribe, or to pick up on whether they are exceptionally more perceptive than you. It does not reveal how expensive a bribe may be for a given situation, however.
 Suggested Characteristics
 Smugglers might seem like villains on the surface, and many of them are nefarious to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but spies rarely show any respect for law or authority. 
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -401,7 +401,7 @@ d6 Flaw
 6 Someone who knows me well might call me _two-faced_ but those who don't have no idea what hit 'em.
 ##;Agent
 Many organizations active in the galaxy aren't bound by strictures of geography. These factions pursue their agendas without regard for political boundaries, and their members operate anywhere the organization deems necessary. These groups employ listeners, rumormongers, smugglers, mercenaries, cache-holders (people who guard caches of wealth or items for use by the faction's operatives), haven keepers, and message drop minders, to name a few. At the core of every faction are those who don't merely fulfill a small function for that organization, but who serve as its hands, head, and heart. As a prelude to your adventuring career (and in preparation for it), you served as an agent of a particular faction. You might have operated openly or secretly, depending on the faction and its goals, as well as how those goals mesh with your own. Becoming an adventurer doesn't necessarily require you to relinquish membership in your faction (though you can choose to do so), and it might enhance your status in the faction.
-Skill Proficiencies: Choose two from among Deception, Investigation, Lore, and Persuasion.
+Skill Proficiencies: Choose two from among among Deception, Investigation, Lore, and Persuasion
 Languages: Two of your choice
 Equipment: Badge or emblem of your faction, a copy of a seminal faction text (or a code-book for a covert faction), a set of common clothes, and a pouch containing 150 cr
 Feature: Safe Haven
@@ -427,7 +427,7 @@ d8 Personality Trait
 5 I quote (or misquote) sacred texts and proverbs in almost every situation.
 6 I am tolerant (or intolerant) of other factions and respect (or condemn) them.
 7 I've enjoyed fine food, drink, and high society among my faction’s elite. Rough living grates on me.
-8  I have little practical experience dealing with people in the  world.
+8 I have little practical experience dealing with people in the  world.
 d6 Ideal
 1 **Tradition**. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)
 2 **Charity**. I always try to help those in need, no matter what the personal cost. (Light)
@@ -451,11 +451,13 @@ d6 Flaw
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Mandalorian
 You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.
-Skill Proficiencies: Choose two from among Athletics, Intimidation, Piloting, and Survival
+Skill Proficiencies: Choose two from among among Athletics, Intimidation, Piloting, and Survival
 Languages: Mando'a and one of your choice
 Equipment: A set of traveler's clothes, a trophy from a previous victory, and a pouch containing 200 cr
 Feature: Child of Mandalore
 Other Mandalorians know, and will look out for you. If you're ever in need of a place to stay, or a meal to eat, other Mandalorians  will help you as long as your clans aren't feuding. This could be in the form of shelters, meals, even healing. If the Mandalorians are of your clan or a clan friendly to you, they may be willing to help you even at cost to themselves.
+Suggested Characteristics
+Mandalorians are a meritocracy where birthplace, rank, status, and citizenship mean nothing. You are what you do. Mandalorians live by the Resol'nare (the "Six Actions"). As a true Mandalorian you should strive to live by this code as much as possible by remaining honorable. Your flaw(s) might consist of any dishonor you've committed, or even being too honorable.
 Mandalorian Clan
 Mandalorian culture is built on the backbone of various clans. The clan you are a part of has it's own history, allegiances, and fueds which shape your persepctive. Choose an option or roll on the table below to determine your clan.
 d8 Clan
@@ -467,9 +469,7 @@ d8 Clan
 6 Lok
 7 Cadera
 8 Clanless
-Suggested Characteristics
-Mandalorians are a meritocracy where birthplace, rank, status, and citizenship mean nothing. You are what you do. Mandalorians live by the Resol'nare (the "Six Actions"). As a true Mandalorian you should strive to live by this code as much as possible by remaining honorable. Your flaw(s) might consist of any dishonor you've committed, or even being too honorable.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1  Athlete 
@@ -512,7 +512,7 @@ d6 Flaw
 6  I value a victory regardless of the ethics behind the victory.
 ##;Gambler
 You are a skilled gambler who spends most of your time in casinos, bar rooms, and gambling dens. Are your activities legal, or do you break the law? Have you ever cheated in a game, or do you play by the rules? No matter what, your life has been one of excitement, chance, and danger.
-Skill Proficiencies: Choose two from among Deception, Insight, Intimidation, and Sleight of Hand
+Skill Proficiencies: Choose two from among among Deception, Insight, Intimidation, and Sleight of Hand
 Tool Proficiencies: Two types of gaming sets
 Languages: null
 Equipment: A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 cr.
@@ -520,7 +520,7 @@ Feature: Let's Make It Interesting
 You can convince nearly anyone to put up something they aren't normally willing to part with (property or information) in a game of chance. Your DM might rule that they will only agree to a game of their choosing, and they may only agree if they feel the odds are in their favor.
 Suggested Characteristics
 Gambling is your passion, for better or for worse. Most gamblers see their vices as virtues, and overlook things in their pursuit of the rush.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -563,7 +563,7 @@ d6 Flaw
 6 I like to think I could drink anyone under the table, but I'm really a lightweight.
 ##;Sith
 You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:\n\n*"Peace is a lie. There is only passion.*\n*Through passion I gain strength.*\n*Through strength I gain power.*\n*Through power I gain victory.*\n*Through victory my chains are broken.*\n*The Force shall free me."*
-Skill Proficiencies: Choose two from among Deception, Insight, Intimidation, and Lore
+Skill Proficiencies: Choose two from among among Deception, Insight, Intimidation, and Lore
 Tool Proficiencies: Artificer's tools
 Languages: One of your choice
 Equipment: A copy of the Sith code, a set of common clothes including a robe, and a belt pouch containing 150 cr
@@ -571,7 +571,7 @@ Feature: Asylum by the Fearful
 As a Sith, you instill fear in those who are aware of your standing. You and your adventuring companions can expect to receive free healing and care at any Sith temple, and those who are aware of your nature will support you (but only you) at a modest lifestyle.\n\nYou might also have ties to a specific Sith temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Sith for assistance, provided the assistance you ask for benefits them and you remain in good standing with your temple.
 Suggested Characteristics
 Sith are shaped by their training. They study the Sith code and use it to oppress the weak and quell resistance. Their study of the Sith code affects their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -614,7 +614,7 @@ d6 Flaw
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Bounty Hunter
 Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You’re involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.\n\nYou might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.
-Skill Proficiencies: Choose two from among Deception, Insight, Persuasion, and Stealth
+Skill Proficiencies: Choose two from among among Deception, Insight, Persuasion, and Stealth
 Tool Proficiencies: Your choice of demolitions kit, security kit, or slicer's kit
 Languages: One of your choice
 Equipment: A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr
@@ -622,7 +622,7 @@ Feature: Ear to the Ground
 You are in frequent contact with people in the segment of society that your chosen quarries move through. These people might be associated with the criminal underworld, the rough-and-tumble folk of the streets, or members of high society. This connection comes in the form of a contact in any city you visit, a person who provides information about the people and places of the local area.
 Suggested Characteristics
 Your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -665,12 +665,14 @@ d6 Flaw
 6 An innocent person is in prison for a crime that I committed. I’m okay with that.
 ##;Criminal
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
-Skill Proficiencies: Choose two from among Deception, Intimidation, Sleight of Hand, and Stealth
+Skill Proficiencies: Choose two from among among Deception, Intimidation, Sleight of Hand, and Stealth
 Tool Proficiencies: One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
 Languages: null
 Equipment: A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr
 Feature: Criminal Contact
 You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
+Suggested Characteristics
+Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority. 
 Criminal Specialty
 Individual criminals often have particular specialties, whether a part of an organization or a solo endeavor. Choose the role you played in your criminal life, or roll on the table below.
 d8 Specialty
@@ -682,9 +684,7 @@ d8 Specialty
 6 Hired killer
 7 Pickpocket
 8 Thug
-Suggested Characteristics
-Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority. 
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Silver-Tongued
@@ -727,7 +727,7 @@ d6 Flaw
 6 An innocent person is in prison for a crime that I committed. I’m okay with that.
 ##;Mercenary
 As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one. \n\nNow you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.
-Skill Proficiencies: Choose two from among Athletics, Investigation, Persuasion, and Piloting
+Skill Proficiencies: Choose two from among among Athletics, Investigation, Persuasion, and Piloting
 Tool Proficiencies: One type of gaming set
 Languages: One of your choice
 Equipment: A uniform of your company (traveler's clothes in quality), an insignia of your rank, a gaming set (one of your choice), and a pouch containing the remainder of your last wages (100 cr)
@@ -735,7 +735,7 @@ Feature: Mercenary Life
 You know the mercenary life as only someone who has experienced it can. You are able to identify mercenary companies by their emblems, and you know a little about any such company, including the names and reputations of its commanders and leaders, and who has hired them recently. You can find the cantinas and feasthalls where mercenaries abide in any area, as long as you speak the language, and if you spend at least an hour in such a location you can come across one of the following bits of information: a job offer, significant rumor, referal to a skilled merchant, blacksmith, etc., or a hint towards the pursuit of your current quest. Additionally, you can find mercenary work between adventures sufficient to maintain a comfortable lifestyle (see "Practicing a Profession" under "Downtime Activities" in chapter 8 of the Player's Handbook).
 Suggested Characteristics
 Mercenaries are shaped by their lively nature, for the better and the worse. They tend to be driven by either their commitment to money or something more valuable.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Brawny
@@ -779,12 +779,14 @@ d6 Flaw
 6 I will never let a comrade stand alone, even if it gets me killed.
 ##;Soldier
 War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.\n\nWhen you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, a village militia, or perhaps a private company.
-Skill Proficiencies: Choose two from among Athletics, Intimidation, Persuasion, and Piloting
+Skill Proficiencies: Choose two from among among Athletics, Intimidation, Persuasion, and Piloting
 Tool Proficiencies: One type of gaming set
 Languages: One of your choice
 Equipment: An insignia of rank, a trophy taken from a fallen enemy, a gaming set (one of your choice), a set of common clothes, and a belt pouch containing 100 cr
 Feature: Military Rank
 You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment for temporary use. You can also usually gain access to friendly military encampments where your rank is recognized.
+Suggested Characteristics
+The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
 Specialty
 During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
 d8 Specialty
@@ -796,9 +798,7 @@ d8 Specialty
 6 Pilot
 7 Artisan
 8 Support Staff
-Suggested Characteristics
-The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
-Background Feat
+BACKGROUND FEAT
 As a further embodiment of the experience and training of your background, you can choose from the following feats:
 d8 Background Feat
 1 Brawny
