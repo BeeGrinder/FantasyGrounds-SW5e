@@ -1374,9 +1374,9 @@ You regain all of your expended superiority dice when you finish a short or long
 Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: 
 **Maneuver save DC** = 8 + your proficiency bonus + your Intelligence modifier
 #fe;Critical Analysis;1
-At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:
-- When you analyze a hostile creature, attack and damage rolls made with vibroweapons wielded in one-hand or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.
-- When you analyze a friendly creature, the target may use its reaction and end your Critical Analysis to add your Intelligence modifier to one attack roll, ability check, or saving throw.
+At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless eficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:
+- When you analyze a hostile creature, attack and damage rolls made with vibroweapons wielded in one hand or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.
+- When you analyze a friendly creature, the target may use its reaction and end your Critical Analysis to add your Intelligence modifier to one attack roll, ability check, or saving throw before its next short or long rest. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.
 #fe;Discoveries;2
 As you adventure, your studies have helped you discover new practices you can apply to your skills.
 At 2nd level, you master two discoveries of your choice. Your discovery options are detailed at the end of the class description. When you gain certain scholar levels, you gain additional discoveries of your choice, as shown in the Discoveries column of the Scholar class table.

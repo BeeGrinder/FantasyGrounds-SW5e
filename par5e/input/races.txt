@@ -26,8 +26,8 @@ Jawa Traits
 #!;Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 #!;Grovel, Cower, and Beg. As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain advantage on attack rolls against enemies within 10 feet of you that can see you. Once you use this trait, you can't use it again until you finish a short or long rest.
 #!;Tech Dabbler. You know the *ion blast* at-will tech power. When you reach 3rd level, you can cast the *repair droid* tech power once per day. When you reach 5th level, you can also cast the *hold droid* tech power once per day. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.
-#!;Thieves. You have proficiency in Sleight of Hand.
-#!;Tinker. You have proficiency with tinker's tools. You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause a small electrical fire.\nYou can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.
+#!;Thieves. You are proficient in the Sleight of Hand skill.
+#!;Tinker. You have proficiency with artisan's tools (tinker's tools). You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause a small electrical fire.\nYou can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.
 #!;Languages. You can speak, read, and write Jawaese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Jawaese blends quickly spoken, semi-meaningless syllables with scents to be understood.
 ##;Bith
 #h;BIOLOGY AND APPEARANCE
@@ -87,7 +87,7 @@ Sith Pureblood Traits
 #!;Speed. Your base walking speed is 30 feet.
 #!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 #!;Force Sensitive. You know the *denounce* at-will force power. When you reach 3rd level, you can cast the *curse* force power once per day. When you reach 5th level, you can also cast the *darkness* force power once per day. Charisma is your forcecasting ability for these powers.
-#!;Menacing. You gain proficiency in the Intimidation skill.
+#!;Menacing. You are proficient in the Intimidation skill.
 #!;Sadistic. You have proficiency with saberwhips, vibrowhips, and nets.
 #!;Languages. You can speak, read, and write Galactic Basic and Sith. Sith is an agglutinative language, in which words or even phrases were made up of linears sequences of distinct meaningful units.
 ##;Mon Calamari
@@ -149,7 +149,7 @@ Togruta Traits
 #!;Speed. Your base walking speed is 30 feet.
 #!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 #!;Montral Reception. You have tremorsense out to 30 feet. You can detect and pinpoint the origin of vibrations within a specific radius, provided that monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures
-#!;Wild Hunters. You have proficiency with the Survival skill.
+#!;Wild Hunters. You are proficient in the Survival skill.
 #!;Languages. You can speak, read, and write Galactic Basic and Togruti. Togruti is an ornate language characterized by trills and long vowel sounds which are modified by subtle tremors in the Togruta's head-tails. This language is heavily influenced by Basic, but also incorporates some native idioms, which caused Basic-speaking Togruta to use seemingly strange expressions.
 ##;Trandoshan
 #h;BIOLOGY AND APPEARANCE
@@ -264,7 +264,7 @@ Twi'lek Traits
 #!;Size. Twi'leks stand between 5 and 7 feet tall and weigh up to 200 lbs. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 30 feet.
 #!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-#!;Elegant Dancers. You have proficiency with the Performance skill.
+#!;Elegant Dancers. You are proficient in the Performance skill.
 #!;Natural Antitoxins. You have advantage on saving throws against poison and disease, and you have resistance against poison damage (explained in Chapter 9).
 #!;Unarmed Combatant. Your unarmed strikes deal 1d4 kinetic damage. You can use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 #!;Languages. You can speak, read, and write Galactic Basic and Twi'leki. You can communicate non-verbally with other Twi'leks through a complex language of subtle head-tail motions.
@@ -295,7 +295,7 @@ Rodian Traits
 #!;Speed. Your base walking speed is 30 feet.
 #!;Adept Climbers. You have a climbing speed of 30 feet.
 #!;Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-#!;Hunter. You are proficient in Survival and Stealth.
+#!;Hunter. You are proficient in the Survival, and Stealth skills.
 #!;Keen Hearing and Smell. You have advantage on Wisdom (Perception) checks that involve hearing or smell.
 #!;Languages. You can speak, read, and write Galactic Basic and Rodese. Rodians can communicate with eachother using pheromones. Force-sensitives can detect this communication, though they can't understand it.
 ##;Human
@@ -324,7 +324,7 @@ Human Traits
 #!;Size. Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 30 feet.
 #!;Defiant. Humans are known to be stubborn and often refuse to give up, even against the worst odds. You can add a d4 to a skill check or saving throw, after rolling but before you know the outcome. You must then finish a short or long rest before you can use this feature again.
-#!;Proficiency. You gain proficiency in one skill, one tool, and one weapon of your choice.
+#!;Proficiency. You are proficient in one skill, one tool, and one weapon of your choice.
 #!;Languages. You can speak, read, and write Galactic Basic and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Trandoshan curses, Twi'lek musical expressions, Chiss military phrases, and so on.
 ##;Bothan
 #h;BIOLOGY AND APPEARANCE
@@ -352,7 +352,7 @@ Bothan Traits
 #!;Alignment. Bothans' duplicitous nature causes them to tend toward the dark side, though there are exceptions.
 #!;Size. Bothans stand 4-5 tall and weigh under 100 pounds. Regardless of your position in that range, your size is Small.
 #!;Speed. Your base walking speed is 25 feet.
-#!;Shrewd. You are proficient in the Insight and Deception skills.
+#!;Shrewd. You have proficiency in the Insight, and Deception skills
 #!;Naturally Stealthy. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 #!;Nimble Escape. Bothans can take the Disengage or Hide action as a Bonus Action on each of its turns.
 #!;Languages. You can speak, read, and write Galactic Basic and Bothese. Bothese had a great influence on the forming of Galactic Basic; the two languages share many cognates.
@@ -416,8 +416,8 @@ Duros Traits
 #!;Size. Duros stand around 6 feet tall and weigh around 160 lbs. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 30 feet.
 #!;Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-#!;Galactic Traveler. You have proficiency in Lore.
-#!;Pilot. You have proficiency in Piloting.
+#!;Galactic Traveler. You are proficient in the Lore skill.
+#!;Pilot. You are proficient in the Piloting skill.
 #!;Tech Resistance. Duros grow up around technology, and while they may not all use it they all have experience with it. You have advantage on saving throws against tech powers.
 #!;Languages. You can speak, read, and write Galactic Basic and Durese. Durese is a common interstellar tongue used by prominent spacers and traders.
 ##;Wookiee

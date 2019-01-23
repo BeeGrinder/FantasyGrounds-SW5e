@@ -677,7 +677,7 @@ You have the blood of heroes flowing through your veins. You gain the following 
 #li;Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of one).
 #le;
 ##;TRIP WEAPON MASTERY
-You master the chakram, light ring, net, sabercane, saberwhip, vibrobaton, vibrostaff, and vibrowhip. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
+You master the chakram, light ring, net, saberwhip,vibrobaton, vibrostaff, and vibrowhip. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
 #ls;
 #li;You gain a +1 bonus to the weapon's attack rolls.
 #li;As a bonus action on your turn, you can extend your weapon to sweep around and pull down an opponent's shield. Until the end of that creature's next turn, it gains no benefit to armor class from its shield.

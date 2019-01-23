@@ -1792,6 +1792,123 @@
   </npc>
   <tables>
     <category name="SW5e Player Book" baseicon="2" decalicon="1">
+      <tab_scientistfieldofresearch>
+        <locked type="number">1</locked>
+        <name type="string">Scientist Field of Research</name>
+        <description type="string">Scientist Field of Research Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d10</dice>
+        <labelcol1 type="string">Field of Research</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Biology</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Artificial Intelligence</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Chemistry</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Geology</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Physics</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">the Force</result>
+              </id-00001>
+            </results>
+          </id-00006>
+          <id-00007>
+            <fromrange type="number">7</fromrange>
+            <torange type="number">7</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00007.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Astrogation</result>
+              </id-00001>
+            </results>
+          </id-00007>
+          <id-00008>
+            <fromrange type="number">8</fromrange>
+            <torange type="number">8</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scientistfieldofresearch.tablerows.id-00008.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Medicine</result>
+              </id-00001>
+            </results>
+          </id-00008>
+        </tablerows>
+      </tab_scientistfieldofresearch>
       <tab_scientistbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Scientist Background Feat</name>
@@ -2299,6 +2416,97 @@
           </id-00006>
         </tablerows>
       </tab_scientistflaw>
+      <tab_scoundrelscam>
+        <locked type="number">1</locked>
+        <name type="string">Scoundrel Scam</name>
+        <description type="string">Scoundrel Scam Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d6</dice>
+        <labelcol1 type="string">Scam</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scoundrelscam.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">I cheat at games involving chance.</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scoundrelscam.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">I shave creds or forge documents.</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scoundrelscam.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">I insinuate myself into people's lives to prey on their weakness and secure their fortunes.</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scoundrelscam.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">I put on new identities like clothes.</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scoundrelscam.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">I run sleight-of-hand cons on street corners.</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_scoundrelscam.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">I convince people that worthless junk is worth their hard-earned money.</result>
+              </id-00001>
+            </results>
+          </id-00006>
+        </tablerows>
+      </tab_scoundrelscam>
       <tab_scoundrelbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Scoundrel Background Feat</name>
@@ -3820,6 +4028,123 @@
           </id-00006>
         </tablerows>
       </tab_nobleflaw>
+      <tab_spacerspecialty>
+        <locked type="number">1</locked>
+        <name type="string">Spacer Specialty</name>
+        <description type="string">Spacer Specialty Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d8</dice>
+        <labelcol1 type="string">Specialty</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Pilot</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Mechanic</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Support Staff</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Guard</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Ship Medic</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Captain</result>
+              </id-00001>
+            </results>
+          </id-00006>
+          <id-00007>
+            <fromrange type="number">7</fromrange>
+            <torange type="number">7</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00007.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Communications Officer</result>
+              </id-00001>
+            </results>
+          </id-00007>
+          <id-00008>
+            <fromrange type="number">8</fromrange>
+            <torange type="number">8</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_spacerspecialty.tablerows.id-00008.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Ship Cook</result>
+              </id-00001>
+            </results>
+          </id-00008>
+        </tablerows>
+      </tab_spacerspecialty>
       <tab_spacerbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Spacer Background Feat</name>
@@ -4327,6 +4652,149 @@
           </id-00006>
         </tablerows>
       </tab_spacerflaw>
+      <tab_entertainerentertainerroutine>
+        <locked type="number">1</locked>
+        <name type="string">Entertainer Entertainer Routine</name>
+        <description type="string">Entertainer Entertainer Routine Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d10</dice>
+        <labelcol1 type="string">Entertainer Routine</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Actor</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Dancer</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Fire-eater</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Jester</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Juggler</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Instrumentalist</result>
+              </id-00001>
+            </results>
+          </id-00006>
+          <id-00007>
+            <fromrange type="number">7</fromrange>
+            <torange type="number">7</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00007.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Poet</result>
+              </id-00001>
+            </results>
+          </id-00007>
+          <id-00008>
+            <fromrange type="number">8</fromrange>
+            <torange type="number">8</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00008.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Singer</result>
+              </id-00001>
+            </results>
+          </id-00008>
+          <id-00009>
+            <fromrange type="number">9</fromrange>
+            <torange type="number">9</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00009.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Storyteller</result>
+              </id-00001>
+            </results>
+          </id-00009>
+          <id-00010>
+            <fromrange type="number">10</fromrange>
+            <torange type="number">10</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_entertainerentertainerroutine.tablerows.id-00010.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Tumbler</result>
+              </id-00001>
+            </results>
+          </id-00010>
+        </tablerows>
+      </tab_entertainerentertainerroutine>
       <tab_entertainerbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Entertainer Background Feat</name>
@@ -5848,6 +6316,123 @@
           </id-00006>
         </tablerows>
       </tab_agentflaw>
+      <tab_mandalorianclan>
+        <locked type="number">1</locked>
+        <name type="string">Mandalorian Clan</name>
+        <description type="string">Mandalorian Clan Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d8</dice>
+        <labelcol1 type="string">Clan</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Vizsla</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Fett</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Kryze</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Ordo</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Wren</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Lok</result>
+              </id-00001>
+            </results>
+          </id-00006>
+          <id-00007>
+            <fromrange type="number">7</fromrange>
+            <torange type="number">7</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00007.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Cadera</result>
+              </id-00001>
+            </results>
+          </id-00007>
+          <id-00008>
+            <fromrange type="number">8</fromrange>
+            <torange type="number">8</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_mandalorianclan.tablerows.id-00008.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Clanless</result>
+              </id-00001>
+            </results>
+          </id-00008>
+        </tablerows>
+      </tab_mandalorianclan>
       <tab_mandalorianbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Mandalorian Background Feat</name>
@@ -7876,6 +8461,123 @@
           </id-00006>
         </tablerows>
       </tab_bountyhunterflaw>
+      <tab_criminalspecialty>
+        <locked type="number">1</locked>
+        <name type="string">Criminal Specialty</name>
+        <description type="string">Criminal Specialty Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d8</dice>
+        <labelcol1 type="string">Specialty</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Blackmailer</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Burglar</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Enforcer</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Fence</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Highway robber</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Hired killer</result>
+              </id-00001>
+            </results>
+          </id-00006>
+          <id-00007>
+            <fromrange type="number">7</fromrange>
+            <torange type="number">7</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00007.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Pickpocket</result>
+              </id-00001>
+            </results>
+          </id-00007>
+          <id-00008>
+            <fromrange type="number">8</fromrange>
+            <torange type="number">8</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_criminalspecialty.tablerows.id-00008.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Thug</result>
+              </id-00001>
+            </results>
+          </id-00008>
+        </tablerows>
+      </tab_criminalspecialty>
       <tab_criminalbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Criminal Background Feat</name>
@@ -8903,6 +9605,123 @@
           </id-00006>
         </tablerows>
       </tab_mercenaryflaw>
+      <tab_soldierspecialty>
+        <locked type="number">1</locked>
+        <name type="string">Soldier Specialty</name>
+        <description type="string">Soldier Specialty Table</description>
+        <notes type="formattedtext"/>
+        <hiderollresults type="number">0</hiderollresults>
+        <mod type="number">0</mod>
+        <dice type="dice">d8</dice>
+        <labelcol1 type="string">Specialty</labelcol1>
+        <resultscols type="number">1</resultscols>
+        <tablerows>
+          <id-00001>
+            <fromrange type="number">1</fromrange>
+            <torange type="number">1</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00001.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Officer</result>
+              </id-00001>
+            </results>
+          </id-00001>
+          <id-00002>
+            <fromrange type="number">2</fromrange>
+            <torange type="number">2</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00002.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Scout</result>
+              </id-00001>
+            </results>
+          </id-00002>
+          <id-00003>
+            <fromrange type="number">3</fromrange>
+            <torange type="number">3</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00003.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Infantry</result>
+              </id-00001>
+            </results>
+          </id-00003>
+          <id-00004>
+            <fromrange type="number">4</fromrange>
+            <torange type="number">4</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00004.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Medic</result>
+              </id-00001>
+            </results>
+          </id-00004>
+          <id-00005>
+            <fromrange type="number">5</fromrange>
+            <torange type="number">5</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00005.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Quartermaster</result>
+              </id-00001>
+            </results>
+          </id-00005>
+          <id-00006>
+            <fromrange type="number">6</fromrange>
+            <torange type="number">6</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00006.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Pilot</result>
+              </id-00001>
+            </results>
+          </id-00006>
+          <id-00007>
+            <fromrange type="number">7</fromrange>
+            <torange type="number">7</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00007.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Artisan</result>
+              </id-00001>
+            </results>
+          </id-00007>
+          <id-00008>
+            <fromrange type="number">8</fromrange>
+            <torange type="number">8</torange>
+            <results>
+              <id-00001>
+                <resultlink type="windowreference">
+                  <class>reference_tableresult</class>
+                  <recordname>tables.tab_soldierspecialty.tablerows.id-00008.results.id-00001@SW5e Player Book</recordname>
+                </resultlink>
+                <result type="string">Support Staff</result>
+              </id-00001>
+            </results>
+          </id-00008>
+        </tablerows>
+      </tab_soldierspecialty>
       <tab_soldierbackgroundfeat>
         <locked type="number">1</locked>
         <name type="string">Soldier Background Feat</name>
@@ -11614,6 +12433,16 @@
           <typecategorysw5eplayerbook>
             <description type="string">SW5e Player Book</description>
             <index>
+              <tab_scientistfieldofresearch>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_scientistfieldofresearch@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_scientistfieldofresearch>
               <tab_scientistbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -11664,6 +12493,16 @@
                 </link>
                 <source type="string"/>
               </tab_scientistflaw>
+              <tab_scoundrelscam>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_scoundrelscam@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_scoundrelscam>
               <tab_scoundrelbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -11814,6 +12653,16 @@
                 </link>
                 <source type="string"/>
               </tab_nobleflaw>
+              <tab_spacerspecialty>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_spacerspecialty@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_spacerspecialty>
               <tab_spacerbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -11864,6 +12713,16 @@
                 </link>
                 <source type="string"/>
               </tab_spacerflaw>
+              <tab_entertainerentertainerroutine>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_entertainerentertainerroutine@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_entertainerentertainerroutine>
               <tab_entertainerbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -12014,6 +12873,16 @@
                 </link>
                 <source type="string"/>
               </tab_agentflaw>
+              <tab_mandalorianclan>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_mandalorianclan@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_mandalorianclan>
               <tab_mandalorianbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -12214,6 +13083,16 @@
                 </link>
                 <source type="string"/>
               </tab_bountyhunterflaw>
+              <tab_criminalspecialty>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_criminalspecialty@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_criminalspecialty>
               <tab_criminalbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -12314,6 +13193,16 @@
                 </link>
                 <source type="string"/>
               </tab_mercenaryflaw>
+              <tab_soldierspecialty>
+                <link type="windowreference">
+                  <class>table</class>
+                  <recordname>tables.tab_soldierspecialty@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="string"/>
+              </tab_soldierspecialty>
               <tab_soldierbackgroundfeat>
                 <link type="windowreference">
                   <class>table</class>
@@ -12378,7 +13267,7 @@
           <p>Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people. \\n\\nWhat is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Lore, Medicine, Nature, and Technology</p>
+            <b>Skill:</b> Choose two from among among Lore, Medicine, Nature, and Technology</p>
           <p>
             <b>Tool:</b> Biochemist's kit</p>
           <p>
@@ -12391,9 +13280,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Scientist are interested in things most don't care about. Their research is their life, and drives their persornality traits. Their flaws, ideals, and bond are a result of their hours spent researching.</p>
-          <p>Background Feat</p>
+          <p>Field of Research</p>
+          <p>While scientist's are widely knowledgeable, they also choose a focus for their studies. Choose an option or roll on the table below to define your field of research.</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_scientistfieldofresearch@SW5e Player Book">Scientist Field of Research</link>
             <link class="table" recordname="tables.tab_scientistbackgroundfeat@SW5e Player Book">Scientist Background Feat</link>
             <link class="table" recordname="tables.tab_scientistpersonalitytrait@SW5e Player Book">Scientist Personality Trait</link>
             <link class="table" recordname="tables.tab_scientistideal@SW5e Player Book">Scientist Ideal</link>
@@ -12401,7 +13293,7 @@
             <link class="table" recordname="tables.tab_scientistflaw@SW5e Player Book">Scientist Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Lore, Medicine, Nature, and Technology</skill>
+        <skill type="string">Choose two from among among Lore, Medicine, Nature, and Technology</skill>
         <tool type="string">Biochemist's kit</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of common clothes, a datapad, a book on your field of research, a pouch containing 100 cr</equipment>
@@ -12410,21 +13302,10 @@
             <name type="string">Scientific Method</name>
             <text type="formattedtext">
               <p>You are well acquainted with your field of research from having read numerous journals or having attended scientific conferences. Concepts that are complicated, involving technical jargon that usually goes over most people's heads, are simple to you. You fully understand concepts, can recall key information, and know how to use equipment related to your field, unless the research was hidden from the public, in which you may only partially understand. You also recognize well-known figures in your field.</p>
-              <p>Field of Research</p>
-              <p>While scientist's are widely knowledgeable, they also choose a focus for their studies. Choose an option or roll on the table below to define your field of research.</p>
-              <p>d10 Field of Research</p>
-              <p>1  Biology</p>
-              <p>2  Artificial Intelligence</p>
-              <p>3  Chemistry</p>
-              <p>4  Geology</p>
-              <p>5  Physics</p>
-              <p>6  the Force</p>
-              <p>7  Astrogation</p>
-              <p>8  Medicine</p>
             </text>
           </scientificmethod>
         </features>
-        <supportingtables type="string">Scientist Background Feat,Scientist Personality Trait,Scientist Ideal,Scientist Bond,Scientist Flaw</supportingtables>
+        <supportingtables type="string">Scientist Field of Research,Scientist Background Feat,Scientist Personality Trait,Scientist Ideal,Scientist Bond,Scientist Flaw</supportingtables>
       </scientist>
       <scoundrel>
         <name type="string">Scoundrel</name>
@@ -12432,7 +13313,7 @@
           <p>You have always had a way with people. You can tease out their heart's desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage. You know what people want and you promise to deliver, coaxing people into otherwise foolish decisions. You make the improbable sound plausible, and come ahead on every deal.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Insight, Performance, and Sleight of Hand</p>
+            <b>Skill:</b> Choose two from among among Deception, Insight, Performance, and Sleight of Hand</p>
           <p>
             <b>Tool:</b> Disguise Kit, Forgery Kit</p>
           <p>
@@ -12445,9 +13326,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Scoundrels are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.</p>
-          <p>Background Feat</p>
+          <p>Favorite Schemes</p>
+          <p>Every scoundrel has an angle they use in preference to other schemes. Choose a favorite scam or roll on the table below.</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_scoundrelscam@SW5e Player Book">Scoundrel Scam</link>
             <link class="table" recordname="tables.tab_scoundrelbackgroundfeat@SW5e Player Book">Scoundrel Background Feat</link>
             <link class="table" recordname="tables.tab_scoundrelpersonalitytrait@SW5e Player Book">Scoundrel Personality Trait</link>
             <link class="table" recordname="tables.tab_scoundrelideal@SW5e Player Book">Scoundrel Ideal</link>
@@ -12455,7 +13339,7 @@
             <link class="table" recordname="tables.tab_scoundrelflaw@SW5e Player Book">Scoundrel Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Insight, Performance, and Sleight of Hand</skill>
+        <skill type="string">Choose two from among among Deception, Insight, Performance, and Sleight of Hand</skill>
         <tool type="string">Disguise Kit, Forgery Kit</tool>
         <languages type="string"/>
         <equipment type="string">A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 cr</equipment>
@@ -12464,19 +13348,10 @@
             <name type="string">False Identity</name>
             <text type="formattedtext">
               <p>You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona.\\n\\nAdditionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.</p>
-              <p>Favorite Schemes</p>
-              <p>Every scoundrel has an angle they use in preference to other schemes. Choose a favorite scam or roll on the table below.</p>
-              <p>d6 Scam</p>
-              <p>1 I cheat at games involving chance.</p>
-              <p>2 I shave creds or forge documents.</p>
-              <p>3 I insinuate myself into people's lives to prey on their weakness and secure their fortunes.</p>
-              <p>4 I put on new identities like clothes.</p>
-              <p>5 I run sleight-of-hand cons on street corners.</p>
-              <p>6 I convince people that worthless junk is worth their hard-earned money.</p>
             </text>
           </falseidentity>
         </features>
-        <supportingtables type="string">Scoundrel Background Feat,Scoundrel Personality Trait,Scoundrel Ideal,Scoundrel Bond,Scoundrel Flaw</supportingtables>
+        <supportingtables type="string">Scoundrel Scam,Scoundrel Background Feat,Scoundrel Personality Trait,Scoundrel Ideal,Scoundrel Bond,Scoundrel Flaw</supportingtables>
       </scoundrel>
       <jedi>
         <name type="string">Jedi</name>
@@ -12484,7 +13359,7 @@
           <p>You are a devout follower of the Jedi Order: an ancient, monastic peacekeeping organization united in its observance of the light side of the Force. A noble order of protectors noted for their ability to tap into the power of the Force, the Jedi serve as guardians of peace and justice in the Galactic Republic. You follow the Jedi Code:\\n\\n*"There is no emotion, there is peace.*\\n*There is no ignorance, there is knowledge.*\\n*There is no passion, there is serenity.*\\n*There is no chaos, there is harmony.*\\n*There is no death, there is the Force."*</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Insight, Investigation, Lore, and Persuasion</p>
+            <b>Skill:</b> Choose two from among among Insight, Investigation, Lore, and Persuasion</p>
           <p>
             <b>Tool:</b> Artificer's tools</p>
           <p>
@@ -12497,7 +13372,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Jedi are shaped by their experience in their temple. Their study of the history and tenets of the Jedi Order and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_jedibackgroundfeat@SW5e Player Book">Jedi Background Feat</link>
@@ -12507,7 +13382,7 @@
             <link class="table" recordname="tables.tab_jediflaw@SW5e Player Book">Jedi Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Insight, Investigation, Lore, and Persuasion</skill>
+        <skill type="string">Choose two from among among Insight, Investigation, Lore, and Persuasion</skill>
         <tool type="string">Artificer's tools</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A copy of the Jedi code, a set of common clothes including a robe, and a belt pouch containing 150 cr</equipment>
@@ -12527,7 +13402,7 @@
           <p>You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.\\n\\nWork with your DM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?\\n\\nWhat's your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family's good graces, or shunned by the rest of your family?\\n\\nDoes your family have a coat of arms you might wear, a signet ring, or particular colors? \\n\\nThese details help establish your family and your title as features of the world of the campaign.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Insight, Lore, and Persuasion</p>
+            <b>Skill:</b> Choose two from among among Deception, Insight, Lore, and Persuasion</p>
           <p>
             <b>Tool:</b> One type of gaming set</p>
           <p>
@@ -12540,7 +13415,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds-responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_noblebackgroundfeat@SW5e Player Book">Noble Background Feat</link>
@@ -12550,7 +13425,7 @@
             <link class="table" recordname="tables.tab_nobleflaw@SW5e Player Book">Noble Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Insight, Lore, and Persuasion</skill>
+        <skill type="string">Choose two from among among Deception, Insight, Lore, and Persuasion</skill>
         <tool type="string">One type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 cr</equipment>
@@ -12570,7 +13445,7 @@
           <p>Aboard a star ship in the cold vacuum of space is where you feel most at home. You've spent the majority of your life travelling the stars. Life aboard ships has given you a good understanding of their inner workings. You might be especially skilled as a ship mechanic, a pilot, or support staff.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Insight, Investigation, Piloting, and Technology</p>
+            <b>Skill:</b> Choose two from among among Insight, Investigation, Piloting, and Technology</p>
           <p>
             <b>Tool:</b> Your choice of chef's kit, mechanic's kit, or one type of gaming set</p>
           <p>
@@ -12583,9 +13458,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Spacers come from all walks of life, and the responsibilities of life aboard a ship make them generally reliable as well. Spending so much time on their ship shapes their outlook and forms their most important attachments.</p>
-          <p>Background Feat</p>
+          <p>Specialty</p>
+          <p>During your time as a spacer, you had a specific role to play aboard the ship. Roll a d8 or choose from the options in the table below to determine your role:</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_spacerspecialty@SW5e Player Book">Spacer Specialty</link>
             <link class="table" recordname="tables.tab_spacerbackgroundfeat@SW5e Player Book">Spacer Background Feat</link>
             <link class="table" recordname="tables.tab_spacerpersonalitytrait@SW5e Player Book">Spacer Personality Trait</link>
             <link class="table" recordname="tables.tab_spacerideal@SW5e Player Book">Spacer Ideal</link>
@@ -12593,7 +13471,7 @@
             <link class="table" recordname="tables.tab_spacerflaw@SW5e Player Book">Spacer Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Insight, Investigation, Piloting, and Technology</skill>
+        <skill type="string">Choose two from among among Insight, Investigation, Piloting, and Technology</skill>
         <tool type="string">Your choice of chef's kit, mechanic's kit, or one type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of tools or a gaming set (one of your choice), a set of common clothes, a small souvenir from your travels, and a belt pouch containing 100 cr</equipment>
@@ -12602,21 +13480,10 @@
             <name type="string">Well-Traveled</name>
             <text type="formattedtext">
               <p>As a spacer, you've been from one end of the galaxy to the other. You've traveled along many of the trade routes, and know the safest routes. You have expert knowledge of the various hyperlanes. In addition to this, you know a large number of the models and designs of common space ships that are found in the galaxy.</p>
-              <p>Specialty</p>
-              <p>During your time as a spacer, you had a specific role to play aboard the ship. Roll a d8 or choose from the options in the table below to determine your role:</p>
-              <p>d8 Specialty</p>
-              <p>1 Pilot</p>
-              <p>2 Mechanic</p>
-              <p>3 Support Staff</p>
-              <p>4 Guard</p>
-              <p>5 Ship Medic</p>
-              <p>6 Captain</p>
-              <p>7 Communications Officer</p>
-              <p>8 Ship Cook</p>
             </text>
           </well_traveled>
         </features>
-        <supportingtables type="string">Spacer Background Feat,Spacer Personality Trait,Spacer Ideal,Spacer Bond,Spacer Flaw</supportingtables>
+        <supportingtables type="string">Spacer Specialty,Spacer Background Feat,Spacer Personality Trait,Spacer Ideal,Spacer Bond,Spacer Flaw</supportingtables>
       </spacer>
       <entertainer>
         <name type="string">Entertainer</name>
@@ -12624,7 +13491,7 @@
           <p>You thrive in front of an audience, knowing how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Acrobatics, Insight, Performance, and Sleight of Hand</p>
+            <b>Skill:</b> Choose two from among among Acrobatics, Insight, Performance, and Sleight of Hand</p>
           <p>
             <b>Tool:</b> Disguise kit, one type of musical instrument</p>
           <p>
@@ -12637,9 +13504,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.</p>
-          <p>Background Feat</p>
+          <p>Entertainer Routines</p>
+          <p>A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_entertainerentertainerroutine@SW5e Player Book">Entertainer Entertainer Routine</link>
             <link class="table" recordname="tables.tab_entertainerbackgroundfeat@SW5e Player Book">Entertainer Background Feat</link>
             <link class="table" recordname="tables.tab_entertainerpersonalitytrait@SW5e Player Book">Entertainer Personality Trait</link>
             <link class="table" recordname="tables.tab_entertainerideal@SW5e Player Book">Entertainer Ideal</link>
@@ -12647,7 +13517,7 @@
             <link class="table" recordname="tables.tab_entertainerflaw@SW5e Player Book">Entertainer Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Acrobatics, Insight, Performance, and Sleight of Hand</skill>
+        <skill type="string">Choose two from among among Acrobatics, Insight, Performance, and Sleight of Hand</skill>
         <tool type="string">Disguise kit, one type of musical instrument</tool>
         <languages type="string"/>
         <equipment type="string">A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr</equipment>
@@ -12656,23 +13526,10 @@
             <name type="string">By Popular Demand</name>
             <text type="formattedtext">
               <p>You can always find a place to perform, usually in an inn or cantina but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.</p>
-              <p>Entertainer Routines</p>
-              <p>A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.</p>
-              <p>d10 Entertainer Routine</p>
-              <p>1 Actor</p>
-              <p>2 Dancer</p>
-              <p>3 Fire-eater</p>
-              <p>4 Jester</p>
-              <p>5 Juggler</p>
-              <p>6 Instrumentalist</p>
-              <p>7 Poet</p>
-              <p>8 Singer</p>
-              <p>9 Storyteller</p>
-              <p>10 Tumbler</p>
             </text>
           </bypopulardemand>
         </features>
-        <supportingtables type="string">Entertainer Background Feat,Entertainer Personality Trait,Entertainer Ideal,Entertainer Bond,Entertainer Flaw</supportingtables>
+        <supportingtables type="string">Entertainer Entertainer Routine,Entertainer Background Feat,Entertainer Personality Trait,Entertainer Ideal,Entertainer Bond,Entertainer Flaw</supportingtables>
       </entertainer>
       <smuggler>
         <name type="string">Smuggler</name>
@@ -12680,7 +13537,7 @@
           <p>You have spent your life hiding in the darkness, making shady deals behind closed doors. What led you to engage in a life of crime? Do you crave the thrill of lawbreaking, or did you enter the profession to pay off a debt, risking your hide on behalf of a less than honorable noble? A smuggler is an individual trained in the art of acquisition, a professional thug who can deliver anything... for a price. Smugglers tend to be more bolder criminals than most, preferring bribery or distraction over subterfuge and stealth.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Piloting, Sleight of Hand, and Stealth</p>
+            <b>Skill:</b> Choose two from among among Deception, Piloting, Sleight of Hand, and Stealth</p>
           <p>
             <b>Tool:</b> One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
@@ -12693,7 +13550,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Smugglers might seem like villains on the surface, and many of them are nefarious to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but spies rarely show any respect for law or authority.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_smugglerbackgroundfeat@SW5e Player Book">Smuggler Background Feat</link>
@@ -12703,7 +13560,7 @@
             <link class="table" recordname="tables.tab_smugglerflaw@SW5e Player Book">Smuggler Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Piloting, Sleight of Hand, and Stealth</skill>
+        <skill type="string">Choose two from among among Deception, Piloting, Sleight of Hand, and Stealth</skill>
         <tool type="string">One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit</tool>
         <languages type="string"/>
         <equipment type="string">A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 150 cr</equipment>
@@ -12723,7 +13580,7 @@
           <p>Many organizations active in the galaxy aren't bound by strictures of geography. These factions pursue their agendas without regard for political boundaries, and their members operate anywhere the organization deems necessary. These groups employ listeners, rumormongers, smugglers, mercenaries, cache-holders (people who guard caches of wealth or items for use by the faction's operatives), haven keepers, and message drop minders, to name a few. At the core of every faction are those who don't merely fulfill a small function for that organization, but who serve as its hands, head, and heart. As a prelude to your adventuring career (and in preparation for it), you served as an agent of a particular faction. You might have operated openly or secretly, depending on the faction and its goals, as well as how those goals mesh with your own. Becoming an adventurer doesn't necessarily require you to relinquish membership in your faction (though you can choose to do so), and it might enhance your status in the faction.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Investigation, Lore, and Persuasion.</p>
+            <b>Skill:</b> Choose two from among among Deception, Investigation, Lore, and Persuasion</p>
           <p>
             <b>Languages:</b> Two of your choice</p>
           <p>
@@ -12744,7 +13601,7 @@
             <link class="table" recordname="tables.tab_agentflaw@SW5e Player Book">Agent Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Investigation, Lore, and Persuasion.</skill>
+        <skill type="string">Choose two from among among Deception, Investigation, Lore, and Persuasion</skill>
         <languages type="string">Two of your choice</languages>
         <equipment type="string">Badge or emblem of your faction, a copy of a seminal faction text (or a code-book for a covert faction), a set of common clothes, and a pouch containing 150 cr</equipment>
         <features>
@@ -12763,7 +13620,7 @@
           <p>You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Athletics, Intimidation, Piloting, and Survival</p>
+            <b>Skill:</b> Choose two from among among Athletics, Intimidation, Piloting, and Survival</p>
           <p>
             <b>Languages:</b> Mando'a and one of your choice</p>
           <p>
@@ -12774,9 +13631,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Mandalorians are a meritocracy where birthplace, rank, status, and citizenship mean nothing. You are what you do. Mandalorians live by the Resol'nare (the "Six Actions"). As a true Mandalorian you should strive to live by this code as much as possible by remaining honorable. Your flaw(s) might consist of any dishonor you've committed, or even being too honorable.</p>
-          <p>Background Feat</p>
+          <p>Mandalorian Clan</p>
+          <p>Mandalorian culture is built on the backbone of various clans. The clan you are a part of has it's own history, allegiances, and fueds which shape your persepctive. Choose an option or roll on the table below to determine your clan.</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_mandalorianclan@SW5e Player Book">Mandalorian Clan</link>
             <link class="table" recordname="tables.tab_mandalorianbackgroundfeat@SW5e Player Book">Mandalorian Background Feat</link>
             <link class="table" recordname="tables.tab_mandalorianpersonalitytrait@SW5e Player Book">Mandalorian Personality Trait</link>
             <link class="table" recordname="tables.tab_mandalorianideal@SW5e Player Book">Mandalorian Ideal</link>
@@ -12784,7 +13644,7 @@
             <link class="table" recordname="tables.tab_mandalorianflaw@SW5e Player Book">Mandalorian Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Athletics, Intimidation, Piloting, and Survival</skill>
+        <skill type="string">Choose two from among among Athletics, Intimidation, Piloting, and Survival</skill>
         <languages type="string">Mando'a and one of your choice</languages>
         <equipment type="string">A set of traveler's clothes, a trophy from a previous victory, and a pouch containing 200 cr</equipment>
         <features>
@@ -12792,21 +13652,10 @@
             <name type="string">Child of Mandalore</name>
             <text type="formattedtext">
               <p>Other Mandalorians know, and will look out for you. If you're ever in need of a place to stay, or a meal to eat, other Mandalorians  will help you as long as your clans aren't feuding. This could be in the form of shelters, meals, even healing. If the Mandalorians are of your clan or a clan friendly to you, they may be willing to help you even at cost to themselves.</p>
-              <p>Mandalorian Clan</p>
-              <p>Mandalorian culture is built on the backbone of various clans. The clan you are a part of has it's own history, allegiances, and fueds which shape your persepctive. Choose an option or roll on the table below to determine your clan.</p>
-              <p>d8 Clan</p>
-              <p>1 Vizsla</p>
-              <p>2 Fett</p>
-              <p>3 Kryze</p>
-              <p>4 Ordo</p>
-              <p>5 Wren</p>
-              <p>6 Lok</p>
-              <p>7 Cadera</p>
-              <p>8 Clanless</p>
             </text>
           </childofmandalore>
         </features>
-        <supportingtables type="string">Mandalorian Background Feat,Mandalorian Personality Trait,Mandalorian Ideal,Mandalorian Bond,Mandalorian Flaw</supportingtables>
+        <supportingtables type="string">Mandalorian Clan,Mandalorian Background Feat,Mandalorian Personality Trait,Mandalorian Ideal,Mandalorian Bond,Mandalorian Flaw</supportingtables>
       </mandalorian>
       <gambler>
         <name type="string">Gambler</name>
@@ -12814,7 +13663,7 @@
           <p>You are a skilled gambler who spends most of your time in casinos, bar rooms, and gambling dens. Are your activities legal, or do you break the law? Have you ever cheated in a game, or do you play by the rules? No matter what, your life has been one of excitement, chance, and danger.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Insight, Intimidation, and Sleight of Hand</p>
+            <b>Skill:</b> Choose two from among among Deception, Insight, Intimidation, and Sleight of Hand</p>
           <p>
             <b>Tool:</b> Two types of gaming sets</p>
           <p>
@@ -12827,7 +13676,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Gambling is your passion, for better or for worse. Most gamblers see their vices as virtues, and overlook things in their pursuit of the rush.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_gamblerbackgroundfeat@SW5e Player Book">Gambler Background Feat</link>
@@ -12837,7 +13686,7 @@
             <link class="table" recordname="tables.tab_gamblerflaw@SW5e Player Book">Gambler Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Insight, Intimidation, and Sleight of Hand</skill>
+        <skill type="string">Choose two from among among Deception, Insight, Intimidation, and Sleight of Hand</skill>
         <tool type="string">Two types of gaming sets</tool>
         <languages type="string"/>
         <equipment type="string">A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 cr.</equipment>
@@ -12857,7 +13706,7 @@
           <p>You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:\\n\\n*"Peace is a lie. There is only passion.*\\n*Through passion I gain strength.*\\n*Through strength I gain power.*\\n*Through power I gain victory.*\\n*Through victory my chains are broken.*\\n*The Force shall free me."*</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Insight, Intimidation, and Lore</p>
+            <b>Skill:</b> Choose two from among among Deception, Insight, Intimidation, and Lore</p>
           <p>
             <b>Tool:</b> Artificer's tools</p>
           <p>
@@ -12870,7 +13719,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Sith are shaped by their training. They study the Sith code and use it to oppress the weak and quell resistance. Their study of the Sith code affects their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_sithbackgroundfeat@SW5e Player Book">Sith Background Feat</link>
@@ -12880,7 +13729,7 @@
             <link class="table" recordname="tables.tab_sithflaw@SW5e Player Book">Sith Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Insight, Intimidation, and Lore</skill>
+        <skill type="string">Choose two from among among Deception, Insight, Intimidation, and Lore</skill>
         <tool type="string">Artificer's tools</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A copy of the Sith code, a set of common clothes including a robe, and a belt pouch containing 150 cr</equipment>
@@ -12900,7 +13749,7 @@
           <p>Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.\\n\\nYou might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Insight, Persuasion, and Stealth</p>
+            <b>Skill:</b> Choose two from among among Deception, Insight, Persuasion, and Stealth</p>
           <p>
             <b>Tool:</b> Your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
@@ -12913,7 +13762,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_bountyhunterbackgroundfeat@SW5e Player Book">Bounty Hunter Background Feat</link>
@@ -12923,7 +13772,7 @@
             <link class="table" recordname="tables.tab_bountyhunterflaw@SW5e Player Book">Bounty Hunter Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Insight, Persuasion, and Stealth</skill>
+        <skill type="string">Choose two from among among Deception, Insight, Persuasion, and Stealth</skill>
         <tool type="string">Your choice of demolitions kit, security kit, or slicer's kit</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr</equipment>
@@ -12943,7 +13792,7 @@
           <p>You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Deception, Intimidation, Sleight of Hand, and Stealth</p>
+            <b>Skill:</b> Choose two from among among Deception, Intimidation, Sleight of Hand, and Stealth</p>
           <p>
             <b>Tool:</b> One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
@@ -12956,9 +13805,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.</p>
-          <p>Background Feat</p>
+          <p>Criminal Specialty</p>
+          <p>Individual criminals often have particular specialties, whether a part of an organization or a solo endeavor. Choose the role you played in your criminal life, or roll on the table below.</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_criminalspecialty@SW5e Player Book">Criminal Specialty</link>
             <link class="table" recordname="tables.tab_criminalbackgroundfeat@SW5e Player Book">Criminal Background Feat</link>
             <link class="table" recordname="tables.tab_criminalpersonalitytrait@SW5e Player Book">Criminal Personality Trait</link>
             <link class="table" recordname="tables.tab_criminalideal@SW5e Player Book">Criminal Ideal</link>
@@ -12966,7 +13818,7 @@
             <link class="table" recordname="tables.tab_criminalflaw@SW5e Player Book">Criminal Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Deception, Intimidation, Sleight of Hand, and Stealth</skill>
+        <skill type="string">Choose two from among among Deception, Intimidation, Sleight of Hand, and Stealth</skill>
         <tool type="string">One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit</tool>
         <languages type="string"/>
         <equipment type="string">A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr</equipment>
@@ -12975,21 +13827,10 @@
             <name type="string">Criminal Contact</name>
             <text type="formattedtext">
               <p>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.</p>
-              <p>Criminal Specialty</p>
-              <p>Individual criminals often have particular specialties, whether a part of an organization or a solo endeavor. Choose the role you played in your criminal life, or roll on the table below.</p>
-              <p>d8 Specialty</p>
-              <p>1 Blackmailer</p>
-              <p>2 Burglar</p>
-              <p>3 Enforcer</p>
-              <p>4 Fence</p>
-              <p>5 Highway robber</p>
-              <p>6 Hired killer</p>
-              <p>7 Pickpocket</p>
-              <p>8 Thug</p>
             </text>
           </criminalcontact>
         </features>
-        <supportingtables type="string">Criminal Background Feat,Criminal Personality Trait,Criminal Ideal,Criminal Bond,Criminal Flaw</supportingtables>
+        <supportingtables type="string">Criminal Specialty,Criminal Background Feat,Criminal Personality Trait,Criminal Ideal,Criminal Bond,Criminal Flaw</supportingtables>
       </criminal>
       <mercenary>
         <name type="string">Mercenary</name>
@@ -12997,7 +13838,7 @@
           <p>As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one. \\n\\nNow you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Athletics, Investigation, Persuasion, and Piloting</p>
+            <b>Skill:</b> Choose two from among among Athletics, Investigation, Persuasion, and Piloting</p>
           <p>
             <b>Tool:</b> One type of gaming set</p>
           <p>
@@ -13010,7 +13851,7 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>Mercenaries are shaped by their lively nature, for the better and the worse. They tend to be driven by either their commitment to money or something more valuable.</p>
-          <p>Background Feat</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
             <link class="table" recordname="tables.tab_mercenarybackgroundfeat@SW5e Player Book">Mercenary Background Feat</link>
@@ -13020,7 +13861,7 @@
             <link class="table" recordname="tables.tab_mercenaryflaw@SW5e Player Book">Mercenary Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Athletics, Investigation, Persuasion, and Piloting</skill>
+        <skill type="string">Choose two from among among Athletics, Investigation, Persuasion, and Piloting</skill>
         <tool type="string">One type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A uniform of your company (traveler's clothes in quality), an insignia of your rank, a gaming set (one of your choice), and a pouch containing the remainder of your last wages (100 cr)</equipment>
@@ -13040,7 +13881,7 @@
           <p>War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.\\n\\nWhen you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, a village militia, or perhaps a private company.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among Athletics, Intimidation, Persuasion, and Piloting</p>
+            <b>Skill:</b> Choose two from among among Athletics, Intimidation, Persuasion, and Piloting</p>
           <p>
             <b>Tool:</b> One type of gaming set</p>
           <p>
@@ -13053,9 +13894,12 @@
           </listlink>
           <h>Suggested Characteristics</h>
           <p>The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.</p>
-          <p>Background Feat</p>
+          <p>Specialty</p>
+          <p>During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:</p>
+          <p>BACKGROUND FEAT</p>
           <p>As a further embodiment of the experience and training of your background, you can choose from the following feats:</p>
           <listlink>
+            <link class="table" recordname="tables.tab_soldierspecialty@SW5e Player Book">Soldier Specialty</link>
             <link class="table" recordname="tables.tab_soldierbackgroundfeat@SW5e Player Book">Soldier Background Feat</link>
             <link class="table" recordname="tables.tab_soldierpersonalitytrait@SW5e Player Book">Soldier Personality Trait</link>
             <link class="table" recordname="tables.tab_soldierideal@SW5e Player Book">Soldier Ideal</link>
@@ -13063,7 +13907,7 @@
             <link class="table" recordname="tables.tab_soldierflaw@SW5e Player Book">Soldier Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among Athletics, Intimidation, Persuasion, and Piloting</skill>
+        <skill type="string">Choose two from among among Athletics, Intimidation, Persuasion, and Piloting</skill>
         <tool type="string">One type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">An insignia of rank, a trophy taken from a fallen enemy, a gaming set (one of your choice), a set of common clothes, and a belt pouch containing 100 cr</equipment>
@@ -13072,21 +13916,10 @@
             <name type="string">Military Rank</name>
             <text type="formattedtext">
               <p>You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment for temporary use. You can also usually gain access to friendly military encampments where your rank is recognized.</p>
-              <p>Specialty</p>
-              <p>During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:</p>
-              <p>d8 Specialty</p>
-              <p>1 Officer</p>
-              <p>2 Scout</p>
-              <p>3 Infantry</p>
-              <p>4 Medic</p>
-              <p>5 Quartermaster</p>
-              <p>6 Pilot</p>
-              <p>7 Artisan</p>
-              <p>8 Support Staff</p>
             </text>
           </militaryrank>
         </features>
-        <supportingtables type="string">Soldier Background Feat,Soldier Personality Trait,Soldier Ideal,Soldier Bond,Soldier Flaw</supportingtables>
+        <supportingtables type="string">Soldier Specialty,Soldier Background Feat,Soldier Personality Trait,Soldier Ideal,Soldier Bond,Soldier Flaw</supportingtables>
       </soldier>
     </backgrounddata>
     <backgroundlists>
@@ -19131,9 +19964,9 @@
             <name type="string">Critical Analysis</name>
             <level type="number">1</level>
             <text type="formattedtext">
-              <p>At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:</p>
-              <p>- When you analyze a hostile creature, attack and damage rolls made with vibroweapons wielded in one-hand or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.</p>
-              <p>- When you analyze a friendly creature, the target may use its reaction and end your Critical Analysis to add your Intelligence modifier to one attack roll, ability check, or saving throw.</p>
+              <p>At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless eficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:</p>
+              <p>- When you analyze a hostile creature, attack and damage rolls made with vibroweapons wielded in one hand or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.</p>
+              <p>- When you analyze a friendly creature, the target may use its reaction and end your Critical Analysis to add your Intelligence modifier to one attack roll, ability check, or saving throw before its next short or long rest. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.</p>
             </text>
           </criticalanalysis1>
           <discoveries2>
@@ -26419,7 +27252,7 @@
       <tripweaponmastery>
         <name type="string">TRIP WEAPON MASTERY</name>
         <text type="formattedtext">
-          <p>You master the chakram, light ring, net, sabercane, saberwhip, vibrobaton, vibrostaff, and vibrowhip. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>
+          <p>You master the chakram, light ring, net, saberwhip,vibrobaton, vibrostaff, and vibrowhip. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>
           <list>
             <li>You gain a +1 bonus to the weapon's attack rolls.</li>
             <li>As a bonus action on your turn, you can extend your weapon to sweep around and pull down an opponent's shield. Until the end of that creature's next turn, it gains no benefit to armor class from its shield.</li>
@@ -27940,11 +28773,11 @@
           </techdabbler>
           <thieves>
             <name type="string">Thieves</name>
-            <text type="formattedtext">You have proficiency in Sleight of Hand.</text>
+            <text type="formattedtext">You are proficient in the Sleight of Hand skill.</text>
           </thieves>
           <tinker>
             <name type="string">Tinker</name>
-            <text type="formattedtext">You have proficiency with tinker's tools. You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause a small electrical fire.\\nYou can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.</text>
+            <text type="formattedtext">You have proficiency with artisan's tools (tinker's tools). You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause a small electrical fire.\\nYou can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.</text>
           </tinker>
           <languages>
             <name type="string">Languages</name>
@@ -28116,7 +28949,7 @@
           </forcesensitive>
           <menacing>
             <name type="string">Menacing</name>
-            <text type="formattedtext">You gain proficiency in the Intimidation skill.</text>
+            <text type="formattedtext">You are proficient in the Intimidation skill.</text>
           </menacing>
           <sadistic>
             <name type="string">Sadistic</name>
@@ -28297,7 +29130,7 @@
           </montralreception>
           <wildhunters>
             <name type="string">Wild Hunters</name>
-            <text type="formattedtext">You have proficiency with the Survival skill.</text>
+            <text type="formattedtext">You are proficient in the Survival skill.</text>
           </wildhunters>
           <languages>
             <name type="string">Languages</name>
@@ -28633,7 +29466,7 @@
           </darkvision>
           <elegantdancers>
             <name type="string">Elegant Dancers</name>
-            <text type="formattedtext">You have proficiency with the Performance skill.</text>
+            <text type="formattedtext">You are proficient in the Performance skill.</text>
           </elegantdancers>
           <naturalantitoxins>
             <name type="string">Natural Antitoxins</name>
@@ -28725,7 +29558,7 @@
           </darkvision>
           <hunter>
             <name type="string">Hunter</name>
-            <text type="formattedtext">You are proficient in Survival and Stealth.</text>
+            <text type="formattedtext">You are proficient in the Survival, and Stealth skills.</text>
           </hunter>
           <keenhearingandsmell>
             <name type="string">Keen Hearing and Smell</name>
@@ -28807,7 +29640,7 @@
           </defiant>
           <proficiency>
             <name type="string">Proficiency</name>
-            <text type="formattedtext">You gain proficiency in one skill, one tool, and one weapon of your choice.</text>
+            <text type="formattedtext">You are proficient in one skill, one tool, and one weapon of your choice.</text>
           </proficiency>
           <languages>
             <name type="string">Languages</name>
@@ -28883,7 +29716,7 @@
           </speed>
           <shrewd>
             <name type="string">Shrewd</name>
-            <text type="formattedtext">You are proficient in the Insight and Deception skills.</text>
+            <text type="formattedtext">You have proficiency in the Insight, and Deception skills</text>
           </shrewd>
           <naturallystealthy>
             <name type="string">Naturally Stealthy</name>
@@ -29063,11 +29896,11 @@
           </darkvision>
           <galactictraveler>
             <name type="string">Galactic Traveler</name>
-            <text type="formattedtext">You have proficiency in Lore.</text>
+            <text type="formattedtext">You are proficient in the Lore skill.</text>
           </galactictraveler>
           <pilot>
             <name type="string">Pilot</name>
-            <text type="formattedtext">You have proficiency in Piloting.</text>
+            <text type="formattedtext">You are proficient in the Piloting skill.</text>
           </pilot>
           <techresistance>
             <name type="string">Tech Resistance</name>
