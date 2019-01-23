@@ -6,15 +6,20 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 [SW5e Website](http://star-wars-5e.azurewebsites.net/)
 
+---
+
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
 |Player Book | In Progress | Many issues. Alpha testing. |
 |NPC Book | Released | Give it a try. Beta testing. |
 |Rule-set Extension | Released | Give it a try. Beta testing. |
 
+---
+
 ### Fantasy Grounds User Information
 
 #### Installation
+##### Be Warned - The current player module is still in early development and may have issues.
 
 * To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
