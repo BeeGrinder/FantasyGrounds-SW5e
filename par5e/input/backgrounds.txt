@@ -1,6 +1,6 @@
 ##;Scientist
 Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people. \n\nWhat is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.
-Skill Proficiencies: Choose two from Lore, Medicine, Nature, and Technology
+Skill Proficiencies: Choose two from among Lore, Medicine, Nature, and Technology
 Tool Proficiencies: Biochemist's kit
 Languages: One of your choice
 Equipment: A set of common clothes, a datapad, a book on your field of research, a pouch containing 100 cr
@@ -62,7 +62,7 @@ d6 Flaw
 6  I work on my research to the point where I ignore my own bodily needs.
 ##;Scoundrel
 You have always had a way with people. You can tease out their heart’s desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It’s a useful talent, and one that you’re perfectly willing to use for your advantage. You know what people want and you promise to deliver, coaxing people into otherwise foolish decisions. You make the improbable sound plausible, and come ahead on every deal.
-Skill Proficiencies: Choose two from Deception, Insight, Performance, and Sleight of Hand
+Skill Proficiencies: Choose two from among Deception, Insight, Performance, and Sleight of Hand
 Tool Proficiencies: Disguise Kit, Forgery Kit
 Languages: null
 Equipment: A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 cr
@@ -122,7 +122,7 @@ d6 Flaw
 6 I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.
 ##;Jedi
 You are a devout follower of the Jedi Order: an ancient, monastic peacekeeping organization united in its observance of the light side of the Force. A noble order of protectors noted for their ability to tap into the power of the Force, the Jedi serve as guardians of peace and justice in the Galactic Republic. You follow the Jedi Code:\n\n*"There is no emotion, there is peace.*\n*There is no ignorance, there is knowledge.*\n*There is no passion, there is serenity.*\n*There is no chaos, there is harmony.*\n*There is no death, there is the Force."*
-Skill Proficiencies: Choose two from Insight, Investigation, Lore, and Persuasion
+Skill Proficiencies: Choose two from among Insight, Investigation, Lore, and Persuasion
 Tool Proficiencies: Artificer's tools
 Languages: One of your choice
 Equipment: A copy of the Jedi code, a set of common clothes including a robe, and a belt pouch containing 150 cr
@@ -173,7 +173,7 @@ d6 Flaw
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Noble
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.\n\nWork with your DM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?\n\nWhat’s your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family’s good graces, or shunned by the rest of your family?\n\nDoes your family have a coat of arms you might wear, a signet ring, or particular colors? \n\nThese details help establish your family and your title as features of the world of the campaign.
-Skill Proficiencies: Choose two from Deception, Insight, Lore, and Persuasion
+Skill Proficiencies: Choose two from among Deception, Insight, Lore, and Persuasion
 Tool Proficiencies: One type of gaming set
 Languages: One of your choice
 Equipment: A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 cr
@@ -224,7 +224,7 @@ d6 Flaw
 6 By my words and actions, I often bring shame to my family.
 ##;Spacer
 Aboard a star ship in the cold vacuum of space is where you feel most at home. You've spent the majority of your life travelling the stars. Life aboard ships has given you a good understanding of their inner workings. You might be especially skilled as a ship mechanic, a pilot, or support staff.
-Skill Proficiencies: Choose two from Insight, Investigation, Piloting, and Technology
+Skill Proficiencies: Choose two from among Insight, Investigation, Piloting, and Technology
 Tool Proficiencies: Your choice of chef's kit, mechanic's kit, or one type of gaming set
 Languages: One of your choice
 Equipment: A set of tools or a gaming set (one of your choice), a set of common clothes, a small souvenir from your travels, and a belt pouch containing 100 cr
@@ -286,7 +286,7 @@ d6 Flaw
 6 My pride will probably lead to my destruction.
 ##;Entertainer
 You thrive in front of an audience, knowing how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
-Skill Proficiencies: Choose two from Acrobatics, Insight, Performance, and Sleight of Hand
+Skill Proficiencies: Choose two from among Acrobatics, Insight, Performance, and Sleight of Hand
 Tool Proficiencies: Disguise kit, one type of musical instrument
 Languages: null
 Equipment: A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr
@@ -350,7 +350,7 @@ d6 Flaw
 6 Despite my best efforts, I am unreliable to my friends.
 ##;Smuggler
 You have spent your life hiding in the darkness, making shady deals behind closed doors. What led you to engage in a life of crime? Do you crave the thrill of lawbreaking, or did you enter the profession to pay off a debt, risking your hide on behalf of a less than honorable noble? A smuggler is an individual trained in the art of acquisition, a professional thug who can deliver anything... for a price. Smugglers tend to be more bolder criminals than most, preferring bribery or distraction over subterfuge and stealth.
-Skill Proficiencies: Choose two from Deception, Piloting, Sleight of Hand, and Stealth
+Skill Proficiencies: Choose two from among Deception, Piloting, Sleight of Hand, and Stealth
 Tool Proficiencies: One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit
 Languages: null
 Equipment: A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 150 cr
@@ -451,7 +451,7 @@ d6 Flaw
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Mandalorian
 You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.
-Skill Proficiencies: Choose two from Athletics, Intimidation, Piloting, and Survival
+Skill Proficiencies: Choose two from among Athletics, Intimidation, Piloting, and Survival
 Languages: Mando'a and one of your choice
 Equipment: A set of traveler's clothes, a trophy from a previous victory, and a pouch containing 200 cr
 Feature: Child of Mandalore
@@ -512,7 +512,7 @@ d6 Flaw
 6  I value a victory regardless of the ethics behind the victory.
 ##;Gambler
 You are a skilled gambler who spends most of your time in casinos, bar rooms, and gambling dens. Are your activities legal, or do you break the law? Have you ever cheated in a game, or do you play by the rules? No matter what, your life has been one of excitement, chance, and danger.
-Skill Proficiencies: Choose two from Deception, Insight, Intimidation, and Sleight of Hand
+Skill Proficiencies: Choose two from among Deception, Insight, Intimidation, and Sleight of Hand
 Tool Proficiencies: Two types of gaming sets
 Languages: null
 Equipment: A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 cr.
@@ -563,7 +563,7 @@ d6 Flaw
 6 I like to think I could drink anyone under the table, but I'm really a lightweight.
 ##;Sith
 You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:\n\n*"Peace is a lie. There is only passion.*\n*Through passion I gain strength.*\n*Through strength I gain power.*\n*Through power I gain victory.*\n*Through victory my chains are broken.*\n*The Force shall free me."*
-Skill Proficiencies: Choose two from Deception, Insight, Intimidation, and Lore
+Skill Proficiencies: Choose two from among Deception, Insight, Intimidation, and Lore
 Tool Proficiencies: Artificer's tools
 Languages: One of your choice
 Equipment: A copy of the Sith code, a set of common clothes including a robe, and a belt pouch containing 150 cr
@@ -614,7 +614,7 @@ d6 Flaw
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Bounty Hunter
 Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You’re involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.\n\nYou might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.
-Skill Proficiencies: Choose two from Deception, Insight, Persuasion, and Stealth
+Skill Proficiencies: Choose two from among Deception, Insight, Persuasion, and Stealth
 Tool Proficiencies: Your choice of demolitions kit, security kit, or slicer's kit
 Languages: One of your choice
 Equipment: A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr
@@ -665,7 +665,7 @@ d6 Flaw
 6 An innocent person is in prison for a crime that I committed. I’m okay with that.
 ##;Criminal
 You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
-Skill Proficiencies: Choose two from Deception, Intimidation, Sleight of Hand, and Stealth
+Skill Proficiencies: Choose two from among Deception, Intimidation, Sleight of Hand, and Stealth
 Tool Proficiencies: One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
 Languages: null
 Equipment: A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr
@@ -727,7 +727,7 @@ d6 Flaw
 6 An innocent person is in prison for a crime that I committed. I’m okay with that.
 ##;Mercenary
 As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one. \n\nNow you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.
-Skill Proficiencies: Choose two from Athletics, Investigation, Persuasion, and Piloting
+Skill Proficiencies: Choose two from among Athletics, Investigation, Persuasion, and Piloting
 Tool Proficiencies: One type of gaming set
 Languages: One of your choice
 Equipment: A uniform of your company (traveler's clothes in quality), an insignia of your rank, a gaming set (one of your choice), and a pouch containing the remainder of your last wages (100 cr)
@@ -779,7 +779,7 @@ d6 Flaw
 6 I will never let a comrade stand alone, even if it gets me killed.
 ##;Soldier
 War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.\n\nWhen you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, a village militia, or perhaps a private company.
-Skill Proficiencies: Choose two from Athletics, Intimidation, Persuasion, and Piloting
+Skill Proficiencies: Choose two from among Athletics, Intimidation, Persuasion, and Piloting
 Tool Proficiencies: One type of gaming set
 Languages: One of your choice
 Equipment: An insignia of rank, a trophy taken from a fallen enemy, a gaming set (one of your choice), a set of common clothes, and a belt pouch containing 100 cr
