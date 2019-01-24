@@ -13264,10 +13264,11 @@
       <scientist>
         <name type="string">Scientist</name>
         <text type="formattedtext">
-          <p>Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people. \\n\\nWhat is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.</p>
+          <p>Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people.</p>
+          <p>What is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Lore, Medicine, Nature, and Technology</p>
+            <b>Skill:</b> Choose two from among Lore, Medicine, Nature, and Technology</p>
           <p>
             <b>Tool:</b> Biochemist's kit</p>
           <p>
@@ -13293,7 +13294,7 @@
             <link class="table" recordname="tables.tab_scientistflaw@SW5e Player Book">Scientist Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Lore, Medicine, Nature, and Technology</skill>
+        <skill type="string">Choose two from among Lore, Medicine, Nature, and Technology</skill>
         <tool type="string">Biochemist's kit</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of common clothes, a datapad, a book on your field of research, a pouch containing 100 cr</equipment>
@@ -13313,7 +13314,7 @@
           <p>You have always had a way with people. You can tease out their heart's desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage. You know what people want and you promise to deliver, coaxing people into otherwise foolish decisions. You make the improbable sound plausible, and come ahead on every deal.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Insight, Performance, and Sleight of Hand</p>
+            <b>Skill:</b> Choose two from among Deception, Insight, Performance, and Sleight of Hand</p>
           <p>
             <b>Tool:</b> Disguise Kit, Forgery Kit</p>
           <p>
@@ -13339,7 +13340,7 @@
             <link class="table" recordname="tables.tab_scoundrelflaw@SW5e Player Book">Scoundrel Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Insight, Performance, and Sleight of Hand</skill>
+        <skill type="string">Choose two from among Deception, Insight, Performance, and Sleight of Hand</skill>
         <tool type="string">Disguise Kit, Forgery Kit</tool>
         <languages type="string"/>
         <equipment type="string">A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 cr</equipment>
@@ -13347,7 +13348,8 @@
           <falseidentity>
             <name type="string">False Identity</name>
             <text type="formattedtext">
-              <p>You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona.\\n\\nAdditionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.</p>
+              <p>You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona.</p>
+              <p>Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.</p>
             </text>
           </falseidentity>
         </features>
@@ -13356,10 +13358,15 @@
       <jedi>
         <name type="string">Jedi</name>
         <text type="formattedtext">
-          <p>You are a devout follower of the Jedi Order: an ancient, monastic peacekeeping organization united in its observance of the light side of the Force. A noble order of protectors noted for their ability to tap into the power of the Force, the Jedi serve as guardians of peace and justice in the Galactic Republic. You follow the Jedi Code:\\n\\n*"There is no emotion, there is peace.*\\n*There is no ignorance, there is knowledge.*\\n*There is no passion, there is serenity.*\\n*There is no chaos, there is harmony.*\\n*There is no death, there is the Force."*</p>
+          <p>You are a devout follower of the Jedi Order: an ancient, monastic peacekeeping organization united in its observance of the light side of the Force. A noble order of protectors noted for their ability to tap into the power of the Force, the Jedi serve as guardians of peace and justice in the Galactic Republic. You follow the Jedi Code:</p>
+          <p>*"There is no emotion, there is peace.*</p>
+          <p>*There is no ignorance, there is knowledge.*</p>
+          <p>*There is no passion, there is serenity.*</p>
+          <p>*There is no chaos, there is harmony.*</p>
+          <p>*There is no death, there is the Force."*</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Insight, Investigation, Lore, and Persuasion</p>
+            <b>Skill:</b> Choose two from among Insight, Investigation, Lore, and Persuasion</p>
           <p>
             <b>Tool:</b> Artificer's tools</p>
           <p>
@@ -13382,7 +13389,7 @@
             <link class="table" recordname="tables.tab_jediflaw@SW5e Player Book">Jedi Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Insight, Investigation, Lore, and Persuasion</skill>
+        <skill type="string">Choose two from among Insight, Investigation, Lore, and Persuasion</skill>
         <tool type="string">Artificer's tools</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A copy of the Jedi code, a set of common clothes including a robe, and a belt pouch containing 150 cr</equipment>
@@ -13390,7 +13397,8 @@
           <shelterofthefaithful>
             <name type="string">Shelter of the Faithful</name>
             <text type="formattedtext">
-              <p>As a Jedi, you command the respect of those who are loyal to the Jedi Order. You and your adventuring companions can expect to receive free healing and care at any Jedi temple, and those who support your religion will support you (but only you) at a modest lifestyle.\\n\\nYou might also have ties to a specific Jedi temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Jedi for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.</p>
+              <p>As a Jedi, you command the respect of those who are loyal to the Jedi Order. You and your adventuring companions can expect to receive free healing and care at any Jedi temple, and those who support your religion will support you (but only you) at a modest lifestyle.</p>
+              <p>You might also have ties to a specific Jedi temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Jedi for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.</p>
             </text>
           </shelterofthefaithful>
         </features>
@@ -13399,10 +13407,14 @@
       <noble>
         <name type="string">Noble</name>
         <text type="formattedtext">
-          <p>You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.\\n\\nWork with your DM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?\\n\\nWhat's your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family's good graces, or shunned by the rest of your family?\\n\\nDoes your family have a coat of arms you might wear, a signet ring, or particular colors? \\n\\nThese details help establish your family and your title as features of the world of the campaign.</p>
+          <p>You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.</p>
+          <p>Work with your DM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?</p>
+          <p>What's your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family's good graces, or shunned by the rest of your family?</p>
+          <p>Does your family have a coat of arms you might wear, a signet ring, or particular colors?</p>
+          <p>These details help establish your family and your title as features of the world of the campaign.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Insight, Lore, and Persuasion</p>
+            <b>Skill:</b> Choose two from among Deception, Insight, Lore, and Persuasion</p>
           <p>
             <b>Tool:</b> One type of gaming set</p>
           <p>
@@ -13425,7 +13437,7 @@
             <link class="table" recordname="tables.tab_nobleflaw@SW5e Player Book">Noble Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Insight, Lore, and Persuasion</skill>
+        <skill type="string">Choose two from among Deception, Insight, Lore, and Persuasion</skill>
         <tool type="string">One type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 cr</equipment>
@@ -13445,7 +13457,7 @@
           <p>Aboard a star ship in the cold vacuum of space is where you feel most at home. You've spent the majority of your life travelling the stars. Life aboard ships has given you a good understanding of their inner workings. You might be especially skilled as a ship mechanic, a pilot, or support staff.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Insight, Investigation, Piloting, and Technology</p>
+            <b>Skill:</b> Choose two from among Insight, Investigation, Piloting, and Technology</p>
           <p>
             <b>Tool:</b> Your choice of chef's kit, mechanic's kit, or one type of gaming set</p>
           <p>
@@ -13471,7 +13483,7 @@
             <link class="table" recordname="tables.tab_spacerflaw@SW5e Player Book">Spacer Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Insight, Investigation, Piloting, and Technology</skill>
+        <skill type="string">Choose two from among Insight, Investigation, Piloting, and Technology</skill>
         <tool type="string">Your choice of chef's kit, mechanic's kit, or one type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of tools or a gaming set (one of your choice), a set of common clothes, a small souvenir from your travels, and a belt pouch containing 100 cr</equipment>
@@ -13491,7 +13503,7 @@
           <p>You thrive in front of an audience, knowing how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Acrobatics, Insight, Performance, and Sleight of Hand</p>
+            <b>Skill:</b> Choose two from among Acrobatics, Insight, Performance, and Sleight of Hand</p>
           <p>
             <b>Tool:</b> Disguise kit, one type of musical instrument</p>
           <p>
@@ -13517,7 +13529,7 @@
             <link class="table" recordname="tables.tab_entertainerflaw@SW5e Player Book">Entertainer Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Acrobatics, Insight, Performance, and Sleight of Hand</skill>
+        <skill type="string">Choose two from among Acrobatics, Insight, Performance, and Sleight of Hand</skill>
         <tool type="string">Disguise kit, one type of musical instrument</tool>
         <languages type="string"/>
         <equipment type="string">A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr</equipment>
@@ -13537,7 +13549,7 @@
           <p>You have spent your life hiding in the darkness, making shady deals behind closed doors. What led you to engage in a life of crime? Do you crave the thrill of lawbreaking, or did you enter the profession to pay off a debt, risking your hide on behalf of a less than honorable noble? A smuggler is an individual trained in the art of acquisition, a professional thug who can deliver anything... for a price. Smugglers tend to be more bolder criminals than most, preferring bribery or distraction over subterfuge and stealth.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Piloting, Sleight of Hand, and Stealth</p>
+            <b>Skill:</b> Choose two from among Deception, Piloting, Sleight of Hand, and Stealth</p>
           <p>
             <b>Tool:</b> One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
@@ -13560,7 +13572,7 @@
             <link class="table" recordname="tables.tab_smugglerflaw@SW5e Player Book">Smuggler Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Piloting, Sleight of Hand, and Stealth</skill>
+        <skill type="string">Choose two from among Deception, Piloting, Sleight of Hand, and Stealth</skill>
         <tool type="string">One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit</tool>
         <languages type="string"/>
         <equipment type="string">A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 150 cr</equipment>
@@ -13580,7 +13592,7 @@
           <p>Many organizations active in the galaxy aren't bound by strictures of geography. These factions pursue their agendas without regard for political boundaries, and their members operate anywhere the organization deems necessary. These groups employ listeners, rumormongers, smugglers, mercenaries, cache-holders (people who guard caches of wealth or items for use by the faction's operatives), haven keepers, and message drop minders, to name a few. At the core of every faction are those who don't merely fulfill a small function for that organization, but who serve as its hands, head, and heart. As a prelude to your adventuring career (and in preparation for it), you served as an agent of a particular faction. You might have operated openly or secretly, depending on the faction and its goals, as well as how those goals mesh with your own. Becoming an adventurer doesn't necessarily require you to relinquish membership in your faction (though you can choose to do so), and it might enhance your status in the faction.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Investigation, Lore, and Persuasion</p>
+            <b>Skill:</b> Choose two from among Deception, Investigation, Lore, and Persuasion</p>
           <p>
             <b>Languages:</b> Two of your choice</p>
           <p>
@@ -13601,7 +13613,7 @@
             <link class="table" recordname="tables.tab_agentflaw@SW5e Player Book">Agent Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Investigation, Lore, and Persuasion</skill>
+        <skill type="string">Choose two from among Deception, Investigation, Lore, and Persuasion</skill>
         <languages type="string">Two of your choice</languages>
         <equipment type="string">Badge or emblem of your faction, a copy of a seminal faction text (or a code-book for a covert faction), a set of common clothes, and a pouch containing 150 cr</equipment>
         <features>
@@ -13620,7 +13632,7 @@
           <p>You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Athletics, Intimidation, Piloting, and Survival</p>
+            <b>Skill:</b> Choose two from among Athletics, Intimidation, Piloting, and Survival</p>
           <p>
             <b>Languages:</b> Mando'a and one of your choice</p>
           <p>
@@ -13644,7 +13656,7 @@
             <link class="table" recordname="tables.tab_mandalorianflaw@SW5e Player Book">Mandalorian Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Athletics, Intimidation, Piloting, and Survival</skill>
+        <skill type="string">Choose two from among Athletics, Intimidation, Piloting, and Survival</skill>
         <languages type="string">Mando'a and one of your choice</languages>
         <equipment type="string">A set of traveler's clothes, a trophy from a previous victory, and a pouch containing 200 cr</equipment>
         <features>
@@ -13663,7 +13675,7 @@
           <p>You are a skilled gambler who spends most of your time in casinos, bar rooms, and gambling dens. Are your activities legal, or do you break the law? Have you ever cheated in a game, or do you play by the rules? No matter what, your life has been one of excitement, chance, and danger.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Insight, Intimidation, and Sleight of Hand</p>
+            <b>Skill:</b> Choose two from among Deception, Insight, Intimidation, and Sleight of Hand</p>
           <p>
             <b>Tool:</b> Two types of gaming sets</p>
           <p>
@@ -13686,7 +13698,7 @@
             <link class="table" recordname="tables.tab_gamblerflaw@SW5e Player Book">Gambler Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Insight, Intimidation, and Sleight of Hand</skill>
+        <skill type="string">Choose two from among Deception, Insight, Intimidation, and Sleight of Hand</skill>
         <tool type="string">Two types of gaming sets</tool>
         <languages type="string"/>
         <equipment type="string">A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 cr.</equipment>
@@ -13703,10 +13715,16 @@
       <sith>
         <name type="string">Sith</name>
         <text type="formattedtext">
-          <p>You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:\\n\\n*"Peace is a lie. There is only passion.*\\n*Through passion I gain strength.*\\n*Through strength I gain power.*\\n*Through power I gain victory.*\\n*Through victory my chains are broken.*\\n*The Force shall free me."*</p>
+          <p>You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:</p>
+          <p>*"Peace is a lie. There is only passion.*</p>
+          <p>*Through passion I gain strength.*</p>
+          <p>*Through strength I gain power.*</p>
+          <p>*Through power I gain victory.*</p>
+          <p>*Through victory my chains are broken.*</p>
+          <p>*The Force shall free me."*</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Insight, Intimidation, and Lore</p>
+            <b>Skill:</b> Choose two from among Deception, Insight, Intimidation, and Lore</p>
           <p>
             <b>Tool:</b> Artificer's tools</p>
           <p>
@@ -13729,7 +13747,7 @@
             <link class="table" recordname="tables.tab_sithflaw@SW5e Player Book">Sith Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Insight, Intimidation, and Lore</skill>
+        <skill type="string">Choose two from among Deception, Insight, Intimidation, and Lore</skill>
         <tool type="string">Artificer's tools</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A copy of the Sith code, a set of common clothes including a robe, and a belt pouch containing 150 cr</equipment>
@@ -13737,7 +13755,8 @@
           <asylumbythefearful>
             <name type="string">Asylum by the Fearful</name>
             <text type="formattedtext">
-              <p>As a Sith, you instill fear in those who are aware of your standing. You and your adventuring companions can expect to receive free healing and care at any Sith temple, and those who are aware of your nature will support you (but only you) at a modest lifestyle.\\n\\nYou might also have ties to a specific Sith temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Sith for assistance, provided the assistance you ask for benefits them and you remain in good standing with your temple.</p>
+              <p>As a Sith, you instill fear in those who are aware of your standing. You and your adventuring companions can expect to receive free healing and care at any Sith temple, and those who are aware of your nature will support you (but only you) at a modest lifestyle.</p>
+              <p>You might also have ties to a specific Sith temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Sith for assistance, provided the assistance you ask for benefits them and you remain in good standing with your temple.</p>
             </text>
           </asylumbythefearful>
         </features>
@@ -13746,10 +13765,11 @@
       <bountyhunter>
         <name type="string">Bounty Hunter</name>
         <text type="formattedtext">
-          <p>Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.\\n\\nYou might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.</p>
+          <p>Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.</p>
+          <p>You might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Insight, Persuasion, and Stealth</p>
+            <b>Skill:</b> Choose two from among Deception, Insight, Persuasion, and Stealth</p>
           <p>
             <b>Tool:</b> Your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
@@ -13772,7 +13792,7 @@
             <link class="table" recordname="tables.tab_bountyhunterflaw@SW5e Player Book">Bounty Hunter Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Insight, Persuasion, and Stealth</skill>
+        <skill type="string">Choose two from among Deception, Insight, Persuasion, and Stealth</skill>
         <tool type="string">Your choice of demolitions kit, security kit, or slicer's kit</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr</equipment>
@@ -13792,7 +13812,7 @@
           <p>You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Deception, Intimidation, Sleight of Hand, and Stealth</p>
+            <b>Skill:</b> Choose two from among Deception, Intimidation, Sleight of Hand, and Stealth</p>
           <p>
             <b>Tool:</b> One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
@@ -13818,7 +13838,7 @@
             <link class="table" recordname="tables.tab_criminalflaw@SW5e Player Book">Criminal Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Deception, Intimidation, Sleight of Hand, and Stealth</skill>
+        <skill type="string">Choose two from among Deception, Intimidation, Sleight of Hand, and Stealth</skill>
         <tool type="string">One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit</tool>
         <languages type="string"/>
         <equipment type="string">A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr</equipment>
@@ -13835,10 +13855,11 @@
       <mercenary>
         <name type="string">Mercenary</name>
         <text type="formattedtext">
-          <p>As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one. \\n\\nNow you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.</p>
+          <p>As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one.</p>
+          <p>Now you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Athletics, Investigation, Persuasion, and Piloting</p>
+            <b>Skill:</b> Choose two from among Athletics, Investigation, Persuasion, and Piloting</p>
           <p>
             <b>Tool:</b> One type of gaming set</p>
           <p>
@@ -13861,7 +13882,7 @@
             <link class="table" recordname="tables.tab_mercenaryflaw@SW5e Player Book">Mercenary Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Athletics, Investigation, Persuasion, and Piloting</skill>
+        <skill type="string">Choose two from among Athletics, Investigation, Persuasion, and Piloting</skill>
         <tool type="string">One type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">A uniform of your company (traveler's clothes in quality), an insignia of your rank, a gaming set (one of your choice), and a pouch containing the remainder of your last wages (100 cr)</equipment>
@@ -13878,10 +13899,11 @@
       <soldier>
         <name type="string">Soldier</name>
         <text type="formattedtext">
-          <p>War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.\\n\\nWhen you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, a village militia, or perhaps a private company.</p>
+          <p>War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.</p>
+          <p>When you choose this background, work with your DM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, a village militia, or perhaps a private company.</p>
           <h>Proficiencies</h>
           <p>
-            <b>Skill:</b> Choose two from among among Athletics, Intimidation, Persuasion, and Piloting</p>
+            <b>Skill:</b> Choose two from among Athletics, Intimidation, Persuasion, and Piloting</p>
           <p>
             <b>Tool:</b> One type of gaming set</p>
           <p>
@@ -13907,7 +13929,7 @@
             <link class="table" recordname="tables.tab_soldierflaw@SW5e Player Book">Soldier Flaw</link>
           </listlink>
         </text>
-        <skill type="string">Choose two from among among Athletics, Intimidation, Persuasion, and Piloting</skill>
+        <skill type="string">Choose two from among Athletics, Intimidation, Persuasion, and Piloting</skill>
         <tool type="string">One type of gaming set</tool>
         <languages type="string">One of your choice</languages>
         <equipment type="string">An insignia of rank, a trophy taken from a fallen enemy, a gaming set (one of your choice), a set of common clothes, and a belt pouch containing 100 cr</equipment>
