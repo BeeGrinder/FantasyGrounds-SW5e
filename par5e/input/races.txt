@@ -295,7 +295,8 @@ Rodian Traits
 #!;Speed. Your base walking speed is 30 feet.
 #!;Adept Climbers. You have a climbing speed of 30 feet.
 #!;Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-#!;Hunter. You are proficient in the Survival, and Stealth skills.
+#!;Stealthy. You are proficient in the Stealth skill.
+#!;Hunter. You are proficient in the Survival skill.
 #!;Keen Hearing and Smell. You have advantage on Wisdom (Perception) checks that involve hearing or smell.
 #!;Languages. You can speak, read, and write Galactic Basic and Rodese. Rodians can communicate with eachother using pheromones. Force-sensitives can detect this communication, though they can't understand it.
 ##;Human
@@ -352,7 +353,8 @@ Bothan Traits
 #!;Alignment. Bothans' duplicitous nature causes them to tend toward the dark side, though there are exceptions.
 #!;Size. Bothans stand 4-5 tall and weigh under 100 pounds. Regardless of your position in that range, your size is Small.
 #!;Speed. Your base walking speed is 25 feet.
-#!;Shrewd. You have proficiency in the Insight, and Deception skills
+#!;Clever. You are proficient in the Insight skills.
+#!;Shrewd. You are proficient in the Deception skill.
 #!;Naturally Stealthy. You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 #!;Nimble Escape. Bothans can take the Disengage or Hide action as a Bonus Action on each of its turns.
 #!;Languages. You can speak, read, and write Galactic Basic and Bothese. Bothese had a great influence on the forming of Galactic Basic; the two languages share many cognates.
