@@ -819,7 +819,10 @@ You have two additional superiority dice, and you earn more at higher levels, as
 Additionally, your superiority dice become d6s. This die changes as you gain Fighter levels, as shown in the Combat Superiority column of the Tactical Specialist Combat Superiority table
 ##;Guardian
 #h;Guardian
-While creating your guardian, consider your attraction to the Force and its most famous practitioners - the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path? Are you a soldier tapping into a latent Force-sensitivity? Were you trained in the force from a young age, or did you discover it as an adult? How do you treat those weaker than you? What was your family like? Do you see the Force as light and dark, or an impartial river of gray?
+A dark-skinned human quickly runs down a corridor, the metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him.
+A sith pureblood, clad head to toe in black and red armor, charges towards a line of soldiers. Shot after shot deflects off his armor until he reaches his prey, where he unleashes his fury in a series of devastating lightsaber sweeps.
+A zabrak general dramatically leaps to his soon-to-be overrun squad, landing with a flurry of lightsaber attacks. At the arrival of this powerful Jedi, the attackers fall back.
+Guardians are the master of the art of lightsaber combat. They focus on utilizing the everpresent power of the Force to enable devastating attacks, often singlehandedly turning the tide of battle.
 #h;PROTECTOR OR PREDATOR
 An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons. Their skills with a lightsaber are unrivalled. Subduing their enemies and bolstering their allies, the guardian uses the Force to control what happens around them.
 #h;CREATING AN GUARDIAN
@@ -865,9 +868,9 @@ Skills: Choose two from Acrobatics, Athletics, Deception, Insight, Intimidation,
 Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 #ls;
-#li;A Weapon
-#li;(a) A Shield, (b) A Pack
-#li;(a) a Different Weapon, Not a Shield. (b) A different Pack
+#li;(a) a martial lightweapon or vibroweapon and a light or medium shield or (b) two martial lightweaponss or vibroweapons
+#li;(a) combat suit and light shield or (b) light battle armor
+#li;(a) a priest's pack or (b) an explorer's pack
 #le;
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (5d4 x 100) cr.
@@ -888,11 +891,26 @@ Your forcecasting ability varies based on the alignment of the powers you cast. 
 You know how to channel the Force to create a unique effect. You start with your choice from two such effects: Cause Harm and Lend Aid. At 3rd level, your Guardian Focus grants you an additional effect. When you use your Channel the Force, you choose which effect to create.
 Some Channel the Force effects require saving throws. When you use such an effect from this class, the DC equals your force save DC.
 You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, minimum of once). You regain expended uses when you finish a short or long rest.
+#h;Cause Harm
+As an action, you can expend a use of your Channel the Force to sap the life from a hostile creature you can see within 30 feet. That creature must make a Constitution saving throw. On a failed save, the creature takes necrotic damage equal to your guardian level + your Charisma modifier, or half as much on a successful one.
+#h;Lend Aid
+As a bonus action, you can expend a use of your Channel the Force and touch a creature within 5 feet of you. That creature regains hit points equal to your guardian level + your Wisdom modifier. Alternatively, if the creature is poisoned or diseased, you neutralize the poison or disease. If more than one poison or disease aflicts the target, you neutralize one poison or disease that you know is present, or you neutralize one at random.
 #fe;Force-Empowered Strikes;2
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend force points to deal additional damage to the target. The extra damage is 2d8 for a 1st-level force slot, plus 1d8 for each slot level higher than 1st, to a maximum of 5d8. The damage is the same type as the weapon's damage.
 You can't use a higher level force slot than your Max Power Level.
 #fe;Guardian Aura;2,10
-At the 2nd level, you gain an aura of your choice, as described at the end of the class description. When you reach 10th level you can select a second aura
+At the 2nd level, you gain an aura of your choice, as described at the end of the class description. When you reach 10th level you can select a second aura.
+#ts;
+#th;Aura Name;Aura Description;
+#tr;Aura of Conquest;Whenever a creature who is frightened of you starts its turn within 5 feet of you, its speed is reduced to 0 and that creature takes psychic damage equal to half your guardian level. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Conviction;You and friendly creatures within 5 feet of you can not be frightened while you are conscious.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.
+#tr;Aura of Devotion;You and friendly creatures within 5 feet of you can not be charmed while you are conscious. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Hatred;You and friendly creatures within 5 feet of you gain a bonus to the first melee weapon damage rolls you make each round equal to your Charisma modifier (minimum of +1). You must be conscious to grant this bonus.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Presence;Whenever you or a friendly creature within 5 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Wisdom modifier (minimum of +1). You must be conscious to grant this bonus.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Protection;Whenever a creature within 5 feet of you takes damage, you can use your reaction to take that damage instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage ca not be reduced in any way. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Vigor;Whenever a friendly creature starts its turn within 5 feet of you, that creature gains temporary hit points equal to your Wisdom or Charisma modifier (your choice, minimum of one).  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Warding;You and friendly creatures within 5 feet of you have resistance to damage from force powers.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#te;
 #fe;Guardian Focus;3,7,15,18
 When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level. 
 #fe;Ability Score Improvement;4,8,12,16,19
