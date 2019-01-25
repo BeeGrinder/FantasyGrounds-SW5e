@@ -641,7 +641,7 @@
         <locked type="number">1</locked>
         <name type="string">Bedroll</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">10 cr</cost>
         <weight type="number">7.0</weight>
       </bedroll>
@@ -649,7 +649,7 @@
         <locked type="number">1</locked>
         <name type="string">Blanket</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">3.0</weight>
       </blanket>
@@ -657,7 +657,7 @@
         <locked type="number">1</locked>
         <name type="string">Binders</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">6.0</weight>
       </binders>
@@ -665,7 +665,7 @@
         <locked type="number">1</locked>
         <name type="string">Chronometer</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">100 cr</cost>
         <weight type="number">1.0</weight>
       </chronometer>
@@ -673,7 +673,7 @@
         <locked type="number">1</locked>
         <name type="string">Fibercord Cable, 50 Ft</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">20 cr</cost>
         <weight type="number">2.0</weight>
       </fibercordcable_50ft>
@@ -681,7 +681,7 @@
         <locked type="number">1</locked>
         <name type="string">Field Rations -one Day-</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">5 cr</cost>
         <weight type="number">1.0</weight>
       </fieldrations_oneday_>
@@ -689,7 +689,7 @@
         <locked type="number">1</locked>
         <name type="string">Fusion Cutter</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">25 cr</cost>
         <weight type="number">2.0</weight>
       </fusioncutter>
@@ -697,7 +697,7 @@
         <locked type="number">1</locked>
         <name type="string">Glowrod</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">10 cr</cost>
         <weight type="number">2.0</weight>
       </glowrod>
@@ -705,7 +705,7 @@
         <locked type="number">1</locked>
         <name type="string">Grappling Hook</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">4.0</weight>
       </grapplinghook>
@@ -713,7 +713,7 @@
         <locked type="number">1</locked>
         <name type="string">Gravity Generator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">500 cr</cost>
         <weight type="number">3.0</weight>
       </gravitygenerator>
@@ -721,7 +721,7 @@
         <locked type="number">1</locked>
         <name type="string">Heat Generator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">400 cr</cost>
         <weight type="number">4.0</weight>
       </heatgenerator>
@@ -729,7 +729,7 @@
         <locked type="number">1</locked>
         <name type="string">Hydrospanner</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">10 cr</cost>
         <weight type="number">2.0</weight>
       </hydrospanner>
@@ -737,7 +737,7 @@
         <locked type="number">1</locked>
         <name type="string">Macrobinoculars</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">750 cr</cost>
         <weight type="number">1.0</weight>
       </macrobinoculars>
@@ -745,7 +745,7 @@
         <locked type="number">1</locked>
         <name type="string">Mess Kit</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">20 cr</cost>
         <weight type="number">1.0</weight>
       </messkit>
@@ -753,7 +753,7 @@
         <locked type="number">1</locked>
         <name type="string">Mirror</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">0.5</weight>
       </mirror>
@@ -761,7 +761,7 @@
         <locked type="number">1</locked>
         <name type="string">Ram, Portable</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">40 cr</cost>
         <weight type="number">35.0</weight>
       </ram_portable>
@@ -769,7 +769,7 @@
         <locked type="number">1</locked>
         <name type="string">Restraining Bolt</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">350 cr</cost>
         <weight type="number">1.0</weight>
       </restrainingbolt>
@@ -777,7 +777,7 @@
         <locked type="number">1</locked>
         <name type="string">Shovel</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">7 cr</cost>
         <weight type="number">5.0</weight>
       </shovel>
@@ -785,7 +785,7 @@
         <locked type="number">1</locked>
         <name type="string">Tent, Two-person</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">20 cr</cost>
         <weight type="number">5.0</weight>
       </tent_two_person>
@@ -793,7 +793,7 @@
         <locked type="number">1</locked>
         <name type="string">Bandolier</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">100 cr</cost>
         <weight type="number">2.0</weight>
       </bandolier>
@@ -801,7 +801,7 @@
         <locked type="number">1</locked>
         <name type="string">Bipod</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">200 cr</cost>
         <weight type="number">2.0</weight>
       </bipod>
@@ -809,7 +809,7 @@
         <locked type="number">1</locked>
         <name type="string">Friction-grip Gear</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">2,000 cr</cost>
         <weight type="number">12.0</weight>
       </friction_gripgear>
@@ -817,7 +817,7 @@
         <locked type="number">1</locked>
         <name type="string">Jetpack</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">4,500 cr</cost>
         <weight type="number">20.0</weight>
       </jetpack>
@@ -825,7 +825,7 @@
         <locked type="number">1</locked>
         <name type="string">Remote Detonator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">150 cr</cost>
         <weight type="number">1.0</weight>
       </remotedetonator>
@@ -833,7 +833,7 @@
         <locked type="number">1</locked>
         <name type="string">Rocket Boots</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">2,500 cr</cost>
         <weight type="number">3.0</weight>
       </rocketboots>
@@ -841,7 +841,7 @@
         <locked type="number">1</locked>
         <name type="string">Stealth Field Generator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">8,000 cr</cost>
         <weight type="number">3.0</weight>
       </stealthfieldgenerator>
@@ -849,7 +849,7 @@
         <locked type="number">1</locked>
         <name type="string">Tracker Utility Vest</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">150 cr</cost>
         <weight type="number">3.0</weight>
       </trackerutilityvest>
@@ -857,7 +857,7 @@
         <locked type="number">1</locked>
         <name type="string">Tripod</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">450 cr</cost>
         <weight type="number">16.0</weight>
       </tripod>
@@ -913,7 +913,7 @@
         <locked type="number">1</locked>
         <name type="string">Comlink</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">0.5</weight>
       </comlink>
@@ -921,7 +921,7 @@
         <locked type="number">1</locked>
         <name type="string">Comm Jammer</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">450 cr</cost>
         <weight type="number">3.0</weight>
       </commjammer>
@@ -929,7 +929,7 @@
         <locked type="number">1</locked>
         <name type="string">Headcomm</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">1.0</weight>
       </headcomm>
@@ -937,7 +937,7 @@
         <locked type="number">1</locked>
         <name type="string">Holocomm</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">300 cr</cost>
         <weight type="number">2.0</weight>
       </holocomm>
@@ -945,7 +945,7 @@
         <locked type="number">1</locked>
         <name type="string">Holotrace Device</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">1,000 cr</cost>
         <weight type="number">5.0</weight>
       </holotracedevice>
@@ -953,7 +953,7 @@
         <locked type="number">1</locked>
         <name type="string">Pocket Scrambler</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">800 cr</cost>
         <weight type="number">1.0</weight>
       </pocketscrambler>
@@ -961,7 +961,7 @@
         <locked type="number">1</locked>
         <name type="string">Code Cylinder</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">0.5</weight>
       </codecylinder>
@@ -969,7 +969,7 @@
         <locked type="number">1</locked>
         <name type="string">Datacards 5 Ea</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">25 cr</cost>
         <weight type="number">0.0</weight>
       </datacards5ea>
@@ -977,7 +977,7 @@
         <locked type="number">1</locked>
         <name type="string">Datacron</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">4,000 cr</cost>
         <weight type="number">2.0</weight>
       </datacron>
@@ -985,7 +985,7 @@
         <locked type="number">1</locked>
         <name type="string">Datapad</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">0.5</weight>
       </datapad>
@@ -993,7 +993,7 @@
         <locked type="number">1</locked>
         <name type="string">Holocron</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">4,000 cr</cost>
         <weight type="number">2.0</weight>
       </holocron>
@@ -1001,7 +1001,7 @@
         <locked type="number">1</locked>
         <name type="string">Holorecorder</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">1.0</weight>
       </holorecorder>
@@ -1009,7 +1009,7 @@
         <locked type="number">1</locked>
         <name type="string">Stylus Pen</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">10 cr</cost>
         <weight type="number">0.5</weight>
       </styluspen>
@@ -1017,7 +1017,7 @@
         <locked type="number">1</locked>
         <name type="string">Wristpad</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">600 cr</cost>
         <weight type="number">2.0</weight>
       </wristpad>
@@ -1025,7 +1025,7 @@
         <locked type="number">1</locked>
         <name type="string">Breaching Charge</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">750 cr</cost>
         <weight type="number">4.0</weight>
       </breachingcharge>
@@ -1033,7 +1033,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Electrostun</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">250 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_electrostun>
@@ -1041,7 +1041,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Frag</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_frag>
@@ -1049,7 +1049,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Gas</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">300 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_gas>
@@ -1057,7 +1057,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Ion</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">250 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_ion>
@@ -1065,7 +1065,7 @@
         <locked type="number">1</locked>
         <name type="string">Mine, Fragmentation</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">2.0</weight>
       </mine_fragmentation>
@@ -1073,7 +1073,7 @@
         <locked type="number">1</locked>
         <name type="string">Mine, Plasma</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">550 cr</cost>
         <weight type="number">2.0</weight>
       </mine_plasma>
@@ -1081,7 +1081,7 @@
         <locked type="number">1</locked>
         <name type="string">Thermal Detonator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">750 cr</cost>
         <weight type="number">1.0</weight>
       </thermaldetonator>
@@ -1089,7 +1089,7 @@
         <locked type="number">1</locked>
         <name type="string">Backpack</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">5.0</weight>
       </backpack>
@@ -1097,7 +1097,7 @@
         <locked type="number">1</locked>
         <name type="string">Crate</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">20 cr</cost>
         <weight type="number">70.0</weight>
       </crate>
@@ -1105,7 +1105,7 @@
         <locked type="number">1</locked>
         <name type="string">Chest</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">25.0</weight>
       </chest>
@@ -1113,7 +1113,7 @@
         <locked type="number">1</locked>
         <name type="string">Pouch</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">5 cr</cost>
         <weight type="number">1.0</weight>
       </pouch>
@@ -1121,7 +1121,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Common</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">5 cr</cost>
         <weight type="number">3.0</weight>
       </clothes_common>
@@ -1129,7 +1129,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Costume</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">4.0</weight>
       </clothes_costume>
@@ -1137,7 +1137,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Dress Uniform</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">8.0</weight>
       </clothes_dressuniform>
@@ -1145,7 +1145,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Fine</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">150 cr</cost>
         <weight type="number">6.0</weight>
       </clothes_fine>
@@ -1153,12 +1153,84 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Traveler's</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">20 cr</cost>
         <weight type="number">4.0</weight>
       </clothes_traveler_s>
     </category>
     <category name="Tools - SW5e Player Book" baseicon="2" decalicon="1">
+      <aquaticrebreather>
+        <locked type="number">1</locked>
+        <name type="string">Aquatic Rebreather</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">100 cr</cost>
+        <weight type="number">2.0</weight>
+      </aquaticrebreather>
+      <enviro_suit>
+        <locked type="number">1</locked>
+        <name type="string">Enviro-suit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">2,000 cr</cost>
+        <weight type="number">15.0</weight>
+      </enviro_suit>
+      <flightsuit>
+        <locked type="number">1</locked>
+        <name type="string">Flight Suit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">1,000 cr</cost>
+        <weight type="number">5.0</weight>
+      </flightsuit>
+      <respirator>
+        <locked type="number">1</locked>
+        <name type="string">Respirator</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">200 cr</cost>
+        <weight type="number">1.0</weight>
+      </respirator>
+      <antidotekit>
+        <locked type="number">1</locked>
+        <name type="string">Antidote Kit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">600 cr</cost>
+        <weight type="number">4.0</weight>
+      </antidotekit>
+      <emergencybattery>
+        <locked type="number">1</locked>
+        <name type="string">Emergency Battery</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">70 cr</cost>
+        <weight type="number">5.0</weight>
+      </emergencybattery>
+      <medkit>
+        <locked type="number">1</locked>
+        <name type="string">Medkit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">50 cr</cost>
+        <weight type="number">3.0</weight>
+      </medkit>
+      <medpac>
+        <locked type="number">1</locked>
+        <name type="string">Medpac</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">500 cr</cost>
+        <weight type="number">0.5</weight>
+      </medpac>
+      <poison_basic_onedose_>
+        <locked type="number">1</locked>
+        <name type="string">Poison, Basic -one Dose-</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">1,000 cr</cost>
+        <weight type="number">10.0</weight>
+      </poison_basic_onedose_>
       <armormech_stools>
         <locked type="number">1</locked>
         <name type="string">Armormech's Tools</name>
@@ -1283,7 +1355,7 @@
         <locked type="number">1</locked>
         <name type="string">Biochemist's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">8.0</weight>
       </biochemist_skit>
@@ -1291,7 +1363,7 @@
         <locked type="number">1</locked>
         <name type="string">Chef's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">70 cr</cost>
         <weight type="number">8.0</weight>
       </chef_skit>
@@ -1299,7 +1371,7 @@
         <locked type="number">1</locked>
         <name type="string">Demolitions Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">400 cr</cost>
         <weight type="number">4.0</weight>
       </demolitionskit>
@@ -1307,7 +1379,7 @@
         <locked type="number">1</locked>
         <name type="string">Disguise Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">250 cr</cost>
         <weight type="number">3.0</weight>
       </disguisekit>
@@ -1315,7 +1387,7 @@
         <locked type="number">1</locked>
         <name type="string">Forgery Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">150 cr</cost>
         <weight type="number">5.0</weight>
       </forgerykit>
@@ -1323,7 +1395,7 @@
         <locked type="number">1</locked>
         <name type="string">Herbalism Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">3.0</weight>
       </herbalismkit>
@@ -1331,7 +1403,7 @@
         <locked type="number">1</locked>
         <name type="string">Mechanic's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">650 cr</cost>
         <weight type="number">25.0</weight>
       </mechanic_skit>
@@ -1339,7 +1411,7 @@
         <locked type="number">1</locked>
         <name type="string">Poisoner's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">2.0</weight>
       </poisoner_skit>
@@ -1347,7 +1419,7 @@
         <locked type="number">1</locked>
         <name type="string">Security Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">650 cr</cost>
         <weight type="number">3.0</weight>
       </securitykit>
@@ -1355,7 +1427,7 @@
         <locked type="number">1</locked>
         <name type="string">Slicer's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">800 cr</cost>
         <weight type="number">6.0</weight>
       </slicer_skit>
@@ -1363,7 +1435,7 @@
         <locked type="number">1</locked>
         <name type="string">Repair Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">750 cr</cost>
         <weight type="number">3.0</weight>
       </repairkit>
@@ -1399,78 +1471,6 @@
         <cost type="string">150 cr</cost>
         <weight type="number">0.0</weight>
       </sabaacdeck>
-      <aquaticrebreather>
-        <locked type="number">1</locked>
-        <name type="string">Aquatic Rebreather</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">100 cr</cost>
-        <weight type="number">2.0</weight>
-      </aquaticrebreather>
-      <enviro_suit>
-        <locked type="number">1</locked>
-        <name type="string">Enviro-suit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">2,000 cr</cost>
-        <weight type="number">15.0</weight>
-      </enviro_suit>
-      <flightsuit>
-        <locked type="number">1</locked>
-        <name type="string">Flight Suit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">1,000 cr</cost>
-        <weight type="number">5.0</weight>
-      </flightsuit>
-      <respirator>
-        <locked type="number">1</locked>
-        <name type="string">Respirator</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">200 cr</cost>
-        <weight type="number">1.0</weight>
-      </respirator>
-      <antidotekit>
-        <locked type="number">1</locked>
-        <name type="string">Antidote Kit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">600 cr</cost>
-        <weight type="number">4.0</weight>
-      </antidotekit>
-      <emergencybattery>
-        <locked type="number">1</locked>
-        <name type="string">Emergency Battery</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">70 cr</cost>
-        <weight type="number">5.0</weight>
-      </emergencybattery>
-      <medkit>
-        <locked type="number">1</locked>
-        <name type="string">Medkit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">50 cr</cost>
-        <weight type="number">3.0</weight>
-      </medkit>
-      <medpac>
-        <locked type="number">1</locked>
-        <name type="string">Medpac</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">500 cr</cost>
-        <weight type="number">0.5</weight>
-      </medpac>
-      <poison_basic_onedose_>
-        <locked type="number">1</locked>
-        <name type="string">Poison, Basic -one Dose-</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">1,000 cr</cost>
-        <weight type="number">10.0</weight>
-      </poison_basic_onedose_>
       <bagpipes>
         <locked type="number">1</locked>
         <name type="string">Bagpipes</name>
@@ -11044,268 +11044,6 @@
         <description type="string">Adventuring Gear Table</description>
         <groups>
           <section000>
-            <description type="string">Utility Gear</description>
-            <equipment>
-              <bedroll>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.bedroll@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Bedroll</name>
-                <cost type="string">10 cr</cost>
-                <weight type="number">7.0</weight>
-              </bedroll>
-              <blanket>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.blanket@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Blanket</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">3.0</weight>
-              </blanket>
-              <binders>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.binders@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Binders</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">6.0</weight>
-              </binders>
-              <chronometer>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.chronometer@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Chronometer</name>
-                <cost type="string">100 cr</cost>
-                <weight type="number">1.0</weight>
-              </chronometer>
-              <fibercordcable_50ft>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.fibercordcable_50ft@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Fibercord Cable, 50 Ft</name>
-                <cost type="string">20 cr</cost>
-                <weight type="number">2.0</weight>
-              </fibercordcable_50ft>
-              <fieldrations_oneday_>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.fieldrations_oneday_@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Field Rations -one Day-</name>
-                <cost type="string">5 cr</cost>
-                <weight type="number">1.0</weight>
-              </fieldrations_oneday_>
-              <fusioncutter>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.fusioncutter@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Fusion Cutter</name>
-                <cost type="string">25 cr</cost>
-                <weight type="number">2.0</weight>
-              </fusioncutter>
-              <glowrod>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.glowrod@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Glowrod</name>
-                <cost type="string">10 cr</cost>
-                <weight type="number">2.0</weight>
-              </glowrod>
-              <grapplinghook>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.grapplinghook@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Grappling Hook</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">4.0</weight>
-              </grapplinghook>
-              <gravitygenerator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.gravitygenerator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Gravity Generator</name>
-                <cost type="string">500 cr</cost>
-                <weight type="number">3.0</weight>
-              </gravitygenerator>
-              <heatgenerator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.heatgenerator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Heat Generator</name>
-                <cost type="string">400 cr</cost>
-                <weight type="number">4.0</weight>
-              </heatgenerator>
-              <hydrospanner>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.hydrospanner@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Hydrospanner</name>
-                <cost type="string">10 cr</cost>
-                <weight type="number">2.0</weight>
-              </hydrospanner>
-              <macrobinoculars>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.macrobinoculars@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Macrobinoculars</name>
-                <cost type="string">750 cr</cost>
-                <weight type="number">1.0</weight>
-              </macrobinoculars>
-              <messkit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.messkit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Mess Kit</name>
-                <cost type="string">20 cr</cost>
-                <weight type="number">1.0</weight>
-              </messkit>
-              <mirror>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.mirror@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Mirror</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">0.5</weight>
-              </mirror>
-              <ram_portable>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.ram_portable@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Ram, Portable</name>
-                <cost type="string">40 cr</cost>
-                <weight type="number">35.0</weight>
-              </ram_portable>
-              <restrainingbolt>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.restrainingbolt@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Restraining Bolt</name>
-                <cost type="string">350 cr</cost>
-                <weight type="number">1.0</weight>
-              </restrainingbolt>
-              <shovel>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.shovel@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Shovel</name>
-                <cost type="string">7 cr</cost>
-                <weight type="number">5.0</weight>
-              </shovel>
-              <tent_two_person>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.tent_two_person@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Tent, Two-person</name>
-                <cost type="string">20 cr</cost>
-                <weight type="number">5.0</weight>
-              </tent_two_person>
-            </equipment>
-          </section000>
-          <section001>
-            <description type="string">Accessories</description>
-            <equipment>
-              <bandolier>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.bandolier@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Bandolier</name>
-                <cost type="string">100 cr</cost>
-                <weight type="number">2.0</weight>
-              </bandolier>
-              <bipod>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.bipod@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Bipod</name>
-                <cost type="string">200 cr</cost>
-                <weight type="number">2.0</weight>
-              </bipod>
-              <friction_gripgear>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.friction_gripgear@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Friction-grip Gear</name>
-                <cost type="string">2,000 cr</cost>
-                <weight type="number">12.0</weight>
-              </friction_gripgear>
-              <jetpack>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.jetpack@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Jetpack</name>
-                <cost type="string">4,500 cr</cost>
-                <weight type="number">20.0</weight>
-              </jetpack>
-              <remotedetonator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.remotedetonator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Remote Detonator</name>
-                <cost type="string">150 cr</cost>
-                <weight type="number">1.0</weight>
-              </remotedetonator>
-              <rocketboots>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.rocketboots@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Rocket Boots</name>
-                <cost type="string">2,500 cr</cost>
-                <weight type="number">3.0</weight>
-              </rocketboots>
-              <stealthfieldgenerator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.stealthfieldgenerator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Stealth Field Generator</name>
-                <cost type="string">8,000 cr</cost>
-                <weight type="number">3.0</weight>
-              </stealthfieldgenerator>
-              <trackerutilityvest>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.trackerutilityvest@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Tracker Utility Vest</name>
-                <cost type="string">150 cr</cost>
-                <weight type="number">3.0</weight>
-              </trackerutilityvest>
-              <tripod>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.tripod@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Tripod</name>
-                <cost type="string">450 cr</cost>
-                <weight type="number">16.0</weight>
-              </tripod>
-            </equipment>
-          </section001>
-          <section002>
             <description type="string">Ammunition</description>
             <equipment>
               <carbonitecanister>
@@ -11362,11 +11100,6 @@
                 <cost type="string">200 cr</cost>
                 <weight type="number">1.0</weight>
               </plasmacell>
-            </equipment>
-          </section002>
-          <section003>
-            <description type="string">Communications Gear</description>
-            <equipment>
               <comlink>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -11421,11 +11154,6 @@
                 <cost type="string">800 cr</cost>
                 <weight type="number">1.0</weight>
               </pocketscrambler>
-            </equipment>
-          </section003>
-          <section004>
-            <description type="string">Data Recording And Storage Gear</description>
-            <equipment>
               <codecylinder>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -11498,11 +11226,6 @@
                 <cost type="string">600 cr</cost>
                 <weight type="number">2.0</weight>
               </wristpad>
-            </equipment>
-          </section004>
-          <section005>
-            <description type="string">Explosives</description>
-            <equipment>
               <breachingcharge>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -11575,11 +11298,6 @@
                 <cost type="string">750 cr</cost>
                 <weight type="number">1.0</weight>
               </thermaldetonator>
-            </equipment>
-          </section005>
-          <section006>
-            <description type="string">Storage</description>
-            <equipment>
               <backpack>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -11616,11 +11334,6 @@
                 <cost type="string">5 cr</cost>
                 <weight type="number">1.0</weight>
               </pouch>
-            </equipment>
-          </section006>
-          <section007>
-            <description type="string">Clothing</description>
-            <equipment>
               <clothes_common>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -11667,13 +11380,99 @@
                 <weight type="number">4.0</weight>
               </clothes_traveler_s>
             </equipment>
-          </section007>
+          </section000>
         </groups>
       </adventuringgeartable>
       <toolstable>
         <description type="string">Tools Table</description>
         <groups>
           <section000>
+            <description type="string"/>
+            <equipment>
+              <aquaticrebreather>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.aquaticrebreather@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Aquatic Rebreather</name>
+                <cost type="string">100 cr</cost>
+                <weight type="number">2.0</weight>
+              </aquaticrebreather>
+              <enviro_suit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.enviro_suit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Enviro-suit</name>
+                <cost type="string">2,000 cr</cost>
+                <weight type="number">15.0</weight>
+              </enviro_suit>
+              <flightsuit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.flightsuit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Flight Suit</name>
+                <cost type="string">1,000 cr</cost>
+                <weight type="number">5.0</weight>
+              </flightsuit>
+              <respirator>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.respirator@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Respirator</name>
+                <cost type="string">200 cr</cost>
+                <weight type="number">1.0</weight>
+              </respirator>
+              <antidotekit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.antidotekit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Antidote Kit</name>
+                <cost type="string">600 cr</cost>
+                <weight type="number">4.0</weight>
+              </antidotekit>
+              <emergencybattery>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.emergencybattery@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Emergency Battery</name>
+                <cost type="string">70 cr</cost>
+                <weight type="number">5.0</weight>
+              </emergencybattery>
+              <medkit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.medkit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Medkit</name>
+                <cost type="string">50 cr</cost>
+                <weight type="number">3.0</weight>
+              </medkit>
+              <medpac>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.medpac@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Medpac</name>
+                <cost type="string">500 cr</cost>
+                <weight type="number">0.5</weight>
+              </medpac>
+              <poison_basic_onedose_>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.poison_basic_onedose_@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Poison, Basic -one Dose-</name>
+                <cost type="string">1,000 cr</cost>
+                <weight type="number">10.0</weight>
+              </poison_basic_onedose_>
+            </equipment>
+          </section000>
+          <section001>
             <description type="string">Artisan's Tools</description>
             <equipment>
               <armormech_stools>
@@ -11812,9 +11611,9 @@
                 <weight type="number">10.0</weight>
               </tinker_stools>
             </equipment>
-          </section000>
-          <section001>
-            <description type="string">Trade Kits</description>
+          </section001>
+          <section002>
+            <description type="string">Kits/sets</description>
             <equipment>
               <biochemist_skit>
                 <link type="windowreference">
@@ -11916,8 +11715,8 @@
                 <weight type="number">3.0</weight>
               </repairkit>
             </equipment>
-          </section001>
-          <section002>
+          </section002>
+          <section003>
             <description type="string">Gaming Set</description>
             <equipment>
               <chancecubes>
@@ -11957,99 +11756,8 @@
                 <weight type="number">0.0</weight>
               </sabaacdeck>
             </equipment>
-          </section002>
-          <section003>
-            <description type="string">Life Support</description>
-            <equipment>
-              <aquaticrebreather>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.aquaticrebreather@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Aquatic Rebreather</name>
-                <cost type="string">100 cr</cost>
-                <weight type="number">2.0</weight>
-              </aquaticrebreather>
-              <enviro_suit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.enviro_suit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Enviro-suit</name>
-                <cost type="string">2,000 cr</cost>
-                <weight type="number">15.0</weight>
-              </enviro_suit>
-              <flightsuit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.flightsuit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Flight Suit</name>
-                <cost type="string">1,000 cr</cost>
-                <weight type="number">5.0</weight>
-              </flightsuit>
-              <respirator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.respirator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Respirator</name>
-                <cost type="string">200 cr</cost>
-                <weight type="number">1.0</weight>
-              </respirator>
-            </equipment>
           </section003>
           <section004>
-            <description type="string">Medical</description>
-            <equipment>
-              <antidotekit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.antidotekit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Antidote Kit</name>
-                <cost type="string">600 cr</cost>
-                <weight type="number">4.0</weight>
-              </antidotekit>
-              <emergencybattery>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.emergencybattery@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Emergency Battery</name>
-                <cost type="string">70 cr</cost>
-                <weight type="number">5.0</weight>
-              </emergencybattery>
-              <medkit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.medkit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Medkit</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">3.0</weight>
-              </medkit>
-              <medpac>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.medpac@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Medpac</name>
-                <cost type="string">500 cr</cost>
-                <weight type="number">0.5</weight>
-              </medpac>
-              <poison_basic_onedose_>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.poison_basic_onedose_@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Poison, Basic -one Dose-</name>
-                <cost type="string">1,000 cr</cost>
-                <weight type="number">10.0</weight>
-              </poison_basic_onedose_>
-            </equipment>
-          </section004>
-          <section005>
             <description type="string">Musical Instrument</description>
             <equipment>
               <bagpipes>
@@ -12143,7 +11851,7 @@
                 <weight type="number">1.0</weight>
               </viol>
             </equipment>
-          </section005>
+          </section004>
         </groups>
       </toolstable>
       <mountsandotheranimalstable>
@@ -23138,7 +22846,7 @@
         <locked type="number">1</locked>
         <name type="string">Bedroll</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">10 cr</cost>
         <weight type="number">7.0</weight>
       </bedroll>
@@ -23146,7 +22854,7 @@
         <locked type="number">1</locked>
         <name type="string">Blanket</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">3.0</weight>
       </blanket>
@@ -23154,7 +22862,7 @@
         <locked type="number">1</locked>
         <name type="string">Binders</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">6.0</weight>
       </binders>
@@ -23162,7 +22870,7 @@
         <locked type="number">1</locked>
         <name type="string">Chronometer</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">100 cr</cost>
         <weight type="number">1.0</weight>
       </chronometer>
@@ -23170,7 +22878,7 @@
         <locked type="number">1</locked>
         <name type="string">Fibercord Cable, 50 Ft</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">20 cr</cost>
         <weight type="number">2.0</weight>
       </fibercordcable_50ft>
@@ -23178,7 +22886,7 @@
         <locked type="number">1</locked>
         <name type="string">Field Rations -one Day-</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">5 cr</cost>
         <weight type="number">1.0</weight>
       </fieldrations_oneday_>
@@ -23186,7 +22894,7 @@
         <locked type="number">1</locked>
         <name type="string">Fusion Cutter</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">25 cr</cost>
         <weight type="number">2.0</weight>
       </fusioncutter>
@@ -23194,7 +22902,7 @@
         <locked type="number">1</locked>
         <name type="string">Glowrod</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">10 cr</cost>
         <weight type="number">2.0</weight>
       </glowrod>
@@ -23202,7 +22910,7 @@
         <locked type="number">1</locked>
         <name type="string">Grappling Hook</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">4.0</weight>
       </grapplinghook>
@@ -23210,7 +22918,7 @@
         <locked type="number">1</locked>
         <name type="string">Gravity Generator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">500 cr</cost>
         <weight type="number">3.0</weight>
       </gravitygenerator>
@@ -23218,7 +22926,7 @@
         <locked type="number">1</locked>
         <name type="string">Heat Generator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">400 cr</cost>
         <weight type="number">4.0</weight>
       </heatgenerator>
@@ -23226,7 +22934,7 @@
         <locked type="number">1</locked>
         <name type="string">Hydrospanner</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">10 cr</cost>
         <weight type="number">2.0</weight>
       </hydrospanner>
@@ -23234,7 +22942,7 @@
         <locked type="number">1</locked>
         <name type="string">Macrobinoculars</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">750 cr</cost>
         <weight type="number">1.0</weight>
       </macrobinoculars>
@@ -23242,7 +22950,7 @@
         <locked type="number">1</locked>
         <name type="string">Mess Kit</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">20 cr</cost>
         <weight type="number">1.0</weight>
       </messkit>
@@ -23250,7 +22958,7 @@
         <locked type="number">1</locked>
         <name type="string">Mirror</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">50 cr</cost>
         <weight type="number">0.5</weight>
       </mirror>
@@ -23258,7 +22966,7 @@
         <locked type="number">1</locked>
         <name type="string">Ram, Portable</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">40 cr</cost>
         <weight type="number">35.0</weight>
       </ram_portable>
@@ -23266,7 +22974,7 @@
         <locked type="number">1</locked>
         <name type="string">Restraining Bolt</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">350 cr</cost>
         <weight type="number">1.0</weight>
       </restrainingbolt>
@@ -23274,7 +22982,7 @@
         <locked type="number">1</locked>
         <name type="string">Shovel</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">7 cr</cost>
         <weight type="number">5.0</weight>
       </shovel>
@@ -23282,7 +22990,7 @@
         <locked type="number">1</locked>
         <name type="string">Tent, Two-person</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Utility Gear</subtype>
+        <subtype type="string"/>
         <cost type="string">20 cr</cost>
         <weight type="number">5.0</weight>
       </tent_two_person>
@@ -23290,7 +22998,7 @@
         <locked type="number">1</locked>
         <name type="string">Bandolier</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">100 cr</cost>
         <weight type="number">2.0</weight>
       </bandolier>
@@ -23298,7 +23006,7 @@
         <locked type="number">1</locked>
         <name type="string">Bipod</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">200 cr</cost>
         <weight type="number">2.0</weight>
       </bipod>
@@ -23306,7 +23014,7 @@
         <locked type="number">1</locked>
         <name type="string">Friction-grip Gear</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">2,000 cr</cost>
         <weight type="number">12.0</weight>
       </friction_gripgear>
@@ -23314,7 +23022,7 @@
         <locked type="number">1</locked>
         <name type="string">Jetpack</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">4,500 cr</cost>
         <weight type="number">20.0</weight>
       </jetpack>
@@ -23322,7 +23030,7 @@
         <locked type="number">1</locked>
         <name type="string">Remote Detonator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">150 cr</cost>
         <weight type="number">1.0</weight>
       </remotedetonator>
@@ -23330,7 +23038,7 @@
         <locked type="number">1</locked>
         <name type="string">Rocket Boots</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">2,500 cr</cost>
         <weight type="number">3.0</weight>
       </rocketboots>
@@ -23338,7 +23046,7 @@
         <locked type="number">1</locked>
         <name type="string">Stealth Field Generator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">8,000 cr</cost>
         <weight type="number">3.0</weight>
       </stealthfieldgenerator>
@@ -23346,7 +23054,7 @@
         <locked type="number">1</locked>
         <name type="string">Tracker Utility Vest</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">150 cr</cost>
         <weight type="number">3.0</weight>
       </trackerutilityvest>
@@ -23354,7 +23062,7 @@
         <locked type="number">1</locked>
         <name type="string">Tripod</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Accessories</subtype>
+        <subtype type="string"/>
         <cost type="string">450 cr</cost>
         <weight type="number">16.0</weight>
       </tripod>
@@ -23410,7 +23118,7 @@
         <locked type="number">1</locked>
         <name type="string">Comlink</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">0.5</weight>
       </comlink>
@@ -23418,7 +23126,7 @@
         <locked type="number">1</locked>
         <name type="string">Comm Jammer</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">450 cr</cost>
         <weight type="number">3.0</weight>
       </commjammer>
@@ -23426,7 +23134,7 @@
         <locked type="number">1</locked>
         <name type="string">Headcomm</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">1.0</weight>
       </headcomm>
@@ -23434,7 +23142,7 @@
         <locked type="number">1</locked>
         <name type="string">Holocomm</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">300 cr</cost>
         <weight type="number">2.0</weight>
       </holocomm>
@@ -23442,7 +23150,7 @@
         <locked type="number">1</locked>
         <name type="string">Holotrace Device</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">1,000 cr</cost>
         <weight type="number">5.0</weight>
       </holotracedevice>
@@ -23450,7 +23158,7 @@
         <locked type="number">1</locked>
         <name type="string">Pocket Scrambler</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Communications Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">800 cr</cost>
         <weight type="number">1.0</weight>
       </pocketscrambler>
@@ -23458,7 +23166,7 @@
         <locked type="number">1</locked>
         <name type="string">Code Cylinder</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">0.5</weight>
       </codecylinder>
@@ -23466,7 +23174,7 @@
         <locked type="number">1</locked>
         <name type="string">Datacards 5 Ea</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">25 cr</cost>
         <weight type="number">0.0</weight>
       </datacards5ea>
@@ -23474,7 +23182,7 @@
         <locked type="number">1</locked>
         <name type="string">Datacron</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">4,000 cr</cost>
         <weight type="number">2.0</weight>
       </datacron>
@@ -23482,7 +23190,7 @@
         <locked type="number">1</locked>
         <name type="string">Datapad</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">0.5</weight>
       </datapad>
@@ -23490,7 +23198,7 @@
         <locked type="number">1</locked>
         <name type="string">Holocron</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">4,000 cr</cost>
         <weight type="number">2.0</weight>
       </holocron>
@@ -23498,7 +23206,7 @@
         <locked type="number">1</locked>
         <name type="string">Holorecorder</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">1.0</weight>
       </holorecorder>
@@ -23506,7 +23214,7 @@
         <locked type="number">1</locked>
         <name type="string">Stylus Pen</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">10 cr</cost>
         <weight type="number">0.5</weight>
       </styluspen>
@@ -23514,7 +23222,7 @@
         <locked type="number">1</locked>
         <name type="string">Wristpad</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Data Recording And Storage Gear</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">600 cr</cost>
         <weight type="number">2.0</weight>
       </wristpad>
@@ -23522,7 +23230,7 @@
         <locked type="number">1</locked>
         <name type="string">Breaching Charge</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">750 cr</cost>
         <weight type="number">4.0</weight>
       </breachingcharge>
@@ -23530,7 +23238,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Electrostun</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">250 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_electrostun>
@@ -23538,7 +23246,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Frag</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_frag>
@@ -23546,7 +23254,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Gas</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">300 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_gas>
@@ -23554,7 +23262,7 @@
         <locked type="number">1</locked>
         <name type="string">Grenade, Ion</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">250 cr</cost>
         <weight type="number">1.0</weight>
       </grenade_ion>
@@ -23562,7 +23270,7 @@
         <locked type="number">1</locked>
         <name type="string">Mine, Fragmentation</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">2.0</weight>
       </mine_fragmentation>
@@ -23570,7 +23278,7 @@
         <locked type="number">1</locked>
         <name type="string">Mine, Plasma</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">550 cr</cost>
         <weight type="number">2.0</weight>
       </mine_plasma>
@@ -23578,7 +23286,7 @@
         <locked type="number">1</locked>
         <name type="string">Thermal Detonator</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Explosives</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">750 cr</cost>
         <weight type="number">1.0</weight>
       </thermaldetonator>
@@ -23586,7 +23294,7 @@
         <locked type="number">1</locked>
         <name type="string">Backpack</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">5.0</weight>
       </backpack>
@@ -23594,7 +23302,7 @@
         <locked type="number">1</locked>
         <name type="string">Crate</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">20 cr</cost>
         <weight type="number">70.0</weight>
       </crate>
@@ -23602,7 +23310,7 @@
         <locked type="number">1</locked>
         <name type="string">Chest</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">25.0</weight>
       </chest>
@@ -23610,7 +23318,7 @@
         <locked type="number">1</locked>
         <name type="string">Pouch</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Storage</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">5 cr</cost>
         <weight type="number">1.0</weight>
       </pouch>
@@ -23618,7 +23326,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Common</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">5 cr</cost>
         <weight type="number">3.0</weight>
       </clothes_common>
@@ -23626,7 +23334,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Costume</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">4.0</weight>
       </clothes_costume>
@@ -23634,7 +23342,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Dress Uniform</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">100 cr</cost>
         <weight type="number">8.0</weight>
       </clothes_dressuniform>
@@ -23642,7 +23350,7 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Fine</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">150 cr</cost>
         <weight type="number">6.0</weight>
       </clothes_fine>
@@ -23650,10 +23358,82 @@
         <locked type="number">1</locked>
         <name type="string">Clothes, Traveler's</name>
         <type type="string">Adventuring Gear</type>
-        <subtype type="string">Clothing</subtype>
+        <subtype type="string">Ammunition</subtype>
         <cost type="string">20 cr</cost>
         <weight type="number">4.0</weight>
       </clothes_traveler_s>
+      <aquaticrebreather>
+        <locked type="number">1</locked>
+        <name type="string">Aquatic Rebreather</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">100 cr</cost>
+        <weight type="number">2.0</weight>
+      </aquaticrebreather>
+      <enviro_suit>
+        <locked type="number">1</locked>
+        <name type="string">Enviro-suit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">2,000 cr</cost>
+        <weight type="number">15.0</weight>
+      </enviro_suit>
+      <flightsuit>
+        <locked type="number">1</locked>
+        <name type="string">Flight Suit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">1,000 cr</cost>
+        <weight type="number">5.0</weight>
+      </flightsuit>
+      <respirator>
+        <locked type="number">1</locked>
+        <name type="string">Respirator</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">200 cr</cost>
+        <weight type="number">1.0</weight>
+      </respirator>
+      <antidotekit>
+        <locked type="number">1</locked>
+        <name type="string">Antidote Kit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">600 cr</cost>
+        <weight type="number">4.0</weight>
+      </antidotekit>
+      <emergencybattery>
+        <locked type="number">1</locked>
+        <name type="string">Emergency Battery</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">70 cr</cost>
+        <weight type="number">5.0</weight>
+      </emergencybattery>
+      <medkit>
+        <locked type="number">1</locked>
+        <name type="string">Medkit</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">50 cr</cost>
+        <weight type="number">3.0</weight>
+      </medkit>
+      <medpac>
+        <locked type="number">1</locked>
+        <name type="string">Medpac</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">500 cr</cost>
+        <weight type="number">0.5</weight>
+      </medpac>
+      <poison_basic_onedose_>
+        <locked type="number">1</locked>
+        <name type="string">Poison, Basic -one Dose-</name>
+        <type type="string">Tools</type>
+        <subtype type="string"/>
+        <cost type="string">1,000 cr</cost>
+        <weight type="number">10.0</weight>
+      </poison_basic_onedose_>
       <armormech_stools>
         <locked type="number">1</locked>
         <name type="string">Armormech's Tools</name>
@@ -23778,7 +23558,7 @@
         <locked type="number">1</locked>
         <name type="string">Biochemist's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">8.0</weight>
       </biochemist_skit>
@@ -23786,7 +23566,7 @@
         <locked type="number">1</locked>
         <name type="string">Chef's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">70 cr</cost>
         <weight type="number">8.0</weight>
       </chef_skit>
@@ -23794,7 +23574,7 @@
         <locked type="number">1</locked>
         <name type="string">Demolitions Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">400 cr</cost>
         <weight type="number">4.0</weight>
       </demolitionskit>
@@ -23802,7 +23582,7 @@
         <locked type="number">1</locked>
         <name type="string">Disguise Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">250 cr</cost>
         <weight type="number">3.0</weight>
       </disguisekit>
@@ -23810,7 +23590,7 @@
         <locked type="number">1</locked>
         <name type="string">Forgery Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">150 cr</cost>
         <weight type="number">5.0</weight>
       </forgerykit>
@@ -23818,7 +23598,7 @@
         <locked type="number">1</locked>
         <name type="string">Herbalism Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">50 cr</cost>
         <weight type="number">3.0</weight>
       </herbalismkit>
@@ -23826,7 +23606,7 @@
         <locked type="number">1</locked>
         <name type="string">Mechanic's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">650 cr</cost>
         <weight type="number">25.0</weight>
       </mechanic_skit>
@@ -23834,7 +23614,7 @@
         <locked type="number">1</locked>
         <name type="string">Poisoner's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">500 cr</cost>
         <weight type="number">2.0</weight>
       </poisoner_skit>
@@ -23842,7 +23622,7 @@
         <locked type="number">1</locked>
         <name type="string">Security Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">650 cr</cost>
         <weight type="number">3.0</weight>
       </securitykit>
@@ -23850,7 +23630,7 @@
         <locked type="number">1</locked>
         <name type="string">Slicer's Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">800 cr</cost>
         <weight type="number">6.0</weight>
       </slicer_skit>
@@ -23858,7 +23638,7 @@
         <locked type="number">1</locked>
         <name type="string">Repair Kit</name>
         <type type="string">Tools</type>
-        <subtype type="string">Trade Kits</subtype>
+        <subtype type="string">Kits/sets</subtype>
         <cost type="string">750 cr</cost>
         <weight type="number">3.0</weight>
       </repairkit>
@@ -23894,78 +23674,6 @@
         <cost type="string">150 cr</cost>
         <weight type="number">0.0</weight>
       </sabaacdeck>
-      <aquaticrebreather>
-        <locked type="number">1</locked>
-        <name type="string">Aquatic Rebreather</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">100 cr</cost>
-        <weight type="number">2.0</weight>
-      </aquaticrebreather>
-      <enviro_suit>
-        <locked type="number">1</locked>
-        <name type="string">Enviro-suit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">2,000 cr</cost>
-        <weight type="number">15.0</weight>
-      </enviro_suit>
-      <flightsuit>
-        <locked type="number">1</locked>
-        <name type="string">Flight Suit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">1,000 cr</cost>
-        <weight type="number">5.0</weight>
-      </flightsuit>
-      <respirator>
-        <locked type="number">1</locked>
-        <name type="string">Respirator</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Life Support</subtype>
-        <cost type="string">200 cr</cost>
-        <weight type="number">1.0</weight>
-      </respirator>
-      <antidotekit>
-        <locked type="number">1</locked>
-        <name type="string">Antidote Kit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">600 cr</cost>
-        <weight type="number">4.0</weight>
-      </antidotekit>
-      <emergencybattery>
-        <locked type="number">1</locked>
-        <name type="string">Emergency Battery</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">70 cr</cost>
-        <weight type="number">5.0</weight>
-      </emergencybattery>
-      <medkit>
-        <locked type="number">1</locked>
-        <name type="string">Medkit</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">50 cr</cost>
-        <weight type="number">3.0</weight>
-      </medkit>
-      <medpac>
-        <locked type="number">1</locked>
-        <name type="string">Medpac</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">500 cr</cost>
-        <weight type="number">0.5</weight>
-      </medpac>
-      <poison_basic_onedose_>
-        <locked type="number">1</locked>
-        <name type="string">Poison, Basic -one Dose-</name>
-        <type type="string">Tools</type>
-        <subtype type="string">Medical</subtype>
-        <cost type="string">1,000 cr</cost>
-        <weight type="number">10.0</weight>
-      </poison_basic_onedose_>
       <bagpipes>
         <locked type="number">1</locked>
         <name type="string">Bagpipes</name>
@@ -24978,268 +24686,6 @@
         <description type="string">Adventuring Gear Table</description>
         <groups>
           <section000>
-            <description type="string">Utility Gear</description>
-            <equipment>
-              <bedroll>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.bedroll@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Bedroll</name>
-                <cost type="string">10 cr</cost>
-                <weight type="number">7.0</weight>
-              </bedroll>
-              <blanket>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.blanket@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Blanket</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">3.0</weight>
-              </blanket>
-              <binders>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.binders@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Binders</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">6.0</weight>
-              </binders>
-              <chronometer>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.chronometer@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Chronometer</name>
-                <cost type="string">100 cr</cost>
-                <weight type="number">1.0</weight>
-              </chronometer>
-              <fibercordcable_50ft>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.fibercordcable_50ft@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Fibercord Cable, 50 Ft</name>
-                <cost type="string">20 cr</cost>
-                <weight type="number">2.0</weight>
-              </fibercordcable_50ft>
-              <fieldrations_oneday_>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.fieldrations_oneday_@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Field Rations -one Day-</name>
-                <cost type="string">5 cr</cost>
-                <weight type="number">1.0</weight>
-              </fieldrations_oneday_>
-              <fusioncutter>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.fusioncutter@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Fusion Cutter</name>
-                <cost type="string">25 cr</cost>
-                <weight type="number">2.0</weight>
-              </fusioncutter>
-              <glowrod>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.glowrod@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Glowrod</name>
-                <cost type="string">10 cr</cost>
-                <weight type="number">2.0</weight>
-              </glowrod>
-              <grapplinghook>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.grapplinghook@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Grappling Hook</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">4.0</weight>
-              </grapplinghook>
-              <gravitygenerator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.gravitygenerator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Gravity Generator</name>
-                <cost type="string">500 cr</cost>
-                <weight type="number">3.0</weight>
-              </gravitygenerator>
-              <heatgenerator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.heatgenerator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Heat Generator</name>
-                <cost type="string">400 cr</cost>
-                <weight type="number">4.0</weight>
-              </heatgenerator>
-              <hydrospanner>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.hydrospanner@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Hydrospanner</name>
-                <cost type="string">10 cr</cost>
-                <weight type="number">2.0</weight>
-              </hydrospanner>
-              <macrobinoculars>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.macrobinoculars@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Macrobinoculars</name>
-                <cost type="string">750 cr</cost>
-                <weight type="number">1.0</weight>
-              </macrobinoculars>
-              <messkit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.messkit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Mess Kit</name>
-                <cost type="string">20 cr</cost>
-                <weight type="number">1.0</weight>
-              </messkit>
-              <mirror>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.mirror@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Mirror</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">0.5</weight>
-              </mirror>
-              <ram_portable>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.ram_portable@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Ram, Portable</name>
-                <cost type="string">40 cr</cost>
-                <weight type="number">35.0</weight>
-              </ram_portable>
-              <restrainingbolt>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.restrainingbolt@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Restraining Bolt</name>
-                <cost type="string">350 cr</cost>
-                <weight type="number">1.0</weight>
-              </restrainingbolt>
-              <shovel>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.shovel@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Shovel</name>
-                <cost type="string">7 cr</cost>
-                <weight type="number">5.0</weight>
-              </shovel>
-              <tent_two_person>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.tent_two_person@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Tent, Two-person</name>
-                <cost type="string">20 cr</cost>
-                <weight type="number">5.0</weight>
-              </tent_two_person>
-            </equipment>
-          </section000>
-          <section001>
-            <description type="string">Accessories</description>
-            <equipment>
-              <bandolier>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.bandolier@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Bandolier</name>
-                <cost type="string">100 cr</cost>
-                <weight type="number">2.0</weight>
-              </bandolier>
-              <bipod>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.bipod@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Bipod</name>
-                <cost type="string">200 cr</cost>
-                <weight type="number">2.0</weight>
-              </bipod>
-              <friction_gripgear>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.friction_gripgear@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Friction-grip Gear</name>
-                <cost type="string">2,000 cr</cost>
-                <weight type="number">12.0</weight>
-              </friction_gripgear>
-              <jetpack>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.jetpack@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Jetpack</name>
-                <cost type="string">4,500 cr</cost>
-                <weight type="number">20.0</weight>
-              </jetpack>
-              <remotedetonator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.remotedetonator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Remote Detonator</name>
-                <cost type="string">150 cr</cost>
-                <weight type="number">1.0</weight>
-              </remotedetonator>
-              <rocketboots>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.rocketboots@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Rocket Boots</name>
-                <cost type="string">2,500 cr</cost>
-                <weight type="number">3.0</weight>
-              </rocketboots>
-              <stealthfieldgenerator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.stealthfieldgenerator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Stealth Field Generator</name>
-                <cost type="string">8,000 cr</cost>
-                <weight type="number">3.0</weight>
-              </stealthfieldgenerator>
-              <trackerutilityvest>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.trackerutilityvest@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Tracker Utility Vest</name>
-                <cost type="string">150 cr</cost>
-                <weight type="number">3.0</weight>
-              </trackerutilityvest>
-              <tripod>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.tripod@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Tripod</name>
-                <cost type="string">450 cr</cost>
-                <weight type="number">16.0</weight>
-              </tripod>
-            </equipment>
-          </section001>
-          <section002>
             <description type="string">Ammunition</description>
             <equipment>
               <carbonitecanister>
@@ -25296,11 +24742,6 @@
                 <cost type="string">200 cr</cost>
                 <weight type="number">1.0</weight>
               </plasmacell>
-            </equipment>
-          </section002>
-          <section003>
-            <description type="string">Communications Gear</description>
-            <equipment>
               <comlink>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -25355,11 +24796,6 @@
                 <cost type="string">800 cr</cost>
                 <weight type="number">1.0</weight>
               </pocketscrambler>
-            </equipment>
-          </section003>
-          <section004>
-            <description type="string">Data Recording And Storage Gear</description>
-            <equipment>
               <codecylinder>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -25432,11 +24868,6 @@
                 <cost type="string">600 cr</cost>
                 <weight type="number">2.0</weight>
               </wristpad>
-            </equipment>
-          </section004>
-          <section005>
-            <description type="string">Explosives</description>
-            <equipment>
               <breachingcharge>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -25509,11 +24940,6 @@
                 <cost type="string">750 cr</cost>
                 <weight type="number">1.0</weight>
               </thermaldetonator>
-            </equipment>
-          </section005>
-          <section006>
-            <description type="string">Storage</description>
-            <equipment>
               <backpack>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -25550,11 +24976,6 @@
                 <cost type="string">5 cr</cost>
                 <weight type="number">1.0</weight>
               </pouch>
-            </equipment>
-          </section006>
-          <section007>
-            <description type="string">Clothing</description>
-            <equipment>
               <clothes_common>
                 <link type="windowreference">
                   <class>reference_equipment</class>
@@ -25601,13 +25022,99 @@
                 <weight type="number">4.0</weight>
               </clothes_traveler_s>
             </equipment>
-          </section007>
+          </section000>
         </groups>
       </adventuringgeartable>
       <toolstable>
         <description type="string">Tools Table</description>
         <groups>
           <section000>
+            <description type="string"/>
+            <equipment>
+              <aquaticrebreather>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.aquaticrebreather@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Aquatic Rebreather</name>
+                <cost type="string">100 cr</cost>
+                <weight type="number">2.0</weight>
+              </aquaticrebreather>
+              <enviro_suit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.enviro_suit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Enviro-suit</name>
+                <cost type="string">2,000 cr</cost>
+                <weight type="number">15.0</weight>
+              </enviro_suit>
+              <flightsuit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.flightsuit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Flight Suit</name>
+                <cost type="string">1,000 cr</cost>
+                <weight type="number">5.0</weight>
+              </flightsuit>
+              <respirator>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.respirator@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Respirator</name>
+                <cost type="string">200 cr</cost>
+                <weight type="number">1.0</weight>
+              </respirator>
+              <antidotekit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.antidotekit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Antidote Kit</name>
+                <cost type="string">600 cr</cost>
+                <weight type="number">4.0</weight>
+              </antidotekit>
+              <emergencybattery>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.emergencybattery@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Emergency Battery</name>
+                <cost type="string">70 cr</cost>
+                <weight type="number">5.0</weight>
+              </emergencybattery>
+              <medkit>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.medkit@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Medkit</name>
+                <cost type="string">50 cr</cost>
+                <weight type="number">3.0</weight>
+              </medkit>
+              <medpac>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.medpac@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Medpac</name>
+                <cost type="string">500 cr</cost>
+                <weight type="number">0.5</weight>
+              </medpac>
+              <poison_basic_onedose_>
+                <link type="windowreference">
+                  <class>reference_equipment</class>
+                  <recordname>reference.equipmentdata.poison_basic_onedose_@SW5e Player Book</recordname>
+                </link>
+                <name type="string">Poison, Basic -one Dose-</name>
+                <cost type="string">1,000 cr</cost>
+                <weight type="number">10.0</weight>
+              </poison_basic_onedose_>
+            </equipment>
+          </section000>
+          <section001>
             <description type="string">Artisan's Tools</description>
             <equipment>
               <armormech_stools>
@@ -25746,9 +25253,9 @@
                 <weight type="number">10.0</weight>
               </tinker_stools>
             </equipment>
-          </section000>
-          <section001>
-            <description type="string">Trade Kits</description>
+          </section001>
+          <section002>
+            <description type="string">Kits/sets</description>
             <equipment>
               <biochemist_skit>
                 <link type="windowreference">
@@ -25850,8 +25357,8 @@
                 <weight type="number">3.0</weight>
               </repairkit>
             </equipment>
-          </section001>
-          <section002>
+          </section002>
+          <section003>
             <description type="string">Gaming Set</description>
             <equipment>
               <chancecubes>
@@ -25891,99 +25398,8 @@
                 <weight type="number">0.0</weight>
               </sabaacdeck>
             </equipment>
-          </section002>
-          <section003>
-            <description type="string">Life Support</description>
-            <equipment>
-              <aquaticrebreather>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.aquaticrebreather@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Aquatic Rebreather</name>
-                <cost type="string">100 cr</cost>
-                <weight type="number">2.0</weight>
-              </aquaticrebreather>
-              <enviro_suit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.enviro_suit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Enviro-suit</name>
-                <cost type="string">2,000 cr</cost>
-                <weight type="number">15.0</weight>
-              </enviro_suit>
-              <flightsuit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.flightsuit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Flight Suit</name>
-                <cost type="string">1,000 cr</cost>
-                <weight type="number">5.0</weight>
-              </flightsuit>
-              <respirator>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.respirator@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Respirator</name>
-                <cost type="string">200 cr</cost>
-                <weight type="number">1.0</weight>
-              </respirator>
-            </equipment>
           </section003>
           <section004>
-            <description type="string">Medical</description>
-            <equipment>
-              <antidotekit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.antidotekit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Antidote Kit</name>
-                <cost type="string">600 cr</cost>
-                <weight type="number">4.0</weight>
-              </antidotekit>
-              <emergencybattery>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.emergencybattery@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Emergency Battery</name>
-                <cost type="string">70 cr</cost>
-                <weight type="number">5.0</weight>
-              </emergencybattery>
-              <medkit>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.medkit@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Medkit</name>
-                <cost type="string">50 cr</cost>
-                <weight type="number">3.0</weight>
-              </medkit>
-              <medpac>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.medpac@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Medpac</name>
-                <cost type="string">500 cr</cost>
-                <weight type="number">0.5</weight>
-              </medpac>
-              <poison_basic_onedose_>
-                <link type="windowreference">
-                  <class>reference_equipment</class>
-                  <recordname>reference.equipmentdata.poison_basic_onedose_@SW5e Player Book</recordname>
-                </link>
-                <name type="string">Poison, Basic -one Dose-</name>
-                <cost type="string">1,000 cr</cost>
-                <weight type="number">10.0</weight>
-              </poison_basic_onedose_>
-            </equipment>
-          </section004>
-          <section005>
             <description type="string">Musical Instrument</description>
             <equipment>
               <bagpipes>
@@ -26077,7 +25493,7 @@
                 <weight type="number">1.0</weight>
               </viol>
             </equipment>
-          </section005>
+          </section004>
         </groups>
       </toolstable>
       <mountsandotheranimalstable>

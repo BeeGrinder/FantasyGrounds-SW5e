@@ -76,7 +76,6 @@ Sniper rifle;750 cr;1d12 energy;12 lb.;Ammunition (range 150/600), reload (4 sho
 
 #@;ADVENTURING GEAR
 #th;Item;Cost;Weight
-#st;Utility Gear
 Bedroll;10 cr;7 lb.
 Blanket;50 cr;3 lb.
 Binders;50 cr;6 lb.
@@ -96,7 +95,6 @@ Ram, portable;40 cr;35 lb.
 Restraining bolt;350 cr;1 lb.
 Shovel;7 cr;5 lb.
 Tent, two-person;20 cr;5 lb.
-#st;Accessories
 Bandolier;100 cr;2 lb.
 Bipod;200 cr;2 lb.
 Friction-grip gear;2,000 cr;12 lb.
@@ -113,14 +111,12 @@ Flame projector canister;350 cr;2 lb.
 Missile, fragmentation;100 cr;1/2 lb.
 Power cell;10 cr;1 lb.
 Plasma cell;200 cr;1 lb.
-#st;Communications Gear
 Comlink;50 cr;1/2 lb.
 Comm jammer;450 cr;3 lb.
 Headcomm;50 cr;1 lb.
 Holocomm;300 cr;2 lb.
 Holotrace device;1,000 cr;5 lb.
 Pocket scrambler;800 cr;1 lb.
-#st;Data Recording and Storage Gear
 Code cylinder;500 cr;1/2 lb.
 Datacards 5 ea.;25 cr;-
 Datacron;4,000 cr;2 lb.
@@ -129,7 +125,6 @@ Holocron;4,000 cr;2 lb.
 Holorecorder;100 cr;1 lb.
 Stylus pen;10 cr;1/2 lb.
 Wristpad;600 cr;2 lb.
-#st;Explosives
 Breaching charge;750 cr;4 lb.
 Grenade, electrostun;250 cr;1 lb.
 Grenade, frag;100 cr;1 lb.
@@ -138,21 +133,27 @@ Grenade, ion;250 cr;1 lb.
 Mine, fragmentation;500 cr;2 lb.
 Mine, plasma;550 cr;2 lb.
 Thermal detonator;750 cr;1 lb.
-#st;Storage
 Backpack;50 cr;5 lb.
 Crate;20 cr;70 lb.
 Chest;50 cr;25 lb.
 Pouch;5 cr;1 lb.
-#st;Clothing
 Clothes, common;5 cr;3 lb.
 Clothes, costume;50 cr;4 lb.
 Clothes, dress uniform;100 cr;8 lb.
 Clothes, fine;150 cr;6 lb.
 Clothes, traveler's;20 cr;4 lb.
 
-
 #@;TOOLS
 #th;Item;Cost;Weight
+Aquatic rebreather;100 cr;2 lb.
+Enviro-suit;2,000 cr;15 lb.
+Flight suit;1,000 cr;5 lb.
+Respirator;200 cr;1 lb.
+Antidote kit;600 cr;4 lb.
+Emergency battery;70 cr;5 lb.
+Medkit;50 cr;3 lb.
+Medpac;500 cr;1/2 lb.
+Poison, basic -one dose-;1,000 cr;10 lb.
 #st;Artisan's tools
 Armormech's tools;200 cr;8 lb.
 Armstech's tools;250 cr;9 lb.
@@ -169,7 +170,7 @@ Painter's tools;100 cr;5 lb.
 Surveyor's tools;500 cr;6 lb.
 Synthweaver's tools;250 cr;2 lb.
 Tinker's tools;500 cr;10 lb.
-#st;Trade kits
+#st;kits/sets
 Biochemist's kit;500 cr;8 lb.
 Chef's kit;70 cr;8 lb.
 Demolitions kit;400 cr;4 lb.
@@ -186,17 +187,6 @@ Chance cubes;1 cr;0 lb.
 Holochess set;300 cr;8 lb.
 Pazaak deck;100 cr;0 lb.
 Sabaac deck;150 cr;0 lb.
-#st;Life Support
-Aquatic rebreather;100 cr;2 lb.
-Enviro-suit;2,000 cr;15 lb.
-Flight suit;1,000 cr;5 lb.
-Respirator;200 cr;1 lb.
-#st;Medical
-Antidote kit;600 cr;4 lb.
-Emergency battery;70 cr;5 lb.
-Medkit;50 cr;3 lb.
-Medpac;500 cr;1/2 lb.
-Poison, basic -one dose-;1,000 cr;10 lb.
 #st;Musical instrument
 Bagpipes;300 cr;6 lb.
 Bandfill;300 cr;2 lb.
