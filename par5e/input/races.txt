@@ -446,7 +446,8 @@ Wookiee Traits
 #!;Speed. Your base walking speed is 30 feet.
 #!;Claws. Wookies have retractable claws. You are proficient with your claws, which deal 1d4 kinetic damage on a hit.
 #!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
-#!;Hide. You have a thick hide. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. Additionally, your thick hide is naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide.
+#!;Natural Armor. You have a thick hide. When you aren't wearing armor, your AC is 13 + your Dexterity modifier.
+#!;Hide. Your thick hide is naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. 
 #!;Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 #!;Treeclimber. You have a climbing speed of 30 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.
 #!;Languages. You can speak, read, and write Shyriiwook. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
