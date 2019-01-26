@@ -79,6 +79,7 @@ Sniper rifle;750 cr;1d12 energy;12 lb.;Ammunition (range 150/600), reload (4 sho
 Bedroll;10 cr;7 lb.
 Blanket;50 cr;3 lb.
 Binders;50 cr;6 lb.
+Canteen;10 cr;3 lb.
 Chronometer;100 cr;1 lb.
 Fibercord cable, 50 ft. roll;20 cr;2 lb.
 Field rations -one day-;5 cr;1 lb.
@@ -111,7 +112,7 @@ Flame projector canister;350 cr;2 lb.
 Missile, fragmentation;100 cr;1/2 lb.
 Power cell;10 cr;1 lb.
 Plasma cell;200 cr;1 lb.
-Comlink;50 cr;1/2 lb.
+Commlink;50 cr;1/2 lb.
 Comm jammer;450 cr;3 lb.
 Headcomm;50 cr;1 lb.
 Holocomm;300 cr;2 lb.
@@ -142,6 +143,8 @@ Clothes, costume;50 cr;4 lb.
 Clothes, dress uniform;100 cr;8 lb.
 Clothes, fine;150 cr;6 lb.
 Clothes, traveler's;20 cr;4 lb.
+#st;Equipment Packs
+Explorer's Pack;250 cr;0 lb.
 
 #@;TOOLS
 #th;Item;Cost;Weight
@@ -198,6 +201,7 @@ Ommni box;250 cr;10 lb.
 Pan flute;120 cr;2 lb.
 Shawm;20 cr;1 lb.
 Viol;300 cr;1 lb.
+
 #@;MOUNTS AND OTHER ANIMALS
 #th;Item;Cost;Speed;Carrying Capacity
 #st;Mounts & Animals
@@ -215,10 +219,12 @@ Barding -Weight x2-;x4;-.
 Bit and bridle;20 cr;1 lb.
 Cart;150 cr;200 lb.
 Feed -per day-;1 cr;10 lb.
-#@;WATERBORNE VEHICLES
+
+#@;VEHICLES
 #th;Item;Cost;Speed
 #st;Surface Vehicles
 Airspeeder;14,500 cr;750 mph
 Landspeeder;10,000 cr;220 mph
 Speederbike;6,000 cr;300 mph
 
+Explorer's Pack. Includes a backpack, a bedroll, a blanket, a mess kit, two glowrods, a commlink, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
