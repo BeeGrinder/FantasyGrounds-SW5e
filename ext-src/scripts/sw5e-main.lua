@@ -55,7 +55,7 @@ function onInit()
 		["Shyriiwook"] = "Dwarven",
 		["Zabraki"] = "Infernal",
 	};
-	-- Skills.  Added computer Use, Demolitions, Engineering ans Sciences.
+	-- Skills.  Added lore, piloting, technology
 	skilldata = {
 		[Interface.getString("skill_value_acrobatics")] = { lookup = "acrobatics", stat = 'dexterity' },
 		[Interface.getString("skill_value_animalhandling")] = { lookup = "animalhandling", stat = 'wisdom' },
@@ -77,7 +77,7 @@ function onInit()
 		[Interface.getString("skill_value_survival")] = { lookup = "survival", stat = 'wisdom' },
 	};
 
-	-- Party sheet drop down list data
+	-- Party sheet drop down skill list
 	psskilldata = {
 		Interface.getString("skill_value_acrobatics"),
 		Interface.getString("skill_value_animalhandling"),
@@ -106,10 +106,10 @@ function onInit()
 		Interface.getString("class_value_fighter"),
 		Interface.getString("class_value_guardian"),
 		Interface.getString("class_value_monk"),
-		"operative",
-		"scholar",
-		"scout",
-		"sentinel",
+		Interface.getString(""class_value_operative"),
+		Interface.getString(""class_value_scholar"),
+		Interface.getString(""class_value_scout"),
+		Interface.getString(""class_value_sentinel"),
 };
 
 	class_nametovalue = {
@@ -141,6 +141,7 @@ function onInit()
 	creaturetype = {
 		Interface.getString("creature_value_droid"),
 		Interface.getString("creature_value_forcewielder"),
+		Interface.getString("creature_value_starship"),
 		"aberration",
 		"beast",
 		"celestial",
@@ -156,7 +157,7 @@ function onInit()
 		"plant",
 		"undead",
 	};
-	-- "Push" data changes in this file to the DataCommon package - overwriting the original base data.
+	-- "Push" data changes in this file to the packages - overwriting the original base data.
 	DataCommon.dmgtypes=dmgtypes;
 	DataCommon.skilldata = skilldata;
 	DataCommon.psskilldata = psskilldata;
