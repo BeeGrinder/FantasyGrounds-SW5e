@@ -143,8 +143,6 @@ Clothes, costume;50 cr;4 lb.
 Clothes, dress uniform;100 cr;8 lb.
 Clothes, fine;150 cr;6 lb.
 Clothes, traveler's;20 cr;4 lb.
-#st;Equipment Packs
-Explorer's Pack;250 cr;0 lb.
 
 #@;TOOLS
 #th;Item;Cost;Weight
@@ -226,5 +224,3 @@ Feed -per day-;1 cr;10 lb.
 Airspeeder;14,500 cr;750 mph
 Landspeeder;10,000 cr;220 mph
 Speederbike;6,000 cr;300 mph
-
-Explorer's Pack. Includes a backpack, a bedroll, a blanket, a mess kit, two glowrods, a commlink, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.

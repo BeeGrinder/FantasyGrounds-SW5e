@@ -49,6 +49,7 @@
 	<!-- SW5e Creature Types -->
 	<string name="creature_value_droid">droid</string>
 	<string name="creature_value_forcewielder">force-wielder</string>
+	<string name="creature_value_starship">starship</string>
 	<!-- SW5e Currency Types -->
 	<string name="currency_value_cr">cr</string>
 </root>

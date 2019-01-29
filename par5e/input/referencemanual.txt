@@ -1,15 +1,31 @@
-#@;Fantasy Grounds Conversion
-#!;Fantasy Grounds Specific Instructions
-##;Fantasy Grounds Specific Instructions
+#@;SW5e Player Book
+#!;Fantasy Grounds Conversion
+##;Player/DM notes
+Every effort was made to have the Fantasy Grounds SW5e experience similar to the standard 5e experience.
+However, because certain ruleset changes may effect the Fantasy Grounds interface or other behaviors, some things may be slightly different in Fantasy Grounds than they appear in the SW5e PDF documents. These should be minor and intuative.
 #h;Changes from the SW5e PDF Document
-asdf asdf.
-#h;Other Things
-asdf asdf asdf.
-#h;More Other Things
-asdf asdf asdf asdf.
-#@;Credits and Attribution
-#!;Credits
-##;Credits from the SW5e Player Handbook
+
+#h;Class Changes
+#bp;Berserker
+Unarmored Defense: This skill does not automatically alter the AC calculation in the character sheet.  The player/DM must add the CON bonus manually.
+#h;Race Changes
+#h;Other Changes
+#bp;Items
+The tool I am using, PAR5e, seems to parse the items in an older fasion. It will create the full list under "SW5e Player Book" and also individual categories like "Armor - SW5e Player Book".  So, if you select "All" you will see multiple results.
+#bp;Equipment Packs
+At this time the starting equipment packs were not working like in standard 5e where the individual items were placed in the player's inventory.  So, the packs are listed in the reference manual and must be allocated to the player inventory manually.
+#bp;Powers(Spells)
+During the beta testing of the ruleset (as long as the parsing tool PAR5e is used) the spells will be given traditional 5e schools.
+#ls;
+#li;Divination = Light-side
+#li;Necromancy = Dark-side
+#li;Enchantment = Universal
+#li;Transmutation = Tech
+#le;
+
+#!;SW5e Ruleset Information
+##;Credits and Attribution
+#h;Credits from the SW5e Player Handbook
 First and foremost, I have to thank the person who got me into D&D: my buddy, Ross. That playgroup was not great, but it started my journey.
 Second, I have to thank the original guinea pigs of this conversion: Drew, Eric, and Rickey. It was comically bad, but we had fun with it.
 Lastly, while I would love to say that I created everything in this conversion, that wouldn't be entirely true. The following people deserve credit as well:
@@ -121,10 +137,8 @@ Star Wars: The Clone Wars
 Star Wars: The Old Republic
 If I missed you and you feel you deserve credit please let me know. I've been working on this for years, and I'm fallible.
 I hope you like it.
-#@;Preface
-#!;Preface
-##;Rule Set Conversion
-#h;Rule Set Conversion
+##;5e Rule Set Conversion
+#h;5e Rule Set Conversion
 This conversion has been a labor of love of mine starting three years ago. Back when I was a fledgling DM, I undertook the foolish effort of attempting the first version of this overhaul, which was comically terrible. It featured four classes, which were just severely bastardized versions of their standard counterparts. 
 This version, which I will call version 1.0 as an absolute snub to my first attempt, I've been working on pretty consistently for about nine consecutive months. I've had some help from various sources (who will be credited accordingly), but for the most part this has come from mine own brain. 
 This book is designed to parallel the official 5e Player's Handbook. It includes all the relevant chapters, reskinned to fit a Star Wars setting. The significant differences will be listed below.
@@ -132,7 +146,6 @@ This book is designed to parallel the official 5e Player's Handbook. It includes
 While this expansion utilizes the base rules of 5th Edition, there are significant differences that will be illustrated here, broken down by chapter. There is more information in each chapter, as per the SRD.
 #h;Chapter 1: Step-by-Step Characters
 Reskinned for the setting, with no noteworthy differences.
-
 #h;CHAPTER 2: SPECIES
 Races relabeled to species, all of which are brand new.
 #h;CHAPTER 3: CLASSES
@@ -177,14 +190,12 @@ There is a Monster Manual ready to use.
 There is a space expansion optional rule set called Starships of the Galaxy, in honor of the Saga edition's book.
 #h;GOING FORWARD
 Additional content will be released bi-weekly, on Tuesdays, for the foreseeable future.
-
-
-#@;Copyright Information
-#!;Copyright Information
-##;Fantasy Grounds Conversion Copyright Information
-Fantasy Grounds Conversion Copyright Information
+#!;Copyrights and Licensing
+##;Conversion Copyright
+#h;Fantasy Grounds Conversion Copyright Information
 This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
-##;Open Gaming License (OGL) and SRD5
+##;(OGL)Open Gaming License
+#h;(OGL)Open Gaming License and SRD5
 Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a. 
 This material is being released using the Open Gaming License Version 1.0a and you should read and understand the terms of that license before using this material. 
 The text of the Open Gaming License itself is not Open Game Content. Instructions on using the License are provided within the License itself. 
@@ -213,9 +224,8 @@ Coast,	Inc	("Wizards").	All	Rights	Reserved.
 System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson. 
 END OF LICENSE
 
-#@;Player Reference
-#!;Money
-##;Costs and Currency
+#!;Adventuring
+##;Cost and Currency
 The marketplace of a large city teems with buyers and sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.
 For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
 #h;Wealth
@@ -253,24 +263,24 @@ Selling enhanced items can be problematic. Finding someone to find an overtuned 
 These items retain their full value in the marketplace, and you can either trade them in for credits or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large city or even another planet.
 #h;TRADE GOODS
 In the Outer Rim, many people conduct transactions through barter. Like gems and art objects, trade goods -raw materials like bags of salt, livestock, and so on- retain their full value in the market and can be used as currency.
-#!;Equipment
-##;EQUIPMENT PACKS
-This section describes items that have special rules or require further explanation.
+##;Adventuring Gear
 #h;EQUIPMENT PACKS
+This section describes items that have special rules or require further explanation.
+#bp;EQUIPMENT PACKS
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
-#h;BURGLAR’S PACK
+#bp;BURGLAR’S PACK
 Costs 290 credits. Includes a backpack, two glow rods, a hydrospanner, a fusion cutter, a chronometer, a grappling hook, 5 days of field rations, and a canteen.
-#h;DIPLOMAT'S PACK
+#bp;DIPLOMAT'S PACK
 Costs 330 credits. Includes a chest, a set of fine clothes, a datapad, 5 datacards, a stylus, 5 days of field rations, and a canteen.
-#h;DUNGEONEER’S PACK
+#bp;DUNGEONEER’S PACK
 Costs 320 credits. Includes a backpack, five glow rods, a fusion cutter, a grappling hook, a chronometer, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
-#h;ENTERTAINER’S PACK
+#bp;ENTERTAINER’S PACK
 Costs 420 credits. Includes a backpack, a bedroll, two costumes, two glowrods, 5 days of field rations, a canteen, and a disguise kit.
-#h;EXPLORER’S PACK
+#bp;EXPLORER’S PACK
 Costs 250 credits. Includes a backpack, a bedroll, a blanket, a mess kit, two glowrods, a commlink, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
-#h;PRIEST’S PACK
+#bp;PRIEST’S PACK
 Costs 275 credits. Includes a backpack, a blanket, two glowrods, a datapad, a medkit, 5 days of field rations, and a canteen.
-#h;SCHOLAR’S PACK
+#bp;SCHOLAR’S PACK
 Costs 290 credits. Includes a backpack, a datapad, 5 datacards, a stylus, a holorecorder, 5 days of field rations, and a canteen.
-#h;TECHNOLOGIST'S PACK
+#bp;TECHNOLOGIST'S PACK
 Costs 670 credits. Includes a backpack, chronometer, respirator, datapad, holocomm, comlink, bedroll, canteen, and 5 days of field rations.
