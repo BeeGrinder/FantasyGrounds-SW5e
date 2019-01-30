@@ -45,7 +45,7 @@ Doubleblade;625 cr;1d6 kinetic;5 lb.;Double (1d6 kinetic), finesse, light, two-h
 Doublesword;700 cr;1d8 kinetic;5 lb.;Double (1d8 kinetic), finesse, two-handed
 Electrostaff;600 cr;2d4 kinetic;8 lb.;Double (2d4 kinetic), two-handed
 Techblade;250 cr;1d6 kinetic;3 lb.;Finesse, light
-Hidden blade 200 cr;1d4 kinetic;1 lb.;Finesse, hidden, light, special
+Hidden blade;200 cr;1d4 kinetic;1 lb.;Finesse, hidden, light, special
 Net;100 cr;-;3 lb.;Light, special, thrown (range 15)
 Vibroaxe;300 cr;1d12 kinetic;7 lb.;Heavy, two-handed
 Vibroblade;150 cr;1d8 kinetic;2 lb.;Versatile (1d10)
