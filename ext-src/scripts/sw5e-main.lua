@@ -106,10 +106,10 @@ function onInit()
 		Interface.getString("class_value_fighter"),
 		Interface.getString("class_value_guardian"),
 		Interface.getString("class_value_monk"),
-		Interface.getString(""class_value_operative"),
-		Interface.getString(""class_value_scholar"),
-		Interface.getString(""class_value_scout"),
-		Interface.getString(""class_value_sentinel"),
+		Interface.getString("class_value_operative"),
+		Interface.getString("class_value_scholar"),
+		Interface.getString("class_value_scout"),
+		Interface.getString("class_value_sentinel"),
 };
 
 	class_nametovalue = {
@@ -166,7 +166,6 @@ function onInit()
 	DataCommon.class_nametovalue = class_nametovalue;
 	DataCommon.class_valuetoname = class_valuetoname;
 	GameSystem.languages = languages;
-	GameSystem.currencies = currencies;
 	GameSystem.currencies = { Interface.getString("currency_value_cr") };
 	GameSystem.currencyDefault = Interface.getString("currency_value_cr");
 
