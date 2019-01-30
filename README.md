@@ -6,11 +6,15 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 [SW5e Website](http://star-wars-5e.azurewebsites.net/)
 
+[SW5e Subreddit](https://www.reddit.com/r/sw5e/)
+
+[SW5e Fantasy Grounds Forum Thread](https://www.fantasygrounds.com/forums/showthread.php?47628-SW5e-a-star-wars-home-brew-on-the-5e-rule-set)
+
 ---
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|Player Book | In Progress | Many issues. Alpha testing. |
+|Player Book | Testing | Beta testing. Please, report any issues. |
 |NPC Book | Released | Give it a try. Beta testing. |
 |Rule-set Extension | Released | Give it a try. Beta testing. |
 
@@ -19,7 +23,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 ### Fantasy Grounds User Information
 
 #### Installation
-##### Be Warned - The current player module is still in early development and may have issues.
+##### Be Warned - The current player module is still in development and may have issues.
 
 * To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
@@ -28,6 +32,8 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 * To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.
 
    Download the extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
+
+* Read the __Reference Manual__ of the __Player Book__ in Fantasy Grounds.  The section *__Fantasy Grounds Conversion__* covers any notes or special instructions.
 
 #### Creating your sw5e campaign
 
