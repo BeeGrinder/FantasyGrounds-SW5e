@@ -31,6 +31,8 @@
 	<string name="damage_value_sonic">sonic</string>
 	<!-- SW5e Languages -->
 	<string name="language_value_galacticbasic">galactic basic</string>
+	<string name="language_value_aurebesh">aurebesh</string>
+	<string name="language_value_binary">binary</string>
 	<string name="language_value_bith">bith</string>
 	<string name="language_value_bothese">bothese</string>
 	<string name="language_value_cheunh">cheunh</string>
