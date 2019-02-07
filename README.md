@@ -33,7 +33,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
    Download the extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
 
-* Read the __Reference Manual__ of the __Player Book__ in Fantasy Grounds.  The section *__Fantasy Grounds Conversion__* covers any notes or special instructions.
+* __*IMPORTANT:*__ Read the __Reference Manual__ of the __Player Book__ in Fantasy Grounds.  The section *__Fantasy Grounds Conversion__* covers any notes or special instructions.
 
 #### Creating your sw5e campaign
 
