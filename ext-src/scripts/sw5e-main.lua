@@ -8,8 +8,7 @@
 function onInit()
 	--Debug.console("languages...");
 	--Debug.console(GameSystem.languages);
-	Debug.console(GameSystem.languages);
-	Debug.console(GameSystem.languagefonts);	
+
 	-- Damage Types
 	dmgtypes = {
 		Interface.getString("damage_value_kinetic"), -- SW5e Damage Types
@@ -181,10 +180,5 @@ function onInit()
 	GameSystem.languagefonts = languagefonts;
 	GameSystem.currencies = { Interface.getString("currency_value_cr") };
 	GameSystem.currencyDefault = Interface.getString("currency_value_cr");
-
-
-	Debug.console("languages...");
-	Debug.console(GameSystem.languages);
-	Debug.console(GameSystem.languagefonts);
 
 end
