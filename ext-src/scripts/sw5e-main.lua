@@ -8,7 +8,8 @@
 function onInit()
 	--Debug.console("languages...");
 	--Debug.console(GameSystem.languages);
-	
+	Debug.console(GameSystem.languages);
+	Debug.console(GameSystem.languagefonts);	
 	-- Damage Types
 	dmgtypes = {
 		Interface.getString("damage_value_kinetic"), -- SW5e Damage Types
@@ -39,6 +40,7 @@ function onInit()
 
 	languages = {
 		["Galactic Basic"] = "",
+		["Binary"] = "Binary",
 		["Bith"] = "Primordial",
 		["Bothese"] = "Elven",
 		["Cheunh"] = "Draconic",
@@ -48,12 +50,22 @@ function onInit()
 		["Kel Dor"] = "Elven",
 		["Mon Cal"] = "Draconic",
 		["Rodese"] = "Dwarven",
-		["Sith"] = "",
+		["Sith"] = "Aurebesh",
 		["Togruti"] = "Primordial",
 		["Dosh"] = "Elven",
 		["Twi'leki"] = "Draconic",
 		["Shyriiwook"] = "Dwarven",
 		["Zabraki"] = "Infernal",
+	};
+	languagefonts = {
+		["Aurebesh"] = "Aurebesh",
+		["Binary"] = "Binary",
+		[Interface.getString("language_value_celestial")] = "Celestial",
+		[Interface.getString("language_value_draconic")] = "Draconic",
+		[Interface.getString("language_value_dwarvish")] = "Dwarven",
+		[Interface.getString("language_value_elvish")] = "Elven",
+		[Interface.getString("language_value_infernal")] = "Infernal",
+		[Interface.getString("language_value_primordial")] = "Primordial",
 	};
 	-- Skills.  Added lore, piloting, technology
 	skilldata = {
@@ -166,7 +178,13 @@ function onInit()
 	DataCommon.class_nametovalue = class_nametovalue;
 	DataCommon.class_valuetoname = class_valuetoname;
 	GameSystem.languages = languages;
+	GameSystem.languagefonts = languagefonts;
 	GameSystem.currencies = { Interface.getString("currency_value_cr") };
 	GameSystem.currencyDefault = Interface.getString("currency_value_cr");
+
+
+	Debug.console("languages...");
+	Debug.console(GameSystem.languages);
+	Debug.console(GameSystem.languagefonts);
 
 end
