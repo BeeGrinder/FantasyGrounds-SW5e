@@ -6,6 +6,8 @@ However, because certain ruleset changes may effect the Fantasy Grounds interfac
 #h;Changes from the SW5e PDF Document
 
 #h;Class Changes
+#bp;Third Level Specializations
+Before dragging the third class level over to the player character, put the specialization in their Abilities tab.  Then, when you grant the third level to that class, all the options under that specialization will be added to the Abilities tab as well.  But, you may then need to remove those which the player is NOT choosing if there was choices to be made.
 #bp;Berserker
 Unarmored Defense: This skill does not automatically alter the AC calculation in the character sheet.  The player/DM must add the CON bonus manually.
 #h;Race Changes
@@ -13,15 +15,9 @@ Unarmored Defense: This skill does not automatically alter the AC calculation in
 #bp;Items
 The tool I am using, PAR5e, seems to parse the items in an older fasion. It will create the full list under "SW5e Player Book" and also individual categories like "Armor - SW5e Player Book".  So, if you select "All" you will see multiple results.
 #bp;Equipment Packs
-At this time the starting equipment packs were not working like in standard 5e where the individual items were placed in the player's inventory.  So, the packs are listed in the reference manual and must be allocated to the player inventory manually.
+At this time the starting equipment packs were not working like in standard 5e where the individual items were placed in the player's inventory.  So, although the packs are listed in the reference manual, the individual items must be allocated to the player inventory manually.
 #bp;Powers(Spells)
-During the beta testing of the ruleset (as long as the parsing tool PAR5e is used) the spells will be given traditional 5e schools.
-#ls;
-#li;Divination = Light-side
-#li;Necromancy = Dark-side
-#li;Enchantment = Universal
-#li;Transmutation = Tech
-#le;
+Powers(Spells) are not included in the Player Handbook.  They are in the module SW5e Spell Book.  Use this as the source for you powers.  In the spell window you can sort by Tech Powers or Force Powers.  See the Reference section of that module for further information.
 
 #!;SW5e Ruleset Information
 ##;Credits and Attribution
