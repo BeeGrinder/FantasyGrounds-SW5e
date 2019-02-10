@@ -24,7 +24,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 ### Fantasy Grounds User Information
 
 #### Installation
-##### Be Warned - The current player module is still in development and may have issues.
+##### Be Warned - The current modules are still in development and have issues.  They are being addressed soon.
 
 * To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
