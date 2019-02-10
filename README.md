@@ -15,8 +15,9 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
 |Player Book | Testing | Beta testing. Please, report any issues. |
-|NPC Book | Released | Give it a try. Beta testing. |
-|Rule-set Extension | Released | Give it a try. Beta testing. |
+|Spell Book | Testing | Beta testing. Please, report any issues. |
+|NPC Book | Released | Beta testing. Please, report any issues. |
+|Rule-set Extension | Released | Beta testing. Please, report any issues. |
 
 ---
 
@@ -33,7 +34,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
    Download the extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
 
-* __*IMPORTANT:*__ Read the __Reference Manual__ of the __Player Book__ in Fantasy Grounds.  The section *__Fantasy Grounds Conversion__* covers any notes or special instructions.
+* __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds any notes or special instructions.
 
 #### Creating your sw5e campaign
 
@@ -41,13 +42,15 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 * Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select it.
 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
-* Once your campaign opens, go to *__Library__* then *__Modules__* and open both *__SW5e Player Book__* and *__SW5e NPC Manual__*.
+* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Spell Book__*, and *__SW5e NPC Manual__*.
 
 ### Developer Information
 
 The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content.</p>
 
 The *__NPCEngineer__* directory is for the text files that are parsed into the *__NPC Book__* module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
+
+The *__Spell Book__* contains all Force and Tech Powers.  It is maintained through editing the source XML.
 
 The *__ext-src__* dirctory is for the extension sources.
 
@@ -57,7 +60,7 @@ The *__ext-src__* dirctory is for the extension sources.
    * If the data is readily available and easily parsed, some expanded content *__may__* be included.
    * Powers will still be called spells in the FG interface.
    * Enhanced Items will still be called Magic Items in the FG interface.
-   * Only some information from the PDF(s) will be in the FG Reference Manual.
+   * Most of the *__flavor__* of the SW5e handbook will not be added to the Fantasy Grounds modules.  This is to ease the conversion process.  The PDFs are free for anyone to get.  If you see something that would be beneficial to gameplay that should be in the module reference manual, please open an issue and let us know.
    
    
 ---
