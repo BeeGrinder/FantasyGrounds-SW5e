@@ -16,6 +16,8 @@ Unarmored Defense: This skill does not automatically alter the AC calculation in
 The tool I am using, PAR5e, seems to parse the items in an older fasion. It will create the full list under "SW5e Player Book" and also individual categories like "Armor - SW5e Player Book".  So, if you select "All" you will see multiple results.
 #bp;Equipment Packs
 At this time the starting equipment packs were not working like in standard 5e where the individual items were placed in the player's inventory.  So, although the packs are listed in the reference manual, the individual items must be allocated to the player inventory manually.
+#bp;Items Button Weapon/Armor Lists
+When you use the Items button on the right side of the screen you see the Armor and Weapons buttons at the top of that window.  These are not working properly.  But, you can see the correctly filtered and categorized armor and weapons by using the reference manual and going to Equipment->Armor and Equipment->Weapons respectively.
 #bp;Powers(Spells)
 Powers(Spells) are not included in the Player Handbook.  They are in the module SW5e Spell Book.  Use this as the source for you powers.  In the spell window you can sort by Tech Powers or Force Powers.  See the Reference section of that module for further information.
 

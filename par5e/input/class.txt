@@ -118,15 +118,15 @@ While raging, you can use your bonus action to leap up to 30 feet to an empty sp
 While you're raging, other creatures have disadvantage on opportunity attack rolls against you, you can also use the Dash action as a bonus action on your turn.
 #h;SUPPORT ENHANCEMENT
 At 6th level you gain an additional cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person procient in biotech's tools that incorporates this enhancement into your body. This surgery costs 600 credits and takes 8 hours.
-#abf;Body Sculpting;10
+#abf;Body Sculpting;6
 You gain prociency in two skills of your choice from Athletics, Acrobatics, Stealth, and Sleight of Hand.
-#abf;Holdout Cavity;10
+#abf;Holdout Cavity;6
 You have a shielded compartment built into your body that can be used to store and hide a light weapon or item of similar size. 
-#abf;Krykna Anchors;10
+#abf;Krykna Anchors;6
 You gain a climbing speed equal to your movement speed.
-#abf;Panspectral Optics;10
+#abf;Panspectral Optics;6
 You can see up to 1 mile away with no diculty. You are able to discern even ne details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
-#abf;Support Structure;10
+#abf;Support Structure;6
 Your carrying capacity (including maximum load and maximum lift) is doubled and you have advantage on Strength checks made to push, pull, lift, or break objects.
 #h;FINAL ENHANCEMENT
 At 14th level you gain a nal cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person procient in biotech's tools that incorporates this enhancement into your body. This surgery costs 2000 credits and takes 8 hours
