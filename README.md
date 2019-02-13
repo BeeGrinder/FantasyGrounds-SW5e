@@ -11,11 +11,13 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 [SW5e Fantasy Grounds Forum Thread](https://www.fantasygrounds.com/forums/showthread.php?47628-SW5e-a-star-wars-home-brew-on-the-5e-rule-set)
 
 ---
+__Separating Modules__: For some time during development, the equiment/items and spells will be in separate modules.  This may be a slight inconvenience, but will ease ruleset development by allowing each section to be developed independently.  The base character creation and related subjects (Class, Race, Background, and Feats) will remain in the core player book module.  At some point, these will likely be joined back together into a single module.
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
 |Player Book | Testing | Beta testing. Please, report any issues. |
 |Spell Book | Testing | Beta testing. Please, report any issues. |
+|Equipment Book | Testing | Working.  Releasing soon. |
 |NPC Book | Released | Beta testing. Please, report any issues. |
 |Rule-set Extension | Released | Beta testing. Please, report any issues. |
 
@@ -50,7 +52,9 @@ The *__par5e__* directory is for the text files that are parsed into the *__Play
 
 The *__NPCEngineer__* directory is for the text files that are parsed into the *__NPC Book__* module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
 
-The *__Spell Book__* contains all Force and Tech Powers.  It is maintained through editing the source XML.
+The *__spell-mod-src__* directory contains all Force and Tech Powers source.  It is maintained through editing the source XML.
+
+The *__equipment__* directory contains all equiment shown in the Items selector button.  It is maintained through editing the source XML.
 
 The *__ext-src__* dirctory is for the extension sources.
 
