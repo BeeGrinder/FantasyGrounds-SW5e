@@ -44,7 +44,7 @@ __Separating Modules__: For some time during development, the equiment/items and
 * Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select it.
 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
-* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Spell Book__*, and *__SW5e NPC Manual__*.
+* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Spell Book__*, *__SW5e Equipment__*, and *__SW5e NPC Manual__*.
 
 ### Developer Information
 
