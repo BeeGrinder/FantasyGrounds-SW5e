@@ -1,4 +1,4 @@
-#@;ARMOR
+#@;Armor
 #th;Armor;Cost;Armor Class (AC);Strength;Stealth;Weight
 #st;Light Armor
 Combat suit;100 cr;11 + Dex modifier;-;-;10 lb.
@@ -15,23 +15,10 @@ Heavy durasteel armor;15,000 cr;18;Str 15;Disadvantage;65 lb.
 Light shield generator;50 cr;+1;-;-;7 lb.
 Medium shield generator;100 cr;+2;-;-;14 lb.
 Heavy shield;500 cr;+3;Str 17;Disadvantage;28 lb.
-#@;WEAPON
+
+#@;Weapon
 #th;Name;Cost;Damage;Weight;Properties
-#st;Simple Lightsabers
-Lightdagger;300 cr;1d4 energy;1 lb.;Finesse, hidden, light, luminous, thrown (20/60)
-Lightsaber;500 cr;1d6 energy;4 lb.;Hidden, luminous, versatile (1d8)
-Shotosaber;1,250 cr;1d6 energy;2 lb.;Finesse, hidden, light, luminous
-#st;Martial Lightsabers
-Doublesaber;3,500 cr;1d8 energy;4 lb.;Double (1d8 energy), finesse, luminous, two-handed
-Doubleshoto;2,950 cr;1d6 energy;4 lb.;Double (1d6 energy), finesse, light, luminous, two-handed
-Dual-phase lightsaber;750 cr;1d8 energy;2 lb.;Hidden, luminous, versatile (1d10)
-Greatsaber;2,500 cr;2d6 energy;3 lb.;Heavy, luminous, two-handed
-Lightsaber pike;1,000 cr;1d10 energy;3 lb.;Heavy, luminous, reach, two-handed
-Lightfoil;1,250 cr;1d8 energy;2 lb.;Finesse, hidden, luminous
-Light ring;1,250 cr;1d6 energy;3 lb.;Finesse, hidden, luminous, special, thrown (range 30/90)
-Saberspear;1,500 cr;2d4 energy;2 lb.;Luminous
-Saberwhip;1,750 cr;1d4 energy;2 lb.;Finesse, hidden, luminous, reach
-#st;Simple Vibroweapons
+#st;Simple Weapons
 Techaxe;50 cr;1d6 kinetic;2 lb.;Light, thrown (range 20/60)
 Vibroclub;75 cr;1d10 kinetic;10 lb.;Two-handed
 Vibrodagger;50 cr;1d4 kinetic;1 lb.;Finesse, light, thrown (20/60)
@@ -39,7 +26,11 @@ Vibrodart;5 cr;1d4 kinetic;1/4 lb.;Finesse, special, thrown (20/60)
 Vibromace;75 cr;1d6 kinetic;2 lb.;Light
 Vibrostaff;100 cr;1d6 kinetic;4 lb.;Versatile (2d4)
 Vibrospear;100 cr;1d6 kinetic;3 lb.;Thrown (range 20/60), versatile (1d8)
-#st;Martial Vibroweapons
+#st;Simple Weapons Lightsaber
+Lightdagger;300 cr;1d4 energy;1 lb.;Finesse, hidden, light, luminous, thrown (20/60)
+Lightsaber;500 cr;1d6 energy;4 lb.;Hidden, luminous, versatile (1d8)
+Shotosaber;1,250 cr;1d6 energy;2 lb.;Finesse, hidden, light, luminous
+#st;Martial Weapons
 Chakram;250 cr;1d6 kinetic;3 lb.;Finesse, special, thrown (range 30/90)
 Doubleblade;625 cr;1d6 kinetic;5 lb.;Double (1d6 kinetic), finesse, light, two-handed
 Doublesword;700 cr;1d8 kinetic;5 lb.;Double (1d8 kinetic), finesse, two-handed
@@ -55,7 +46,17 @@ Vibropike;200 cr;1d10 kinetic;6 lb.;Heavy, reach, two-handed
 Vibrorapier;250 cr;1d8 kinetic;2 lb.;Finesse
 Vibrosword ;500 cr;2d6 kinetic;6 lb.;Heavy, two-handed
 Vibrowhip;120 cr;1d4 kinetic;3 lb.;Finesse, reach
-#st;Simple Blasters
+#st;Martial Weapons Lightsaber
+Doublesaber;3,500 cr;1d8 energy;4 lb.;Double (1d8 energy), finesse, luminous, two-handed
+Doubleshoto;2,950 cr;1d6 energy;4 lb.;Double (1d6 energy), finesse, light, luminous, two-handed
+Dual-phase lightsaber;750 cr;1d8 energy;2 lb.;Hidden, luminous, versatile (1d10)
+Greatsaber;2,500 cr;2d6 energy;3 lb.;Heavy, luminous, two-handed
+Lightsaber pike;1,000 cr;1d10 energy;3 lb.;Heavy, luminous, reach, two-handed
+Lightfoil;1,250 cr;1d8 energy;2 lb.;Finesse, hidden, luminous
+Light ring;1,250 cr;1d6 energy;3 lb.;Finesse, hidden, luminous, special, thrown (range 30/90)
+Saberspear;1,500 cr;2d4 energy;2 lb.;Luminous
+Saberwhip;1,750 cr;1d4 energy;2 lb.;Finesse, hidden, luminous, reach
+#st;Simple Ranged Weapons
 Blaster carbine;300 cr;1d6 energy;8 lb.;Ammunition (range 60/240), reload (16 shots), two-handed
 Bowcaster;400 cr;1d10 energy;16 lb.;Ammunition (range 40/160), burst (8 shots), reload (8 shots), strength 13, two-handed
 Light pistol;350 cr;1d4 energy;2 lb.;Ammunition (range 40/160), light, reload (20 shots)
@@ -63,7 +64,7 @@ Hold-out;250 cr;1d4 energy;1 lb.;Ammunition (range 30/120), hidden, light, reloa
 Scattergun;200 cr;1d6 kinetic;3 lb.;Ammunition (range 20/80), burst (2 shots), reload (2 shots)
 Shotgun;350 cr;2d4 kinetic;12 lb.;Ammunition (range 30/120), burst (2 shots), reload (4 shots), strength 13, two-handed
 Wrist launcher;450 cr;-;1 lb.;Ammunition (range 30/60), reload (1 shot), special
-#st;Martial Blasters
+#st;Martial Ranged Weapons
 Assault cannon;500 cr;1d10 energy;24 lb.;Ammunition (range 80/320), burst (4 shots), reload (8 shots), strength 15, two-handed
 Blaster pistol;200 cr;1d6 energy;3 lb.;Ammunition (range 40/160), reload (16 shots)
 Blaster rifle;400 cr;1d8 energy;11 lb.;Ammunition (range 100/400), reload (12 shots), two-handed
@@ -74,7 +75,7 @@ Lightbow;400 cr;2d6 energy;16 lb.;Ammunition (range 60/240), reload (4 shots), s
 Slugthrower;350 cr;1d8 kinetic;14 lb.; Ammunition (range 100/400), burst (6 shots), reload 12 shots), two-handed
 Sniper rifle;750 cr;1d12 energy;12 lb.;Ammunition (range 150/600), reload (4 shots), strength 13, two-handed
 
-#@;ADVENTURING GEAR
+#@;Adventuring Gear
 #th;Item;Cost;Weight
 #st;Standard
 Bedroll;10 cr;7 lb.
@@ -82,8 +83,8 @@ Blanket;50 cr;3 lb.
 Binders;50 cr;6 lb.
 Canteen;10 cr;3 lb.
 Chronometer;100 cr;1 lb.
-Fibercord cable, 50 ft. roll;20 cr;2 lb.
-Field rations -one day-;5 cr;1 lb.
+Fibercord cable (50 feet);20 cr;2 lb.
+Field rations (1 day);5 cr;1 lb.
 Fusion cutter;25 cr;2 lb.
 Glowrod;10 cr;2 lb.
 Grappling hook;50 cr;4 lb.
@@ -91,28 +92,20 @@ Gravity generator;500 cr;3 lb.
 Heat generator;400 cr;4 lb.
 Hydrospanner;10 cr;2 lb.
 Macrobinoculars;750 cr;1 lb.
-Mess kit;20 cr;1 lb.
 Mirror;50 cr;1/2 lb.
 Ram, portable;40 cr;35 lb.
 Restraining bolt;350 cr;1 lb.
 Shovel;7 cr;5 lb.
-Tent, two-person;20 cr;5 lb.
+Tent (2 person);20 cr;5 lb.
 Bandolier;100 cr;2 lb.
 Bipod;200 cr;2 lb.
-Friction-grip gear;2,000 cr;12 lb.
+Friction grip gear;2,000 cr;12 lb.
 Jetpack;4,500 cr;20 lb.
 Remote detonator;150 cr;1 lb.
 Rocket boots;2,500 cr;3 lb.
 Stealth field generator;8,000 cr;3 lb.
 Tracker utility vest;150 cr;3 lb.
 Tripod;450 cr;16 lb.
-#st;Ammunition
-Carbonite canister;150 cr;2 lb.
-Dart;50 cr;1/8 lb.
-Flame projector canister;350 cr;2 lb.
-Missile, fragmentation;100 cr;1/2 lb.
-Power cell;10 cr;1 lb.
-Plasma cell;200 cr;1 lb.
 Commlink;50 cr;1/2 lb.
 Comm jammer;450 cr;3 lb.
 Headcomm;50 cr;1 lb.
@@ -120,21 +113,13 @@ Holocomm;300 cr;2 lb.
 Holotrace device;1,000 cr;5 lb.
 Pocket scrambler;800 cr;1 lb.
 Code cylinder;500 cr;1/2 lb.
-Datacards 5 ea.;25 cr;-
+Datacards (5);25 cr;-
 Datacron;4,000 cr;2 lb.
 Datapad;100 cr;1/2 lb.
 Holocron;4,000 cr;2 lb.
 Holorecorder;100 cr;1 lb.
 Stylus pen;10 cr;1/2 lb.
 Wristpad;600 cr;2 lb.
-Breaching charge;750 cr;4 lb.
-Grenade, electrostun;250 cr;1 lb.
-Grenade, frag;100 cr;1 lb.
-Grenade, gas;300 cr;1 lb.
-Grenade, ion;250 cr;1 lb.
-Mine, fragmentation;500 cr;2 lb.
-Mine, plasma;550 cr;2 lb.
-Thermal detonator;750 cr;1 lb.
 Backpack;50 cr;5 lb.
 Crate;20 cr;70 lb.
 Chest;50 cr;25 lb.
@@ -144,8 +129,36 @@ Clothes, costume;50 cr;4 lb.
 Clothes, dress uniform;100 cr;8 lb.
 Clothes, fine;150 cr;6 lb.
 Clothes, traveler's;20 cr;4 lb.
+#st;Ammunition
+Carbonite canister;150 cr;2 lb.
+Dart;50 cr;1/8 lb.
+Flame projector canister;350 cr;2 lb.
+Missile, fragmentation;100 cr;1/2 lb.
+Power cell;10 cr;1 lb.
+Plasma cell;200 cr;1 lb.
+Breaching charge;750 cr;4 lb.
+Grenade, electrostun;250 cr;1 lb.
+Grenade, frag;100 cr;1 lb.
+Grenade, gas;300 cr;1 lb.
+Grenade, ion;250 cr;1 lb.
+Mine, fragmentation;500 cr;2 lb.
+Mine, plasma;550 cr;2 lb.
+Thermal detonator;750 cr;1 lb.
+#st;Equipment Kits
+Biochemist's kit;500 cr;8 lb.
+Chef's kit;70 cr;8 lb.
+Demolitions kit;400 cr;4 lb.
+Disguise kit;250 cr;3 lb.
+Forgery kit;150 cr;5 lb.
+Herbalism kit;50 cr;3 lb.
+Mechanic's kit;650 cr;25 lb.
+Poisoner's kit;500 cr;2 lb.
+Security kit;650 cr;3 lb.
+Slicer's kit;800 cr;6 lb.
+Repair kit;750 cr;3 lb.
+Mess kit;20 cr;1 lb.
 
-#@;TOOLS
+#@;Tools
 #th;Item;Cost;Weight
 #st;Standard
 Aquatic rebreather;100 cr;2 lb.
@@ -173,18 +186,6 @@ Painter's tools;100 cr;5 lb.
 Surveyor's tools;500 cr;6 lb.
 Synthweaver's tools;250 cr;2 lb.
 Tinker's tools;500 cr;10 lb.
-#st;kits/sets
-Biochemist's kit;500 cr;8 lb.
-Chef's kit;70 cr;8 lb.
-Demolitions kit;400 cr;4 lb.
-Disguise kit;250 cr;3 lb.
-Forgery kit;150 cr;5 lb.
-Herbalism kit;50 cr;3 lb.
-Mechanic's kit;650 cr;25 lb.
-Poisoner's kit;500 cr;2 lb.
-Security kit;650 cr;3 lb.
-Slicer's kit;800 cr;6 lb.
-Repair kit;750 cr;3 lb.
 #st;Gaming set
 Chance cubes;1 cr;0 lb.
 Holochess set;300 cr;8 lb.
@@ -202,9 +203,9 @@ Pan flute;120 cr;2 lb.
 Shawm;20 cr;1 lb.
 Viol;300 cr;1 lb.
 
-#@;MOUNTS AND OTHER ANIMALS
+#@;Mounts and Other Animals
 #th;Item;Cost;Speed;Carrying Capacity
-#st;Mounts & Animals
+#st;Mounts and Animals
 Tauntaun;500 cr;50 ft.;480 lb.
 Kaadu;450 cr;40 ft.;620 lb.
 Rancor;2,000 cr;40 ft.;3,320 lb.
@@ -212,7 +213,7 @@ Sleen;500 cr;40 ft.;740 lb.
 Varactyl;750 cr;60 ft.;2,200 lb.
 Bantha;1,200 cr;40 ft.;8,000 lb.
 Dewback;900 cr;50 ft.;1,140 lb.
-#@;TACK, HARNESS, AND DRAWN VEHICLES
+#@;Tack, Harness, and Drawn Vehicles
 #th;Item;Cost;Weight
 #st;Tack and Harness
 Barding -Weight x2-;x4;-.
@@ -220,7 +221,7 @@ Bit and bridle;20 cr;1 lb.
 Cart;150 cr;200 lb.
 Feed -per day-;1 cr;10 lb.
 
-#@;WATERBORNE VEHICLES
+#@;Waterborne Vehicles
 #th;Item;Cost;Speed
 #st;Surface Vehicles
 Airspeeder;14500 cr;750 mph
