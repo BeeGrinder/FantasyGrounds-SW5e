@@ -18,7 +18,7 @@ Heavy shield;500 cr;+3;Str 17;Disadvantage;28 lb.
 
 #@;Weapon
 #th;Name;Cost;Damage;Weight;Properties
-#st;Simple Weapons
+#st;Simple Melee Weapons
 Techaxe;50 cr;1d6 kinetic;2 lb.;Light, thrown (range 20/60)
 Vibroclub;75 cr;1d10 kinetic;10 lb.;Two-handed
 Vibrodagger;50 cr;1d4 kinetic;1 lb.;Finesse, light, thrown (20/60)
@@ -26,11 +26,11 @@ Vibrodart;5 cr;1d4 kinetic;1/4 lb.;Finesse, special, thrown (20/60)
 Vibromace;75 cr;1d6 kinetic;2 lb.;Light
 Vibrostaff;100 cr;1d6 kinetic;4 lb.;Versatile (2d4)
 Vibrospear;100 cr;1d6 kinetic;3 lb.;Thrown (range 20/60), versatile (1d8)
-#st;Simple Weapons Lightsaber
+#st;Simple Lightsaber Weapons
 Lightdagger;300 cr;1d4 energy;1 lb.;Finesse, hidden, light, luminous, thrown (20/60)
 Lightsaber;500 cr;1d6 energy;4 lb.;Hidden, luminous, versatile (1d8)
 Shotosaber;1,250 cr;1d6 energy;2 lb.;Finesse, hidden, light, luminous
-#st;Martial Weapons
+#st;Martial Melee Weapons
 Chakram;250 cr;1d6 kinetic;3 lb.;Finesse, special, thrown (range 30/90)
 Doubleblade;625 cr;1d6 kinetic;5 lb.;Double (1d6 kinetic), finesse, light, two-handed
 Doublesword;700 cr;1d8 kinetic;5 lb.;Double (1d8 kinetic), finesse, two-handed
@@ -46,7 +46,7 @@ Vibropike;200 cr;1d10 kinetic;6 lb.;Heavy, reach, two-handed
 Vibrorapier;250 cr;1d8 kinetic;2 lb.;Finesse
 Vibrosword ;500 cr;2d6 kinetic;6 lb.;Heavy, two-handed
 Vibrowhip;120 cr;1d4 kinetic;3 lb.;Finesse, reach
-#st;Martial Weapons Lightsaber
+#st;Martial Lightsaber Weapons
 Doublesaber;3,500 cr;1d8 energy;4 lb.;Double (1d8 energy), finesse, luminous, two-handed
 Doubleshoto;2,950 cr;1d6 energy;4 lb.;Double (1d6 energy), finesse, light, luminous, two-handed
 Dual-phase lightsaber;750 cr;1d8 energy;2 lb.;Hidden, luminous, versatile (1d10)
