@@ -157,6 +157,15 @@ Security kit;650 cr;3 lb.
 Slicer's kit;800 cr;6 lb.
 Repair kit;750 cr;3 lb.
 Mess kit;20 cr;1 lb.
+#st;Equipment Packs
+Burglar's Pack;290 cr;0 lb.
+Diplomat's Pack;330 cr;0 lb.
+Dungeoneer's Pack;320 cr;0 lb.
+Entertainer's Pack;420 cr;0 lb.
+Explorer's Pack;250 cr;0 lb.
+Priest's Pack;275 cr;0 lb.
+Scholar's Pack;290 cr;0 lb.
+Technologist's Pack;670 cr;0 lb.
 
 #@;Tools
 #th;Item;Cost;Weight

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <id-00140>
+    <locked type="number">1</locked>
+    <name type="string">Burglar's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">290 cr</cost>
+    <weight type="number">.0</weight>
+    <description type="formattedtext">
+      <p>Includes a backpack, glowrod (2), a hydrospanner, a fusion cutter, a chronometer, a grappling hook, 5 days of field rations, and a canteen.</p>
+    </description>
+    <subitems>
+      <id-00105>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00105@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Backpack</name>
+        <count type="number">1</count>
+      </id-00105>
+      <id-00071>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00071@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Glowrod</name>
+        <count type="number">2</count>
+      </id-00071>
+      <id-00075>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00075@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Hydrospanner</name>
+        <count type="number">1</count>
+      </id-00075>
+      <id-00070>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00070@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Fusion Cutter</name>
+        <count type="number">1</count>
+      </id-00070>
+      <id-00067>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00067@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Chronometer</name>
+        <count type="number">1</count>
+      </id-00067>
+      <id-00072>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00072@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Grappling Hook</name>
+        <count type="number">1</count>
+      </id-00072>
+      <id-00069>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00069@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Field Rations (1 day)</name>
+        <count type="number">5</count>
+      </id-00069>
+      <id-00066>
+        <listlink type="windowreference">
+          <class>item</class>
+          <recordname>item.id-00066@SW5e Equipment</recordname>
+        </listlink>
+        <name type="string">Canteen</name>
+        <count type="number">1</count>
+      </id-00066>
+    </subitems>
+  </id-00140>
+  <id-00141>
+    <locked type="number">1</locked>
+    <name type="string">Diplomat's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">330 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00141>
+  <id-00142>
+    <locked type="number">1</locked>
+    <name type="string">Dungeoneer's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">320 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00142>
+  <id-00143>
+    <locked type="number">1</locked>
+    <name type="string">Entertainer's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">420 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00143>
+  <id-00144>
+    <locked type="number">1</locked>
+    <name type="string">Explorer's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">250 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00144>
+  <id-00145>
+    <locked type="number">1</locked>
+    <name type="string">Priest's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">275 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00145>
+  <id-00146>
+    <locked type="number">1</locked>
+    <name type="string">Scholar's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">290 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00146>
+  <id-00147>
+    <locked type="number">1</locked>
+    <name type="string">Technologist's Pack</name>
+    <type type="string">Adventuring Gear</type>
+    <subtype type="string">Equipment Packs</subtype>
+    <cost type="string">670 cr</cost>
+    <weight type="number">.0</weight>
+  </id-00147>
+</item>
