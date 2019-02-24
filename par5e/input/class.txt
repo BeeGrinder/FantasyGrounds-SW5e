@@ -2123,46 +2123,62 @@ Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per sentine
 Proficiencies
 Armor: Light Armor
 Weapons: Simple Vibroweapons, Simple Lightsabers, Chakram, Doublesaber, Doublesword, Hidden Blade, Lightfoil, Light Ring, Saberwhip, Vibrorapier, Vibrowhip
-Tools: Tools: 
+Tools: Your choice of demolitions kit, security kit, or slicer's kit 
 
 Saving Throws: Dexterity, Charisma
 Skills: Choose two from Acrobatics, Animal Handling, Insight, Intimidation, Perception, Persuasion, Piloting, Stealth, and Technology
 Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 #ls;
-#li;A Weapon
-#li;(a) A Shield, (b) A Pack
-#li;(a) a Different Weapon, Not a Shield. (b) A different Pack
+#li;(a) two simple lightweapons or vibroweapons or (b) one martial lightweapon or vibroweapon with which you are proficient
+#li;(a) a dungeoneer's pack or (b) an explorer's pack
+#li;(a) a demolitions kit, (b) a security kit, or (c) a slicer's kit
+#li;a combat suit and a light shield generator
 #le;
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (3d4 x 100) cr.
 #fe;Forcecasting;1
 In your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an abiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
-#fe;Force Powers Known;1
+#h;Force Powers Known
 You learn 6 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the Sentinel class table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
-#fe;Force Points;1
+#h;Force Points
 You have a number of force points equal to your sentinel level x 3, and you earn more at higher levels, as shown in the Force Points column of the Sentinel class table. You use these force points to cast force powers. You regain all expended force points when you finish a long rest.
-#fe;Max Power Level;1
+#h;Max Power Level
 Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Sentinel class table.
 You may only cast force powers at 5th, 6th, and 7th-level once. You regain the ability to do so after a short or long rest.
-#fe;Forcecasting Ability;1
+#h;Forcecasting Ability
 Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
-**Force save DC** = 8 + your proficiency bonus +your forcecasting ability modifier
-**Force attack modifier** = your proficiency bonus +your forcecasting ability modifier
+#bp;Force save DC
+8 + your proficiency bonus +your forcecasting ability modifier
+#bp;Force attack modifier
+your proficiency bonus +your forcecasting ability modifier
 #fe;Kinetic Combat;1
 At 1st level, you've learned how to blend your weapon attacks with unarmed strikes while wielding sentinel weapons, which are weapon proficiencies granted by this class.
 You gain the following benefits while you are unarmed or wielding only sentinel weapons and you aren't wearing medium or heavy armor or wielding a heavy shield:
-- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and sentinel weapons.
-- You can roll a d4 in place of the normal damage of your unarmed strike or sentinel weapon. This die changes as you gain sentinel levels, as shown in the Kinetic Combat Damage Die column of the Sentinel table.
-- When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can make one unarmed strike or sentinel weapon attack as a bonus action. This attack deals damage equal to your Kinetic Combat Damage Die.
+#ls;
+#li;You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and sentinel weapons.
+#li;You can roll a d4 in place of the normal damage of your unarmed strike or sentinel weapon. This die changes as you gain sentinel levels, as shown in the Kinetic Combat Damage Die column of the Sentinel table.
+#li;When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can make one unarmed strike or sentinel weapon attack as a bonus action. This attack deals damage equal to your Kinetic Combat Damage Die.
+#le;
 #fe;Force-Empowered Self;2
 Starting at 2nd level, your training allows you to harness the mystical energy of the Force throughout your body. While you are unarmed or wielding only sentinel weapons and you aren't wearing medium or heavy armor or wielding a heavy shield, you learn to use your Force Points to fuel various Force-Empowered features. You start knowing three such features: Deflection, Double Strike, and Slow Time.
-#fe;Combat Meditation;2,11,17
+#h;DEFLECTION
+You can spend 3 force points to take the Dodge action as a bonus action on your turn.
+#h;DOUBLE STRIKE
+When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can spend 2 force points to make two unarmed strikes or sentinel weapon attacks as a bonus action. These attacks deals damage equal to your Kinetic Combat Damage Die.
+#h;SLOW TIME
+You can spend 1 force point to take the Disengage or Dash action as a bonus action on your turn.
+#fe;Combat Meditation;2
 Also at 2nd level, you can take advantage of brief lulls in combat to redouble your focus. As an action, you can meditate for a moment to regain a number of force points equal to your Wisdom or Charisma modifier (your choice, minimum of one).
 Once you've used this feature, you must finish a long rest before you can use it again. Starting at 11th level, you can use it twice before a rest. Starting at 17th level, you can use it three times.
-#fe;Sentinel Calling;3,7,13,18
+#fe;Sentinel Calling;3
 When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.
-#fe;Ability Score Improvement;4,8,12,16,19
+#zls;
+#zl;sentinel_ability;Path Of Aggression
+#zl;sentinel_ability;Path Of Focus
+#zl;sentinel_ability;Path Of Shadows
+#zle;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -2173,41 +2189,41 @@ When you reach 15th level, you have fully learned how to blend the Force with yo
 #fe;Center of the Force;20
 At 20th level, you are perfectly centered with the Force. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores is now 22.
 Additionally, once per turn, when you would roll a Kinetic Combat Damage Die, you can instead choose the maximum.
-#abh;SENTINEL CALLINGS
-#ab;PATH OF AGGRESSION
+#abh;Sentinel Callings
+#ab;Path Of Aggression
 From the murky depths of the dark side comes seething fury. Those sentinels who follow the Path of Aggression charge their weapon with lightning, culminating in a massive discharge that can ravage their opponents.
-#abf;VOLTAIC SLASH;3
+#abf;Voltaic Slash;3
 Starting when you choose this calling at 3rd level, you learn to channel the devastation of lightning through your weapon attacks. You learn the *lightning charge* force power, and when you cast it you can use your Kinetic Combat and Force-Empowered Self features.
-#abf;CRACKLING BLASTS;7
+#abf;Crackling Blasts;7
 At 7th level, you can spend 2 force points to cast the *lightning charge* force power as a bonus action. 
 Additionally, when you deal lightning damage with the *lightning charge* force power, you can force the target to become *shocked* until the end of their next turn.
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a short or long rest.
-#abf;ENTROPIC RUSH;13
+#abf;Entropic Rush;13
 By 13th level, you've learned to move with speed and precision, discharging your lightning in a massive burst. When you take the Dash action and move at least 30 feet before casting *lightning charge*, you make the attack roll with advantage. Additionally, on a hit, the lightning can leap a second time, to a third creature within range or back to the first creature.
 Once you've used this feature, you must complete a short or long rest before you can use it again.
-#abf;RETALIATORY STRIKE;18
+#abf;Retaliatory Strike;18
 At 18th level, when a creature hits you with an attack while within 5 feet of you, you can use your reaction to cast the *lightning charge* force power, targeting them.
-#ab;PATH OF FOCUS
+#ab;Path Of Focus
 The ways of the Force can reveal themselves to a sentinel through intense concentration and, most importantly, focus. Those sentinels who follow the Path of Focus use debilitating bursts of lightsaber strikes and force powers to exhaust their foes, crushing any hopes they had of mounting an effective defense.
-#abf;FOCUSED BURST;3
+#abf;Focused Burst;3
 Starting when you choose this calling at 3rd level, you can learn to overcome even the hardiest of defenses. When you would make a melee weapon attack roll, you can instead force the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Strength or Dexterity modifier). If you would have advantage on your attack roll, the creature instead has disadvantage on their saving throw. On a failed save, the target takes normal weapon damage.
 Additionally, when a creature rolls a 1 on the saving throw, they take damage as if suffering a critical hit.
-#abf;BLADE DANCE;7
+#abf;Blade Dance;7
 At 7th level, when a creature takes melee weapon damage from you, you can move up to 10 feet. This movement does not provoke opportunity attacks.
-#abf;BLADE STORM;13
+#abf;Blade Storm;13
 By 13th level, your bursts become even more overwhelming. On your turn, when a creature fails two consecutive Focused Burst saving throws, you can immediately make one additional attack against that creature (no action required). You can only make this additional attack once per turn.
-#abf;MASTER STRIKE;18
+#abf;Master Strike;18
 At 18th level, your burst can overpower even the fiercest of foes. On your turn, when a creature fails three consecutive Focused Burst saving throws, it becomes stunned until the start of its next turn.
-#ab;PATH OF SHADOWS
+#ab;Path Of Shadows
 In darkness, there is protection. Those sentinels who follow the Path of Shadows utilize a calculated plan, becoming masters of stealth and ambush who forgo the head-on attack for the vulnerable flank.
-#abf;SHADOW STRIKE;3
+#abf;Shadow Strike;3
 Starting when you choose this calling at 3rd level, you learn to strike from the shadows. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the roll. You must be wielding a sentinel weapon to gain this benefit.
 The extra damage increases to 2d6 at 11th level and 3d6 at 17th level.
-#abf;CLOAK OF SHADOWS;7
+#abf;Cloak Of Shadows;7
 At 7th level, you have learned to become one with the shadows. You learn the *force camouflage* power, and you can cast it as a bonus action.  
 Additionally, when you cast *force camouflage*, you can spend an additional force point to make a Dexterity (Stealth) check as a part of this casting.
-#abf;SHADOW STEP;13
+#abf;Shadow Step;13
 By 13th level, you gain the ability to step from one shadow into another. While you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
-#abf;SHADOW'S WRATH;18
+#abf;Shadow's Wrath;18
 At 18th level, your training has taught you advanced techniques while you maneuver in the shadows. The first attack roll you make on your turn while invisible and hidden does not automatically reveal your presence. Make a Dexterity (Stealth) check against your target's Wisdom (Perception) check. On a success, you stay invisible and hidden.
 
