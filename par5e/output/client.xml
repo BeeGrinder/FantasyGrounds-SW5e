@@ -14646,11 +14646,11 @@
           <p>Most monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other power.</p>
           <p>The majority of monks don't shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or brigands.</p>
           <p>For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth.</p>
-          <h>CREATING AN MONK</h>
+          <h>Creating An MonK</h>
           <p>As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?</p>
           <p>Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?</p>
           <p>As a result of the structured life of a monastic community and the discipline required to harness focus, monks are typically lawful in alignment.</p>
-          <h>QUICK BUILD</h>
+          <h>Quick Build</h>
           <p>You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.</p>
           <h>The Monk</h>
           <table>
@@ -14858,9 +14858,9 @@
           <h>Equipment</h>
           <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
           <list>
-            <li>A Weapon</li>
-            <li>(a) A Shield, (b) A Pack</li>
-            <li>(a) a Different Weapon, Not a Shield. (b) A different Pack</li>
+            <li>(a) a chakram, (b) a techblade, (c) a simple vibroweapon, or (d) a simple blaster and a power cell</li>
+            <li>(a) a dungeoneer's pack or (b) an explorer's pack</li>
+            <li>10 vibrodarts</li>
           </list>
           <p>VARIANT: STARTING WEALTH</p>
           <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (1d4 x 100) cr.</p>
@@ -14872,7 +14872,7 @@
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.unarmoredmovement2@SW5e Player Book">Unarmored Movement</link>
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.monasticorder3@SW5e Player Book">Monastic Order</link>
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.deflectmissiles3@SW5e Player Book">Deflect Missiles</link>
-            <link class="reference_classfeature" recordname="reference.classdata.monk.features.abilityscoreimprovement4@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.monk.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.slowfall4@SW5e Player Book">Slow Fall</link>
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.extraattack5@SW5e Player Book">Extra Attack</link>
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.stunningstrike5@SW5e Player Book">Stunning Strike</link>
@@ -14886,11 +14886,11 @@
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.emptybody18@SW5e Player Book">Empty Body</link>
             <link class="reference_classfeature" recordname="reference.classdata.monk.features.perfectself20@SW5e Player Book">Perfect Self</link>
           </listlink>
-          <h>MONK ORDERS</h>
+          <h>Monastic Orders</h>
           <listlink>
-            <link class="reference_classability" recordname="reference.classdata.monk.abilities.echaniorder@SW5e Player Book">ECHANI ORDER</link>
-            <link class="reference_classability" recordname="reference.classdata.monk.abilities.nightsisterorder@SW5e Player Book">NIGHTSISTER ORDER</link>
-            <link class="reference_classability" recordname="reference.classdata.monk.abilities.teraskasiorder@SW5e Player Book">TERAS KASI ORDER</link>
+            <link class="reference_classability" recordname="reference.classdata.monk.abilities.echaniorder@SW5e Player Book">Echani Order</link>
+            <link class="reference_classability" recordname="reference.classdata.monk.abilities.nightsisterorder@SW5e Player Book">Nightsister Order</link>
+            <link class="reference_classability" recordname="reference.classdata.monk.abilities.teraskasiorder@SW5e Player Book">Teras Kasi Order</link>
           </listlink>
         </text>
         <hp>
@@ -14943,9 +14943,11 @@
             <text type="formattedtext">
               <p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are techblades and any simple vibroweapons that don't have the two-handed or heavy property.</p>
               <p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>
-              <p>- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</p>
-              <p>- You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p>
-              <p>- When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p>
+              <list>
+                <li>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</li>
+                <li>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</li>
+                <li>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</li>
+              </list>
             </text>
           </martialarts1>
           <focus2>
@@ -14956,7 +14958,16 @@
               <p>You can spend these points to fuel various focus features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more focus features as you gain levels in this class.</p>
               <p>When you spend a focus point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended focus back into yourself. You must spend at least 30 minutes of the rest meditating to regain your focus points.</p>
               <p>Some of your focus features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:</p>
-              <p>**Focus save DC** = 8 + your proficiency bonus + your Wisdom modifier</p>
+              <p>
+                <b>Focus save DC</b>
+              </p>
+              <p>8 + your proficiency bonus + your Wisdom modifier</p>
+              <h>Flurry Of Blows</h>
+              <p>Immediately after you take the Attack action on your turn, you can spend 1 focus point to make two unarmed strikes as a bonus action.</p>
+              <h>Patient Defense</h>
+              <p>You can spend 1 focus point to take the Dodge action as a bonus action on your turn.</p>
+              <h>Step Of The Wind</h>
+              <p>You can spend 1 focus point to take the disengage or dash action as a bonus action on your turn, and your jump distance is doubled for the turn.</p>
             </text>
           </focus2>
           <unarmoredmovement2>
@@ -14972,29 +14983,13 @@
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
+              <listlink>
+                <link class="reference_classability" recordname="reference.classdata.monk.abilities.echaniorder@SW5e Player Book">Echani Order</link>
+                <link class="reference_classability" recordname="reference.classdata.monk.abilities.nightsisterorder@SW5e Player Book">Nightsister Order</link>
+                <link class="reference_classability" recordname="reference.classdata.monk.abilities.teraskasiorder@SW5e Player Book">Teras Kasi Order</link>
+              </listlink>
             </text>
           </monasticorder3>
-          <monasticorder6>
-            <name type="string">Monastic Order</name>
-            <level type="number">6</level>
-            <text type="formattedtext">
-              <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
-            </text>
-          </monasticorder6>
-          <monasticorder11>
-            <name type="string">Monastic Order</name>
-            <level type="number">11</level>
-            <text type="formattedtext">
-              <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
-            </text>
-          </monasticorder11>
-          <monasticorder17>
-            <name type="string">Monastic Order</name>
-            <level type="number">17</level>
-            <text type="formattedtext">
-              <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
-            </text>
-          </monasticorder17>
           <deflectmissiles3>
             <name type="string">Deflect Missiles</name>
             <level type="number">3</level>
@@ -15003,41 +14998,13 @@
               <p>If you reduce the damage to 0, and the damage is energy or ion, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 focus point to make a ranged attack as you deflect the projectile, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the projectile counts as a monk weapon for the attack.</p>
             </text>
           </deflectmissiles3>
-          <abilityscoreimprovement4>
+          <abilityscoreimprovement>
             <name type="string">Ability Score Improvement</name>
-            <level type="number">4</level>
+            <level type="number"/>
             <text type="formattedtext">
               <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
             </text>
-          </abilityscoreimprovement4>
-          <abilityscoreimprovement8>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">8</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement8>
-          <abilityscoreimprovement12>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">12</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement12>
-          <abilityscoreimprovement16>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">16</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement16>
-          <abilityscoreimprovement19>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">19</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement19>
+          </abilityscoreimprovement>
           <slowfall4>
             <name type="string">Slow Fall</name>
             <level type="number">4</level>
@@ -15123,68 +15090,50 @@
               <p>At 20th level, you've gained perfect control over your body. Your Dexterity and Wisdom scores increase by 2. Your maximum for those scores is now 22. Additionally, when you roll for initiative and have no focus points remaining, you regain 2 focus points.</p>
             </text>
           </perfectself20>
+          <pathoftheechani3>
+            <name type="string">Path Of The Echani</name>
+            <level type="number">3</level>
+            <text type="formattedtext">
+              <p>Beginning when you choose this order at 3rd level, your special martial arts training leads you to master the use of certain weapons. You gain the following benefits.</p>
+              <h>Echani Weapons</h>
+              <p>Choose two types of weapons to be your Echani weapons: one vibroweapon and one blaster. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. You gain proficiency with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition's features work only with your Echani weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon to be an Echani weapon for you, following the criteria above.</p>
+              <h>Agile Parry</h>
+              <p>If you make an unarmed strike as part of the Attack action on your turn and are holding a Echani weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't incapacitated.</p>
+              <h>Echani's Shot</h>
+              <p>You can use a bonus action on your turn to make your ranged attacks with an Echani weapon more deadly. When you do so, any target you hit with a ranged attack using an Echani weapon takes an extra 1d4 damage of the weapon's type. You retain this benefit until the end of the current turn.</p>
+            </text>
+            <specialization type="string">Echani Order</specialization>
+          </pathoftheechani3>
+          <onewiththeblade6>
+            <name type="string">One With The Blade</name>
+            <level type="number">6</level>
+            <text type="formattedtext">
+              <p>At 6th level, you extend your focus into your Echani weapons, granting you the following benefits.</p>
+              <h>Enhanced Echani Weapons</h>
+              <p>Your attacks with your Echani weapons count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage.</p>
+              <h>Deft Strike</h>
+              <p>When you hit a target with a Echani weapon, you can spend 1 focus point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.</p>
+            </text>
+            <specialization type="string">Echani Order</specialization>
+          </onewiththeblade6>
           <sharpentheblade11>
-            <name type="string">SHARPEN THE BLADE</name>
+            <name type="string">Sharpen The Blade</name>
             <level type="number">11</level>
             <text type="formattedtext">
               <p>Starting at 11th level, you gain the ability to augment your weapons further with your focus. As a bonus action, you can expend up to 3 focus points to grant one Echani weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect on an enhanced weapon that already has a bonus to attack and damage rolls.</p>
             </text>
-            <specialization type="string">ECHANI ORDER</specialization>
+            <specialization type="string">Echani Order</specialization>
           </sharpentheblade11>
           <unerringaccuracy17>
-            <name type="string">UNERRING ACCURACY</name>
+            <name type="string">Unerring Accuracy</name>
             <level type="number">17</level>
             <text type="formattedtext">
               <p>At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.</p>
-              <h>PATH OF THE ECHANI</h>
-              <p>Beginning when you choose this order at 3rd level, your special martial arts training leads you to master the use of certain weapons. You gain the following benefits.</p>
             </text>
-            <specialization type="string">ECHANI ORDER</specialization>
+            <specialization type="string">Echani Order</specialization>
           </unerringaccuracy17>
-          <echaniweapons3>
-            <name type="string">ECHANI WEAPONS</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>Choose two types of weapons to be your Echani weapons: one vibroweapon and one blaster. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. You gain proficiency with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition's features work only with your Echani weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon to be an Echani weapon for you, following the criteria above.</p>
-            </text>
-            <specialization type="string">ECHANI ORDER</specialization>
-          </echaniweapons3>
-          <agileparry3>
-            <name type="string">AGILE PARRY</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>If you make an unarmed strike as part of the Attack action on your turn and are holding a Echani weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't incapacitated.</p>
-            </text>
-            <specialization type="string">ECHANI ORDER</specialization>
-          </agileparry3>
-          <echani_sshot3>
-            <name type="string">ECHANI'S SHOT</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You can use a bonus action on your turn to make your ranged attacks with an Echani weapon more deadly. When you do so, any target you hit with a ranged attack using an Echani weapon takes an extra 1d4 damage of the weapon's type. You retain this benefit until the end of the current turn.</p>
-              <h>ONE WITH THE BLADE</h>
-              <p>At 6th level, you extend your focus into your Echani weapons, granting you the following benefits.</p>
-            </text>
-            <specialization type="string">ECHANI ORDER</specialization>
-          </echani_sshot3>
-          <enhancedechaniweapons6>
-            <name type="string">ENHANCED ECHANI WEAPONS</name>
-            <level type="number">6</level>
-            <text type="formattedtext">
-              <p>Your attacks with your Echani weapons count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage.</p>
-            </text>
-            <specialization type="string">ECHANI ORDER</specialization>
-          </enhancedechaniweapons6>
-          <deftstrike6>
-            <name type="string">DEFT STRIKE</name>
-            <level type="number">6</level>
-            <text type="formattedtext">
-              <p>When you hit a target with a Echani weapon, you can spend 1 focus point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.</p>
-            </text>
-            <specialization type="string">ECHANI ORDER</specialization>
-          </deftstrike6>
           <ichorlightning3>
-            <name type="string">ICHOR LIGHTNING</name>
+            <name type="string">Ichor Lightning</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Beginning when you choose this order at 3rd level, you gain a new attack option that you can use with the Attack action. This special attack is a ranged force attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is necrotic, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p>
@@ -15192,113 +15141,112 @@
               <p>When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.</p>
               <p>When you reduce a creature to 0 hit points with this attack, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point).</p>
             </text>
-            <specialization type="string">NIGHTSISTER ORDER</specialization>
+            <specialization type="string">Nightsister Order</specialization>
           </ichorlightning3>
           <darkmagick6>
-            <name type="string">DARK MAGICK</name>
+            <name type="string">Dark Magick</name>
             <level type="number">6</level>
             <text type="formattedtext">
               <p>At 6th level, when you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.</p>
             </text>
-            <specialization type="string">NIGHTSISTER ORDER</specialization>
+            <specialization type="string">Nightsister Order</specialization>
           </darkmagick6>
           <masteryofdeath11>
-            <name type="string">MASTERY OF DEATH</name>
+            <name type="string">Mastery Of Death</name>
             <level type="number">11</level>
             <text type="formattedtext">
               <p>Starting at 11th level, when you are reduced to 0 hit points, you can expend 1 focus point (no action required) to have 1 hit point instead.</p>
             </text>
-            <specialization type="string">NIGHTSISTER ORDER</specialization>
+            <specialization type="string">Nightsister Order</specialization>
           </masteryofdeath11>
           <spiritbladeassault17>
-            <name type="string">SPIRIT BLADE ASSAULT</name>
+            <name type="string">Spirit Blade Assault</name>
             <level type="number">17</level>
             <text type="formattedtext">
               <p>At 17th level, as an action, you conjure a blade of negative energy and strike one creature within 5 feet of you with it, expending 1 to 10 focus points. The target must make a Constitution saving throw. On a failed save, it takes 2d10 necrotic damage per focus point spent, or half as much on a successful one.</p>
             </text>
-            <specialization type="string">NIGHTSISTER ORDER</specialization>
+            <specialization type="string">Nightsister Order</specialization>
           </spiritbladeassault17>
           <openhandtechnique3>
-            <name type="string">OPEN HAND TECHNIQUE</name>
+            <name type="string">Open Hand Technique</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Beginning when you choose this order at 3rd level, you can manipulate your enemy's focus when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:</p>
-              <p>* It must succeed on a Dexterity saving throw or be knocked prone.</p>
-              <p>* It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</p>
-              <p>* It can't take reactions until the end of your next turn.</p>
+              <list>
+                <li>It must succeed on a Dexterity saving throw or be knocked prone.</li>
+                <li>It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.</li>
+                <li>It can't take reactions until the end of your next turn.</li>
+              </list>
             </text>
-            <specialization type="string">TERAS KASI ORDER</specialization>
+            <specialization type="string">Teras Kasi Order</specialization>
           </openhandtechnique3>
           <wholenessofbody6>
-            <name type="string">WHOLENESS OF BODY</name>
+            <name type="string">Wholeness Of Body</name>
             <level type="number">6</level>
             <text type="formattedtext">
               <p>At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level.</p>
               <p>You must finish a long rest before you can use this feature again.</p>
             </text>
-            <specialization type="string">TERAS KASI ORDER</specialization>
+            <specialization type="string">Teras Kasi Order</specialization>
           </wholenessofbody6>
           <tranquility11>
-            <name type="string">TRANQUILITY</name>
+            <name type="string">Tranquility</name>
             <level type="number">11</level>
             <text type="formattedtext">
               <p>Starting at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* force power that lasts until the start of your next long rest (the power can end early as normal). The saving throw DC for the power equals 8 + your Wisdom modifier + your proficiency bonus.</p>
             </text>
-            <specialization type="string">TERAS KASI ORDER</specialization>
+            <specialization type="string">Teras Kasi Order</specialization>
           </tranquility11>
           <quiveringpalm17>
-            <name type="string">QUIVERING PALM</name>
+            <name type="string">Quivering Palm</name>
             <level type="number">17</level>
             <text type="formattedtext">
               <p>At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 focus points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same planet. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</p>
               <p>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</p>
             </text>
-            <specialization type="string">TERAS KASI ORDER</specialization>
+            <specialization type="string">Teras Kasi Order</specialization>
           </quiveringpalm17>
         </features>
         <abilities>
           <echaniorder>
-            <name type="string">ECHANI ORDER</name>
+            <name type="string">Echani Order</name>
             <level type="number">1</level>
             <text type="formattedtext">
               <p>Monks of the Echani Order train relentlessly both with and without their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.sharpentheblade11@SW5e Player Book">SHARPEN THE BLADE</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.unerringaccuracy17@SW5e Player Book">UNERRING ACCURACY</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.echaniweapons3@SW5e Player Book">ECHANI WEAPONS</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.agileparry3@SW5e Player Book">AGILE PARRY</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.echani_sshot3@SW5e Player Book">ECHANI'S SHOT</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.enhancedechaniweapons6@SW5e Player Book">ENHANCED ECHANI WEAPONS</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.deftstrike6@SW5e Player Book">DEFT STRIKE</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.pathoftheechani3@SW5e Player Book">Path Of The Echani</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.onewiththeblade6@SW5e Player Book">One With The Blade</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.sharpentheblade11@SW5e Player Book">Sharpen The Blade</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.unerringaccuracy17@SW5e Player Book">Unerring Accuracy</link>
               </listlink>
             </text>
           </echaniorder>
           <nightsisterorder>
-            <name type="string">NIGHTSISTER ORDER</name>
+            <name type="string">Nightsister Order</name>
             <level type="number">1</level>
             <text type="formattedtext">
               <p>Monks of the Nightsister Order utilize an innate Force-sensitivity to commune with death. They learn to channel this power to drain the life of their foes to prolong their own existence. Males who join this order are called Nightbrothers.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.ichorlightning3@SW5e Player Book">ICHOR LIGHTNING</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.darkmagick6@SW5e Player Book">DARK MAGICK</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.masteryofdeath11@SW5e Player Book">MASTERY OF DEATH</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.spiritbladeassault17@SW5e Player Book">SPIRIT BLADE ASSAULT</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.ichorlightning3@SW5e Player Book">Ichor Lightning</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.darkmagick6@SW5e Player Book">Dark Magick</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.masteryofdeath11@SW5e Player Book">Mastery Of Death</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.spiritbladeassault17@SW5e Player Book">Spirit Blade Assault</link>
               </listlink>
             </text>
           </nightsisterorder>
           <teraskasiorder>
-            <name type="string">TERAS KASI ORDER</name>
+            <name type="string">Teras Kasi Order</name>
             <level type="number">1</level>
             <text type="formattedtext">
               <p>Monks of the Teras Kasi Order are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate focus to heal damage to their bodies, and practice advanced meditation that can protect them from harm.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.openhandtechnique3@SW5e Player Book">OPEN HAND TECHNIQUE</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.wholenessofbody6@SW5e Player Book">WHOLENESS OF BODY</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.tranquility11@SW5e Player Book">TRANQUILITY</link>
-                <link class="reference_classfeature" recordname="reference.classdata.monk.features.quiveringpalm17@SW5e Player Book">QUIVERING PALM</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.openhandtechnique3@SW5e Player Book">Open Hand Technique</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.wholenessofbody6@SW5e Player Book">Wholeness Of Body</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.tranquility11@SW5e Player Book">Tranquility</link>
+                <link class="reference_classfeature" recordname="reference.classdata.monk.features.quiveringpalm17@SW5e Player Book">Quivering Palm</link>
               </listlink>
             </text>
           </teraskasiorder>
@@ -15309,9 +15257,9 @@
             <item type="string">
               <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
               <list>
-                <li>A Weapon</li>
-                <li>(a) A Shield, (b) A Pack</li>
-                <li>(a) a Different Weapon, Not a Shield. (b) A different Pack</li>
+                <li>(a) a chakram, (b) a techblade, (c) a simple vibroweapon, or (d) a simple blaster and a power cell</li>
+                <li>(a) a dungeoneer's pack or (b) an explorer's pack</li>
+                <li>10 vibrodarts</li>
               </list>
               <p>VARIANT: STARTING WEALTH</p>
               <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (1d4 x 100) cr.</p>
