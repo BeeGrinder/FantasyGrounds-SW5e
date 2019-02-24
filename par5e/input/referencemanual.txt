@@ -1,4 +1,4 @@
-#@;SW5e Player Book
+#@;Fantasy Grounds Specific
 #!;Fantasy Grounds Conversion
 ##;Player/DM notes
 Every effort was made to have the Fantasy Grounds SW5e experience similar to the standard 5e experience.
@@ -21,6 +21,7 @@ When you use the Items button on the right side of the screen you see the Armor 
 #bp;Powers(Spells)
 Powers(Spells) are not included in the Player Handbook.  They are in the module SW5e Spell Book.  Use this as the source for you powers.  In the spell window you can sort by Tech Powers or Force Powers.  See the Reference section of that module for further information.
 
+#@;Attribution and Copyright
 #!;SW5e Ruleset Information
 ##;Credits and Attribution
 #h;Credits from the SW5e Player Handbook
@@ -188,6 +189,7 @@ There is a Monster Manual ready to use.
 There is a space expansion optional rule set called Starships of the Galaxy, in honor of the Saga edition's book.
 #h;GOING FORWARD
 Additional content will be released bi-weekly, on Tuesdays, for the foreseeable future.
+
 #!;Copyrights and Licensing
 ##;Conversion Copyright
 #h;Fantasy Grounds Conversion Copyright Information
@@ -222,7 +224,41 @@ Coast,	Inc	("Wizards").	All	Rights	Reserved.
 System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson. 
 END OF LICENSE
 
-#!;Adventuring
+#@;SW5e Handbook
+#!;1. Character Creation
+##;Character Creation
+Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a species (such as human or twi'lek) and a class (such as sentinel or scout). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
+Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking scoundrel, a fervent consular, or a cruel guardian. Or you might be more interested in an unconventional character, such as a brawny scoundrel who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like non-Human species like Twi'leks or Wookiees? Try building a character of one of those species. Do you want your character to be the toughest adventurer at the table? Consider the soldier class. If you don’t know where else to begin, take a look at the illustrations in any Star Wars book to see what catches your interest.
+Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What’s important is that you come to the table with a character you’re excited to play.
+Throughout this section, we use the term character sheet to mean whatever you use to track your character, whether it’s a formal character sheet (like the one at the end of these rules), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.
+See PDF for more details.
+
+#!;2. Species
+##;Species (Race in Fantasy Grounds)
+A visit to any of the great cities in the worlds of Star Wars overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants.
+And the people themselves-people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues-represent many different species, from diminutive Bothans and stalwart Cereans to majestic Twi'Leks and towering Wookiees, mingling among a variety of human ethnicities.
+Scattered among the members of these more common species are the true exotics: a hulking Besalisk here, pushing his way through the crowd, and a sly Chiss there, lurking in the shadows with mischief in her eyes. A group of Jawas chatters as one of them activates a clever mechanical toy that moves of its own accord. Zabraks and Devaronians live and work alongside humans, without fully belonging. And there, well out of the sunlight, is a lone Duros-a fugitive from the the Galactic Republic, trying to make his way in a world.
+See PDF for more details.
+
+#!;3. Classes
+##;Classes
+Adventurers are extraordinary people, driven by a thirst for excitement into a life that others would never dare lead. They are heroes, compelled to explore the dark places of the world and take on the challenges that lesser women and men can’t stand against.
+Class is the primary definition of what your character can do. It’s more than a profession; it’s your character’s calling. Class shapes the way you think about the world and interact with it and your relationship with other people and powers in the galaxy. A fighter, for example, might view the world in pragmatic terms of strategy and maneuvering, and see herself as just a pawn in a much larger game. A consular, by contrast, might see himself as a willing servant of the Force. While the fighter has contacts in a mercenary company or army, the consular might know a number of Jedi or Sith who share his faith.
+Your class gives you a variety of special features, such as a fighter’s mastery of weapons and armor, and an engineer’s powers. At low levels, your class gives you only two or three features, but as you advance in level you gain more and your existing features often improve. Each class entry in this chapter includes a table summarizing the benefits you gain at every level, and a detailed explanation of each one.
+Adventurers sometimes advance in more than one class. An operative might switch direction in life and become an engineer. A berserker might discover latent force sensitivity and dabble in the guardian class while continuing to advance as a berserker. Sith purebloods are known to combine martial mastery with force training and advance as fighters and consulars simultaneously. 
+Optional rules for combining classes in this way, called multiclassing, appear in chapter 6.
+See PDF for more details.
+
+#!;4. Personality and Background
+##;Characters
+Characters are defined by much more than their species and class. They’re individuals with their own stories, interests, connections, and capabilities beyond those that class and species define. This section expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
+See PDF for more details.
+
+#!;5. Adventuring and Equipment
+##;Adventuring and Equipment
+The marketplace of a large city teems with buyers and sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.
+For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
+See PDF for more details.
 ##;Cost and Currency
 The marketplace of a large city teems with buyers and sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.
 For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
@@ -282,3 +318,61 @@ Costs 275 credits. Includes a backpack, a blanket, two glowrods, a datapad, a me
 Costs 290 credits. Includes a backpack, a datapad, 5 datacards, a stylus, a holorecorder, 5 days of field rations, and a canteen.
 #bp;TECHNOLOGIST'S PACK
 Costs 670 credits. Includes a backpack, chronometer, respirator, datapad, holocomm, comlink, bedroll, canteen, and 5 days of field rations.
+
+#!;6. Customization Options
+##;Customization Options
+The combination of ability scores, species, class, and background defines your character’s capabilities in the game, and the personal details you create set your character apart from every other character. Even within your class and species, you have options to fine-tune what your character can do. But this chapter is for players who—with the DM’s permission—want to go a step further.
+This chapter defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability s cores as you gain levels. Your DM decides whether these options are available in a campaign.
+See PDF for more details.
+
+#!;7. Ability Scores
+##;Ability Scores
+Six abilities provide a quick description of every creature’s physical and mental characteristics:
+#bw;Strength, measuring physical power
+#bw;Dexterity, measuring agility
+#bw;Constitution, measuring endurance
+#bw;Intelligence, measuring reasoning and memory
+#bw;Wisdom, measuring perception and insight
+#bw;Charisma, measuring force of personality
+See PDF for more details.
+#!;8. Adventuring
+##;Adventuring
+Delving into an ancient sith tomb, slipping through the Black Sun territory of Coruscant, hacking a fresh trail through the thick jungles on the forest moon of Endor-these are the things that Star Wars adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
+This chapter covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this chapter, along with a discussion of the activities your character might pursue between adventures.
+Whether adventurers are exploring a dusty dungeon or the complex relationships of a noble court, the game follows a natural rhythm, as outlined in the book’s introduction:
+1. The DM describes the environment.
+2. The players describe what they want to do.
+3. The DM narrates the results of their actions.
+Typically, the DM uses a map as an outline of the adventure, tracking the characters' progress as they explore enclave corridors or wilderness regions.
+The DM’s notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers’ actions determine what happens, so the DM might use a timeline or a flowchart to track their progress instead of a map.
+See PDF for more details.
+#!;9. Combat
+##;Combat
+he shriek of blaster fire flying overhead. The clash of a gamorrean's axe striking against a composite shield. The crackle of lightning emenating from a Sith lord's hands. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
+This chapter provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this chapter, the rules address you, the player or Dungeon Master. The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. “You” can also mean the character or monster that you control.
+See PDF for more details.
+#!;10. Force- And Tech-Casting
+##;Force- And Tech-Casting
+Magic exists in the worlds of Star Wars in the form of powers. This chapter provides the rules for casting these powers. There are two major sources of these power: the Force and technology. While multiple classes use the Force or technology to fuel their powers, there are only the two sources. Regardless, powers follow the rules here.
+#h;WHAT IS A POWER?
+A power is a discrete effect, a single shaping of the energies of the Force or a result of a technological formula, that creates a desired effect. In casting a power, a character carefully constructs the desired effect using the source of their power, and then releases it, all in the span of seconds.
+Powers can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix A), drain life energy away, and restore life to the dead.
+A great number of powers exist, and over time many have been created and forgotten. An ancient force technique may exist in a long-lost holocron, or a piece of Rakatan schemata may contain revolutionary tech.
+See PDF for more details.
+#!;11. Force Powers
+##;Force Powers
+See PDF for power lists. You can also open the Fantasy Grounds SPELLS button and choose the type of power in the SCHOOL (force or tech) selector and filter you view further by selecting the level.  Level 0 is at-will cantrips.
+#!;11. Tech Powers
+##;Tech Powers
+See PDF for power lists. You can also open the Fantasy Grounds SPELLS button and choose the type of power in the SCHOOL (force or tech) selector and filter you view further by selecting the level.  Level 0 is at-will cantrips.
+#!;Appendix A: Conditions
+##;Conditions
+Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a power, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+See PDF for more details.
+#!;Appendix B: Recommended Variant Rules
+##;Recommended Variant Rules
+House/variant rules are optional additions to each game that in some way enhance or alter game play. Generally, they are done to alleviate stress from the DM, to improve player engagement, or to help a player realize a character goal. This appendix includes a number of variant rule options, all of which I offer at my table.
+I would encourage you to become familiar with the core content of this conversion before you decide if these house rules are right for you.
+See PDF for more details.
