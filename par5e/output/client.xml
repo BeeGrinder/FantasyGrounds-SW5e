@@ -15279,9 +15279,9 @@
           <p>Operatives have a knack for getting out of trouble. They have an instinct for self-preservation that keeps them alive, but it's usually tempered with a need to experience the thrills that their profession has to offer, and many adventurous operatives are also saddled with a sense of honor that sometimes makes them go against their natural inclinations. No matter what their immediate concerns may be, survival is the name of the game.</p>
           <h>Outside the Law</h>
           <p>Operatives don't often start out seeking to defy authority and break the law. Some are thrust into the profession as a means of rebellion. Others wind up on the wrong side of the law due to bad luck, poor decisions, or circumstances beyond their control. The skills they pick up along the way make them great members of any mission team.</p>
-          <h>CREATING AN OPERATIVE</h>
+          <h>Creating An Operative</h>
           <p>While creating your operative character, consider how you first started on your path. Maybe you were raised on the street and fell into the criminal element as a means of survival. You could be a simple trader who decided to strike against the Sith Empire when it encroached on your business. What would you say is your greatest skill set? What is your core, the truest essence about yourself that keeps you focused? Why would society treat you as a criminal, yet your allies hold you as a loyal companion?</p>
-          <h>QUICK BUILD</h>
+          <h>Quick Build</h>
           <p>You can make an operative quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Intelligence or Charisma. Second, choose the faction agent background.</p>
           <h>The Operative</h>
           <table>
@@ -15435,7 +15435,7 @@
           <p>
             <b>Weapons:</b> Simple Vibroweapons, Simple Blasters, Blaster Pistol, Vibrorapier, Techblade, Hidden Blade</p>
           <p>
-            <b>Tools:</b> Tools:</p>
+            <b>Tools:</b> Your choice of demolitions kit, security kit, or slicer's kit</p>
           <p>
             <b>Saving Throws:</b> Dexterity, Intelligence</p>
           <p>
@@ -15443,9 +15443,11 @@
           <h>Equipment</h>
           <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
           <list>
-            <li>A Weapon</li>
-            <li>(a) A Shield, (b) A Pack</li>
-            <li>(a) a Different Weapon, Not a Shield. (b) A different Pack</li>
+            <li>(a) a vibrorapier, (b) a hidden blade, (c) a simple blaster and a power cell, or (d) a simple vibroweapon</li>
+            <li>(a) a simple blaster and two power cells or (b) a simple vibroweapon and a light shield</li>
+            <li>(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack</li>
+            <li>(a) a demolitions kit, (b) a security kit, or (c) a slicer's kit</li>
+            <li>Combat suit and a vibrodagger</li>
           </list>
           <p>VARIANT: STARTING WEALTH</p>
           <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (4d4 x 100) cr.</p>
@@ -15456,7 +15458,7 @@
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.badfeeling2@SW5e Player Book">Bad Feeling</link>
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.cunningaction2@SW5e Player Book">Cunning Action</link>
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.operativepractice3@SW5e Player Book">Operative Practice</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.abilityscoreimprovement4@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.uncannydodge5@SW5e Player Book">Uncanny Dodge</link>
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.evasion7@SW5e Player Book">Evasion</link>
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.reliabletalent11@SW5e Player Book">Reliable Talent</link>
@@ -15465,11 +15467,11 @@
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.elusive18@SW5e Player Book">Elusive</link>
             <link class="reference_classfeature" recordname="reference.classdata.operative.features.strokeofluck20@SW5e Player Book">Stroke of Luck</link>
           </listlink>
-          <h>OPERATIVE PRACTICES</h>
+          <h>Operative Practices</h>
           <listlink>
-            <link class="reference_classability" recordname="reference.classdata.operative.abilities.gunslingerpractice@SW5e Player Book">GUNSLINGER PRACTICE</link>
-            <link class="reference_classability" recordname="reference.classdata.operative.abilities.lethalitypractice@SW5e Player Book">LETHALITY PRACTICE</link>
-            <link class="reference_classability" recordname="reference.classdata.operative.abilities.saboteurpractice@SW5e Player Book">SABOTEUR PRACTICE</link>
+            <link class="reference_classability" recordname="reference.classdata.operative.abilities.gunslingerpractice@SW5e Player Book">Gunslinger Practice</link>
+            <link class="reference_classability" recordname="reference.classdata.operative.abilities.lethalitypractice@SW5e Player Book">Lethality Practice</link>
+            <link class="reference_classability" recordname="reference.classdata.operative.abilities.saboteurpractice@SW5e Player Book">Saboteur Practice</link>
           </listlink>
         </text>
         <hp>
@@ -15495,10 +15497,10 @@
             <name type="string">Weapons</name>
             <text type="string">Simple Vibroweapons, Simple Blasters, Blaster Pistol, Vibrorapier, Techblade, Hidden Blade</text>
           </weapons>
-          <tools_tools>
-            <name type="string">Tools: Tools</name>
-            <text type="string"/>
-          </tools_tools>
+          <tools>
+            <name type="string">Tools</name>
+            <text type="string">Your choice of demolitions kit, security kit, or slicer's kit</text>
+          </tools>
           <savingthrows>
             <name type="string">Saving Throws</name>
             <text type="string">Dexterity, Intelligence</text>
@@ -15517,14 +15519,6 @@
               <p>At 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit.</p>
             </text>
           </expertise1>
-          <expertise6>
-            <name type="string">Expertise</name>
-            <level type="number">6</level>
-            <text type="formattedtext">
-              <p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and one of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p>
-              <p>At 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit.</p>
-            </text>
-          </expertise6>
           <sneakattack1>
             <name type="string">Sneak Attack</name>
             <level type="number">1</level>
@@ -15554,71 +15548,20 @@
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
+              <listlink>
+                <link class="reference_classability" recordname="reference.classdata.operative.abilities.gunslingerpractice@SW5e Player Book">Gunslinger Practice</link>
+                <link class="reference_classability" recordname="reference.classdata.operative.abilities.lethalitypractice@SW5e Player Book">Lethality Practice</link>
+                <link class="reference_classability" recordname="reference.classdata.operative.abilities.saboteurpractice@SW5e Player Book">Saboteur Practice</link>
+              </listlink>
             </text>
           </operativepractice3>
-          <operativepractice9>
-            <name type="string">Operative Practice</name>
-            <level type="number">9</level>
-            <text type="formattedtext">
-              <p>At 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
-            </text>
-          </operativepractice9>
-          <operativepractice13>
-            <name type="string">Operative Practice</name>
-            <level type="number">13</level>
-            <text type="formattedtext">
-              <p>At 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
-            </text>
-          </operativepractice13>
-          <operativepractice17>
-            <name type="string">Operative Practice</name>
-            <level type="number">17</level>
-            <text type="formattedtext">
-              <p>At 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
-            </text>
-          </operativepractice17>
-          <abilityscoreimprovement4>
+          <abilityscoreimprovement>
             <name type="string">Ability Score Improvement</name>
-            <level type="number">4</level>
+            <level type="number"/>
             <text type="formattedtext">
               <p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
             </text>
-          </abilityscoreimprovement4>
-          <abilityscoreimprovement8>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">8</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement8>
-          <abilityscoreimprovement10>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">10</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement10>
-          <abilityscoreimprovement12>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">12</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement12>
-          <abilityscoreimprovement16>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">16</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement16>
-          <abilityscoreimprovement19>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">19</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement19>
+          </abilityscoreimprovement>
           <uncannydodge5>
             <name type="string">Uncanny Dodge</name>
             <level type="number">5</level>
@@ -15670,242 +15613,339 @@
             </text>
           </strokeofluck20>
           <fightingstyle3>
-            <name type="string">FIGHTING STYLE</name>
+            <name type="string">Fighting Style</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you choose this practice at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Close Quarters Shooting, Sharpshooter, or Two-Weapon Fighting options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>
+              <listlink>
+                <link class="reference_classfeature" recordname="reference.classdata.fighter.features.fightingstyle1@SW5e Player Book">Fighting Styles</link>
+              </listlink>
             </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
+            <specialization type="string">Gunslinger Practice</specialization>
           </fightingstyle3>
+          <versatileshooter3>
+            <name type="string">Versatile Shooter</name>
+            <level type="number">3</level>
+            <text type="formattedtext">
+              <p>Also at 3rd level, you learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot.</p>
+              <p>Some of your trick shots require your target to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows:</p>
+              <p>
+                <b>Trick Shot save DC</b>
+              </p>
+              <p>8 + your proficiency bonus + your Dexterity modifier.</p>
+              <h>Blinding Shot</h>
+              <p>You attempt to blind the target. The target must make a Constitution saving throw or be blinded until the end of your next turn.</p>
+              <h>Brutal Shot</h>
+              <p>You attempt to knock the target prone. The target must make a Strength saving throw or be knocked prone.</p>
+              <h>Hampering Shot</h>
+              <p>You attempt to hobble the enemy's movement. The target must make a Dexterity saving throw. If it fails, its movement speed is reduced by half and it makes Dexterity saving throws with disadvantage until the end of its next turn.</p>
+            </text>
+            <specialization type="string">Gunslinger Practice</specialization>
+          </versatileshooter3>
           <spinningflourish9>
-            <name type="string">SPINNING FLOURISH</name>
+            <name type="string">Spinning Flourish</name>
             <level type="number">9</level>
             <text type="formattedtext">
               <p>Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw. The DC for this saving throw is equal to 8 + your proficiency bonus + your Charisma modifier. If the creature fails, it is charmed or frightened by you (your choice) until the end of your next turn.</p>
             </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
+            <specialization type="string">Gunslinger Practice</specialization>
           </spinningflourish9>
           <ricochetshot13>
-            <name type="string">RICOCHET SHOT</name>
+            <name type="string">Ricochet Shot</name>
             <level type="number">13</level>
             <text type="formattedtext">
               <p>Starting at 13th level you learn how to work all the angles. Once per turn, when you take the Attack action and miss with a ranged weapon attack, you can repeat the attack against a different target within 10 feet of the original target (no action required).</p>
             </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
+            <specialization type="string">Gunslinger Practice</specialization>
           </ricochetshot13>
           <quickdraw17>
-            <name type="string">QUICKDRAW</name>
+            <name type="string">Quickdraw</name>
             <level type="number">17</level>
             <text type="formattedtext">
               <p>At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal damage normally and can apply a single trick shot to each attack made this way.</p>
               <p>Once you've used this feature, you must complete a short or long rest before you can use it again.</p>
-              <h>VERSATILE SHOOTER</h>
-              <p>Also at 3rd level, you learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot.</p>
-              <p>Some of your trick shots require your target to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows:</p>
-              <p>**Trick Shot save DC** = 8 + your proficiency bonus + your Dexterity modifier.</p>
             </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
+            <specialization type="string">Gunslinger Practice</specialization>
           </quickdraw17>
-          <blindingshot3>
-            <name type="string">BLINDING SHOT</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You attempt to blind the target. The target must make a Constitution saving throw or be blinded until the end of your next turn.</p>
-            </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
-          </blindingshot3>
-          <brutalshot3>
-            <name type="string">BRUTAL SHOT</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You attempt to knock the target prone. The target must make a Strength saving throw or be knocked prone.</p>
-            </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
-          </brutalshot3>
-          <hamperingshot3>
-            <name type="string">HAMPERING SHOT</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You attempt to hobble the enemy's movement. The target must make a Dexterity saving throw. If it fails, its movement speed is reduced by half and it makes Dexterity saving throws with disadvantage until the end of its next turn.</p>
-            </text>
-            <specialization type="string">GUNSLINGER PRACTICE</specialization>
-          </hamperingshot3>
           <bonusproficiencies3>
-            <name type="string">BONUS PROFICIENCIES</name>
+            <name type="string">Bonus Proficiencies</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you choose this practice at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.</p>
             </text>
-            <specialization type="string">LETHALITY PRACTICE</specialization>
+            <specialization type="string">Lethality Practice</specialization>
           </bonusproficiencies3>
           <assassinate3>
-            <name type="string">ASSASSINATE</name>
+            <name type="string">Assassinate</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.</p>
             </text>
-            <specialization type="string">LETHALITY PRACTICE</specialization>
+            <specialization type="string">Lethality Practice</specialization>
           </assassinate3>
           <infiltrationexpertise9>
-            <name type="string">INFILTRATION EXPERTISE</name>
+            <name type="string">Infiltration Expertise</name>
             <level type="number">9</level>
             <text type="formattedtext">
               <p>Beginning at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 250 cr to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official looking certification to establish yourself as a member of a noble house from a remote city so you can insinuate yourself into the company of other aristocrats.</p>
               <p>Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.</p>
             </text>
-            <specialization type="string">LETHALITY PRACTICE</specialization>
+            <specialization type="string">Lethality Practice</specialization>
           </infiltrationexpertise9>
           <impostor13>
-            <name type="string">IMPOSTOR</name>
+            <name type="string">Impostor</name>
             <level type="number">13</level>
             <text type="formattedtext">
               <p>Starting at 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior: listening to speech, examining handwriting, and observing mannerisms.</p>
               <p>Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.</p>
             </text>
-            <specialization type="string">LETHALITY PRACTICE</specialization>
+            <specialization type="string">Lethality Practice</specialization>
           </impostor13>
           <deathstrike17>
-            <name type="string">DEATH STRIKE</name>
+            <name type="string">Death Strike</name>
             <level type="number">17</level>
             <text type="formattedtext">
               <p>At 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failed save, double the damage of your attack against the creature.</p>
             </text>
-            <specialization type="string">LETHALITY PRACTICE</specialization>
+            <specialization type="string">Lethality Practice</specialization>
           </deathstrike17>
+          <techcasting3>
+            <name type="string">Techcasting</name>
+            <level type="number">3</level>
+            <text type="formattedtext">
+              <p>When you choose this practice at 3rd level, you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.</p>
+              <h>Saboteur Practice Techcasting</h>
+              <table>
+                <tr decoration="underline">
+                  <td>
+                    <b>Level</b>
+                  </td>
+                  <td>
+                    <b>Tech Powers Known</b>
+                  </td>
+                  <td>
+                    <b>Tech Points</b>
+                  </td>
+                  <td>
+                    <b>Max Power Level</b>
+                  </td>
+                </tr>
+                <tr>
+                  <td>3rd</td>
+                  <td>4</td>
+                  <td>2</td>
+                  <td>1st</td>
+                </tr>
+                <tr>
+                  <td>4th</td>
+                  <td>4</td>
+                  <td>2</td>
+                  <td>1st</td>
+                </tr>
+                <tr>
+                  <td>5th</td>
+                  <td>5</td>
+                  <td>3</td>
+                  <td>1st</td>
+                </tr>
+                <tr>
+                  <td>6th</td>
+                  <td>5</td>
+                  <td>3</td>
+                  <td>1st</td>
+                </tr>
+                <tr>
+                  <td>7th</td>
+                  <td>6</td>
+                  <td>4</td>
+                  <td>2nd</td>
+                </tr>
+                <tr>
+                  <td>8th</td>
+                  <td>6</td>
+                  <td>4</td>
+                  <td>2nd</td>
+                </tr>
+                <tr>
+                  <td>9th</td>
+                  <td>7</td>
+                  <td>5</td>
+                  <td>2nd</td>
+                </tr>
+                <tr>
+                  <td>10th</td>
+                  <td>7</td>
+                  <td>5</td>
+                  <td>2nd</td>
+                </tr>
+                <tr>
+                  <td>11th</td>
+                  <td>8</td>
+                  <td>6</td>
+                  <td>2nd</td>
+                </tr>
+                <tr>
+                  <td>12th</td>
+                  <td>8</td>
+                  <td>6</td>
+                  <td>2nd</td>
+                </tr>
+                <tr>
+                  <td>13th</td>
+                  <td>9</td>
+                  <td>7</td>
+                  <td>3rd</td>
+                </tr>
+                <tr>
+                  <td>14th</td>
+                  <td>9</td>
+                  <td>7</td>
+                  <td>3rd</td>
+                </tr>
+                <tr>
+                  <td>15th</td>
+                  <td>10</td>
+                  <td>8</td>
+                  <td>3rd</td>
+                </tr>
+                <tr>
+                  <td>16th</td>
+                  <td>10</td>
+                  <td>8</td>
+                  <td>3rd</td>
+                </tr>
+                <tr>
+                  <td>17th</td>
+                  <td>11</td>
+                  <td>9</td>
+                  <td>3rd</td>
+                </tr>
+                <tr>
+                  <td>18th</td>
+                  <td>11</td>
+                  <td>9</td>
+                  <td>3rd</td>
+                </tr>
+                <tr>
+                  <td>19th</td>
+                  <td>12</td>
+                  <td>10</td>
+                  <td>4th</td>
+                </tr>
+                <tr>
+                  <td>20th</td>
+                  <td>12</td>
+                  <td>10</td>
+                  <td>4th</td>
+                </tr>
+              </table>
+              <h>Tech Powers Known</h>
+              <p>You learn 4 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Saboteur Practice Techcasting table. You may not learn a tech power of a level higher than your Max Power Level.</p>
+              <h>Tech Points</h>
+              <p>You have a number of tech points equal to half of your operative level (rounded up), and you earn more at higher levels, as shown in the Tech Points column of the Saboteur Practice Techcasting table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.</p>
+              <h>Max Power Level</h>
+              <p>Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Saboteur Practice Techcasting table.</p>
+              <p>You may only cast tech powers at 4th-level once. You regain the ability to do so after a short or long rest.</p>
+              <h>Techcasting Ability</h>
+              <p>Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.</p>
+              <p>
+                <b>Tech save DC</b>
+              </p>
+              <p>8 + your proficiency bonus + your Intelligence modifier</p>
+              <p>
+                <b>Tech attack modifier</b>
+              </p>
+              <p>your proficiency bonus + your Intelligence modifier</p>
+              <h>Techcasting Focus</h>
+              <p>You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.</p>
+            </text>
+            <specialization type="string">Saboteur Practice</specialization>
+          </techcasting3>
           <trackerdroidimprovements3>
-            <name type="string">TRACKER DROID IMPROVEMENTS</name>
+            <name type="string">Tracker Droid Improvements</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, when you cast *tracker droid interface*, you can modify the tracker droid, and you can perform the following additional tasks with it:</p>
-              <p>* You can make the tracker droid invisible.</p>
-              <p>* You can stow one object the tracker droid is carrying in a container worn or carried by another creature</p>
-              <p>* You can retrieve an object in a container worn or carried by another creature.</p>
-              <p>* You can use demolitions kits, security kits, and slicer's kits at range.</p>
+              <list>
+                <li>You can make the tracker droid invisible.</li>
+                <li>You can stow one object the tracker droid is carrying in a container worn or carried by another creature</li>
+                <li>You can retrieve an object in a container worn or carried by another creature.</li>
+                <li>You can use demolitions kits, security kits, and slicer's kits at range.</li>
+              </list>
               <p>You can perform one of these tasks without being noticed by a creature if your tracker droid succeeds on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.</p>
               <p>In addition, you can use the bonus action granted by your Cunning Action to control the tracker droid.</p>
             </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
+            <specialization type="string">Saboteur Practice</specialization>
           </trackerdroidimprovements3>
           <poweredambush9>
-            <name type="string">POWERED AMBUSH</name>
+            <name type="string">Powered Ambush</name>
             <level type="number">9</level>
             <text type="formattedtext">
               <p>Beginning at 9th level, if you are hidden from a creature when you cast a power on it, the creature has disadvantage on any saving throw it makes against the power this turn.</p>
             </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
+            <specialization type="string">Saboteur Practice</specialization>
           </poweredambush9>
           <versatiletracker13>
-            <name type="string">VERSATILE TRACKER</name>
+            <name type="string">Versatile Tracker</name>
             <level type="number">13</level>
             <text type="formattedtext">
               <p>Starting at 13th level, you gain the ability to distract targets with your tracker droid. As a bonus action on your turn, you can designate a creature within 5 feet of the tracker droid. Doing so gives you advantage on attack rolls against that creature until the end of the turn.</p>
             </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
+            <specialization type="string">Saboteur Practice</specialization>
           </versatiletracker13>
           <poweredthief17>
-            <name type="string">POWERED THIEF</name>
+            <name type="string">Powered Thief</name>
             <level type="number">17</level>
             <text type="formattedtext">
               <p>At 17th level, you gain the ability to steal the knowledge of how to cast a power from another techcaster. Immediately after a creature casts a tech power that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its techcasting ability modifier. The DC equals your tech save DC. On a failed save, you negate the power's effect against you, and you steal the knowledge of the power if it is at least 1st level and of a level you can cast. For the next 8 hours, you know the power and can cast it using your tech points. The creature can't cast that power until the 8 hours have passed.</p>
               <p>Once you've used this feature, you can't use it again until you finish a long rest.</p>
-              <h>TECHCASTING</h>
-              <p>When you choose this practice at 3rd level, you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.</p>
             </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
+            <specialization type="string">Saboteur Practice</specialization>
           </poweredthief17>
-          <techpowersknown3>
-            <name type="string">TECH POWERS KNOWN</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You learn 4 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Saboteur Practice Techcasting table. You may not learn a tech power of a level higher than your Max Power Level.</p>
-            </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
-          </techpowersknown3>
-          <techpoints3>
-            <name type="string">TECH POINTS</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You have a number of tech points equal to half of your operative level (rounded up), and you earn more at higher levels, as shown in the Tech Points column of the Saboteur Practice Techcasting table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.</p>
-            </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
-          </techpoints3>
-          <maxpowerlevel3>
-            <name type="string">MAX POWER LEVEL</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Saboteur Practice Techcasting table.</p>
-              <p>You may only cast tech powers at 4th-level once. You regain the ability to do so after a short or long rest.</p>
-            </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
-          </maxpowerlevel3>
-          <techcastingability3>
-            <name type="string">TECHCASTING ABILITY</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.</p>
-              <p>**Tech save DC** = 8 + your proficiency bonus + your Intelligence modifier</p>
-              <p>**Tech attack modifier** = your proficiency bonus + your Intelligence modifier</p>
-            </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
-          </techcastingability3>
-          <techcastingfocus3>
-            <name type="string">TECHCASTING FOCUS</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.</p>
-            </text>
-            <specialization type="string">SABOTEUR PRACTICE</specialization>
-          </techcastingfocus3>
         </features>
         <abilities>
           <gunslingerpractice>
-            <name type="string">GUNSLINGER PRACTICE</name>
+            <name type="string">Gunslinger Practice</name>
             <level type="number">1</level>
             <text type="formattedtext">
               <p>Those operatives who choose the Gunslinger Practice are the masters of the trick shot. The Gunslinger and his blaster are the perfect team, utilizing knowledge of their enemies vulnerabilities to take advantage of every opportunity.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.fightingstyle3@SW5e Player Book">FIGHTING STYLE</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.spinningflourish9@SW5e Player Book">SPINNING FLOURISH</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.ricochetshot13@SW5e Player Book">RICOCHET SHOT</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.quickdraw17@SW5e Player Book">QUICKDRAW</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.blindingshot3@SW5e Player Book">BLINDING SHOT</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.brutalshot3@SW5e Player Book">BRUTAL SHOT</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.hamperingshot3@SW5e Player Book">HAMPERING SHOT</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.fightingstyle3@SW5e Player Book">Fighting Style</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.versatileshooter3@SW5e Player Book">Versatile Shooter</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.spinningflourish9@SW5e Player Book">Spinning Flourish</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.ricochetshot13@SW5e Player Book">Ricochet Shot</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.quickdraw17@SW5e Player Book">Quickdraw</link>
               </listlink>
             </text>
           </gunslingerpractice>
           <lethalitypractice>
-            <name type="string">LETHALITY PRACTICE</name>
+            <name type="string">Lethality Practice</name>
             <level type="number">1</level>
             <text type="formattedtext">
               <p>Those operatives who choose the Lethality Practice use disguises to get close to their enemies, then leverage the toxic power of poisons to debilitate them and capitalize on their weaknesses.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.bonusproficiencies3@SW5e Player Book">BONUS PROFICIENCIES</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.assassinate3@SW5e Player Book">ASSASSINATE</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.infiltrationexpertise9@SW5e Player Book">INFILTRATION EXPERTISE</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.impostor13@SW5e Player Book">IMPOSTOR</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.deathstrike17@SW5e Player Book">DEATH STRIKE</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.bonusproficiencies3@SW5e Player Book">Bonus Proficiencies</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.assassinate3@SW5e Player Book">Assassinate</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.infiltrationexpertise9@SW5e Player Book">Infiltration Expertise</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.impostor13@SW5e Player Book">Impostor</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.deathstrike17@SW5e Player Book">Death Strike</link>
               </listlink>
             </text>
           </lethalitypractice>
           <saboteurpractice>
-            <name type="string">SABOTEUR PRACTICE</name>
+            <name type="string">Saboteur Practice</name>
             <level type="number">1</level>
             <text type="formattedtext">
               <p>Those operatives who choose the Saboteur Practice enhanced their fine-honed skills of stealth and agility with tech, learning tricks to distract and beguile or using explosives and advanced tech to sustain a longer assault.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.trackerdroidimprovements3@SW5e Player Book">TRACKER DROID IMPROVEMENTS</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.poweredambush9@SW5e Player Book">POWERED AMBUSH</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.versatiletracker13@SW5e Player Book">VERSATILE TRACKER</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.poweredthief17@SW5e Player Book">POWERED THIEF</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.techpowersknown3@SW5e Player Book">TECH POWERS KNOWN</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.techpoints3@SW5e Player Book">TECH POINTS</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.maxpowerlevel3@SW5e Player Book">MAX POWER LEVEL</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.techcastingability3@SW5e Player Book">TECHCASTING ABILITY</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.techcastingfocus3@SW5e Player Book">TECHCASTING FOCUS</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.techcasting3@SW5e Player Book">Techcasting</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.trackerdroidimprovements3@SW5e Player Book">Tracker Droid Improvements</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.poweredambush9@SW5e Player Book">Powered Ambush</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.versatiletracker13@SW5e Player Book">Versatile Tracker</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative.features.poweredthief17@SW5e Player Book">Powered Thief</link>
               </listlink>
             </text>
           </saboteurpractice>
@@ -15916,9 +15956,11 @@
             <item type="string">
               <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
               <list>
-                <li>A Weapon</li>
-                <li>(a) A Shield, (b) A Pack</li>
-                <li>(a) a Different Weapon, Not a Shield. (b) A different Pack</li>
+                <li>(a) a vibrorapier, (b) a hidden blade, (c) a simple blaster and a power cell, or (d) a simple vibroweapon</li>
+                <li>(a) a simple blaster and two power cells or (b) a simple vibroweapon and a light shield</li>
+                <li>(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack</li>
+                <li>(a) a demolitions kit, (b) a security kit, or (c) a slicer's kit</li>
+                <li>Combat suit and a vibrodagger</li>
               </list>
               <p>VARIANT: STARTING WEALTH</p>
               <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (4d4 x 100) cr.</p>

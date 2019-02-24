@@ -1337,9 +1337,9 @@ Operatives, whether good, bad, or neutral, are those who focus on a specific pra
 Operatives have a knack for getting out of trouble. They have an instinct for self-preservation that keeps them alive, but it's usually tempered with a need to experience the thrills that their profession has to offer, and many adventurous operatives are also saddled with a sense of honor that sometimes makes them go against their natural inclinations. No matter what their immediate concerns may be, survival is the name of the game.
 #h;Outside the Law
 Operatives don't often start out seeking to defy authority and break the law. Some are thrust into the profession as a means of rebellion. Others wind up on the wrong side of the law due to bad luck, poor decisions, or circumstances beyond their control. The skills they pick up along the way make them great members of any mission team.
-#h;CREATING AN OPERATIVE
+#h;Creating An Operative
 While creating your operative character, consider how you first started on your path. Maybe you were raised on the street and fell into the criminal element as a means of survival. You could be a simple trader who decided to strike against the Sith Empire when it encroached on your business. What would you say is your greatest skill set? What is your core, the truest essence about yourself that keeps you focused? Why would society treat you as a criminal, yet your allies hold you as a loyal companion?
-#h;QUICK BUILD
+#h;Quick Build
 You can make an operative quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Intelligence or Charisma. Second, choose the faction agent background.
 #h;The Operative
 #ts;
@@ -1374,20 +1374,22 @@ Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per operati
 Proficiencies
 Armor: Light Armor
 Weapons: Simple Vibroweapons, Simple Blasters, Blaster Pistol, Vibrorapier, Techblade, Hidden Blade
-Tools: Tools: 
+Tools: Your choice of demolitions kit, security kit, or slicer's kit 
 
 Saving Throws: Dexterity, Intelligence
 Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Piloting, Sleight of Hand, Stealth, and Technology
 Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 #ls;
-#li;A Weapon
-#li;(a) A Shield, (b) A Pack
-#li;(a) a Different Weapon, Not a Shield. (b) A different Pack
+#li;(a) a vibrorapier, (b) a hidden blade, (c) a simple blaster and a power cell, or (d) a simple vibroweapon
+#li;(a) a simple blaster and two power cells or (b) a simple vibroweapon and a light shield
+#li;(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
+#li;(a) a demolitions kit, (b) a security kit, or (c) a slicer's kit
+#li;Combat suit and a vibrodagger
 #le;
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (4d4 x 100) cr.
-#fe;Expertise;1,6
+#fe;Expertise;1
 At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and one of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
 At 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit.
 #fe;Sneak Attack;1
@@ -1399,9 +1401,14 @@ Starting at 2nd level, you have a wary eye, bordering on paranoia. When you roll
 Once you've used this feature, you can't use it again until you finish a long rest.
 #fe;Cunning Action;2
 At 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
-#fe;Operative Practice;3,9,13,17
+#fe;Operative Practice;3
 At 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
-#fe;Ability Score Improvement;4,8,10,12,16,19
+#zls;
+#zl;operative_ability;Gunslinger Practice
+#zl;operative_ability;Lethality Practice
+#zl;operative_ability;Saboteur Practice
+#zle;
+#fe;Ability Score Improvement;
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Uncanny Dodge;5
 Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
@@ -1418,74 +1425,104 @@ Beginning at 18th level, you are so evasive that attackers rarely gain the upper
 #fe;Stroke of Luck;20
 At 20th level, you have an uncanny knack for succeeding when you need to. Your Dexterity and Intelligence scores increase by 2. Your maximum for those scores is now 22. Additionally, if your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 Once you've used this feature, you can't use it again until you finish a short or long rest.
-#abh;OPERATIVE PRACTICES
-#ab;GUNSLINGER PRACTICE
+#abh;Operative Practices
+#ab;Gunslinger Practice
 Those operatives who choose the Gunslinger Practice are the masters of the trick shot. The Gunslinger and his blaster are the perfect team, utilizing knowledge of their enemies vulnerabilities to take advantage of every opportunity.
-#abf;FIGHTING STYLE;3
+#abf;Fighting Style;3
 When you choose this practice at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Close Quarters Shooting, Sharpshooter, or Two-Weapon Fighting options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
-#abf;SPINNING FLOURISH;9
-Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw. The DC for this saving throw is equal to 8 + your proficiency bonus + your Charisma modifier. If the creature fails, it is charmed or frightened by you (your choice) until the end of your next turn. 
-#abf;RICOCHET SHOT;13
-Starting at 13th level you learn how to work all the angles. Once per turn, when you take the Attack action and miss with a ranged weapon attack, you can repeat the attack against a different target within 10 feet of the original target (no action required).
-#abf;QUICKDRAW;17
-At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal damage normally and can apply a single trick shot to each attack made this way. 
-Once you've used this feature, you must complete a short or long rest before you can use it again.
-#h;VERSATILE SHOOTER
+#zls;
+#zl;fighter_feature;fightingstyle1;Fighting Styles
+#zle;
+#abf;Versatile Shooter;3
 Also at 3rd level, you learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot. 
 Some of your trick shots require your target to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows: 
-**Trick Shot save DC** = 8 + your proficiency bonus + your Dexterity modifier.
-#abf;BLINDING SHOT;3
+#bp;Trick Shot save DC
+8 + your proficiency bonus + your Dexterity modifier.
+#h;Blinding Shot
 You attempt to blind the target. The target must make a Constitution saving throw or be blinded until the end of your next turn. 
-#abf;BRUTAL SHOT;3
+#h;Brutal Shot
 You attempt to knock the target prone. The target must make a Strength saving throw or be knocked prone.
-#abf;HAMPERING SHOT;3
+#h;Hampering Shot
 You attempt to hobble the enemy's movement. The target must make a Dexterity saving throw. If it fails, its movement speed is reduced by half and it makes Dexterity saving throws with disadvantage until the end of its next turn.
-#ab;LETHALITY PRACTICE
+#abf;Spinning Flourish;9
+Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw. The DC for this saving throw is equal to 8 + your proficiency bonus + your Charisma modifier. If the creature fails, it is charmed or frightened by you (your choice) until the end of your next turn. 
+#abf;Ricochet Shot;13
+Starting at 13th level you learn how to work all the angles. Once per turn, when you take the Attack action and miss with a ranged weapon attack, you can repeat the attack against a different target within 10 feet of the original target (no action required).
+#abf;Quickdraw;17
+At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal damage normally and can apply a single trick shot to each attack made this way. 
+Once you've used this feature, you must complete a short or long rest before you can use it again.
+#ab;Lethality Practice
 Those operatives who choose the Lethality Practice use disguises to get close to their enemies, then leverage the toxic power of poisons to debilitate them and capitalize on their weaknesses. 
-#abf;BONUS PROFICIENCIES;3
+#abf;Bonus Proficiencies;3
 When you choose this practice at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
-#abf;ASSASSINATE;3
+#abf;Assassinate;3
 Also at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
-#abf;INFILTRATION EXPERTISE;9
+#abf;Infiltration Expertise;9
 Beginning at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 250 cr to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official looking certification to establish yourself as a member of a noble house from a remote city so you can insinuate yourself into the company of other aristocrats.
 Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
-#abf;IMPOSTOR;13
+#abf;Impostor;13
 Starting at 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior: listening to speech, examining handwriting, and observing mannerisms.
 Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
-#abf;DEATH STRIKE;17
+#abf;Death Strike;17
 At 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failed save, double the damage of your attack against the creature.
-#ab;SABOTEUR PRACTICE
+#ab;Saboteur Practice
 Those operatives who choose the Saboteur Practice enhanced their fine-honed skills of stealth and agility with tech, learning tricks to distract and beguile or using explosives and advanced tech to sustain a longer assault.
-#abf;TRACKER DROID IMPROVEMENTS;3
-Also at 3rd level, when you cast *tracker droid interface*, you can modify the tracker droid, and you can perform the following additional tasks with it:
- * You can make the tracker droid invisible.
- * You can stow one object the tracker droid is carrying in a container worn or carried by another creature
- * You can retrieve an object in a container worn or carried by another creature.
- * You can use demolitions kits, security kits, and slicer's kits at range.
-You can perform one of these tasks without being noticed by a creature if your tracker droid succeeds on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
-In addition, you can use the bonus action granted by your Cunning Action to control the tracker droid.
-#abf;POWERED AMBUSH;9
-Beginning at 9th level, if you are hidden from a creature when you cast a power on it, the creature has disadvantage on any saving throw it makes against the power this turn.
-#abf;VERSATILE TRACKER;13
-Starting at 13th level, you gain the ability to distract targets with your tracker droid. As a bonus action on your turn, you can designate a creature within 5 feet of the tracker droid. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
-#abf;POWERED THIEF;17
-At 17th level, you gain the ability to steal the knowledge of how to cast a power from another techcaster. Immediately after a creature casts a tech power that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its techcasting ability modifier. The DC equals your tech save DC. On a failed save, you negate the power's effect against you, and you steal the knowledge of the power if it is at least 1st level and of a level you can cast. For the next 8 hours, you know the power and can cast it using your tech points. The creature can't cast that power until the 8 hours have passed.
-Once you've used this feature, you can't use it again until you finish a long rest.
-#h;TECHCASTING
+#abf;Techcasting;3
 When you choose this practice at 3rd level, you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
-#abf;TECH POWERS KNOWN;3
+#h;Saboteur Practice Techcasting
+#ts;
+#th;Level;Tech Powers Known;Tech Points;Max Power Level;
+#tr;3rd;4;2;1st;
+#tr;4th;4;2;1st;
+#tr;5th;5;3;1st;
+#tr;6th;5;3;1st;
+#tr;7th;6;4;2nd;
+#tr;8th;6;4;2nd;
+#tr;9th;7;5;2nd;
+#tr;10th;7;5;2nd;
+#tr;11th;8;6;2nd;
+#tr;12th;8;6;2nd;
+#tr;13th;9;7;3rd;
+#tr;14th;9;7;3rd;
+#tr;15th;10;8;3rd;
+#tr;16th;10;8;3rd;
+#tr;17th;11;9;3rd;
+#tr;18th;11;9;3rd;
+#tr;19th;12;10;4th;
+#tr;20th;12;10;4th;
+#te;
+#h;Tech Powers Known
 You learn 4 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Saboteur Practice Techcasting table. You may not learn a tech power of a level higher than your Max Power Level.
-#abf;TECH POINTS;3
+#h;Tech Points
 You have a number of tech points equal to half of your operative level (rounded up), and you earn more at higher levels, as shown in the Tech Points column of the Saboteur Practice Techcasting table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
-#abf;MAX POWER LEVEL;3
+#h;Max Power Level
 Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Saboteur Practice Techcasting table.
 You may only cast tech powers at 4th-level once. You regain the ability to do so after a short or long rest.
-#abf;TECHCASTING ABILITY;3
+#h;Techcasting Ability
 Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
-**Tech save DC** = 8 + your proficiency bonus + your Intelligence modifier
-**Tech attack modifier** = your proficiency bonus + your Intelligence modifier
-#abf;TECHCASTING FOCUS;3
+#bp;Tech save DC
+8 + your proficiency bonus + your Intelligence modifier
+#bp;Tech attack modifier
+your proficiency bonus + your Intelligence modifier
+#h;Techcasting Focus
 You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
+#abf;Tracker Droid Improvements;3
+Also at 3rd level, when you cast *tracker droid interface*, you can modify the tracker droid, and you can perform the following additional tasks with it:
+#ls;
+#li;You can make the tracker droid invisible.
+#li;You can stow one object the tracker droid is carrying in a container worn or carried by another creature
+#li;You can retrieve an object in a container worn or carried by another creature.
+#li;You can use demolitions kits, security kits, and slicer's kits at range.
+#le;
+You can perform one of these tasks without being noticed by a creature if your tracker droid succeeds on a Dexterity (Sleight of Hand) check contested by the creature's Wisdom (Perception) check.
+In addition, you can use the bonus action granted by your Cunning Action to control the tracker droid.
+#abf;Powered Ambush;9
+Beginning at 9th level, if you are hidden from a creature when you cast a power on it, the creature has disadvantage on any saving throw it makes against the power this turn.
+#abf;Versatile Tracker;13
+Starting at 13th level, you gain the ability to distract targets with your tracker droid. As a bonus action on your turn, you can designate a creature within 5 feet of the tracker droid. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
+#abf;Powered Thief;17
+At 17th level, you gain the ability to steal the knowledge of how to cast a power from another techcaster. Immediately after a creature casts a tech power that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its techcasting ability modifier. The DC equals your tech save DC. On a failed save, you negate the power's effect against you, and you steal the knowledge of the power if it is at least 1st level and of a level you can cast. For the next 8 hours, you know the power and can cast it using your tech points. The creature can't cast that power until the 8 hours have passed.
+Once you've used this feature, you can't use it again until you finish a long rest.
 ##;Scholar
 #h;Scholar
 An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.
