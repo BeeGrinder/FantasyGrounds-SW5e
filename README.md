@@ -15,11 +15,11 @@ __Separating Modules__: For some time during development, the equiment/items and
 
  |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|Player Book | Testing | Beta testing. Please, report any issues. |
-|Spell Book | Testing | Beta testing. Please, report any issues. |
-|Equipment Book | Testing | Working.  Releasing soon. |
-|NPC Book | Released | Beta testing. Please, report any issues. |
-|Rule-set Extension | Released | Beta testing. Please, report any issues. |
+|Player Book | Testing | Released. Please, report any issues. |
+|Spell Book | Testing | Released. Please, report any issues. |
+|Equipment Book | Testing | Released. Please, report any issues. |
+|NPC Book | Released | Released. Please, report any issues. |
+|Rule-set Extension | Released | Released. Please, report any issues. |
 
 ---
 
@@ -63,10 +63,7 @@ The *__ext-src__* dirctory is for the extension sources.
    * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
    * If the data is readily available and easily parsed, some expanded content *__may__* be included.
    * Powers will still be called spells in the FG interface.
-   * Enhanced Items will still be called Magic Items in the FG interface.
-   * Most of the *__flavor__* of the SW5e handbook will not be added to the Fantasy Grounds modules.  This is to ease the conversion process.  The PDFs are free for anyone to get.  If you see something that would be beneficial to gameplay that should be in the module reference manual, please open an issue and let us know.
-   
-   
+
 ---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
 ![Creative Commons Logo](https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png)
