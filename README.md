@@ -58,6 +58,8 @@ The *__equipment__* directory contains all equiment shown in the Items selector 
 
 The *__ext-src__* dirctory is for the extension sources.
 
+I have released *__my work__* on this module under the Creative Commons Attribution NonComercial license.  Basically this means you cannot copy *__my work__* in this module and *__charge money__* for your module work that includes my module code.  It does not prohibit the use of my work on a streaming service with ad revenue or subscriptions, or even paid GM games using this work.
+
 #### Release Goals
 * Initial Release (V1.0)
    * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
