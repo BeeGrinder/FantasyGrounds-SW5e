@@ -181,5 +181,11 @@ function onInit()
 	GameSystem.currencies = { Interface.getString("currency_value_cr") };
 	GameSystem.currencyDefault = Interface.getString("currency_value_cr");
 	LibraryData5E.aListViews.item.weapon.aGroupValueOrder = { "Simple Weapons", "Simple Melee Weapons", "Simple Lightsaber Weapons", "Simple Ranged Weapons", "Martial Weapons", "Martial Melee Weapons","Martial Lightsaber Weapons", "Martial Ranged Weapons" };
-
+	-- background choices
+	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom1", "desktopdecal_sw5e1", true);
+	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom2", "desktopdecal_sw5e2", true);
+	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom3", "desktopdecal_sw5e3", true);
+	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom4", "desktopdecal_sw5e4", true);
+	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom5", "desktopdecal_sw5e5", true);
+	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom6", "desktopdecal_sw5e6", true);
 end

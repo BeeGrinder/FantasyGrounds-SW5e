@@ -21,7 +21,20 @@
 		<!-- Strings -->
 		<includefile source="strings/strings_SW5e.xml" />
 		<includefile source="fonts/fonts.xml"/>
-		<script name="SW5eMain" file="scripts/sw5e-main.lua" /> 
+		<script name="SW5eMain" file="scripts/sw5e-main.lua" />
+		<!-- Custom theme background -->
+		<string name="option_val_sw5e_custom1">SW5e-1</string>
+		<string name="option_val_sw5e_custom2">SW5e-2</string>
+		<string name="option_val_sw5e_custom3">SW5e-3</string>
+		<string name="option_val_sw5e_custom4">SW5e-4</string>
+		<string name="option_val_sw5e_custom5">SW5e-5</string>
+		<string name="option_val_sw5e_custom6">SW5e-6</string>
+		<icon name="desktopdecal_sw5e1" file="graphics/decals/sw5e_decal1.png" />
+		<icon name="desktopdecal_sw5e2" file="graphics/decals/sw5e_decal2.png" />
+		<icon name="desktopdecal_sw5e3" file="graphics/decals/sw5e_decal3.png" />
+		<icon name="desktopdecal_sw5e4" file="graphics/decals/sw5e_decal4.png" />
+		<icon name="desktopdecal_sw5e5" file="graphics/decals/sw5e_decal5.png" />
+		<icon name="desktopdecal_sw5e6" file="graphics/decals/sw5e_decal6.png" />
 	</base>
 
 </root>
