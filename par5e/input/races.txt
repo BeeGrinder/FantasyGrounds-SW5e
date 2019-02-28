@@ -453,4 +453,424 @@ Wookiee Traits
 #!;Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 #!;Treeclimber. You have a climbing speed of 30 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.
 #!;Languages. You can speak, read, and write Shyriiwook. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
+##;Gamorrean
+#h;BIOLOGY AND APPEARANCE
+Although a typical Gamorrean is squat, green, and heavily built not all shared these characteristics. Most Gamorreans have a dark greenish coloration over a large portion of their bodies; however skin coloration does vary, particularly among females, with light skinned and two-toned pigmentation not uncommon. Black, brown, pinkish yellow, and even a rare white pigmentation are possible. Males tended to have less skin variation and had a greater tendency towards dark green skin perhaps because of their higher exposure to the radiation of the Gamorr Star. Eye coloration varied evenly between gold-yellow, blue, black and brown. The Gamorreans generally put no importance on skin or eye coloration although there were some superstitions linked to certain markings.
+#h;Visual Characteristics
+#bs;Skin Color: Black, brown, green, pink, or yellow
+#bs;Hair Color: None
+#bs;Eye Color:Blue, black, brown, or gold
+#bs;Distinctions: Porcine humanoids with tusks and horns
+#bs;Height: 4'10"+2d8"
+#bs;Weight: 150 lb.x(2d6) lb.
+#bs;Homeworld: Gamorr
+#bs;Language: Gamorrese
+#h;SOCIETY AND CULTURE
+Gamorreans are organized into clans ruled by a male warlord and his wife, who was the most powerful of the clan matrons. While the warlord and his boars are solely concerned with preparing and participating in battle with rival clans, the matrons of the clan performed all the productive work including farming, hunting, manufacturing, and running businesses. Since the amount of available arable land on Gamorr is scarce, clans often lay claim to the same piece of land, and they spend their time fighting over possession. 
+#h;Names
+Gamorrean names are very gutteral and rough. Male names are typically one syllable while females are two. Surnames are based on clan affiliation rather than family. 
+#bs;Female Names: Dabrisz, Mernoos, Ogreb, Tagorq
+#bs;Male Names: Ark, Blarrp, Blubrak, Cuab, Shos
+#bs;Surnames: Doofnarq, Griks, Lurc, Poogmokk
+Gamorrean Traits
+#!;Ability Score Increase. Your Strength score increases by 2, and your Constitution score increases by 1.
+#!;Age. Gamorreans reach adulthood in their early teens and live no more than 70 years.
+#!;Alignment. Gamorrean culture causes them to tend toward chaos, though there are exceptions.
+#!;Size. Gamorreans typically stand between 5 and 6 feet tall and weigh up to 200 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Gamorrean Toughness. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. Additionally, you have advantage on Constitution saving throws.
+#!;Gamorrean Weaponry. You have proficiency with the vibroaxe, vibroclub, and vibrosword.
+#!;Savage Attacks. When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+#!;Languages. You can speak, read, and write Gamorrese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Gamorrese is characterized by its grunts and squeals, and its writing is a crude, pictographic style.
+##;Weequay
+#h;BIOLOGY AND APPEARANCE
+Weequays are humanoids with thick, leathery skin that ranges in color from tan to dark brown. Their faces are lipless, with a frill along each of their jowls.
+#h;Visual Characteristics
+#bs;Skin Color: Brown, gray, red, or yellow
+#bs;Hair Color: Black or blond
+#bs;Eye Color:Black, gold, or gray
+#bs;Distinctions: Tough, leathery skin that provided resistance to blasterfire
+#bs;Height: 5'5"+2d8"
+#bs;Weight: 120 lb.x(2d4) lb.
+#bs;Homeworld: Sriluur
+#bs;Language: Sriluurian
+#h;SOCIETY AND CULTURE
+Weequays have the ability to communicate with members of their own clan through smell by exuding complex pheromones. This pheromonal language can not be understood by any other species, or even by Weequays of another clan. Only Jedi senses can even tell that two Weequay are communicating. Since each Weequay's pheromones are unique, Weequay have no need for a name within their clan. As a result, speech is only a secondary form of communication for Weequay, and they seldom speak a whole sentence, resulting in Humans mistakenly believing the species to be unintelligent. Male Weequay often tie their hair into a long braid each year spent away from their homeworld as a tribute to their home. When they returned, they shaved their braids. Weequays serving the Hutts were often very close to their homeworld, and would only have one or two braids. Female Weequay were usually bald, and did not follow this tradition.
+#h;Names
+Only Weequay who have to live among other clans, or among non-Weequay, take a personal name. Even then, some are simply referred to as Weequay. In Weequay culture, individual identity is much less important than the clan. As long as the clan survives, a single Weequay is expendable. This results in a sometimes brutal culture.
+#bs;Female Names: Gila, Qommi, Palsa, Sex, Xelror
+#bs;Male Names: Chublu, Fah, Kreakk, Og-Rollo, Yurrenn
+#bs;Surnames: Britreg, Dlur, Klanz, Maub, Semu
+Weequay Traits
+#!;Ability Score Increase. Your Charisma score increases by 2, and your Constitution score increases by 1.
+#!;Age. Weequay reach adulthood in their late teens and live less than a century.
+#!;Alignment. Weequay ruthlessness and greed cause them to tend toward chaotic dark side, though there are exceptions.
+#!;Size. Weequay typically stand about 6 feet tall and weigh 150 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Charming. You have proficiency in Deception or Persuasion.
+#!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Keen Smell. You have advantage on Wisdom (Perception) checks that rely on smell.
+#!;Tanned. You have tough, leathery skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. Additionally, your thick hide is naturally adapted to hot climates, as described in chapter 5 of the Dungeon Master's Guide.
+#!;Languages. You can speak, read, and write Galactic Basic and Sriluurian. You can communicate with other Weequay without speaking through use of pheromones. Force attuned individuals can detect the communication but can't understand it.
+##;Ithorian
+#h;BIOLOGY AND APPEARANCE
+Ithorians have two mouths and four throats, allowing them to speak in stereo. Female Ithorians have two humps on the back of their head, while males have only one. They have glossy, usually brown flesh. Their reflexes and coordination are somewhat slower than that of average humanoids. In addition to allowing them to speak their unique stereophonic language, the Ithorians' four throats also have the ability to violently expel air, resulting in a deafening and potentially concussive scream. Despite this fact, most Ithorians go their entire lives without ever resorting to violence, and so the ability remained relatively ambiguous.
+#h;Visual Characteristics
+#bs;Skin Color: Brown, dark red or green
+#bs;Hair Color: Brown, gray, or white
+#bs;Eye Color:Black or blue
+#bs;Distinctions: Curved neck, two mouths, aural flaps, locomotion tubes, throat sack
+#bs;Height: 5'9"+2d12"
+#bs;Weight: 135 lb.x(2d4) lb.
+#bs;Homeworld: Ithor
+#bs;Language: Ithorese
+#h;SOCIETY AND CULTURE
+Ithorians worship the "Mother Jungle," a spiritual entity embodying the lush, tropical ecology of their world, Ithor. They are generally devoted environmentalists, staunch herbivores, and complete pacifists, devoting much time to contemplating their ecology, studying plants and their uses and the overall respecting of all living things. Most Ithorians never set foot on their own planet, instead living in floating cities above their world called herdships. Only three of their continents have been explored and harvested, the other two never having been touched by Ithorian hands. They demonstrate extreme belief in the protection and sustaining of their environment as dictated by their "Law of Life."
+#h;Names
+Ithorian names are quite varied in length but most names are soft and melodic. They are often difficult to prounounce by other species, so many Ithorians adopt nicknames.
+#bs;Female Names: Binshe, Dhu'sha, Mul, Slosh, Vlo
+#bs;Male Names: Del, Gizorthej, Pexxocl, Steorthibs
+#bs;Surnames: Afleehl, Crukid, Tondand, Wamunn
+Ithorian Traits
+#!;Ability Score Increase. Your Charisma score increases by 2, and your Wisdom score increases by 1.
+#!;Age. Ithorians reach adulthood in their late teens and live an average of 85 years.
+#!;Alignment. Ithorians tend toward the light side, though there are exceptions.
+#!;Size. Shorter Ithorians stand around 6 feet while taller reach over 7 and a half. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Hold Breath. Ithorians have a great lung capacity and can hold their breath for up to 15 minutes at a time.
+#!;Sonic Resistance. Ithorians have resistance to sonic damage.
+#!;Sonic Scream. You can use your action to violently expell air in a 15-foot cone. When you do so, each creature in the area of the exhalation must make a Wisdom saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 sonic damage on a failed save, and half as much damage on a successful one. The damage increases to 4d6 at 5th level, 6d6 at 11th level, and 8d6 at 17th level. This ability has no effect on constructs. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain one use of this feature when you finish a long rest.
+#!;Languages. You can speak, read, and Ithorese . You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
+##;Talz
+#h;BIOLOGY AND APPEARANCE
+Talz are large, bulky, bipedal creatures, that are covered head to toe in thick white fur, which provides exceptional insulation against their frozen world. Talz have four eyes, which are also adaptations to their native environment. The larger set of eyes are shut during the day, when sunlight reflects off the snow with dazzling brightness -able to blind sensitive optical organs- leaving the smaller set to navigate with. Alternatively, during the deep darkness of their homeworld's moonless night, the larger pair are utilized to provide the Talz with adequate vision. Talz use a small proboscis to eat and communicate, creating high-pitched chirps and buzzes.
+#h;Visual Characteristics
+#bs;Skin Color: Black or grey
+#bs;Hair Color: Grey, pink, or white
+#bs;Eye Color:Black, dark blue, or dark red
+#bs;Distinctions: Covered in fur, four eyes, unable to speak Galactic Basic
+#bs;Height: 6'5"+2d10"
+#bs;Weight: 180 lb.x(2d6) lb.
+#bs;Homeworld: Orto Plutonia
+#bs;Language: Talzzi
+#h;SOCIETY AND CULTURE
+Talz are a hunter-gatherer, clan-based society. They work in unison, and treat the entire clan as one single familial entity. Resources on Ordo Plutonia are often scarce, which leads to warring among Talz tribes. However, the clans are adept at forming a unified front when they face a common enemy. Talz are large, brutal creatures and are often used as guards and enforcers. Sometimes they are taken as slaves, though it's rare; they are rebellious against authority and don't take well to slavery. There are rumors that Talz are captured for scientific experimentation.
+#h;Names
+Talz names are fairly gutteral and are characterized by their harsh nature. Female names are typically longer than male names. Surnames are clan-based, though it's rare that a Talz shares them with non-Talz.
+#bs;Female Names: Ilnuno, Ontuga, Utrukk, Zimtucc
+#bs;Male Names: Drak, Fedirk, Imom, Ke, Twift
+#bs;Surnames: Dic, Noetoc, Suptat, Wume, Zapak
+Talz Traits
+#!;Ability Score Increase. Your Strength score increases by 2, and your Wisdom score increases by 1.
+#!;Age. Talz reach adulthood at and rarely live longer than 50 years.
+#!;Alignment. Talz' peaceful and slow-to-anger nature cause them to tend toward the light side, though there are exceptions.
+#!;Size. Talz stand between 6 and 8 feet tall and weigh around 250 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Hide. You have a thick hide. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. Additionally, your thick hide is naturally adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide.
+#!;Long-Limbed. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+#!;Languages. You can speak, read, and write Talzzi. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Talzzi is characterized by its high-pitched chirps and buzzes.
+##;Kaminoan
+#h;BIOLOGY AND APPEARANCE
+Kaminoans’ evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of Kaminoans are also able to see color in the ultraviolet spectrum. While female Kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.
+#h;Visual Characteristics
+#bs;Skin Color: White
+#bs;Hair Color: None
+#bs;Eye Color:Grey, yellow, blue, green
+#bs;Distinctions: Very tall, long limbs, long necks
+#bs;Height: 6'4"+2d10"
+#bs;Weight: 150 lb.x(2d4) lb.
+#bs;Homeworld: Kamino
+#bs;Language: Kaminoan,  Galactic Basic
+#h;SOCIETY AND CULTURE
+The Kaminoans see themselves as a superior form of life, but nevertheless remained polite to outsiders. To them any species seeking self-improvement is worthy of respect, but those who do not are obviously inferior; self-improvement has a central role in Kaminoan society. Through the development and mastery of selective breeding, genetics, and cloning, the Kaminoans were able to overcome a cataclysm that pushed them to the brink of extinction.  Kaminoans live in a caste based society, determined by the color of the Kaminoan's eyes. Gray eyed individuals handle administration and are considered of the highest-level caste; middle castes had yellow eyes and handle the skilled work; and lower castes had blue eyes and perform manual labor and other menial tasks. Although it is extremely rare, Kaminoans are sometimes born with green eyes. Those are viewed as genetically inferior and as a threat to the Kaminoans' well ordered society and as such are exterminated shortly after birth. 
+#h;Names
+Kaminoan names typically are composed by around two syllables and a brief surname.
+#bs;Female Names: Taun, Ko, Nala, Kina
+#bs;Male Names: Lama, Ni, Orun, Koa
+#bs;Surnames: Ha, Su, We, Sai, Wa
+Kaminoan Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Wisdom score increases by 1.
+#!;Age. Kaminoans reach adulthood at 11 years old and live around 100 years.
+#!;Alignment. Kaminoans highly organized society lead individuals to tend toward a lawful alignment, though there are exceptions.
+#!;Size. Kaminoans typically stand 7 to 8 feet tall and weigh around 150 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Master Geneticists. You gain proficiency in the Medicine skill.
+#!;Ultraviolet Sight. Whenever you make a Wisdom (Perception) check related to sight, you are considered proficient in the Perception skill and add double your proficiency bonus to the check, instead of your normal bonus.
+#!;Long-Limbed. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+#!;Tech Dabbler. You know the *temporary boost* at-will tech power. When you reach 3rd level, you can cast the *kolto pack* tech power once per day. When you reach 5th level, you can also cast the *toxin purge* tech power once per day. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.
+#!;Languages. You can speak, read, and write Galactic Basic and Kaminoan. Kaminoan has a sound like flowing water to it.
+##;Geonosian
+#h;BIOLOGY AND APPEARANCE
+Geonosians have a hard chitin exoskeleton that provided protection from physical impacts and bouts of radiation that occasionally shower their world. Geonosians are strong despite their thin builds, and are capable of constructing massive hives and factories in concert. The head of a Geonosian is elongated and large with their skulls ridged on the top and by the side where they have bulbous, thick-lidded eyes. Both are physically strong and covered with bony ridges which protected their arms, legs, and vital organs. 
+#h;Visual Characteristics
+#bs;Skin Color: Gray, green, or orange
+#bs;Hair Color: None
+#bs;Eye Color:Black
+#bs;Distinctions: Hive-based, winged semi-insectoids
+#bs;Height: 5'5"+2d4"
+#bs;Weight: 60 lb.x(2d4) lb.
+#bs;Homeworld: Geonosis
+#bs;Language: Geonosian
+#h;SOCIETY AND CULTURE
+Geonosian societ is caste-based with little upward mobility, though some of the lower caste do develop ambition. Workers are conditioned to loathe even the concept of separation from their hive and the system of control. A low-ranking worker's normal life is one of endless toil and labor to satisfy the aristocracy, who are known to make spectacular demands. The warrior caste tend to be highly competitive and are eager to prove themselves. They are born with an abnormal level of intelligence, and one of their only hopes of escape from their rigid duty is entering voluntarily into gladiatorial combat. Should they survive, they are granted freedom. Ultimately, their society exist to benefit those few members that reside in the upper caste. Members of the aristocratic classes are known to be ambitious, domineering, and manipulative. They constantly move towards improving their standing and holdings while sumultaneously working to ruin their rivals.
+#h;Names
+Geonosian names are usually harsh sounding. Lower castes don't get surnames. Upper caste surnames are familial.
+#bs;Female Names: Datte, Kida, Miri, Nare, Tenessi
+#bs;Male Names: Buck, Goshey, Nik, Sozz, Techtu
+#bs;Surnames: Chak, Hor, Lur, Marpes, Zol
+Geonosian Traits
+#!;Ability Score Increase. You Dexterity score increases by 2, and your Constitution or Intelligence score increases by 1.
+#!;Age. Geonosians reach adulthood at 10 and live less than a century.
+#!;Alignment. Geonosians' greedy and self-serving nature causes them to tend toward the dark side, though there are exceptions.
+#!;Size. Geonosians typically stand from 5 to 6 feet tall and rarely weigh more than 80 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Crafter. Geonosian culture promotes artisanry. You have proficiency in one tool of your choice.
+#!;Exoskeleton. You have a thick exoskeleton. When you aren't wearing armor, your AC is 12 + your Dexterity modifier.
+#!;Flight. You have a flying speed of 30 feet. To use this speed, you can't be wearing medium or heavy armor.
+#!;Geonosian Weaponry. You have proficiency in simple blasters
+#!;Languages. You can speak, read, and write Galactic Basic and Geonosian. The Geonosian language conists of click consonants through use of a Geonosians' dual mandibles. This makes it difficult for other species to learn to speak it.
+##;Aqualish
+#h;BIOLOGY AND APPEARANCE
+An amphibious species native to the planet Ando, the Aqualish people have two facial tusks which curve down over their mouths; a trait which added to their appearance as arachnids. These facial tusks are highly sensitive to heat and cold and are used for cracking open the hard shells of shellfish or burrowing through the swampy loam of their homeworld. Having finned hands and two bulbous black eyes, Aqualish are unable to manipulate most machinery or equipment developed by the galaxy's many species which designed these tools for beings with digits. As a result, Aqualish tend to remain on their homeworld. Aqualish are well known for their hair-trigger tempers that flare without reason. While Force-sensitive Aqualish are rare, members of the species have trained as both Sith and Jedi, though they typically gravitate toward the former.
+#h;Visual Characteristics
+#bs;Skin Color: Black, blue, green, or red
+#bs;Hair Color: Black, brown, or gray
+#bs;Eye Color:Black, blue, red, or brown
+#bs;Distinctions: Tusks, belligerent personalities, brawny stature
+#bs;Height: 5'5"+2d10"
+#bs;Weight: 140 lb.x(2d4) lb.
+#bs;Homeworld: Ando
+#bs;Language: Aqualish
+#h;SOCIETY AND CULTURE
+The Aqualish hate the image they have in the galaxy as thugs, regardless of its veracity, and blame it on any- and everyone else. Because of this, the species are considered pariahs on Ando, which has a lower population of Aqualish than the galaxy itself. All Aqualish speak mutually intelligible dialects of the same language. Quarrelsome and thug-like, the Aqualish culture revolved around aggression and toughness, with diplomacy being one of their weakesta attributes.
+#h;Names
+Aqualish names are intended to sound strong. Surnames are not familial, but are chosen by each individual Aqualish.
+#bs;Female Names: Cestirki, Duni, Iftu, Sifre, Umi
+#bs;Male Names: Bung, Gu, Opege, Soni, Tubop
+#bs;Surnames: Dogomurra, Julo, Kronem, Nidoal, Utix
+Aqualish Traits
+#!;Ability Score Increase. Your Strength score increases by 2, and your Charisma score increases by 1.
+#!;Age. Aqualish reach adulthood in their late teens and live less than a century.
+#!;Alignment. Aqualish' aggressive personalities cause them to tend toward the dark side, though there are exceptions.
+#!;Size. Aqualish stand between 6 and 7 feet tall and weigh around 190 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Arms Dealers. Whenever you make an Charisma (Persuasion) check related to buying or selling weapons, you are considered proficient in the Persuasion skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+#!;Aggressive. As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
+#!;Darkvision. You have a keen eyesight, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Menacing. You gain proficiency in the Intimidation skill.
+#!;Swim. You have a swimming speed of 30 feet.
+#!;Languages. You can speak, read, and write Galactic Basic and Aqualish. Aqualish is a harsh, guttural language. It's rare that other species bother to learn it unless they regularly interact with Aqualish.
+##;Mirialan
+#h;BIOLOGY AND APPEARANCE
+Mirialans are a near-human species native to the planet Mirial. They have green to yellow skin and tattoos on their faces. The Mirialans are known for their spirituality and strong connection with the world around them. Mirialans are very flexible and agile, making them fast and formidable foes.
+#h;Visual Characteristics
+#bs;Skin Color: Green, olive, or yellow
+#bs;Hair Color: Black, blonde, brown, or red
+#bs;Eye Color:Blue, green, violet, grey, red, yellow, or orange
+#bs;Distinctions: Facial tattoos, flexible and agile
+#bs;Height: 4'6"+2d10"
+#bs;Weight: 100 lb.x(2d4) lb.
+#bs;Homeworld: Mirial
+#bs;Language: Mirialan
+#h;SOCIETY AND CULTURE
+The Mirialan people are deeply religious and practice a primitive understanding of the Force. They believe each individual's actions contribute to their destiny, building upon past successes and failures to drive them towards their fates. Within their belief system was the view that individual actions ripple through the Force, also affecting the destiny of the species as a whole. A Mirialan often places a unique, geometrically repeated tattoo on their face and hands to signify that they have completed a certain test or task, or achieved sufficient aptitude for a certain skill. The number of tattoos often acts as a good indicator of how mature and/or skilled a Mirialan was. Because the more markings brings about a form of status, Mirialan society is stratified and allows the heavily marked citizens to access greater opportunities. Despite its importance, most Mirialans do not know the entirety of the tattoo lexicon due to its complexity. The interaction between placement and positioning of the shapes is incredibly subtle and changes their meaning greatly.
+#h;Names
+Mirialan names are typically concise and rarely more than two syllables. Surnames are familial.
+#bs;Female Names: Buf, Ches, Kebe, Ovof, Shaqa
+#bs;Male Names: Boca, Floha, Jemy, Puv, Choqa
+#bs;Surnames: Acave, Ishakee, Kefvi, Uflozi, Zoria
+Mirialan Traits
+#!;Ability Score Increase. Your Dexterity score increases by 2, and your Intelligence score increases by 1.
+#!;Age. Mirialan reach adulthood in their late teens and live less than a century.
+#!;Alignment. Mirialans spiritual tendencies cause them to tend towards the light side, though there are exceptions.
+#!;Size. Mirialan typically stand 5 to 6 feet tall and weight 150 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 35 feet.
+#!;Spiritual. You have proficiency in Lore. Additionally, you add double your proficiency bonus to Intelligence (Lore) checks made to learn or recall something about a culture's religion.
+#!;Surprise Attack. If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
+#!;Unarmed Combatant. Your unarmed strikes deal 1d4 kinetic damage. You can use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+#!;Languages. You can speak, read, and write Galactic Basic and Mirialan.
+##;Ugnaught
+#h;BIOLOGY AND APPEARANCE
+Ugnaughts are diminutive, porcine humanoids who have pink skin, upturned noses, white hair, and thick layers of jowls. Some have tusks that they use in blood duels. They are strong and resilient, and their life-spans reached up to 200 standard years. They notably eat genteslugs.
+#h;Visual Characteristics
+#bs;Skin Color: Varying shades of pink
+#bs;Hair Color: White
+#bs;Eye Color:Black and red
+#bs;Distinctions: Diminutive stature, porcine features, technological affinity
+#bs;Height: 3'1"+2d12"
+#bs;Weight: 40 lb.x1 lb.
+#bs;Homeworld: Gentes
+#bs;Language: Ugnaught
+#h;SOCIETY AND CULTURE
+Ugnaughts are ruled by councils comprised of elected officers. Ugnaughts live their lives in accordance to their "blood profession", with Ugnaught parents teaching their children their trade. Infant Ugnaughts are known as Ugletts. If the number of new Ugnaughts in a given profession exceeds the need, a blood duel is called. When the Ugnaughts reached their twentieth year of age, these fights are held to the death, with the victor winning the right to inherit their blood profession. Despite this outdated and violent custom, the Ugnaughts are generally a peaceful people with a rich culture. When greeting an Ugnaught, it is advised to bow silently, then wait for a guttural purring as a positive response. Usage of the common galactic greeting "yaa-yaah" is considered a personal insult to Ugnaughts. If this occurrs, it was advisable to duck and cover, as various mechanical implements will be thrown one's way.  Ugnaughts are often enslaved as they are fairly meek.
+#h;Names
+Ugnaught names are generally concise. Female names sound more cheerful. Surnames are determined by blood profession.
+#bs;Female Names: Admeva, Olnito, Ruskor, Vurlilli
+#bs;Male Names: Banax, Dral, Durn, Togre, Yirkux
+#bs;Surnames: Col, Gnatro, Mikk, Roc, Sag
+Ugnaught Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Strength score increases by 1.
+#!;Age. Ugnaughts reach adulthood at 20 and can live to reach 200.
+#!;Alignment. Ugnaughts tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Ugnaughts rarely stand higher than 4 feet and weigh about 50 lbs. Regardless of your position in that range, your size is Small.
+#!;Speed. Your base walking speed is 25.
+#!;Bite. Your tusks are a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal kinetic damage equal to 1d6 + your Strength modifier.
+#!;Crafters. You have proficiency in one tool of your choice.
+#!;Darkvision. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Industrial Hazards. You have resistance to acid damage.
+#!;Tech Dabbler. You know the *mending* at-will tech power. When you reach 3rd level, you can cast the *analyze* tech power once per day. When you reach 5th level, you can also cast the *overheat* tech power once per day. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.
+#!;Tinker. You have proficiency with tinker's tools. You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause harmless tremors for 1 minute. You can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.
+#!;Languages. You can speak, read, and write Galactic Basic and Ugnaught. The Ugnaught language is composed of grunts, squeals, and chatters, and is difficult for other species to learn.
+##;Gand
+#h;BIOLOGY AND APPEARANCE
+Gand are sentient, stocky humanoids whose insectoid bodies are covered in a chitinous exoskeleton. The natural armor allow the Gand to shrug off injuries that would cripple most other species. The exoskeleton provides extra protection in the clavicle region, which prevented most nerve or pressure-point strikes to the neck and shoulders. In addition, Gands have the remarkable ability to regrow lost limbs. If a Gand is dismembered, it can regrow a lost limb in a few days. 
+#h;Visual Characteristics
+#bs;Skin Color: Varying shades of brown, green, and purple
+#bs;Hair Color: None
+#bs;Eye Color:Brown, black, green, or silver
+#bs;Distinctions: Exoskeletons, three-fingered hands
+#bs;Height: 4'1"+2d10"
+#bs;Weight: 75 lb.x(2d4) lb.
+#bs;Homeworld: Gand
+#bs;Language: Gand
+#h;SOCIETY AND CULTURE
+Gand society places heavy importance on the achievements of an individual and holds that an individual has no name, and thus no worth, until he or she proves otherwise. The speech patterns of Gands utilize third-person self-reference within each level of identity earned. Young or unproven Gands are all called "Gand," as they are considered merely aspects of the same whole. Major accomplishments earn the use of a family surname. Mastering a skill, such as becoming a findsman, allows for the use of the given name, all with third-person self-reference. This manner of speaking us common within the spoken and written Gand language but is more predominant when a Gand speaks Basic; it is often a source of amusement to outsiders.
+#h;Names
+Until a Gand has earned the use of a name, they go simply by the term "Gand." Gand speak in the third person and refer to themselves by name. Often, when a Gand feels shamed, they will stop referring to themselves by their name and revert to calling themselves "Gand" until they prove themselves again. Male and female names are not distinct.
+#bs;Surnames: Diqlu, Krakee, Praafri, Quudya, Zooq
+Gand Traits
+#!;Ability Score Increase. Your Constitution score increases by 2, and your Intelligence score increases by 1.
+#!;Age. Gand reach adulthood when they earn their name, which is usually in their teens, and live to be about 70 on average.
+#!;Alignment. Gand tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Gand stand 4 to 6 feet tall and weigh around 100 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Exoskeleton. You have a thick exoskeleton. When you aren't wearing armor, your AC is 12 + your Dexterity modifier.
+#!;Gand Resilience. You have advantage on saving throws against poison, and you have resistance against poison damage (explained in chapter 9).
+#!;Lungless. Gand do not have lungs, and therefore do not need to breathe.
+#!;Regenerative. When you take damage, you can use your reaction and expend a hit die to regain health as long as the damage would not reduce your hit points to 0.
+#!;Languages. You can speak, read, and write Galactic Basic and Gand. The Gand language does not use pronouns as Gand refer to themselves in the third person, so often Gand who speak Galactic Basic are difficult to understand.
+##;Cerean
+#h;BIOLOGY AND APPEARANCE
+The Cereans' enlarged skulls, extending above their foreheads, house complex binary brains, provided with sufficient blood by an extra heart in their heads. The binary structure of Cerean thinking helps them to ponder two sides of an issue at once. It also enables them to process information and solve problems rapidly and provides a highly advanced capacity for concentration and meditation. Because of their thoughtful nature, they tend to be calm, rational and analytical, preferring peaceful philosophies and a lifestyle which works in harmony with nature. Though the quick-thinking Cereans have equally quick reflexes, they are commonly not as well coordinated as humans. 
+#h;Visual Characteristics
+#bs;Skin Color: Light tones
+#bs;Hair Color: Blond, brown, or white (usually with age)
+#bs;Eye Color:Yellow
+#bs;Distinctions: Cone-like skull, binary brain
+#bs;Height: 5'8"+2d8"
+#bs;Weight: 120 lb.x(2d4) lb.
+#bs;Homeworld: Cerea
+#bs;Language: Cerean
+#h;SOCIETY AND CULTURE
+Cereans developed a low-tech society on their homeworld and prefer to live in isolation from the wider galaxy. Preserving the natural beauty of Cerea, the planet is home to many Outsider Citadels where it is permissible to use offworld technology, though it could not be removed from the Citadel. Meditation is a core part of a Cerean's daily rituals, with many employing specially-forged kasha crystals as a focusing tool. By focusing one's thoughts while in contact with such crystals, distractions are eliminated, creating an exceptional meditation environment. Cerean Jedi sometimes incorporate these crystals into their lightsabers, providing great focus, even during intense physical combat.
+#h;Names
+Cerean male first names are often hyphenated, while females are not. Surnames are familial.
+#bs;Female Names: Dreash, Kilniavy, Melm, Rharoth, 
+#bs;Male Names: Ji-Cheelia, Ki-Adi, Pick-toh, Sauli-Fanz
+#bs;Surnames: Codux, Emkom, Kyureft, Lonnik, Mundi
+Cerean Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Wisdom score increases by 1.
+#!;Age. Cereans reach adulthood in their late teens and live less than a century.
+#!;Alignment. Cereans' altruistic nature causes them to tend toward the light side, though there are exceptions.
+#!;Size. Cereans typically stand between 6 and 7 feet tall and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Intuitive Initiative. You can choose to reroll Initiative checks, but you must use the new roll.
+#!;Keen Mind. You have advantage on Wisdom saving throws.
+#!;Perceptive. You have proficiency in Perception.
+#!;Strong-Legged. When you make a long jump, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.
+#!;Trance. Cereans don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.  While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+#!;Languages. You can speak, read, and write Galactic Basic and Cerean.
+##;Nautolan
+#h;BIOLOGY AND APPEARANCE
+Nautolans possess physiology common to amphibious species, including low light vision and excellent swimming skills. Their bony endoskeleton and dense cartilage make them tough and resistant to glancing blows. An egg-laying species, Nautolans emerge from their egg as a tadpole that develops arms, legs, and head-tails during their second year of life. Roughly the same size as a Human infant during this time, their limbs are weak and unable to support their weight, forcing youthful Nautolans to remain in aquatic environments for much of their childhood. 
+#h;Visual Characteristics
+#bs;Skin Color: Blue, brown, green, purple, or grey
+#bs;Hair Color: None
+#bs;Eye Color:Black, brown, or red
+#bs;Distinctions: Extrasensory head tentacles capable of detecting chemicals
+#bs;Height: 5'1"+2d8"
+#bs;Weight: 120 lb.x(2d4) lb.
+#bs;Homeworld: Glee Anselm
+#bs;Language: Nautila
+#h;SOCIETY AND CULTURE
+The society developed by the Nautolans on Glee Anselm is centralized around local families and governments. The centralized government of Glee Anselm is comprised of representatives from the Council of Elders that govern each settlement. Elders are elected on merit, and can be made up of youthful politicians as well as the most aged members of the society. A culture that promotes life-long mates, Nautolan families are characterized by their loyalty between spouses and the equality of the sexes in the household. Arranged marriages are not uncommon. No cultural affinity for the Force ever developed on Glee Anselm, though members of the Nautolan species recognize its importance and respected those among them that were Forceful.
+#h;Names
+Nautolan names are generally short and melodic. Female names usually end in a vowel. Surnames are familial.
+#bs;Female Names: Doli, Hahi, Thamlymyo, Usha, Zezu
+#bs;Male Names: Brod, Knirkoc, Peng, Tikuwik, Zesufreat
+#bs;Surnames: Iarre, Rirrall, Sompanong, Uzumdall
+Nautolan Traits
+#!;Ability Score Increase. Your Dexterity score increases by 2, and your Wisdom score increases by 1.
+#!;Age. Nautolans reach adulthood in their early teens and live about 70 years on average.
+#!;Alignment. Nautolans' benevolence cause them to tend toward the light side, though there are exceptions.
+#!;Size. Nautolans typically stand 5 to 6 feet tall and rarely weigh more than 160 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 35 feet.
+#!;Amphibious. You can breathe air and water.
+#!;Darkvision. Accustomed to life underwater, you have superior vision in low light conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Insightful. Nautolan head tentacles are adept at determining moods. You have advantage on Wisdom (Insight) checks to determine emotions.
+#!;Swim. You have a swimming speed of 30 feet.
+#!;Languages. You can speak, read, and write Galactic Basic and Nautila. Nautila is unique in that it can only be properly pronounced underwater due to its use of pheromones in addition to spoken sounds. In any other environment, the language loses a great amount of detail; that Nautolans find this annoying.
+##;Iktotchi
+#h;BIOLOGY AND APPEARANCE
+Iktotchi do not have hair, but rather they had a very resistant skin which protected them from the violent winds which crossed the satellite. Both males and females have down-curved cranial horns, which gave them an aggressive aspect. The males' horns are generally a little larger, a remnant from their mountain-dwelling, caprinaen ancestors. The horns are able to regenerate if damaged.
+#h;Visual Characteristics
+#bs;Skin Color: Pink
+#bs;Hair Color: None
+#bs;Eye Color:Black
+#bs;Distinctions: Horns, precognition, telepathy, thick pink skin
+#bs;Height: 4'11"+2d10"
+#bs;Weight: 120 lb.x(2d4) lb.
+#bs;Homeworld: Iktotch, moon of Iktotchon
+#bs;Language: Iktotchese
+#h;SOCIETY AND CULTURE
+The Iktotchi are a fiercely guarded and isolationist species - vaunted for their ability to hide their feelings and bury any semblance of emotion. Originating on the harsh, windy moon of Iktotch, which orbits the planet Iktotchon in the Expansion Region, the Iktotch are gifted with precognition, and are courted as often by Jedi as by pirates for their skills. Iktotchi society is a stratified society. Upward mobility is both possible and encouraged. Iktotchi are an outwardly dispassionate people, which is evidenced by their culture. They have a robust legal system, and suffer little crime. Iktotchi are respectful of cultures other than their own and can easily integrate with others. Iktotchi who distinguish themselves often earn a titular nickname, by which they are referred to in place of their name. Generally, this is done by accomplishing a remarkable feat that benefits the Iktotchi as whole.
+#h;Names
+Iktotchi names are generally two syllables. Surnames are familial. Respected Iktotchi often adopt a nickname, which they use in place of their birth name.
+#bs;Female Names: Kemkal, Onyeth, Reshu, Zorlu
+#bs;Male Names: Dilnam, Imruth, Kashkil, Yellam
+#bs;Surnames: Hevil, Kaawi, Mimir, Nudaal, Zelend
+Iktotchi Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Strength score increases by 1.
+#!;Age. Iktotchi reach adulthood in their late teens and live less than a century.
+#!;Alignment. Iktotchi are lawful and tend toward the light side, though there are exceptions.
+#!;Size. Iktotchi typically stand between 5 and 6 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Precognition. You can see brief fragments of the future, that allow you to turn failures into successes. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+#!;Telepathy. You can communicate telepathically with creatures within 30 feet of you. You must share a language with the target in order to communicate in this way.
+#!;Horns. Your horns are a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal kinetic damage equal to 1d6 + your Strength modifier.
+#!;Pilot. You have proficiency in the Piloting skill.
+#!;Languages. You can speak, read, and write Galactic Basic and Iktotchese.
+##;Ewok
+#h;BIOLOGY AND APPEARANCE
+Ewoks are sentient humanoid mammals, averaging about one meter in height, which can provide an advantage when trying to hide. They are covered in fur from head to toe, with brown and black the most common colors. Other Ewoks have near-white or reddish fur, but red fur is supposedly the rarest shade an Ewok can get. Most Ewoks have solid-colored fur, though a few sport stripes. Ewoks have large, bright eyes, small humanoid noses, and hands that possess two fingers and an opposable thumb. Despite their small size, Ewoks are physically strong enough to overpower combat-trained Humans. Their appearance has been likened to "little bears," though they are sometimes referred to as "mini Wookiees."
+#h;Visual Characteristics
+#bs;Skin Color: Brown
+#bs;Hair Color: Shades of white, brown, red, and black
+#bs;Eye Color:Black
+#bs;Distinctions: Furry, short stature, acute sense of smell
+#bs;Height: 2'9"+2d6"
+#bs;Weight: 40 lb.x1 lb.
+#bs;Homeworld: Forest Moon of Endor
+#bs;Language: Ewokese
+#h;SOCIETY AND CULTURE
+Most Ewoks live high among the trees of the forest moon, in villages built between the closely spaced trees. The basic design of a tree village has a "Central Village" of thatched-roof huts on the primary limbs. These huts are high enough above the ground to be out of reach of predators. Suspended bridges connect the gaps between trees, adjoining distant huts. Knotted rope ladders allow access up or down. Ewoks enjoy singing and playing music during celebrations and rituals. They are resourceful and tend to make use of everything they get their hands on; they use a variety of crude drums, horns, flutes, and other instruments in their music.
+#h;Names
+Ewok names are comprised of growled consonants. Female names always end in a vowel. Surnames are clan-based.
+#bs;Female Names: Booshi, Chela, Fesasha, Lipe, Ypezzi
+#bs;Male Names: Coostick, Erphek, Grarphil, Moodoo
+#bs;Surnames: Fedrimra, Jellyng, Moomrack, Trantelaa
+Ewok Traits
+#!;Ability Score Increase. Your Dexterity score increases by 2, and your Constitution score increases by 1.
+#!;Age. Ewoks reach adulthood in their early teens and live about 50 years.
+#!;Alignment. Ewoks are inherently accepting, albeit naive, and tend toward the light side, though there are exceptions.
+#!;Size. Ewoks stand between 3 and 4 feet tall and weigh about 50 lbs. Regardless of your position in that range, your size is Small.
+#!;Speed. Your base walking speed is 25 feet.
+#!;Crude Weapon Specialists. Ewoks are used to making do with less. You can spend 1 hour, which you can do over the course of a short rest, crafting a weapon out of loose materials. You can craft any simple kinetic weapon, but the weapon's damage suffers a -1 penalty.
+#!;Keen Smell. You have advantage on Wisdom (Perception) checks that rely on smell.
+#!;Musical Culture. Ewoks incorporate music in their celebrations and rituals. You have proficiency in an instrument of your choice.
+#!;Natural Survivalist. You have proficiency in Nature and Survival.
+#!;Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
+#!;Treeclimber. You have a climbing speed of 25 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.
+#!;Languages. You can speak, read, and write Ewokese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 

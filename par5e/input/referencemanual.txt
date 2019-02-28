@@ -6,21 +6,26 @@ However, because certain ruleset changes may effect the Fantasy Grounds interfac
 #h;Changes from the SW5e PDF Document
 
 #h;Class Changes
-#bp;Third Level Specializations
-Before dragging the third class level over to the player character, put the specialization in their Abilities tab.  Then, when you grant the third level to that class, all the options under that specialization will be added to the Abilities tab as well.  But, you may then need to remove those which the player is NOT choosing if there was choices to be made.
 #bp;Berserker
 Unarmored Defense: This skill does not automatically alter the AC calculation in the character sheet.  The player/DM must add the CON bonus manually.
 #h;Race Changes
 #h;Other Changes
-#bp;Items
-The tool I am using, PAR5e, seems to parse the items in an older fasion. It will create the full list under "SW5e Player Book" and also individual categories like "Armor - SW5e Player Book".  So, if you select "All" you will see multiple results.
+#bp;Items and Equipment
+Items and Equipment are in a separate module called SW5e Equipment.mod see the reference section of that module for any notes.
+#bp;Item Effects
+Some items, like grenades, have effects, these are included in the SW5e Spell Book module.
 #bp;Equipment Packs
 At this time the starting equipment packs were not working like in standard 5e where the individual items were placed in the player's inventory.  So, although the packs are listed in the reference manual, the individual items must be allocated to the player inventory manually.
+A solution for this is to create a Parcel.  A parcel with a negative money amount will even deduct the cost from the player's inventory.
 #bp;Items Button Weapon/Armor Lists
-When you use the Items button on the right side of the screen you see the Armor and Weapons buttons at the top of that window.  These are not working properly.  But, you can see the correctly filtered and categorized armor and weapons by using the reference manual and going to Equipment->Armor and Equipment->Weapons respectively.
+When you use the Items button on the right side of the screen you see the Armor and Weapons buttons at the top of that window.  These buttons should give items by category for picking weapons and armor.
 #bp;Powers(Spells)
-Powers(Spells) are not included in the Player Handbook.  They are in the module SW5e Spell Book.  Use this as the source for you powers.  In the spell window you can sort by Tech Powers or Force Powers.  See the Reference section of that module for further information.
-
+Powers(Spells) are in a separate module called SW5e Spell Book.mod see the reference section of that module for any notes.
+#bp;-----
+#ls;
+#li;Special thanks to Maximus13 for allowing me to use data from his web site.
+#li;Special thanks to CaptainDaddy for feedback and testing.
+#le;
 #@;Attribution and Copyright
 #!;SW5e Ruleset Information
 ##;Credits and Attribution
