@@ -572,7 +572,7 @@ Talz Traits
 #!;Languages. You can speak, read, and write Talzzi. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Talzzi is characterized by its high-pitched chirps and buzzes.
 ##;Kaminoan
 #h;BIOLOGY AND APPEARANCE
-Kaminoans’ evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of Kaminoans are also able to see color in the ultraviolet spectrum. While female Kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.
+Kaminoan evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of Kaminoans are also able to see color in the ultraviolet spectrum. While female Kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.
 #h;Visual Characteristics
 #bs;Skin Color: White
 #bs;Hair Color: None
@@ -596,7 +596,7 @@ Kaminoan Traits
 #!;Size. Kaminoans typically stand 7 to 8 feet tall and weigh around 150 lbs. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 30 feet.
 #!;Master Geneticists. You gain proficiency in the Medicine skill.
-#!;Ultraviolet Sight. Whenever you make a Wisdom (Perception) check related to sight, you are considered proficient in the Perception skill and add double your proficiency bonus to the check, instead of your normal bonus.
+#!;Ultraviolet Sight. Whenever you make a Wisdom (Perception) check related to sight, you add double your proficiency bonus to the check, instead of your normal bonus.
 #!;Long-Limbed. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
 #!;Tech Dabbler. You know the *temporary boost* at-will tech power. When you reach 3rd level, you can cast the *kolto pack* tech power once per day. When you reach 5th level, you can also cast the *toxin purge* tech power once per day. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.
 #!;Languages. You can speak, read, and write Galactic Basic and Kaminoan. Kaminoan has a sound like flowing water to it.
@@ -620,7 +620,7 @@ Geonosian names are usually harsh sounding. Lower castes don't get surnames. Upp
 #bs;Male Names: Buck, Goshey, Nik, Sozz, Techtu
 #bs;Surnames: Chak, Hor, Lur, Marpes, Zol
 Geonosian Traits
-#!;Ability Score Increase. You Dexterity score increases by 2, and your Constitution or Intelligence score increases by 1.
+#!;Ability Score Increase. Your Dexterity score increases by 2, and your Constitution or Intelligence score increases by 1.
 #!;Age. Geonosians reach adulthood at 10 and live less than a century.
 #!;Alignment. Geonosians' greedy and self-serving nature causes them to tend toward the dark side, though there are exceptions.
 #!;Size. Geonosians typically stand from 5 to 6 feet tall and rarely weigh more than 80 lbs. Regardless of your position in that range, your size is Medium.
@@ -655,7 +655,7 @@ Aqualish Traits
 #!;Alignment. Aqualish' aggressive personalities cause them to tend toward the dark side, though there are exceptions.
 #!;Size. Aqualish stand between 6 and 7 feet tall and weigh around 190 lbs. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 30 feet.
-#!;Arms Dealers. Whenever you make an Charisma (Persuasion) check related to buying or selling weapons, you are considered proficient in the Persuasion skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+#!;Arms Dealers. Whenever you make an Charisma (Persuasion) check related to buying or selling weapons, you add double your proficiency bonus to the Persuasion check.
 #!;Aggressive. As a bonus action, you can move up to your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
 #!;Darkvision. You have a keen eyesight, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 #!;Menacing. You gain proficiency in the Intimidation skill.
@@ -686,7 +686,7 @@ Mirialan Traits
 #!;Alignment. Mirialans spiritual tendencies cause them to tend towards the light side, though there are exceptions.
 #!;Size. Mirialan typically stand 5 to 6 feet tall and weight 150 lbs. Regardless of your position in that range, your size is Medium.
 #!;Speed. Your base walking speed is 35 feet.
-#!;Spiritual. You have proficiency in Lore. Additionally, you add double your proficiency bonus to Intelligence (Lore) checks made to learn or recall something about a culture's religion.
+#!;Spiritual. You gain proficiency in the Lore skill. Additionally, you add double your proficiency bonus to Intelligence (Lore) checks made to learn or recall something about a culture's religion.
 #!;Surprise Attack. If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.
 #!;Unarmed Combatant. Your unarmed strikes deal 1d4 kinetic damage. You can use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 #!;Languages. You can speak, read, and write Galactic Basic and Mirialan.
@@ -777,7 +777,7 @@ Cerean Traits
 #!;Speed. Your base walking speed is 30 feet.
 #!;Intuitive Initiative. You can choose to reroll Initiative checks, but you must use the new roll.
 #!;Keen Mind. You have advantage on Wisdom saving throws.
-#!;Perceptive. You have proficiency in Perception.
+#!;Perceptive. You gain proficiency in the Perception skill.
 #!;Strong-Legged. When you make a long jump, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.
 #!;Trance. Cereans don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.  While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 #!;Languages. You can speak, read, and write Galactic Basic and Cerean.
@@ -869,8 +869,39 @@ Ewok Traits
 #!;Crude Weapon Specialists. Ewoks are used to making do with less. You can spend 1 hour, which you can do over the course of a short rest, crafting a weapon out of loose materials. You can craft any simple kinetic weapon, but the weapon's damage suffers a -1 penalty.
 #!;Keen Smell. You have advantage on Wisdom (Perception) checks that rely on smell.
 #!;Musical Culture. Ewoks incorporate music in their celebrations and rituals. You have proficiency in an instrument of your choice.
-#!;Natural Survivalist. You have proficiency in Nature and Survival.
+#!;Natural Survivalist. You gain proficiency in the Nature and Survival skills.
 #!;Mask of the Wild. You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 #!;Treeclimber. You have a climbing speed of 25 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.
 #!;Languages. You can speak, read, and write Ewokese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
+##;Lasat
+#h;BIOLOGY AND APPEARANCE
+A humanoid sentient species, Lasats are notable for their impressive height, strength, and agility, with their muscular digitigrade legs enabling them to run faster, jump higher and farther, and move more quietly than humans. Their large finger pads and prehensile toes assist them in climbing. In addition, their large eyes and ears afford them superior sight and hearing over humans. They had the strength to open a powered-down blast door. A height of two meters tall was considered below-average for a Lasat.
+#h;Visual Characteristics
+#bs;Skin Color: Grey or purple
+#bs;Hair Color: Purple or grey (with age)
+#bs;Eye Color:Green
+#bs;Distinctions: Impressive height, strength, and agility
+#bs;Height: 6'0"+2d12"
+#bs;Weight: 160 lb.x(2d4) lb.
+#bs;Homeworld: Lira San
+#bs;Language: Lasat
+#h;SOCIETY AND CULTURE
+Lasat society is held together by a long-standing oral tradition, featuring clever and stealthy heroes. Within the species, those with fighting skills are highly respected, often being members of the Lasan High Honor Guard, a group of highly trained, highly intelligent warriors sworn to protect their homeworld of Lira San. Bo-rifles are a long-standing tradition in Lasat culture, used exclusively by the Honor Guard of Lasan. The warrior way of the Lasat is the Boosahn Keeraw. When a Lasat is bested by a superior opponent in combat, they would give them their weapon. Facial hair is an important status symbol in Lasat culture. Those with green eyes and prominent purple stripes are considered to be attractive by others of their species. Juvenile Lasat are noted to climb tree branches. 
+#h;Names
+Lasat names tend to be melodic, with the occasionally harsh tone sprinkled in. Surnames are born by communities within Lasat culture rather than individual families.
+#bs;Female Names: Denazo, Gume, Hado, Zanisa
+#bs;Male Names: Brob, Drim, Krus, Parred, Volares
+#bs;Surnames: Dragarr, Ellias, Krod, Roleb, Vuzan
+Lasat Traits
+#!;Ability Score Increase. Your Strength score increases by 2, and your Charisma score increases by 1.
+#!;Age. Lasats reach adulthood in their late teens and live less than a century.
+#!;Alignment. Lasat' honorable tendences cause them to tend toward lawful light side, though there are exceptions.
+#!;Size. Lasats tower over other species, averaging 7 feet tall and weighing over 200 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Bo-rifle Training. You have proficiency with blaster rifles and vibrostaffs.
+#!;Climbing. You have a climbing speed of 30 feet.
+#!;Darkvision. Your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+#!;Keen Hearing and Sight. You have advantage on Wisdom (Perception) checks that rely on hearing or sight.
+#!;Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+#!;Languages. You can speak, read, and write Galactic Basic and Lasat, a language whose *r*'s are difficult to replicate by most other species.
 
