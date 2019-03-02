@@ -54,7 +54,7 @@ function onInit()
 		["Iktotchese"] = "Draconic",
 		["Ithorese"] = "Dwarven",
 		["Jawaese"] = "Elven",
-		["Kaminoan"] = = "Elven",
+		["Kaminoan"] = "Elven",
 		["Kel Dor"] = "Elven",
 		["Lasat"] = "Dwarven",
 		["Mirialan"] = "Elven",

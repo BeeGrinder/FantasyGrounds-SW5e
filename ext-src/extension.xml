@@ -16,7 +16,7 @@
 			<name>5E</name>
 		</ruleset>
 	</properties>
-	<announcement text="SW5e rule extension. SW5e can be found here: http://star-wars-5e.azurewebsites.net/ " font="emotefont" icon=""/> 
+	<announcement text="SW5e ruleset extension. http://star-wars-5e.azurewebsites.net/ " font="emotefont" icon=""/> 
 	<base>
 		<!-- Strings -->
 		<includefile source="strings/strings_SW5e.xml" />
