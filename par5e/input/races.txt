@@ -1,4 +1,7 @@
 ##;Jawa
+#zls;
+#zl;image;jawa_jpg;Jawa Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Jawas are easily identifiable by their traditional brown hooded robes, though it is not unheard of for them to wear other colors. Other notable features included their glowing yellow eyes, small stature and high pitched, quickly spoken language called Jawaese. Underneath their robes, Jawas appear to be gaunt, rodent-like creatures, with shrunken faces and yellow eyes. 
 #h;Visual Characteristics
