@@ -12,6 +12,7 @@ Jawas are easily identifiable by their traditional brown hooded robes, though it
 #bs;Height: 2'9"+2d4"
 #bs;Weight: 35 lb.+2d4 lb.
 #bs;Homeworld: Tatooine
+#bs;Homeworld: Tatooine
 #bs;Language: Jawaese
 #h;SOCIETY AND CULTURE
 Jawas are a communal, compulsive scavenger species who spend most of their life devoted to scavenging the deserts of Tatooine in search of any scrap metal, droid or mechanical part left behind from millennia of star travel and technological advancement. Most non-Jawas regard the Jawas as scavengers and thieves, a description that most Jawas actually find pleasing.
@@ -33,6 +34,9 @@ Jawa Traits
 #!;Tinker. You have proficiency with artisan's tools (tinker's tools). You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause a small electrical fire.\nYou can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.
 #!;Languages. You can speak, read, and write Jawaese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Jawaese blends quickly spoken, semi-meaningless syllables with scents to be understood.
 ##;Bith
+#zls;
+#zl;image;bith_jpg;Bith Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Bith are craniopods with pale pink, yellow, or green skin, large heads, large lidless eyes, toeless feet, and long fingers. Their thumb and small finger were both fully opposable. The Bith's internal systems are different from most humanoids, as the Bith have only one lung, and exhale through their skin. Bith also lack a proper nose, instead having highly sensitive olfactory organs hidden in the skin-flaps of their cheeks.
 The other Bith senses are also acute. Bith can sense the tonal qualities of sound as well as other species sensed colors. Their eyes, as big as a Menahuun's, can see microscopic details of nearby objects, but are extremely nearsighted as a result. An interesting side effect of their incredible sensors is the effect of sonic grenades, or screamers, on them. It is described as causing their heads to explode. Similarly, Bith have high manual dexterity which helps them manipulate fine tools, though their physical prowess with gross motor skills was only average.
@@ -64,6 +68,9 @@ Bith Traits
 #!;Programmer. Whenever you make an Intelligence (Technology) check related to computers, you are considered proficient in the Technology skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 #!;Languages. You can speak, read, and write Galactic Basic, Bith, and one more language of your choice.
 ##;Sith Pureblood
+#zls;
+#zl;image;sithpureblood_jpg;Sith Pureblood Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Sith are a proud and violent species of humanoids that evolved on Korriban, a planet within the Horuset system in an isolated Outer Rim region called the Stygian Caldera. Sith have a larger than average number of individuals with potential to use the Force in their species, so high in fact that the entire species was considered strongly Force-sensitive.
 Sith Purebloods are characterized by their expressive facial appendages, bone spurs, cranial horns, and predatory gaze.
@@ -94,6 +101,9 @@ Sith Pureblood Traits
 #!;Sadistic. You have proficiency with saberwhips, vibrowhips, and nets.
 #!;Languages. You can speak, read, and write Galactic Basic and Sith. Sith is an agglutinative language, in which words or even phrases were made up of linears sequences of distinct meaningful units.
 ##;Mon Calamari
+#zls;
+#zl;image;moncalamari_jpg;Mon Calamari Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 The Mon Calamari are a bipedal, amphibious species with high-domed heads, webbed hands and large, goggle-like eyes. In addition to being webbed, the Mon Calamari hand presents three suction-cup like holes on its palm, and featured five claw-tipped fingers: one opposable thumb, two long middle fingers, and two very short outer fingers. Although they are shaped like flippers, their feet can nevertheless fit into boots designed for human-like feet. The females are distinguished from the males by their more prominent chest areas.
 #h;Visual Characteristics
@@ -125,6 +135,9 @@ Mon Calamari Traits
 #!;Swim. You have a swimming speed of 30 feet.
 #!;Languages. You can speak, read, and write Galactic Basic, Mon Cal, and one language of your choice.
 ##;Togruta
+#zls;
+#zl;image;togruta_jpg;Togruta Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Togruta have rusty skin tones ranging in hue from blue to red to green, with white pigmentation on their faces, greyish lips, and white stripes adorn various parts of their bodies. The pattern of stripes varies from individual to individual. This red and white pattern was a phenotype left over from their ancestor's camouflage that helped them to blend in with Shili's natural surroundings.
 Their heads bear two montrals, with three to four head-tails, whose stripes were darker than those of the montrals. Togruta have the ability to sense the proximity and movement of physical objects around them by means of their hollow montrals, which detect space ultrasonically. Young Togrutas' montrals and posterior head-tail do not fully grow until adolescence, when their montrals curve and their final head-tail grows to the length of their other head-tails.
@@ -155,6 +168,9 @@ Togruta Traits
 #!;Wild Hunters. You are proficient in the Survival skill.
 #!;Languages. You can speak, read, and write Galactic Basic and Togruti. Togruti is an ornate language characterized by trills and long vowel sounds which are modified by subtle tremors in the Togruta's head-tails. This language is heavily influenced by Basic, but also incorporates some native idioms, which caused Basic-speaking Togruta to use seemingly strange expressions.
 ##;Trandoshan
+#zls;
+#zl;image;trandoshan_jpg;Trandoshan Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Trandoshans are a large, bipedal sentient species, with scaly skin which was shed roughly once every standard year and was thought to be very durable. Cold-blooded reptiles, Trandoshans had two super-sensitive varied color eyes with horizontal black pupils, which could see far into the infrared range. Each of their four limbs ends in three razor sharp claws. These are perfect for combat, but did not grant them manual dexterity, making a Trandoshan's finger movements somewhat clumsy and awkward. 
 #h;Visual Characteristics
@@ -185,6 +201,9 @@ Trandoshan Traits
 #!;Saving Face. Trandoshans are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest.
 #!;Languages. You can speak, read, and write Galactic Basic and Dosh. Dosh is characterized by its harsh grunts, hisses and growls, and its written form that used alphabetic glyphs.
 ##;Chiss
+#zls;
+#zl;image;chiss_jpg;Chiss Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 The Chiss are a near-Human species distinguished by their blue skin and glowing red eyes. Genetic analysis indicate that they are an offshoot of humanity, and it is believed that moving underground led to a divergence between them and baseline Humans. Their blue skin, jet black hair and red eyes generally command attention; these features make them physically striking and instantly recognizable.
 #h;Visual Characteristics
@@ -211,6 +230,9 @@ Chiss Traits
 #!;Martial Proficiency. You have proficiency with light and medium armor as well as the blaster pistol and sniper rifle.
 #!;Languages. You can speak, read, and write Galactic Basic and Cheunh. Cheunh is a complex language that is difficult for non-Chiss to learn. Chiss take pride in this difficulty.
 ##;Zabrak
+#zls;
+#zl;image;zabrak_jpg;Zabrak Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Zabrak are Near-Human, but have a number of significant physical characteristics that set them apart from baseline Humanity. The most striking of these are a series of vestigial horns that crown the heads of both males and females. These horns grow at puberty in varying patterns and signified that their rite of passage is drawing near.
 In addition to their horns, another of the traits that make Zabrak instantly recognizable are their facial tattoos, which are made up of thin lines received during their rite of passage. These could symbolize many things, including but not limited to family lineage, place of birth, or even a design that reflected their individual personalities.
@@ -243,6 +265,9 @@ Zabrak Traits
 #!;Unarmed Combatant. Your unarmed strikes deal 1d4 kinetic damage. You can use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 #!;Languages. You can speak, read, and write Galactic Basic and Zabraki.
 ##;Twi'lek
+#zls;
+#zl;image;twilek_jpg;Twi'lek Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Twi'leks are usually thin, although corpulent individuals were known to exist. Twi'leks are omnivores; this diet is essential given that food is scarce on their homeworld, Ryloth. Twi'leks possess multiple stomachs, an unusual trait that enables them to eat almost any food. When traveling off their homeworld, Twi'leks rarely refused food, which frequently leads to obesity among starfarers. Twi'lek society also associates obesity as a sign of affluence and success.
 #h;Visual Characteristics
@@ -272,6 +297,9 @@ Twi'lek Traits
 #!;Unarmed Combatant. Your unarmed strikes deal 1d4 kinetic damage. You can use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 #!;Languages. You can speak, read, and write Galactic Basic and Twi'leki. You can communicate non-verbally with other Twi'leks through a complex language of subtle head-tail motions.
 ##;Rodian
+#zls;
+#zl;image;rodian_jpg;Rodian Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 The Rodians are green-skinned humanoids from the planet Rodia. They possess distinctive faces: large, round, multifaceted eyes; tapir-like snouts; and a pair of saucer-shaped antennae on their heads, which served to detect vibrations. The flexible snouts augmented the Rodians' finely tuned olfactory senses, collecting and filtering the air. Their characteristically large eyes indicated a primarily nocturnal ancestry and were capable of seeing into the infrared part of the spectrum. Due to their love of fighting and active lifestyles, most Rodians kept in good condition, normally lean and wiry; however, some wealthy Rodians became complacent and obese.
 #h;Visual Characteristics
@@ -303,6 +331,9 @@ Rodian Traits
 #!;Keen Hearing and Smell. You have advantage on Wisdom (Perception) checks that involve hearing or smell.
 #!;Languages. You can speak, read, and write Galactic Basic and Rodese. Rodians can communicate with eachother using pheromones. Force-sensitives can detect this communication, though they can't understand it.
 ##;Human
+#zls;
+#zl;image;human_jpg;Human Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Humans are an intelligent species that originated on Coruscant, but can be found on many other planets across the galaxy, including Naboo, Tatooine, and Alderaan. They come in two sexes, male and female, and give birth to live young. They are bipedal beings with a bilateral symmetry, having a front and a back end, as well as an upside and downside. Their bodies are comprised of a torso with a head and four limbs attached to it. The upper limbs, or arms, end in hands which had five fingers each; the lower ones, called legs, end in feet. The human fingers have multiple points of articulation, and one of them is an opposable thumb that allowed for fine manipulation. Finally, they have one head perched atop their torso. Many other species, including Twi'leks, Mon Calamari, or Zabraks, are referred to as "humanoids" because of their structural resemblance to humans.
 #h;Visual Characteristics
@@ -331,6 +362,9 @@ Human Traits
 #!;Proficiency. You are proficient in one skill, one tool, and one weapon of your choice.
 #!;Languages. You can speak, read, and write Galactic Basic and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Trandoshan curses, Twi'lek musical expressions, Chiss military phrases, and so on.
 ##;Bothan
+#zls;
+#zl;image;bothan_jpg;Bothan Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Bothans are a short species of furry humanoids. Bothans are covered in fur which shifted in response to their emotional state by way of gentle ripplings. It is this trait, named Wrendui, that betrays them when members of their kind intend to be duplicitous in their dealings with others. They possess tapered pointed ears, and both males and females were known to sport beards. 
 Bothans are able to interbreed with the other species, though it is rare that they do so. Such hybrids somewhat resembled baseline humans with haunches, hooves, fur, pointed ears and a long tail.
@@ -362,6 +396,9 @@ Bothan Traits
 #!;Nimble Escape. Bothans can take the Disengage or Hide action as a Bonus Action on each of its turns.
 #!;Languages. You can speak, read, and write Galactic Basic and Bothese. Bothese had a great influence on the forming of Galactic Basic; the two languages share many cognates.
 ##;Kel Dor
+#zls;
+#zl;image;keldor_jpg;Kel Dor Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Due to Dorin having a unique atmosphere composed of helium and a gas unique to their world, the Kel Dors are forced to wear an antiox breath mask and protective goggles whenever in atmospheres of a different composition. Without their protective goggles, Kel Dors were considered effectively blind when away from Dorin. They were also able to survive in the vacuum of space for a short time, though it was unknown exactly how long they could withstand it.
 The Kel Dors also have heightened reflexes, a result of the extrasensory organs in their heads. They are typically quick and wise. 
@@ -394,6 +431,9 @@ Kel Dor Traits
 #!;Telepathy. You can communicate telepathically with creatures within 30 feet of you. You must share a language with the target in order to communicate in this way.
 #!;Languages. You can speak, read, and write Galactic Basic and Kel Dor.
 ##;Duros
+#zls;
+#zl;image;duros_jpg;Duros Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 The Duros are humanoids with smooth blue-green skin, red eyes, lipless mouths, long thin noseless faces and green blood. Olfactory organs beneath their eyes are responsible for their sense of smell. Both females and males are bald, though both genders are easily distinguished. Their large red goggle-like eyes have slit pupils. Duros females laid eggs as they are descended from ancient reptiles, and they are born in a larval grub stage. Unlike similar species, the Duros take care of their offspring from birth.
 #h;Visual Characteristics
@@ -426,6 +466,9 @@ Duros Traits
 #!;Tech Resistance. Duros grow up around technology, and while they may not all use it they all have experience with it. You have advantage on saving throws against tech powers.
 #!;Languages. You can speak, read, and write Galactic Basic and Durese. Durese is a common interstellar tongue used by prominent spacers and traders.
 ##;Wookiee
+#zls;
+#zl;image;wookie_jpg;Wookiee Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Wookiees are a tall species of furry giants from the planet Kashyyyk, who can grow to a height of over eight feet. They are covered from head to toe in a thick, shaggy coat of hair with water-shedding properties that notably came in shades of brown, black, gray, and white. The species has two sexes, female and male. The latter grows long beards in adult life. Wookiee eye colors are usually blue, green, yellow, golden, brown, or red.
 #h;Visual Characteristics
@@ -457,6 +500,9 @@ Wookiee Traits
 #!;Treeclimber. You have a climbing speed of 30 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.
 #!;Languages. You can speak, read, and write Shyriiwook. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 ##;Gamorrean
+#zls;
+#zl;image;gamorrean_jpg;Gamorrean Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Although a typical Gamorrean is squat, green, and heavily built not all shared these characteristics. Most Gamorreans have a dark greenish coloration over a large portion of their bodies; however skin coloration does vary, particularly among females, with light skinned and two-toned pigmentation not uncommon. Black, brown, pinkish yellow, and even a rare white pigmentation are possible. Males tended to have less skin variation and had a greater tendency towards dark green skin perhaps because of their higher exposure to the radiation of the Gamorr Star. Eye coloration varied evenly between gold-yellow, blue, black and brown. The Gamorreans generally put no importance on skin or eye coloration although there were some superstitions linked to certain markings.
 #h;Visual Characteristics
@@ -486,6 +532,9 @@ Gamorrean Traits
 #!;Savage Attacks. When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 #!;Languages. You can speak, read, and write Gamorrese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Gamorrese is characterized by its grunts and squeals, and its writing is a crude, pictographic style.
 ##;Weequay
+#zls;
+#zl;image;weequay_jpg;Weequay Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Weequays are humanoids with thick, leathery skin that ranges in color from tan to dark brown. Their faces are lipless, with a frill along each of their jowls.
 #h;Visual Characteristics
@@ -516,6 +565,9 @@ Weequay Traits
 #!;Tanned. You have tough, leathery skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. Additionally, your thick hide is naturally adapted to hot climates, as described in chapter 5 of the Dungeon Master's Guide.
 #!;Languages. You can speak, read, and write Galactic Basic and Sriluurian. You can communicate with other Weequay without speaking through use of pheromones. Force attuned individuals can detect the communication but can't understand it.
 ##;Ithorian
+#zls;
+#zl;image;ithorian_jpg;Ithorian Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Ithorians have two mouths and four throats, allowing them to speak in stereo. Female Ithorians have two humps on the back of their head, while males have only one. They have glossy, usually brown flesh. Their reflexes and coordination are somewhat slower than that of average humanoids. In addition to allowing them to speak their unique stereophonic language, the Ithorians' four throats also have the ability to violently expel air, resulting in a deafening and potentially concussive scream. Despite this fact, most Ithorians go their entire lives without ever resorting to violence, and so the ability remained relatively ambiguous.
 #h;Visual Characteristics
@@ -545,6 +597,9 @@ Ithorian Traits
 #!;Sonic Scream. You can use your action to violently expell air in a 15-foot cone. When you do so, each creature in the area of the exhalation must make a Wisdom saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 sonic damage on a failed save, and half as much damage on a successful one. The damage increases to 4d6 at 5th level, 6d6 at 11th level, and 8d6 at 17th level. This ability has no effect on constructs. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain one use of this feature when you finish a long rest.
 #!;Languages. You can speak, read, and Ithorese . You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 ##;Talz
+#zls;
+#zl;image;talz_jpg;Talz Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Talz are large, bulky, bipedal creatures, that are covered head to toe in thick white fur, which provides exceptional insulation against their frozen world. Talz have four eyes, which are also adaptations to their native environment. The larger set of eyes are shut during the day, when sunlight reflects off the snow with dazzling brightness -able to blind sensitive optical organs- leaving the smaller set to navigate with. Alternatively, during the deep darkness of their homeworld's moonless night, the larger pair are utilized to provide the Talz with adequate vision. Talz use a small proboscis to eat and communicate, creating high-pitched chirps and buzzes.
 #h;Visual Characteristics
@@ -574,6 +629,9 @@ Talz Traits
 #!;Long-Limbed. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
 #!;Languages. You can speak, read, and write Talzzi. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it. Talzzi is characterized by its high-pitched chirps and buzzes.
 ##;Kaminoan
+#zls;
+#zl;image;kaminoan_jpg;Kaminoan Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Kaminoan evolution from aquatic creatures in the vast oceans of Kamino is reflected in their tall shape, glassy coated eyes, near luminescent skin, and long, thin necks. The almond-shaped eyes of Kaminoans are also able to see color in the ultraviolet spectrum. While female Kaminoans are bald, males possess headcrests and fin ridges along the rear of their small, bulbous skulls.
 #h;Visual Characteristics
@@ -604,6 +662,9 @@ Kaminoan Traits
 #!;Tech Dabbler. You know the *temporary boost* at-will tech power. When you reach 3rd level, you can cast the *kolto pack* tech power once per day. When you reach 5th level, you can also cast the *toxin purge* tech power once per day. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.
 #!;Languages. You can speak, read, and write Galactic Basic and Kaminoan. Kaminoan has a sound like flowing water to it.
 ##;Geonosian
+#zls;
+#zl;image;geonosian_jpg;Geonosian Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Geonosians have a hard chitin exoskeleton that provided protection from physical impacts and bouts of radiation that occasionally shower their world. Geonosians are strong despite their thin builds, and are capable of constructing massive hives and factories in concert. The head of a Geonosian is elongated and large with their skulls ridged on the top and by the side where they have bulbous, thick-lidded eyes. Both are physically strong and covered with bony ridges which protected their arms, legs, and vital organs. 
 #h;Visual Characteristics
@@ -634,6 +695,9 @@ Geonosian Traits
 #!;Geonosian Weaponry. You have proficiency in simple blasters
 #!;Languages. You can speak, read, and write Galactic Basic and Geonosian. The Geonosian language conists of click consonants through use of a Geonosians' dual mandibles. This makes it difficult for other species to learn to speak it.
 ##;Aqualish
+#zls;
+#zl;image;aqualish_jpg;Aqualish Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 An amphibious species native to the planet Ando, the Aqualish people have two facial tusks which curve down over their mouths; a trait which added to their appearance as arachnids. These facial tusks are highly sensitive to heat and cold and are used for cracking open the hard shells of shellfish or burrowing through the swampy loam of their homeworld. Having finned hands and two bulbous black eyes, Aqualish are unable to manipulate most machinery or equipment developed by the galaxy's many species which designed these tools for beings with digits. As a result, Aqualish tend to remain on their homeworld. Aqualish are well known for their hair-trigger tempers that flare without reason. While Force-sensitive Aqualish are rare, members of the species have trained as both Sith and Jedi, though they typically gravitate toward the former.
 #h;Visual Characteristics
@@ -665,6 +729,9 @@ Aqualish Traits
 #!;Swim. You have a swimming speed of 30 feet.
 #!;Languages. You can speak, read, and write Galactic Basic and Aqualish. Aqualish is a harsh, guttural language. It's rare that other species bother to learn it unless they regularly interact with Aqualish.
 ##;Mirialan
+#zls;
+#zl;image;mirialan_jpg;Mirialan Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Mirialans are a near-human species native to the planet Mirial. They have green to yellow skin and tattoos on their faces. The Mirialans are known for their spirituality and strong connection with the world around them. Mirialans are very flexible and agile, making them fast and formidable foes.
 #h;Visual Characteristics
@@ -694,6 +761,9 @@ Mirialan Traits
 #!;Unarmed Combatant. Your unarmed strikes deal 1d4 kinetic damage. You can use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 #!;Languages. You can speak, read, and write Galactic Basic and Mirialan.
 ##;Ugnaught
+#zls;
+#zl;image;ugnaught_jpg;Ugnaught Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Ugnaughts are diminutive, porcine humanoids who have pink skin, upturned noses, white hair, and thick layers of jowls. Some have tusks that they use in blood duels. They are strong and resilient, and their life-spans reached up to 200 standard years. They notably eat genteslugs.
 #h;Visual Characteristics
@@ -726,6 +796,9 @@ Ugnaught Traits
 #!;Tinker. You have proficiency with tinker's tools. You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise for 1 minute, create smoke for 1 minute, cause harmless tremors for 1 minute. You can maintain a number of these devices up to your proficiency bonus at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.
 #!;Languages. You can speak, read, and write Galactic Basic and Ugnaught. The Ugnaught language is composed of grunts, squeals, and chatters, and is difficult for other species to learn.
 ##;Gand
+#zls;
+#zl;image;gand_jpg;Gand Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Gand are sentient, stocky humanoids whose insectoid bodies are covered in a chitinous exoskeleton. The natural armor allow the Gand to shrug off injuries that would cripple most other species. The exoskeleton provides extra protection in the clavicle region, which prevented most nerve or pressure-point strikes to the neck and shoulders. In addition, Gands have the remarkable ability to regrow lost limbs. If a Gand is dismembered, it can regrow a lost limb in a few days. 
 #h;Visual Characteristics
@@ -754,6 +827,9 @@ Gand Traits
 #!;Regenerative. When you take damage, you can use your reaction and expend a hit die to regain health as long as the damage would not reduce your hit points to 0.
 #!;Languages. You can speak, read, and write Galactic Basic and Gand. The Gand language does not use pronouns as Gand refer to themselves in the third person, so often Gand who speak Galactic Basic are difficult to understand.
 ##;Cerean
+#zls;
+#zl;image;cerean_jpg;Cerean Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 The Cereans' enlarged skulls, extending above their foreheads, house complex binary brains, provided with sufficient blood by an extra heart in their heads. The binary structure of Cerean thinking helps them to ponder two sides of an issue at once. It also enables them to process information and solve problems rapidly and provides a highly advanced capacity for concentration and meditation. Because of their thoughtful nature, they tend to be calm, rational and analytical, preferring peaceful philosophies and a lifestyle which works in harmony with nature. Though the quick-thinking Cereans have equally quick reflexes, they are commonly not as well coordinated as humans. 
 #h;Visual Characteristics
@@ -785,6 +861,9 @@ Cerean Traits
 #!;Trance. Cereans don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day.  While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 #!;Languages. You can speak, read, and write Galactic Basic and Cerean.
 ##;Nautolan
+#zls;
+#zl;image;nautolan_jpg;Nautolan Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Nautolans possess physiology common to amphibious species, including low light vision and excellent swimming skills. Their bony endoskeleton and dense cartilage make them tough and resistant to glancing blows. An egg-laying species, Nautolans emerge from their egg as a tadpole that develops arms, legs, and head-tails during their second year of life. Roughly the same size as a Human infant during this time, their limbs are weak and unable to support their weight, forcing youthful Nautolans to remain in aquatic environments for much of their childhood. 
 #h;Visual Characteristics
@@ -815,6 +894,9 @@ Nautolan Traits
 #!;Swim. You have a swimming speed of 30 feet.
 #!;Languages. You can speak, read, and write Galactic Basic and Nautila. Nautila is unique in that it can only be properly pronounced underwater due to its use of pheromones in addition to spoken sounds. In any other environment, the language loses a great amount of detail; that Nautolans find this annoying.
 ##;Iktotchi
+#zls;
+#zl;image;iktotchi_jpg;Iktotchi Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Iktotchi do not have hair, but rather they had a very resistant skin which protected them from the violent winds which crossed the satellite. Both males and females have down-curved cranial horns, which gave them an aggressive aspect. The males' horns are generally a little larger, a remnant from their mountain-dwelling, caprinaen ancestors. The horns are able to regenerate if damaged.
 #h;Visual Characteristics
@@ -845,6 +927,9 @@ Iktotchi Traits
 #!;Pilot. You have proficiency in the Piloting skill.
 #!;Languages. You can speak, read, and write Galactic Basic and Iktotchese.
 ##;Ewok
+#zls;
+#zl;image;ewok_jpg;Ewok Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 Ewoks are sentient humanoid mammals, averaging about one meter in height, which can provide an advantage when trying to hide. They are covered in fur from head to toe, with brown and black the most common colors. Other Ewoks have near-white or reddish fur, but red fur is supposedly the rarest shade an Ewok can get. Most Ewoks have solid-colored fur, though a few sport stripes. Ewoks have large, bright eyes, small humanoid noses, and hands that possess two fingers and an opposable thumb. Despite their small size, Ewoks are physically strong enough to overpower combat-trained Humans. Their appearance has been likened to "little bears," though they are sometimes referred to as "mini Wookiees."
 #h;Visual Characteristics
@@ -877,6 +962,9 @@ Ewok Traits
 #!;Treeclimber. You have a climbing speed of 25 feet. You have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.
 #!;Languages. You can speak, read, and write Ewokese. You can understand spoken and written Galactic Basic, but your vocal cords do not allow you to speak it.
 ##;Lasat
+#zls;
+#zl;image;lasat_jpg;Lasat Image
+#zle;
 #h;BIOLOGY AND APPEARANCE
 A humanoid sentient species, Lasats are notable for their impressive height, strength, and agility, with their muscular digitigrade legs enabling them to run faster, jump higher and farther, and move more quietly than humans. Their large finger pads and prehensile toes assist them in climbing. In addition, their large eyes and ears afford them superior sight and hearing over humans. They had the strength to open a powered-down blast door. A height of two meters tall was considered below-average for a Lasat.
 #h;Visual Characteristics

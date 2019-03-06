@@ -11862,7 +11862,7 @@
             </text>
           </hiddenforce2>
           <consulartradition3>
-            <name type="string">Consular Tradition</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Consular Tradition</name<specializationchoice type="number">1</specializationchoice>>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.</p>
@@ -18347,7 +18347,7 @@
             </text>
           </combatmeditation2>
           <sentinelcalling3>
-            <name type="string">Sentinel Calling</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Sentinel Calling</name>><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.</p>
