@@ -11,9 +11,8 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 [SW5e Fantasy Grounds Forum Thread](https://www.fantasygrounds.com/forums/showthread.php?47628-SW5e-a-star-wars-home-brew-on-the-5e-rule-set)
 
 ---
-__Separating Modules__: For some time during development, the equiment/items and spells will be in separate modules.  This may be a slight inconvenience, but will ease ruleset development by allowing each section to be developed independently.  The base character creation and related subjects (Class, Race, Background, and Feats) will remain in the core player book module.  At some point, these will likely be joined back together into a single module.
 
- |Sub-Project | Status | Notes |
+|Sub-Project | Status | Notes |
 | --- | --- | -- |
 |SW5e Player Book.mod | Released. | Released. Please, report any issues. |
 |SW5e Supplement.mod | Released. | Released. Please, report any issues. |
@@ -47,7 +46,7 @@ __Separating Modules__: For some time during development, the equiment/items and
 
 ### Developer Information
 
-The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content.
+The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
 
 The *__NPCEngineer__* directory is for the text files that are parsed into the *__NPC Book__* module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
 
@@ -62,7 +61,7 @@ The *__ext-src__* dirctory is for the extension sources.
    * Powers will still be called spells in the FG interface.
 
 ---
-###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
+###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
 ![Creative Commons Logo](https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png)
 
 This project is open source and released under the [Creative Commons Attribution NonCommercial 3.0 License](http://creativecommons.org/licenses/by-nc/3.0/us/)
