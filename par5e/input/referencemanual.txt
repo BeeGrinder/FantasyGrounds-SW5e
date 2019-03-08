@@ -3,24 +3,30 @@
 ##;Player/DM notes
 Every effort was made to have the Fantasy Grounds SW5e experience similar to the standard 5e experience.
 However, because certain ruleset changes may effect the Fantasy Grounds interface or other behaviors, some things may be slightly different in Fantasy Grounds than they appear in the SW5e PDF documents. These should be minor and intuative.
+#h;Modules and Extensions
+It is required that this module is used with the SW5e Extension.  Many of its features will not work if the extension is not loaded.
+The following modules should all be used together; SW5e Player Book(Class, Race, Background, etc), SW5e Supplement(Spells, Items, etc), SW5e NPC Manual(NPCs).
 #h;Changes from the SW5e PDF Document
-
 #h;Class Changes
 #bp;Berserker
 Unarmored Defense: This skill does not automatically alter the AC calculation in the character sheet.  The player/DM must add the CON bonus manually.
 #h;Race Changes
+No issues found in species at this time.
+#h;Background Changes
+No issues found in backgrounds at this time.
+#h;Feats Changes
+No issues found in feats at this time.
 #h;Other Changes
 #bp;Items and Equipment
-Items and Equipment are in a separate module called SW5e Equipment.mod see the reference section of that module for any notes.
+Items and Equipment are in a separate module called SW5e Supplement.mod see the reference section of that module for any notes.
 #bp;Item Effects
-Some items, like grenades, have effects, these are included in the SW5e Spell Book module.
+Some items, like grenades, have effects, these are included in the SW5e Supplement module.
 #bp;Equipment Packs
-At this time the starting equipment packs were not working like in standard 5e where the individual items were placed in the player's inventory.  So, although the packs are listed in the reference manual, the individual items must be allocated to the player inventory manually.
-A solution for this is to create a Parcel.  A parcel with a negative money amount will even deduct the cost from the player's inventory.
+The starting Equipment Packs are found as Parcels in the SW5e Supplement module.  They have no cost, so if doing the starting wealth option, be sure to deduct the proper costs involved.
 #bp;Items Button Weapon/Armor Lists
 When you use the Items button on the right side of the screen you see the Armor and Weapons buttons at the top of that window.  These buttons should give items by category for picking weapons and armor.
 #bp;Powers(Spells)
-Powers(Spells) are in a separate module called SW5e Spell Book.mod see the reference section of that module for any notes.
+Powers(Spells) are in a separate module called SW5e Supplement.mod see the reference section of that module for any notes.
 #bp;-----
 #ls;
 #li;Special thanks to Maximus13 for allowing me to use data from his web site.
@@ -30,175 +36,14 @@ Powers(Spells) are in a separate module called SW5e Spell Book.mod see the refer
 #!;SW5e Ruleset Information
 ##;Credits and Attribution
 #h;Credits from the SW5e Player Handbook
-First and foremost, I have to thank the person who got me into D&D: my buddy, Ross. That playgroup was not great, but it started my journey.
-Second, I have to thank the original guinea pigs of this conversion: Drew, Eric, and Rickey. It was comically bad, but we had fun with it.
-Lastly, while I would love to say that I created everything in this conversion, that wouldn't be entirely true. The following people deserve credit as well:
-Shout out to the /r/sw5e mod team:
-#ls;
-#li;/u/Grelite for all his help with editing and creation
-#li;/u/karbacca for the epic cover and SW5e logo
-#li;/u/LordAelfric for the awesome theme
-#li;/u/playking57 for his help with artwork
-#li;/u/stormchaser6 for his help with the Starships overhaul that you haven't seen yet
-#le;
-The following noteworthy contributors:
-#ls;
-#li;/u/Charrmeleon for the entire Scholar class
-#li;/u/Bioremnant for the overhaul of the Scholar class
-#li;/u/MayB_259 for their Human species
-#li;/u/SpiketailDrake for the Bloodstorm Approach Berserker archetype
-#li;/u/TheGentGamer for the Warchief Approach Berserker archetype
-#le;
-And all of the reddit users on discord who have been greatly helpful and developing and reviewing new content:
-#ls;
-#li;a_dnd_guy
-#li;ATrolllol
-#li;Big_D_McGee
-#li;BioRemnant
-#li;Butts_Are_Butts
-#li;ColdPlacentaSandwich
-#li;Croceus
-#li;EskrimadorNC
-#li;GAdvance
-#li;Jondragonskin
-#li;karbacca
-#li;LordAelfric
-#li;mowliegrowlie
-#li;OberonGypsy
-#li;playking57
-#li;Professorpenquin
-#li;Rhylith
-#li;Samuel_L_Blackson
-#li;Shock3600
-#li;spacenavy
-#li;Stoneward13
-#li;Stormchaser6
-#li;tomato-andrew
-#li;Xorius5
-#le;
-If you don't see your name here, it's because I hate you. Or I forgot to add your name to the list.
-#h;ART ASSETS
-Listed alphabetically
-#ls;
-#li;AdmYrrek
-#li;Andrew Johanson
-#li;Anna Christenson
-#li;Arden Beckwith
-#li;Art of Bartlett
-#li;Audrey Wright
-#li;AV-6R7
-#li;Brandon Harris
-#li;Brian Rood
-#li;canuckcrazed007
-#li;Chris Trevas
-#li;CloneCommanderNeyo
-#li;Cristi Balanescu
-#li;Dangerous Covenants
-#li;Dark Dream
-#li;Darren Tan
-#li;Dave Seeley
-#li;David Kegg
-#li;David Nash
-#li;Diogo Saito
-#li;echostain
-#li;Eiluvision
-#li;Entar0178
-#li;Fantasy Flight Games
-#li;Gregory Vlasenko
-#li;Hui Zou
-#li;ianllanas
-#li;Jake Murray
-#li;Jason Edmiston
-#li;Jhomar Soriano
-#li;Joel Hustak
-#li;Knight of Malta
-#li;Matt Difa
-#li;Metropolis-Hero1125
-#li;Mike Nash
-#li;RamArtwork
-#li;Ron-faure
-#li;Sam Wood
-#li;Skip Skyhook
-#li;Smokeh
-#li;Solo: A Star Wars Story The Official Guide
-#li;Somarinoa
-#li;Sperasoft
-#li;Star Wars Battlefront
-#li;Star Wars Character Encyclopedia
-#li;Star Wars Encyclopedia of Starfighters and Other Vehicles
-#li;Stu Cunningham
-#li;Terryl Whitlatch
-#li;The New Essential Guide to Droids
-#li;The New Essential Guide to Vehicles and Vessels
-#li;Weasyl
-#li;Whitelight369
-#li;William O'Connor
-#le;
-And of course
-Star Wars
-Star Wars: Rebels
-Star Wars: The Clone Wars
-Star Wars: The Old Republic
-If I missed you and you feel you deserve credit please let me know. I've been working on this for years, and I'm fallible.
-I hope you like it.
-##;5e Rule Set Conversion
-#h;5e Rule Set Conversion
-This conversion has been a labor of love of mine starting three years ago. Back when I was a fledgling DM, I undertook the foolish effort of attempting the first version of this overhaul, which was comically terrible. It featured four classes, which were just severely bastardized versions of their standard counterparts. 
-This version, which I will call version 1.0 as an absolute snub to my first attempt, I've been working on pretty consistently for about nine consecutive months. I've had some help from various sources (who will be credited accordingly), but for the most part this has come from mine own brain. 
-This book is designed to parallel the official 5e Player's Handbook. It includes all the relevant chapters, reskinned to fit a Star Wars setting. The significant differences will be listed below.
-#h;What's Different
-While this expansion utilizes the base rules of 5th Edition, there are significant differences that will be illustrated here, broken down by chapter. There is more information in each chapter, as per the SRD.
-#h;Chapter 1: Step-by-Step Characters
-Reskinned for the setting, with no noteworthy differences.
-#h;CHAPTER 2: SPECIES
-Races relabeled to species, all of which are brand new.
-#h;CHAPTER 3: CLASSES
-There are ten classes. Berserker, Monk, Operative, and Scout, are mostly reskinned, with some variation to ft the setting. Fighter utilizes my homebrew of baseline combat superiority. Engineer is based of Artificer, but extrapolated to be a full caster. Guardian is based of of Paladin, and Consular is based of of Sorcerer, with changes to better ft a force-wielder. Sentinel is a reimagining of a monk, but as a 2/3 caster. Scholar is a brand new class.
-#h;CHAPTER 4: BACKGROUNDS
-For the most part, these are reskinned from 5E with one major difference; each background also offers a choice of feat. This is a houserule I've been using for a while that has become quite popular. You can very easily ignore this houserule if you're so inclined.
-#h;CHAPTER 5: EQUIPMENT
-Currency has been changed to credits, with roughly 1 gp = 10 cr. Magic items are reskinned as enhanced or modified items, as appropriate, with rarities designed to mimic those of Star Wars: the Old Republic. Equipment functions similarly, with the exception of the breakdown of weapons; rather than simply simple and martial, they are broken down into blasters, lightsabers, and vibroweapons. This also utilizes a few houserules: light, medium, and heavy shields with proficiencies collapsed into the appropriate armor, new weapon features, etc.
-#h;CHAPTER 6: CUSTOMIZATION OPTIONS
-New multiclassing requirements/profciencies, and with the exception of the spell point variant (discussed in chapter 10), the only difference is new or different feats.
-#h;CHAPTER 7: USING ABILITY SCORES
-Generally the same, with the exception of skills; Arcana, History, and Religion have been collapsed into Lore, with Piloting and Technology being new skills.
-#h;CHAPTER 8: ADVENTURING
-Basically identical with some reskinning.
-#h;CHAPTER 9: COMBAT
-Basically identical with some reskinning with the exception of damage types.
-#ls;
-#li;Bludgeoning, piercing, and slashing are collapsed into kinetic damage.
-#li;Ion is a new damage with improved efficacy against constructs, droids, and electronics.
-#li;Radiant has become energy damage.
-#li;Thunder has become sonic damage.
-#le;
-#h;CHAPTER 10: FORCE- AND TECH-CASTING
-There are two major changes in this section:
-#ls;
-#li;Spells are now called powers.
-#li;Cantrips are now called at-will powers.
-#li;My own interpretation and simplification of the spell point variant from the DMG. Basically, casting a power at a given level costs that level + 1 points.
-#le;
-Spellcasting has been separated into forcecasting and techcasting.
-#ls;
-#li;Forcecasting uses Wisdom/Charisma and Force
-#li;Points, which regenerate on a long rest.
-#li;Techcasting uses Intelligence and Tech Points, which regenerate on a short rest.
-#li;While a character can have both force and techcasting, they are kept completely separate.
-#le;
-#h;CHAPTERS 11 AND 12: FORCE AND TECH POWERS
-Chapter 11 has been broken down into two chapters to keep force and tech powers separate.
-#h;MONSTER MANUAL
-There is a Monster Manual ready to use.
-#h;STARSHIPS OF THE GALAXY
-There is a space expansion optional rule set called Starships of the Galaxy, in honor of the Saga edition's book.
-#h;GOING FORWARD
-Additional content will be released bi-weekly, on Tuesdays, for the foreseeable future.
+Please read the "official" SW5e Player Handbook.  See the section about credit and attributions.
+All the SW5e PDF files are available in the first post of the SW5e subreddit at the link below.
+https://www.reddit.com/r/sw5e/
 
 #!;Copyrights and Licensing
 ##;Conversion Copyright
 #h;Fantasy Grounds Conversion Copyright Information
-This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
+This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
 ##;(OGL)Open Gaming License
 #h;(OGL)Open Gaming License and SRD5
 Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a. 
