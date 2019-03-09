@@ -11,22 +11,20 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 [SW5e Fantasy Grounds Forum Thread](https://www.fantasygrounds.com/forums/showthread.php?47628-SW5e-a-star-wars-home-brew-on-the-5e-rule-set)
 
 ---
-__Separating Modules__: For some time during development, the equiment/items and spells will be in separate modules.  This may be a slight inconvenience, but will ease ruleset development by allowing each section to be developed independently.  The base character creation and related subjects (Class, Race, Background, and Feats) will remain in the core player book module.  At some point, these will likely be joined back together into a single module.
 
- |Sub-Project | Status | Notes |
+|Sub-Project | Status | Notes |
 | --- | --- | -- |
-|Player Book | Testing | Released. Please, report any issues. |
-|Spell Book | Testing | Released. Please, report any issues. |
-|Equipment Book | Testing | Released. Please, report any issues. |
-|NPC Book | Released | Released. Please, report any issues. |
-|Rule-set Extension | Released | Released. Please, report any issues. |
+|SW5e Player Book.mod | Released. | Released. Please, report any issues. |
+|SW5e Supplement.mod | Released. | Released. Please, report any issues. |
+|SW5e NPC Manual.mod | Released. | Released. Please, report any issues. |
+|Rule-set Extension | Released. | Released. Please, report any issues. |
 
 ---
 
 ### Fantasy Grounds User Information
 
 #### Installation
-##### Be Warned - The current modules are still in development and have issues.  They are being addressed soon.
+##### Please Help - I need play testing done, please report any errors, omissions or typos.
 
 * To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
@@ -44,21 +42,17 @@ __Separating Modules__: For some time during development, the equiment/items and
 * Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select it.
 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
-* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Spell Book__*, *__SW5e Equipment__*, and *__SW5e NPC Manual__*.
+* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Supplement__*, and *__SW5e NPC Manual__*.
 
 ### Developer Information
 
-The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content.</p>
+The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
 
 The *__NPCEngineer__* directory is for the text files that are parsed into the *__NPC Book__* module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
 
-The *__spell-mod-src__* directory contains all Force and Tech Powers source.  It is maintained through editing the source XML.
-
-The *__equipment__* directory contains all equiment shown in the Items selector button.  It is maintained through editing the source XML.
+The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML.
 
 The *__ext-src__* dirctory is for the extension sources.
-
-I have released *__my work__* on this module under the Creative Commons Attribution NonComercial license.  Basically this means you cannot copy *__my work__* in this module and *__charge money__* for your module work that includes my module code.  It does not prohibit the use of my work on a streaming service with ad revenue or subscriptions, or even paid GM games using this work.
 
 #### Release Goals
 * Initial Release (V1.0)
@@ -67,7 +61,7 @@ I have released *__my work__* on this module under the Creative Commons Attribut
    * Powers will still be called spells in the FG interface.
 
 ---
-###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
+###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
 ![Creative Commons Logo](https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png)
 
 This project is open source and released under the [Creative Commons Attribution NonCommercial 3.0 License](http://creativecommons.org/licenses/by-nc/3.0/us/)
