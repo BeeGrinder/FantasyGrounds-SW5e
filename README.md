@@ -44,6 +44,10 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Supplement__*, and *__SW5e NPC Manual__*.
 
+__New Starship Rules__
+
+These new rules basically has ships as complex as a player character with character sheets. I would suggest providing your players with their ship's sheet and using the FG interface for a star map, token movement, and dice rolling. But, at this time I don't know of a way to implement the starship combat of SW5e into the FG system.
+
 ### Developer Information
 
 The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
