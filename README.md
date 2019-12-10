@@ -14,10 +14,10 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|SW5e Player Book.mod | Released. | Released. Please, report any issues. |
-|SW5e Supplement.mod | Released. | Released. Please, report any issues. |
-|SW5e NPC Manual.mod | Released. | Released. Please, report any issues. |
-|Rule-set Extension | Released. | Released. Please, report any issues. |
+|SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, etc. |
+|SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement |
+|SW5e NPC Manual.mod | Released. | NPCs and some vehicles |
+|Rule-set Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
 
 ---
 
@@ -30,7 +30,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
    Download module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/modules)
  
-* To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.
+* To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.  Currently only works with FG Classic.
 
    Download the extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
 
