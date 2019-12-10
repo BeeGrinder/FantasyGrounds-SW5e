@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+	<font name="Aurebesh">
+		<ttf file="fonts/Aurebesh.ttf" name="Aurebesh" size="18" />
+		<color value="#261A12" />
+	</font>
+	<font name="Binary">
+		<ttf file="fonts/26061_MORSE.ttf" name="Morse Code" size="18" />
+		<color value="#261A12" />
+	</font>
+</root>
