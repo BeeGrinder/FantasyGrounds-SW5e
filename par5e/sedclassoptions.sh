@@ -1,4 +1,4 @@
-cd /e/Dropbox/Dropbox/development/FG-Git/FantasyGrounds-SW5e/par5e/output/
+cd /C/sw5e-dev/FantasyGrounds-SW5e/par5e/output
 mv client.xml client_preedit.xml
 cat client_preedit.xml |\
  sed 's/<name type="string">Berserker Approach<\/name>/<name type="string">Berserker Approach<\/name><specializationchoice type="number">1<\/specializationchoice>/g' |\
@@ -14,4 +14,3 @@ cat client_preedit.xml |\
 /c/Program\ Files/7-Zip/7z.exe a "SW5e Player Book.zip" client.xml definition.xml thumbnail.png images
 mv "SW5e Player Book.zip" "SW5e Player Book.mod"
 mv "SW5e Player Book.mod"  /c/Users/joecy/AppData/Roaming/Fantasy\ Grounds/modules/
- 

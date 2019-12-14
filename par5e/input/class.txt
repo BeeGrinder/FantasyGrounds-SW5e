@@ -5,9 +5,11 @@ A gamorrean snarls at the latest challenger to his authority over their savage t
 Frothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.
 These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 #h;Primal Instinct
-People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't. Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
+People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't. 
+Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
 #h;A Life of Danger
-Not every person deemed 'berserkers' by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to. Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
+Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.
+Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
 #h;CREATING A BERSERKER
 When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?
 What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to 'civilized' lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
@@ -21,18 +23,18 @@ You can make a berserker quickly by following these suggestions. First, put your
 #tr;3;+2;Berserker Approach;3;2;
 #tr;4;+2;Ability Score Improvement;3;2;
 #tr;5;+3;Extra Attack, Fast Movement;3;2;
-#tr;6;+3;Berserker Approach;4;2;
+#tr;6;+3;Path Feature;4;2;
 #tr;7;+3;Feral Instinct;4;2;
 #tr;8;+3;Ability Score Improvement;4;2;
-#tr;9;+4;Brutal Critical;4;3;
-#tr;10;+4;Berserker Approach;4;3;
+#tr;9;+4;Brutal Critical(1 die);4;3;
+#tr;10;+4;Path Feature;4;3;
 #tr;11;+4;Relentless Rage;4;3;
 #tr;12;+4;Ability Score Improvement;4;3;
-#tr;13;+5;Brutal Critical;5;3;
-#tr;14;+5;Berserker Approach;5;3;
+#tr;13;+5;Brutal Critical(2 dice);5;3;
+#tr;14;+5;Path Feature;5;3;
 #tr;15;+5;Persistent Rage;5;3;
 #tr;16;+5;Ability Score Improvement;5;4;
-#tr;17;+6;Brutal Critical;6;4;
+#tr;17;+6;Brutal Critical(3 dice);6;4;
 #tr;18;+6;Indomitable Might;6;4;
 #tr;19;+6;Ability Score Improvement;6;4;
 #tr;20;+6;Primal Champion;Unlimited;4;
@@ -46,8 +48,7 @@ Hit Points at Higher Levels: 1d12 (or 7) + your Constitution modifier per berser
 Proficiencies
 Armor: Light, Medium
 Weapons: Simple Vibroweapons, Martial Vibroweapons, Simple Blasters
-Tools: Tools: 
-
+Tools: None
 Saving Throws: Strength, Constitution
 Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 Equipment
@@ -204,7 +205,7 @@ At 6th level, weapons and the force are equally an extension of your rage. While
 Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Select up to ten other creatures of your choice within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.
 Once you've used this feature, you can't use it again until you nish a long rest.
 #abf;Force Storm;14
-At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. When you end your rage early as an action, all creatures within 15 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d6 force damage for each round you've spent in rage, or half as much on a successful save.
+At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. When you end your rage early as an action, all creatures within 15 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d12 force damage for each round you've spent in rage, or half as much on a successful save.
 #ab;Warchief Approach
 For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battleeld and how best to direct and control it. You guide your allies' strikes, and your presence is enough to wash away their fatigue.
 #abf;Savage Diplomat;3
@@ -333,21 +334,23 @@ Beginning at 10th level, your at-will universal powers grant a small boost to yo
 At 14th level, when you cast a force power that requires you to make an ability check as a part of casting that power (as in *sever force* and *force suppression*), you add your prociency bonus to that ability check.
 #abf;Force Resistance;18
 Starting at 18th level, you have advantage on saving throws against force powers. Additionally, you have resistance against the damage of force powers
+
 #ab;Way Of Lightning
-Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars who follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing damage from a distance, leaving them shaken and vulnerable -- if not dead
-#abf;Stunning Shocks;3
-When you choose this tradition at 3rd level, any time a creature takes damage from a force power you cast that deals lightning damage, you can force them to become shocked until the end of their next turn.
+Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars who follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing damage from a distance, leaving them shaken and vulnerable -- if not dead.
+#abf;Shocking Affinity;3
+When you choose this tradition at 3rd level, when you cast a force power that deals lightning damage, you can use Wisdom or Charisma as your forcecasting ability for it.
+Additionally, when you cast a damage dealing force power that requires an attack roll or saving throw, you can cause that power to instead deal lightning damage. If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw. If you hit with the power, or the target fails the power's saving throw, affected creatures become shocked until the start of your next turn. You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a short or long rest.
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a short or long rest.
 #abf;Potent Lightning;6
-At 6th level you add your Charisma modifier to any damage you deal with force powers that deal lightning damage.
-#abf;Shocking Rebuke;10
-Beginning at 10th level, when a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. On a failed save, the creature takes 1d10 plus your consular level lightning damage and becomes *shocked* until the end of their next turn. On a successful save, the creatures takes half as much damage and isn't *shocked*.
-You can use this feature a number of times equal to your Charisma modier (a minimum of once). You regain all expended uses when you finish a long rest
+At 6th level you add your Wisdom or Charisma modifier (your choice, a minimum of +1) to any damage you deal with force powers that deal lightning damage.
+#abf;Blistering Rebuke;10
+Beginning at 10th level, when a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. On a failed save, the creature takes 1d10 plus your consular level lightning damage, is pushed back 10 feet, and becomes shocked until the end of their next turn. On a successful save, the creature takes half as much damage and isn't moved or shocked.
+You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a long rest.
 #abf;Electric Affinity;14
 At 14th level, you gain resistance to lightning damage. Additionally, force powers you cast ignore resistance to lightning damage.
 #abf;Unlimited Power;18
-Starting at 18th level, you can increase the power of your simpler lightning force powers. When you cast a force power of 6th-level or lower that deals lightning damage, you can deal maximum damage with that power.
-You can use this feature with no adverse effects a number of times equal to your Charisma modifier (a minimum of once). If you use this feature beyond this before you finish a long rest, you take 2d12 necrotic damage for each level of the power, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per power level increases by 1d12. This damage can not be reduced in any way.
+Starting at 18th level, you can increase the power of your simpler lightning force powers. When you cast a force power of 6th-level or lower that deals lightning damage, you can deal maximum damage with that power. 
+You can use this feature with no adverse effects a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). If you use this feature beyond this before you finish a long rest, you take 2d12 necrotic damage for each level of the power, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per power level increases by 1d12. This damage can not be reduced in any way.
 #ab;Way Of The Sage
 The rejuvenating power of the Force is incredible, and the consular is the master of this usage. Those consulars who follow the Way of the Sage assist with an array of Force healing powers that grant allies the strength to continue through even the harshest of encounters. Separated from the heart of the fray, the sage can be an unfailing warden to those in need.
 #abf;Disciple Of Life;3
@@ -508,7 +511,7 @@ If an upgrade has prerequisites, you must meet them to install it. You can insta
 #tr;POWER FIST;Armor;You upgrade your  modified armor gauntlet with increased reinforcement and weight. Your  modified armor's unarmed strike deals 1d4 kinetic damage. Additionally, when you take the Attack action and make an unarmed attack, you can make an additional unarmed attack as a bonus action.;
 #tr;PROTOTYPE ENHANCEMENT;Level 9, Enhancement;You further fine tune your modified armor or shield. The  modified armor or shield gains an additional +1 bonus to armor class.;
 #tr;PROTOTYPE POWER FIST;Level 7, Armor, Power Fist;You further upgrade your modified armor gauntlet with increased reinforcement and weight. Your  modified armor's unarmed strike deals 1d6 kinetic damage and has the following property. If you or your target move at least 10 feet in a straight line immediately before making an unarmed attack, the first unarmed attack you make deals additional damage equal to your Intelligence modifier.;
-#tr;RESISTANCE;Armor;You tune your modified armor against certain forms of damage. Choose acid, cold, energy, re, kinetic, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this upgrade multiple times. Each time you do so, you must choose a different damage type.;
+#tr;RESISTANCE;Armor;You tune your modified armor against certain forms of damage. Choose acid, cold, energy, fire, ion, kinetic, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this upgrade multiple times. Each time you do so, you must choose a different damage type.;
 #tr;SEALED SUIT;Level 5, Armor;As a bonus action you can hermetically seal your modified armor, giving you an air supply for up to 1 hour and making you immune to poison (but not curing you of existing poisoned conditions). Your armor regains 1 minute of air for every minute that you are not submerged and the armor is not sealed. Additionally, while you are wearing your modified armor you are considered adapted to cold and hot climates as well as high altitude, as described in chapter 5 of the Dungeon Master's Guide.;
 #tr;SENTIENT ARMOR;Level 13, Artificially Intelligent;Your artificial intelligence has learned to control the suit without you being in it. It is now a valid target of the *tracker droid interface* tech power. While your armor is acting independently, it uses your ability scores, saving throws, and skills, and it has hit points equal to your engineer level. If reduced to 0 hit points, it falls directly to the ground, and it can not be equipped again until you finish a long rest.;
 #tr;SHIELD AMPLIFIER;Medium Shield Generator;You modify your medium shield generator to project outward. As a bonus action you can amplify your medium shield generator until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC qual to your shield's bonus. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
@@ -614,7 +617,7 @@ If an upgrade has prerequisites, you must meet them to install it. You can insta
 #tr;Durability Module;;You enhance your droid's durability, granting the following benefits: When your droid rolls a Hit Die to regain hit points, the minimum number of hit points your droid can regain from the roll equals twice your droid's Constitution modifier (minimum of 2). Your droid's hit point maximum increases by an amount equal to twice its level when you install this protocol. Whenever your droid gains a level thereafter, its hit point maximum increases by an additional 2 hit points.;
 #tr;Emergency Mode;Level 15, Class Four Droid, Back-Up Protocol;You upgrade your droid's back-up protocol. When your droid's back-up protocol is initiated, it can immediately use its reaction to make one attack roll against a target within range. If the target is the source of the damage that reduced your droid to 0, the attack roll has advantage.;
 #tr;Energy Shield;;You install an energy shield in your droid. The energy shield has 1 charge. As an action, your droid can use 1 charge to cast the *energy shield* tech power. You can choose this upgrade multiple times. Each time you do so, the energy shield gains another charge, to a maximum of 3. The energy shield regains all expended charges after a long rest.;
-#tr;Expertise Protocol;Level 5;You install a protocol in your droid that grants it expertise in a skill. Choose a skill that your droid is proficient with. Your droid's proficiency bonus is doubled for any ability check it makes with that skill.;
+#tr;Expertise Protocol;Level 5;You install a protocol in your droid that grants it expertise in a skill. Choose a skill that your droid is proficient in. Your droid gains expertise in it.;
 #tr;False Combustion;Class Two Droid;You install a panic protocol in your droid. As a reaction in response to taking damage, your droid can feign an explosion. For 1 minute, your droid appears to be destroyed to all outward inspection. A creature can use its action to inspect the droid and make an Intelligence (Investigation) check against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus). If it succeeds, it becomes aware that the target is disguised.;
 #tr;Fighting Style Protocol;;Your droid adopts a particular style of fighting as its specialty. Choose one of the Fighting Style options, detailed in chapter 6. Your droid can't take a Fighting Style option more than once, even if it later gets to choose again.;
 #tr;Flamethrower;;You install a flamethrower in your droid. The flamethrower has 1 charge. As an action, your droid can cast the *jet of flame* tech power or use 1 charge to cast the *flame sweep* tech power at 1st level. The saving throw is made against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus). You can choose this upgrade multiple times. Each time you do so, the flamethrower gains another charge, to a maximum of 3. If the flamethrower has multiple charges, you can use multiple charges to cast *flame sweep* at a higher level, 1 point per charge. The flame thower regains all expended charges after a long rest.;
@@ -1028,6 +1031,7 @@ Starting at 2nd level, when you hit a creature with a melee weapon attack, you c
 You can't use a higher level force slot than your Max Power Level.
 #fe;Guardian Aura;2
 At the 2nd level, you gain an aura of your choice, as described at the end of the class description. When you reach 10th level you can select a second aura.
+The auras are presented in alphabetical order. If multiple guardians grant the same aura, affected creatures can only benefit from it once. You must be conscious to grant the benefits of your auras.
 #ts;
 #th;Aura Name;Description;
 #tr;Aura of Conquest;Whenever a creature who is frightened of you starts its turn within 5 feet of you, its speed is reduced to 0 and that creature takes psychic damage equal to half your guardian level. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
@@ -1214,7 +1218,7 @@ You start with the following equipment, in addition to the equipment granted by 
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (1d4 x 100) cr.
 #fe;Unarmored Defense;1
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.
+Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom or Charisma modifier (your choice).
 #fe;Martial Arts;1
 At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are techblades and any simple vibroweapons that don't have the two-handed or heavy property.
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:
@@ -1327,7 +1331,7 @@ Starting at 11th level, you can enter a special meditation that surrounds you wi
 #abf;Quivering Palm;17
 At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 focus points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same planet. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
 You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
-##;Operative
+##;Operative-Overhaulme
 #h;Operative
 A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.
 With a wary eye on the door, a scruffy-looking Duros plays pazaak in a seedy cantina. When two city guards appear at the exit, he smiles and reaches under the table. Before they can move in, the smuggler flips the table and opens fire. The crowd scatters in panic, giving him just enough cover to escape. 
@@ -1374,7 +1378,7 @@ Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per operati
 Proficiencies
 Armor: Light Armor
 Weapons: Simple Vibroweapons, Simple Blasters, Blaster Pistol, Vibrorapier, Techblade, Hidden Blade
-Tools: Your choice of demolitions kit, security kit, or slicer's kit 
+Tools: Your choice of demolitions kit, disguise kit, forgery kit, poisoner's kit, security kit, or slicer's kit
 
 Saving Throws: Dexterity, Intelligence
 Skills: Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Piloting, Sleight of Hand, Stealth, and Technology
@@ -1390,7 +1394,7 @@ You start with the following equipment, in addition to the equipment granted by 
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (4d4 x 100) cr.
 #fe;Expertise;1
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and one of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+At 1st level, choose two of your skill proficiencies, or one of skill proficiencies and one of your tool proficiencies, or two of your tool proficiencies. You gain expertise in those skills or tools.
 At 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit.
 #fe;Sneak Attack;1
 Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
@@ -1428,14 +1432,12 @@ Once you've used this feature, you can't use it again until you finish a short o
 #abh;Operative Practices
 #ab;Gunslinger Practice
 Those operatives who choose the Gunslinger Practice are the masters of the trick shot. The Gunslinger and his blaster are the perfect team, utilizing knowledge of their enemies vulnerabilities to take advantage of every opportunity.
-#abf;Fighting Style;3
-When you choose this practice at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Close Quarters Shooting, Sharpshooter, or Two-Weapon Fighting options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
-#zls;
-#zl;fighter_feature;fightingstyle1;Fighting Styles
-#zle;
-#abf;Versatile Shooter;3
-Also at 3rd level, you learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot. 
-Some of your trick shots require your target to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows: 
+#abf;Dive for cover;3
+When you choose this practice at 3rd level, you learn to quickly move into cover when under fire. Once per round, when you are the target of a ranged attack, or you are subjected to an effect that allows you to make a Dexterity saving throw, and there is cover within 10 feet of you, you can move up to 10 feet (no action required). You must end this movement in cover.
+You can use this feature a number of times equal to your Dexterity modifier (a minimum of once). You regain all expended uses when you complete a long rest.
+#abf;Trick Shooter;3
+Also at 3rd level, you learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot.
+Some of your trick shots require your target to make a saving throw to resist the trick shot's effects. The saving throw DC is calculated as follows:
 #bp;Trick Shot save DC
 8 + your proficiency bonus + your Dexterity modifier.
 #h;Blinding Shot
@@ -1445,26 +1447,27 @@ You attempt to knock the target prone. The target must make a Strength saving th
 #h;Hampering Shot
 You attempt to hobble the enemy's movement. The target must make a Dexterity saving throw. If it fails, its movement speed is reduced by half and it makes Dexterity saving throws with disadvantage until the end of its next turn.
 #abf;Spinning Flourish;9
-Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw. The DC for this saving throw is equal to 8 + your proficiency bonus + your Charisma modifier. If the creature fails, it is charmed or frightened by you (your choice) until the end of your next turn. 
+Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failed save, the target is charmed or frightened by you (your choice) until the end of your next turn.
 #abf;Ricochet Shot;13
 Starting at 13th level you learn how to work all the angles. Once per turn, when you take the Attack action and miss with a ranged weapon attack, you can repeat the attack against a different target within 10 feet of the original target (no action required).
 #abf;Quickdraw;17
-At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal damage normally and can apply a single trick shot to each attack made this way. 
+At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal normal weapon damage and can apply a single trick shot to each attack made this way.
 Once you've used this feature, you must complete a short or long rest before you can use it again.
 #ab;Lethality Practice
-Those operatives who choose the Lethality Practice use disguises to get close to their enemies, then leverage the toxic power of poisons to debilitate them and capitalize on their weaknesses. 
+Those operatives who choose the Lethality Practice use disguises to get close to their enemies, then leverage the toxic power of poisons to debilitate them and capitalize on their weaknesses.
 #abf;Bonus Proficiencies;3
 When you choose this practice at 3rd level, you gain proficiency with the disguise kit and the poisoner's kit.
 #abf;Assassinate;3
-Also at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
-#abf;Infiltration Expertise;9
-Beginning at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 250 cr to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official looking certification to establish yourself as a member of a noble house from a remote city so you can insinuate yourself into the company of other aristocrats.
-Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.
+Also at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. Additionally, any hit you score against a creature that is surprised is a critical hit.
+#abf;Poisoner;9
+Beginning at 9th level, you are a master of poisons. You can apply a poison as a bonus action, and you have advantage on Dexterity (Sleight of Hand) checks made to conceal the application of poisons.
+Additionally, you can improve the capability of one dose of poison. To use this benefit, you must have a poisoner's kit, and the poison must be within reach. If the poison is applied before the end of your next short or long rest, the target has disadvantage on the saving throw made to resist your poison. Once you've used this feature, you must complete a long rest before you can use it again.
 #abf;Impostor;13
-Starting at 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior: listening to speech, examining handwriting, and observing mannerisms.
+Starting at 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least 1 minute studying these three components of the person's behavior: listening to speech, examining handwriting, and observing mannerisms. If you can only study some of these aspects (such as only having writing samples, or only audio recordings), you can mimic that aspect of the person, but not other aspects you have not studied.
 Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.
 #abf;Death Strike;17
 At 17th level, you become a master of instant death. When you attack and hit a creature that is surprised, it must make a Constitution saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failed save, double the damage of your attack against the creature.
+
 #ab;Saboteur Practice
 Those operatives who choose the Saboteur Practice enhanced their fine-honed skills of stealth and agility with tech, learning tricks to distract and beguile or using explosives and advanced tech to sustain a longer assault.
 #abf;Techcasting;3
@@ -1507,7 +1510,8 @@ your proficiency bonus + your Intelligence modifier
 #h;Techcasting Focus
 You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
 #abf;Tracker Droid Improvements;3
-Also at 3rd level, when you cast *tracker droid interface*, you can modify the tracker droid, and you can perform the following additional tasks with it:
+Also at 3rd level, you can cast the tracker droid interface tech power at 1st-level without expending tech points. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Additionally, when you cast the tracker droid interface tech power, you can modify the tracker droid, and you can perform the following additional tasks with it:
 #ls;
 #li;You can make the tracker droid invisible.
 #li;You can stow one object the tracker droid is carrying in a container worn or carried by another creature
@@ -1518,12 +1522,14 @@ You can perform one of these tasks without being noticed by a creature if your t
 In addition, you can use the bonus action granted by your Cunning Action to control the tracker droid.
 #abf;Powered Ambush;9
 Beginning at 9th level, if you are hidden from a creature when you cast a power on it, the creature has disadvantage on any saving throw it makes against the power this turn.
-#abf;Versatile Tracker;13
-Starting at 13th level, you gain the ability to distract targets with your tracker droid. As a bonus action on your turn, you can designate a creature within 5 feet of the tracker droid. Doing so gives you advantage on attack rolls against that creature until the end of the turn.
-#abf;Powered Thief;17
-At 17th level, you gain the ability to steal the knowledge of how to cast a power from another techcaster. Immediately after a creature casts a tech power that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its techcasting ability modifier. The DC equals your tech save DC. On a failed save, you negate the power's effect against you, and you steal the knowledge of the power if it is at least 1st level and of a level you can cast. For the next 8 hours, you know the power and can cast it using your tech points. The creature can't cast that power until the 8 hours have passed.
-Once you've used this feature, you can't use it again until you finish a long rest.
-##;Scholar
+#abf;Explosive Retribution;13
+Starting at 13th level, as a bonus action on your turn, or as a reaction when the target of your tracker droid interface is reduced to 0 hit points, you can detonate your tracker droid. Each creature within 10 feet of the tracker droid must make a Dexterity saving throw against your tech save DC. A creature takes 4d4 ion damage on a failed save, or half as much as on a successful one. Any electronics within the blast radius are disabled until rebooted.
+Once you've detonated the target of your tracker droid interface, it is rendered useless until you repair it over the course of a long rest.
+#abf;Sabotage;17
+At 17th level, you gain the ability to sabotage a tech power in the process of being cast When a hostile creature casts a tech power, and you are the target of the tech power or within its area of effect, you can use your reaction to force that creature to make an Intelligence saving throw against your tech save DC. On a successful save, the power is cast as normal.
+On a failed save, you negate the power's effects, and the caster takes 1d6 lightning damage per level of the power it was casting. Additionally, on a failed save, the caster's tech focus used to cast the tech power is overloaded and can't be used to cast tech powers for 1 minute.
+At the end of each of the caster's turns, it can repeat the Intelligence saving throw. On a success, it can use the tech focus to cast tech powers again. Once you've used this feature, you can't use it again until you finish a long rest.
+##;Scholar-Overhaulme
 #h;Scholar
 An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.
 Deep within the once thought abandoned ruins, a nautolan tends to his companions wounds as they rest. Countless long nights of study and training have conditioned him to keep going even when all others have exhausted themselves. He will see them through this.
@@ -1611,10 +1617,10 @@ Some of your maneuvers require your target to make a saving throw to resist the 
 #tr;TARGETED STRIKE;When an ally makes an attack against a creature, you can use your reaction to expend a superiority die. You add the superiority die to the attack roll and the damage roll if it hits.;
 #te;
 #fe;Critical Analysis;1
-At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless eficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:
+At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:
 #ls;
-#li;When you analyze a hostile creature, attack and damage rolls made with vibroweapons wielded in onehand or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.
-#li;When you analyze a friendly creature, the target may use its reaction and end your Critical Analysis to add your Intelligence modifier to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.
+#li;When you analyze a hostile creature, your attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.
+#li;When you analyze a friendly creature, the target can end your Critical Analysis on them (no action required) to add your Intelligence modifier to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.
 #le;
 #fe;Discoveries;2
 As you adventure, your studies have helped you discover new practices you can apply to your skills.
@@ -1821,7 +1827,7 @@ When you select this pursuit, you gain access to new discoveries which reflect y
 #tr;TACTICAL RETREAT;;When you take the Dash action, opportunity attacks made against you are made at disadvantage.;
 #tr;OBSERVANT LEADER;;You can add your Intelligence modifier to any Wisdom (Perception) skill checks you make.;
 #te;
-##;Scout
+##;Scout-Overhaulme
 #h;Scout
 Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.
 After tumbling away from the shrapnel of a missile's explosion, a bothan finds her feet and quick-fires two shots from her carbine at the oncoming tank. Shrugging off the wave of fear that threatens to permeate her entire being, she strafes around her foe, firing shot after shot to try to penetrate the tank's thick armor.
