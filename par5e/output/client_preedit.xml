@@ -10609,9 +10609,11 @@
           <p>Frothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.</p>
           <p>These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.</p>
           <h>Primal Instinct</h>
-          <p>People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't. Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.</p>
+          <p>People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't.</p>
+          <p>Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.</p>
           <h>A Life of Danger</h>
-          <p>Not every person deemed 'berserkers' by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to. Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.</p>
+          <p>Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.</p>
+          <p>Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.</p>
           <h>CREATING A BERSERKER</h>
           <p>When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?</p>
           <p>What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to 'civilized' lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.</p>
@@ -10674,7 +10676,7 @@
             <tr>
               <td>6</td>
               <td>+3</td>
-              <td>Berserker Approach</td>
+              <td>Path Feature</td>
               <td>4</td>
               <td>2</td>
             </tr>
@@ -10695,14 +10697,14 @@
             <tr>
               <td>9</td>
               <td>+4</td>
-              <td>Brutal Critical</td>
+              <td>Brutal Critical(1 die)</td>
               <td>4</td>
               <td>3</td>
             </tr>
             <tr>
               <td>10</td>
               <td>+4</td>
-              <td>Berserker Approach</td>
+              <td>Path Feature</td>
               <td>4</td>
               <td>3</td>
             </tr>
@@ -10723,14 +10725,14 @@
             <tr>
               <td>13</td>
               <td>+5</td>
-              <td>Brutal Critical</td>
+              <td>Brutal Critical(2 dice)</td>
               <td>5</td>
               <td>3</td>
             </tr>
             <tr>
               <td>14</td>
               <td>+5</td>
-              <td>Berserker Approach</td>
+              <td>Path Feature</td>
               <td>5</td>
               <td>3</td>
             </tr>
@@ -10751,7 +10753,7 @@
             <tr>
               <td>17</td>
               <td>+6</td>
-              <td>Brutal Critical</td>
+              <td>Brutal Critical(3 dice)</td>
               <td>6</td>
               <td>4</td>
             </tr>
@@ -10792,7 +10794,7 @@
           <p>
             <b>Weapons:</b> Simple Vibroweapons, Martial Vibroweapons, Simple Blasters</p>
           <p>
-            <b>Tools:</b> Tools:</p>
+            <b>Tools:</b> None</p>
           <p>
             <b>Saving Throws:</b> Strength, Constitution</p>
           <p>
@@ -10853,10 +10855,10 @@
             <name type="string">Weapons</name>
             <text type="string">Simple Vibroweapons, Martial Vibroweapons, Simple Blasters</text>
           </weapons>
-          <tools_tools>
-            <name type="string">Tools: Tools</name>
-            <text type="string"/>
-          </tools_tools>
+          <tools>
+            <name type="string">Tools</name>
+            <text type="string">None</text>
+          </tools>
           <savingthrows>
             <name type="string">Saving Throws</name>
             <text type="string">Strength, Constitution</text>
@@ -11347,7 +11349,7 @@
             <name type="string">Force Storm</name>
             <level type="number">14</level>
             <text type="formattedtext">
-              <p>At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. When you end your rage early as an action, all creatures within 15 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d6 force damage for each round you've spent in rage, or half as much on a successful save.</p>
+              <p>At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. When you end your rage early as an action, all creatures within 15 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d12 force damage for each round you've spent in rage, or half as much on a successful save.</p>
             </text>
             <specialization type="string">Marauder Approach</specialization>
           </forcestorm14>
@@ -11927,32 +11929,33 @@
             </text>
             <specialization type="string">Way of Balance</specialization>
           </forceresistance18>
-          <stunningshocks3>
-            <name type="string">Stunning Shocks</name>
+          <shockingaffinity3>
+            <name type="string">Shocking Affinity</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>When you choose this tradition at 3rd level, any time a creature takes damage from a force power you cast that deals lightning damage, you can force them to become shocked until the end of their next turn.</p>
+              <p>When you choose this tradition at 3rd level, when you cast a force power that deals lightning damage, you can use Wisdom or Charisma as your forcecasting ability for it.</p>
+              <p>Additionally, when you cast a damage dealing force power that requires an attack roll or saving throw, you can cause that power to instead deal lightning damage. If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw. If you hit with the power, or the target fails the power's saving throw, affected creatures become shocked until the start of your next turn. You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a short or long rest.</p>
               <p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a short or long rest.</p>
             </text>
             <specialization type="string">Way Of Lightning</specialization>
-          </stunningshocks3>
+          </shockingaffinity3>
           <potentlightning6>
             <name type="string">Potent Lightning</name>
             <level type="number">6</level>
             <text type="formattedtext">
-              <p>At 6th level you add your Charisma modifier to any damage you deal with force powers that deal lightning damage.</p>
+              <p>At 6th level you add your Wisdom or Charisma modifier (your choice, a minimum of +1) to any damage you deal with force powers that deal lightning damage.</p>
             </text>
             <specialization type="string">Way Of Lightning</specialization>
           </potentlightning6>
-          <shockingrebuke10>
-            <name type="string">Shocking Rebuke</name>
+          <blisteringrebuke10>
+            <name type="string">Blistering Rebuke</name>
             <level type="number">10</level>
             <text type="formattedtext">
-              <p>Beginning at 10th level, when a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. On a failed save, the creature takes 1d10 plus your consular level lightning damage and becomes *shocked* until the end of their next turn. On a successful save, the creatures takes half as much damage and isn't *shocked*.</p>
-              <p>You can use this feature a number of times equal to your Charisma modier (a minimum of once). You regain all expended uses when you finish a long rest</p>
+              <p>Beginning at 10th level, when a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. On a failed save, the creature takes 1d10 plus your consular level lightning damage, is pushed back 10 feet, and becomes shocked until the end of their next turn. On a successful save, the creature takes half as much damage and isn't moved or shocked.</p>
+              <p>You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a long rest.</p>
             </text>
             <specialization type="string">Way Of Lightning</specialization>
-          </shockingrebuke10>
+          </blisteringrebuke10>
           <electricaffinity14>
             <name type="string">Electric Affinity</name>
             <level type="number">14</level>
@@ -11966,7 +11969,7 @@
             <level type="number">18</level>
             <text type="formattedtext">
               <p>Starting at 18th level, you can increase the power of your simpler lightning force powers. When you cast a force power of 6th-level or lower that deals lightning damage, you can deal maximum damage with that power.</p>
-              <p>You can use this feature with no adverse effects a number of times equal to your Charisma modifier (a minimum of once). If you use this feature beyond this before you finish a long rest, you take 2d12 necrotic damage for each level of the power, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per power level increases by 1d12. This damage can not be reduced in any way.</p>
+              <p>You can use this feature with no adverse effects a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). If you use this feature beyond this before you finish a long rest, you take 2d12 necrotic damage for each level of the power, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per power level increases by 1d12. This damage can not be reduced in any way.</p>
             </text>
             <specialization type="string">Way Of Lightning</specialization>
           </unlimitedpower18>
@@ -12033,12 +12036,12 @@
             <name type="string">Way Of Lightning</name>
             <level type="number">1</level>
             <text type="formattedtext">
-              <p>Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars who follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing damage from a distance, leaving them shaken and vulnerable -- if not dead</p>
+              <p>Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars who follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing damage from a distance, leaving them shaken and vulnerable -- if not dead.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.consular.features.stunningshocks3@SW5e Player Book">Stunning Shocks</link>
+                <link class="reference_classfeature" recordname="reference.classdata.consular.features.shockingaffinity3@SW5e Player Book">Shocking Affinity</link>
                 <link class="reference_classfeature" recordname="reference.classdata.consular.features.potentlightning6@SW5e Player Book">Potent Lightning</link>
-                <link class="reference_classfeature" recordname="reference.classdata.consular.features.shockingrebuke10@SW5e Player Book">Shocking Rebuke</link>
+                <link class="reference_classfeature" recordname="reference.classdata.consular.features.blisteringrebuke10@SW5e Player Book">Blistering Rebuke</link>
                 <link class="reference_classfeature" recordname="reference.classdata.consular.features.electricaffinity14@SW5e Player Book">Electric Affinity</link>
                 <link class="reference_classfeature" recordname="reference.classdata.consular.features.unlimitedpower18@SW5e Player Book">Unlimited Power</link>
               </listlink>
@@ -12637,7 +12640,7 @@
                 <tr>
                   <td>RESISTANCE</td>
                   <td>Armor</td>
-                  <td>You tune your modified armor against certain forms of damage. Choose acid, cold, energy, re, kinetic, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this upgrade multiple times. Each time you do so, you must choose a different damage type.</td>
+                  <td>You tune your modified armor against certain forms of damage. Choose acid, cold, energy, fire, ion, kinetic, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this upgrade multiple times. Each time you do so, you must choose a different damage type.</td>
                 </tr>
                 <tr>
                   <td>SEALED SUIT</td>
@@ -12994,7 +12997,7 @@
                 <tr>
                   <td>Expertise Protocol</td>
                   <td>Level 5</td>
-                  <td>You install a protocol in your droid that grants it expertise in a skill. Choose a skill that your droid is proficient with. Your droid's proficiency bonus is doubled for any ability check it makes with that skill.</td>
+                  <td>You install a protocol in your droid that grants it expertise in a skill. Choose a skill that your droid is proficient in. Your droid gains expertise in it.</td>
                 </tr>
                 <tr>
                   <td>False Combustion</td>
@@ -14522,6 +14525,7 @@
             <level type="number">2</level>
             <text type="formattedtext">
               <p>At the 2nd level, you gain an aura of your choice, as described at the end of the class description. When you reach 10th level you can select a second aura.</p>
+              <p>The auras are presented in alphabetical order. If multiple guardians grant the same aura, affected creatures can only benefit from it once. You must be conscious to grant the benefits of your auras.</p>
               <table>
                 <tr decoration="underline">
                   <td>
@@ -15144,7 +15148,7 @@
             <name type="string">Unarmored Defense</name>
             <level type="number">1</level>
             <text type="formattedtext">
-              <p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.</p>
+              <p>Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom or Charisma modifier (your choice).</p>
             </text>
           </unarmoreddefense1>
           <martialarts1>
@@ -15477,8 +15481,8 @@
           </standard>
         </equipment>
       </monk>
-      <operative>
-        <name type="string">Operative</name>
+      <operative_overhaulme>
+        <name type="string">Operative-Overhaulme</name>
         <text type="formattedtext">
           <h>Operative</h>
           <p>A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.</p>
@@ -15645,7 +15649,7 @@
           <p>
             <b>Weapons:</b> Simple Vibroweapons, Simple Blasters, Blaster Pistol, Vibrorapier, Techblade, Hidden Blade</p>
           <p>
-            <b>Tools:</b> Your choice of demolitions kit, security kit, or slicer's kit</p>
+            <b>Tools:</b> Your choice of demolitions kit, disguise kit, forgery kit, poisoner's kit, security kit, or slicer's kit</p>
           <p>
             <b>Saving Throws:</b> Dexterity, Intelligence</p>
           <p>
@@ -15663,25 +15667,25 @@
           <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (4d4 x 100) cr.</p>
           <h>Features</h>
           <listlink>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.expertise1@SW5e Player Book">Expertise</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.sneakattack1@SW5e Player Book">Sneak Attack</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.badfeeling2@SW5e Player Book">Bad Feeling</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.cunningaction2@SW5e Player Book">Cunning Action</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.operativepractice3@SW5e Player Book">Operative Practice</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.uncannydodge5@SW5e Player Book">Uncanny Dodge</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.evasion7@SW5e Player Book">Evasion</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.reliabletalent11@SW5e Player Book">Reliable Talent</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.blindsense14@SW5e Player Book">Blindsense</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.slipperymind15@SW5e Player Book">Slippery Mind</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.elusive18@SW5e Player Book">Elusive</link>
-            <link class="reference_classfeature" recordname="reference.classdata.operative.features.strokeofluck20@SW5e Player Book">Stroke of Luck</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.expertise1@SW5e Player Book">Expertise</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.sneakattack1@SW5e Player Book">Sneak Attack</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.badfeeling2@SW5e Player Book">Bad Feeling</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.cunningaction2@SW5e Player Book">Cunning Action</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.operativepractice3@SW5e Player Book">Operative Practice</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.uncannydodge5@SW5e Player Book">Uncanny Dodge</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.evasion7@SW5e Player Book">Evasion</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.reliabletalent11@SW5e Player Book">Reliable Talent</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.blindsense14@SW5e Player Book">Blindsense</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.slipperymind15@SW5e Player Book">Slippery Mind</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.elusive18@SW5e Player Book">Elusive</link>
+            <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.strokeofluck20@SW5e Player Book">Stroke of Luck</link>
           </listlink>
           <h>Operative Practices</h>
           <listlink>
-            <link class="reference_classability" recordname="reference.classdata.operative.abilities.gunslingerpractice@SW5e Player Book">Gunslinger Practice</link>
-            <link class="reference_classability" recordname="reference.classdata.operative.abilities.lethalitypractice@SW5e Player Book">Lethality Practice</link>
-            <link class="reference_classability" recordname="reference.classdata.operative.abilities.saboteurpractice@SW5e Player Book">Saboteur Practice</link>
+            <link class="reference_classability" recordname="reference.classdata.operative_overhaulme.abilities.gunslingerpractice@SW5e Player Book">Gunslinger Practice</link>
+            <link class="reference_classability" recordname="reference.classdata.operative_overhaulme.abilities.lethalitypractice@SW5e Player Book">Lethality Practice</link>
+            <link class="reference_classability" recordname="reference.classdata.operative_overhaulme.abilities.saboteurpractice@SW5e Player Book">Saboteur Practice</link>
           </listlink>
         </text>
         <hp>
@@ -15709,7 +15713,7 @@
           </weapons>
           <tools>
             <name type="string">Tools</name>
-            <text type="string">Your choice of demolitions kit, security kit, or slicer's kit</text>
+            <text type="string">Your choice of demolitions kit, disguise kit, forgery kit, poisoner's kit, security kit, or slicer's kit</text>
           </tools>
           <savingthrows>
             <name type="string">Saving Throws</name>
@@ -15725,7 +15729,7 @@
             <name type="string">Expertise</name>
             <level type="number">1</level>
             <text type="formattedtext">
-              <p>At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and one of your tool proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.</p>
+              <p>At 1st level, choose two of your skill proficiencies, or one of skill proficiencies and one of your tool proficiencies, or two of your tool proficiencies. You gain expertise in those skills or tools.</p>
               <p>At 6th level, you can choose two more of your proficiencies (in skills or tools) to gain this benefit.</p>
             </text>
           </expertise1>
@@ -15822,19 +15826,17 @@
               <p>Once you've used this feature, you can't use it again until you finish a short or long rest.</p>
             </text>
           </strokeofluck20>
-          <fightingstyle3>
-            <name type="string">Fighting Style</name>
+          <diveforcover3>
+            <name type="string">Dive for cover</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>When you choose this practice at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Close Quarters Shooting, Sharpshooter, or Two-Weapon Fighting options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>
-              <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.fighter.features.fightingstyle1@SW5e Player Book">Fighting Styles</link>
-              </listlink>
+              <p>When you choose this practice at 3rd level, you learn to quickly move into cover when under fire. Once per round, when you are the target of a ranged attack, or you are subjected to an effect that allows you to make a Dexterity saving throw, and there is cover within 10 feet of you, you can move up to 10 feet (no action required). You must end this movement in cover.</p>
+              <p>You can use this feature a number of times equal to your Dexterity modifier (a minimum of once). You regain all expended uses when you complete a long rest.</p>
             </text>
             <specialization type="string">Gunslinger Practice</specialization>
-          </fightingstyle3>
-          <versatileshooter3>
-            <name type="string">Versatile Shooter</name>
+          </diveforcover3>
+          <trickshooter3>
+            <name type="string">Trick Shooter</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you learn a number of trick shots you can use to debilitate enemies and impress allies. When you deal Sneak Attack damage to a creature, you may choose to forgo two of your Sneak Attack dice to make the attack a trick shot.</p>
@@ -15851,12 +15853,12 @@
               <p>You attempt to hobble the enemy's movement. The target must make a Dexterity saving throw. If it fails, its movement speed is reduced by half and it makes Dexterity saving throws with disadvantage until the end of its next turn.</p>
             </text>
             <specialization type="string">Gunslinger Practice</specialization>
-          </versatileshooter3>
+          </trickshooter3>
           <spinningflourish9>
             <name type="string">Spinning Flourish</name>
             <level type="number">9</level>
             <text type="formattedtext">
-              <p>Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw. The DC for this saving throw is equal to 8 + your proficiency bonus + your Charisma modifier. If the creature fails, it is charmed or frightened by you (your choice) until the end of your next turn.</p>
+              <p>Beginning at 9th level you can flourish your weapon in an intimidating or charming manner. As an action, you can cause one creature within 60 feet to make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failed save, the target is charmed or frightened by you (your choice) until the end of your next turn.</p>
             </text>
             <specialization type="string">Gunslinger Practice</specialization>
           </spinningflourish9>
@@ -15872,7 +15874,7 @@
             <name type="string">Quickdraw</name>
             <level type="number">17</level>
             <text type="formattedtext">
-              <p>At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal damage normally and can apply a single trick shot to each attack made this way.</p>
+              <p>At 17th level, you learn to perform miracles with just a blaster and some nerve. On your first turn in combat, if you aren't surprised, you can use your action to attack creatures that have not yet acted. Choose up to six such creatures that you can see, making a ranged weapon attack against each. On a hit, you deal normal weapon damage and can apply a single trick shot to each attack made this way.</p>
               <p>Once you've used this feature, you must complete a short or long rest before you can use it again.</p>
             </text>
             <specialization type="string">Gunslinger Practice</specialization>
@@ -15889,24 +15891,24 @@
             <name type="string">Assassinate</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>Also at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.</p>
+              <p>Also at 3rd level, you are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. Additionally, any hit you score against a creature that is surprised is a critical hit.</p>
             </text>
             <specialization type="string">Lethality Practice</specialization>
           </assassinate3>
-          <infiltrationexpertise9>
-            <name type="string">Infiltration Expertise</name>
+          <poisoner9>
+            <name type="string">Poisoner</name>
             <level type="number">9</level>
             <text type="formattedtext">
-              <p>Beginning at 9th level, you can unfailingly create false identities for yourself. You must spend seven days and 250 cr to establish the history, profession, and affiliations for an identity. You can't establish an identity that belongs to someone else. For example, you might acquire appropriate clothing, letters of introduction, and official looking certification to establish yourself as a member of a noble house from a remote city so you can insinuate yourself into the company of other aristocrats.</p>
-              <p>Thereafter, if you adopt the new identity as a disguise, other creatures believe you to be that person until given an obvious reason not to.</p>
+              <p>Beginning at 9th level, you are a master of poisons. You can apply a poison as a bonus action, and you have advantage on Dexterity (Sleight of Hand) checks made to conceal the application of poisons.</p>
+              <p>Additionally, you can improve the capability of one dose of poison. To use this benefit, you must have a poisoner's kit, and the poison must be within reach. If the poison is applied before the end of your next short or long rest, the target has disadvantage on the saving throw made to resist your poison. Once you've used this feature, you must complete a long rest before you can use it again.</p>
             </text>
             <specialization type="string">Lethality Practice</specialization>
-          </infiltrationexpertise9>
+          </poisoner9>
           <impostor13>
             <name type="string">Impostor</name>
             <level type="number">13</level>
             <text type="formattedtext">
-              <p>Starting at 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least three hours studying these three components of the person's behavior: listening to speech, examining handwriting, and observing mannerisms.</p>
+              <p>Starting at 13th level, you gain the ability to unerringly mimic another person's speech, writing, and behavior. You must spend at least 1 minute studying these three components of the person's behavior: listening to speech, examining handwriting, and observing mannerisms. If you can only study some of these aspects (such as only having writing samples, or only audio recordings), you can mimic that aspect of the person, but not other aspects you have not studied.</p>
               <p>Your ruse is indiscernible to the casual observer. If a wary creature suspects something is amiss, you have advantage on any Charisma (Deception) check you make to avoid detection.</p>
             </text>
             <specialization type="string">Lethality Practice</specialization>
@@ -16075,7 +16077,8 @@
             <name type="string">Tracker Droid Improvements</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>Also at 3rd level, when you cast *tracker droid interface*, you can modify the tracker droid, and you can perform the following additional tasks with it:</p>
+              <p>Also at 3rd level, you can cast the tracker droid interface tech power at 1st-level without expending tech points. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.</p>
+              <p>Additionally, when you cast the tracker droid interface tech power, you can modify the tracker droid, and you can perform the following additional tasks with it:</p>
               <list>
                 <li>You can make the tracker droid invisible.</li>
                 <li>You can stow one object the tracker droid is carrying in a container worn or carried by another creature</li>
@@ -16095,23 +16098,25 @@
             </text>
             <specialization type="string">Saboteur Practice</specialization>
           </poweredambush9>
-          <versatiletracker13>
-            <name type="string">Versatile Tracker</name>
+          <explosiveretribution13>
+            <name type="string">Explosive Retribution</name>
             <level type="number">13</level>
             <text type="formattedtext">
-              <p>Starting at 13th level, you gain the ability to distract targets with your tracker droid. As a bonus action on your turn, you can designate a creature within 5 feet of the tracker droid. Doing so gives you advantage on attack rolls against that creature until the end of the turn.</p>
+              <p>Starting at 13th level, as a bonus action on your turn, or as a reaction when the target of your tracker droid interface is reduced to 0 hit points, you can detonate your tracker droid. Each creature within 10 feet of the tracker droid must make a Dexterity saving throw against your tech save DC. A creature takes 4d4 ion damage on a failed save, or half as much as on a successful one. Any electronics within the blast radius are disabled until rebooted.</p>
+              <p>Once you've detonated the target of your tracker droid interface, it is rendered useless until you repair it over the course of a long rest.</p>
             </text>
             <specialization type="string">Saboteur Practice</specialization>
-          </versatiletracker13>
-          <poweredthief17>
-            <name type="string">Powered Thief</name>
+          </explosiveretribution13>
+          <sabotage17>
+            <name type="string">Sabotage</name>
             <level type="number">17</level>
             <text type="formattedtext">
-              <p>At 17th level, you gain the ability to steal the knowledge of how to cast a power from another techcaster. Immediately after a creature casts a tech power that targets you or includes you in its area of effect, you can use your reaction to force the creature to make a saving throw with its techcasting ability modifier. The DC equals your tech save DC. On a failed save, you negate the power's effect against you, and you steal the knowledge of the power if it is at least 1st level and of a level you can cast. For the next 8 hours, you know the power and can cast it using your tech points. The creature can't cast that power until the 8 hours have passed.</p>
-              <p>Once you've used this feature, you can't use it again until you finish a long rest.</p>
+              <p>At 17th level, you gain the ability to sabotage a tech power in the process of being cast When a hostile creature casts a tech power, and you are the target of the tech power or within its area of effect, you can use your reaction to force that creature to make an Intelligence saving throw against your tech save DC. On a successful save, the power is cast as normal.</p>
+              <p>On a failed save, you negate the power's effects, and the caster takes 1d6 lightning damage per level of the power it was casting. Additionally, on a failed save, the caster's tech focus used to cast the tech power is overloaded and can't be used to cast tech powers for 1 minute.</p>
+              <p>At the end of each of the caster's turns, it can repeat the Intelligence saving throw. On a success, it can use the tech focus to cast tech powers again. Once you've used this feature, you can't use it again until you finish a long rest.</p>
             </text>
             <specialization type="string">Saboteur Practice</specialization>
-          </poweredthief17>
+          </sabotage17>
         </features>
         <abilities>
           <gunslingerpractice>
@@ -16121,11 +16126,11 @@
               <p>Those operatives who choose the Gunslinger Practice are the masters of the trick shot. The Gunslinger and his blaster are the perfect team, utilizing knowledge of their enemies vulnerabilities to take advantage of every opportunity.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.fightingstyle3@SW5e Player Book">Fighting Style</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.versatileshooter3@SW5e Player Book">Versatile Shooter</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.spinningflourish9@SW5e Player Book">Spinning Flourish</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.ricochetshot13@SW5e Player Book">Ricochet Shot</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.quickdraw17@SW5e Player Book">Quickdraw</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.diveforcover3@SW5e Player Book">Dive for cover</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.trickshooter3@SW5e Player Book">Trick Shooter</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.spinningflourish9@SW5e Player Book">Spinning Flourish</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.ricochetshot13@SW5e Player Book">Ricochet Shot</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.quickdraw17@SW5e Player Book">Quickdraw</link>
               </listlink>
             </text>
           </gunslingerpractice>
@@ -16136,11 +16141,11 @@
               <p>Those operatives who choose the Lethality Practice use disguises to get close to their enemies, then leverage the toxic power of poisons to debilitate them and capitalize on their weaknesses.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.bonusproficiencies3@SW5e Player Book">Bonus Proficiencies</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.assassinate3@SW5e Player Book">Assassinate</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.infiltrationexpertise9@SW5e Player Book">Infiltration Expertise</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.impostor13@SW5e Player Book">Impostor</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.deathstrike17@SW5e Player Book">Death Strike</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.bonusproficiencies3@SW5e Player Book">Bonus Proficiencies</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.assassinate3@SW5e Player Book">Assassinate</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.poisoner9@SW5e Player Book">Poisoner</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.impostor13@SW5e Player Book">Impostor</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.deathstrike17@SW5e Player Book">Death Strike</link>
               </listlink>
             </text>
           </lethalitypractice>
@@ -16151,11 +16156,11 @@
               <p>Those operatives who choose the Saboteur Practice enhanced their fine-honed skills of stealth and agility with tech, learning tricks to distract and beguile or using explosives and advanced tech to sustain a longer assault.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.techcasting3@SW5e Player Book">Techcasting</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.trackerdroidimprovements3@SW5e Player Book">Tracker Droid Improvements</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.poweredambush9@SW5e Player Book">Powered Ambush</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.versatiletracker13@SW5e Player Book">Versatile Tracker</link>
-                <link class="reference_classfeature" recordname="reference.classdata.operative.features.poweredthief17@SW5e Player Book">Powered Thief</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.techcasting3@SW5e Player Book">Techcasting</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.trackerdroidimprovements3@SW5e Player Book">Tracker Droid Improvements</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.poweredambush9@SW5e Player Book">Powered Ambush</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.explosiveretribution13@SW5e Player Book">Explosive Retribution</link>
+                <link class="reference_classfeature" recordname="reference.classdata.operative_overhaulme.features.sabotage17@SW5e Player Book">Sabotage</link>
               </listlink>
             </text>
           </saboteurpractice>
@@ -16177,9 +16182,9 @@
             </item>
           </standard>
         </equipment>
-      </operative>
-      <scholar>
-        <name type="string">Scholar</name>
+      </operative_overhaulme>
+      <scholar_overhaulme>
+        <name type="string">Scholar-Overhaulme</name>
         <text type="formattedtext">
           <h>Scholar</h>
           <p>An overwhelming horde of tusken raiders bears down on a chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.</p>
@@ -16432,24 +16437,24 @@
           <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (3d4 x 100) cr.</p>
           <h>Features</h>
           <listlink>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.academicsuperiority1@SW5e Player Book">Academic Superiority</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.maneuvers1@SW5e Player Book">Maneuvers</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.criticalanalysis1@SW5e Player Book">Critical Analysis</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.discoveries2@SW5e Player Book">Discoveries</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.sageadvice2@SW5e Player Book">Sage Advice</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.expertise3@SW5e Player Book">Expertise</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.academicpursuit3@SW5e Player Book">Academic Pursuit</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.unwaveringmind5@SW5e Player Book">Unwavering Mind</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.calmandcollected14@SW5e Player Book">Calm and Collected</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.adaptableintellectual18@SW5e Player Book">Adaptable Intellectual</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scholar.features.knowledgeunbound20@SW5e Player Book">Knowledge Unbound</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.academicsuperiority1@SW5e Player Book">Academic Superiority</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.maneuvers1@SW5e Player Book">Maneuvers</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.criticalanalysis1@SW5e Player Book">Critical Analysis</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.discoveries2@SW5e Player Book">Discoveries</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.sageadvice2@SW5e Player Book">Sage Advice</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.expertise3@SW5e Player Book">Expertise</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.academicpursuit3@SW5e Player Book">Academic Pursuit</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.unwaveringmind5@SW5e Player Book">Unwavering Mind</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.calmandcollected14@SW5e Player Book">Calm and Collected</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.adaptableintellectual18@SW5e Player Book">Adaptable Intellectual</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.knowledgeunbound20@SW5e Player Book">Knowledge Unbound</link>
           </listlink>
           <h>Scholar Pursuits</h>
           <listlink>
-            <link class="reference_classability" recordname="reference.classdata.scholar.abilities.physicianpursuit@SW5e Player Book">Physician Pursuit</link>
-            <link class="reference_classability" recordname="reference.classdata.scholar.abilities.politicianpursuit@SW5e Player Book">Politician Pursuit</link>
-            <link class="reference_classability" recordname="reference.classdata.scholar.abilities.tacticianpursuit@SW5e Player Book">Tactician Pursuit</link>
+            <link class="reference_classability" recordname="reference.classdata.scholar_overhaulme.abilities.physicianpursuit@SW5e Player Book">Physician Pursuit</link>
+            <link class="reference_classability" recordname="reference.classdata.scholar_overhaulme.abilities.politicianpursuit@SW5e Player Book">Politician Pursuit</link>
+            <link class="reference_classability" recordname="reference.classdata.scholar_overhaulme.abilities.tacticianpursuit@SW5e Player Book">Tactician Pursuit</link>
           </listlink>
         </text>
         <hp>
@@ -16568,10 +16573,10 @@
             <name type="string">Critical Analysis</name>
             <level type="number">1</level>
             <text type="formattedtext">
-              <p>At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless eficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:</p>
+              <p>At 1st level, you are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a bonus action on your turn, you can analyze a target you can see within 60 feet of you. For the next minute, or until you analyze another target, you gain the following benefits:</p>
               <list>
-                <li>When you analyze a hostile creature, attack and damage rolls made with vibroweapons wielded in onehand or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.</li>
-                <li>When you analyze a friendly creature, the target may use its reaction and end your Critical Analysis to add your Intelligence modifier to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.</li>
+                <li>When you analyze a hostile creature, your attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.</li>
+                <li>When you analyze a friendly creature, the target can end your Critical Analysis on them (no action required) to add your Intelligence modifier to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.</li>
               </list>
             </text>
           </criticalanalysis1>
@@ -17105,12 +17110,12 @@
               <p>Physicians study the medical, anatomical, and biological sciences. Those scholars who choose the Physician Pursuit use their knowledge to mend their allies on the field and deal crippling blows with surgical precision.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.medicalpractitioner3@SW5e Player Book">Medical Practitioner</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.remotehealer3@SW5e Player Book">Remote Healer</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.fieldsurgeon6@SW5e Player Book">Field Surgeon</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.resuscitate9@SW5e Player Book">Resuscitate</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.panacea17@SW5e Player Book">Panacea</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.discoveries_physicianpursuit3@SW5e Player Book">Discoveries-Physician Pursuit</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.medicalpractitioner3@SW5e Player Book">Medical Practitioner</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.remotehealer3@SW5e Player Book">Remote Healer</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.fieldsurgeon6@SW5e Player Book">Field Surgeon</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.resuscitate9@SW5e Player Book">Resuscitate</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.panacea17@SW5e Player Book">Panacea</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.discoveries_physicianpursuit3@SW5e Player Book">Discoveries-Physician Pursuit</link>
               </listlink>
             </text>
           </physicianpursuit>
@@ -17121,13 +17126,13 @@
               <p>Politicians study social &amp; political sciences. Those scholars who choose the Politician Pursuit know how to best present themselves to manipulate the masses into doing their bidding or allow them and their allies to carry out their business without impediment. They also understand the importance of self-preservation for a political figure.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.silvertongue3@SW5e Player Book">Silver Tongue</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.motivatingdiplomat3@SW5e Player Book">Motivating Diplomat</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.additionalmaneuvers3@SW5e Player Book">Additional Maneuvers</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.forceofpersonality6@SW5e Player Book">Force Of Personality</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.reassemble9@SW5e Player Book">Reassemble</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.reassemble17@SW5e Player Book">Reassemble</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.discoveries_politicianpursuit3@SW5e Player Book">Discoveries-Politician Pursuit</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.silvertongue3@SW5e Player Book">Silver Tongue</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.motivatingdiplomat3@SW5e Player Book">Motivating Diplomat</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.additionalmaneuvers3@SW5e Player Book">Additional Maneuvers</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.forceofpersonality6@SW5e Player Book">Force Of Personality</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.reassemble9@SW5e Player Book">Reassemble</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.reassemble17@SW5e Player Book">Reassemble</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.discoveries_politicianpursuit3@SW5e Player Book">Discoveries-Politician Pursuit</link>
               </listlink>
             </text>
           </politicianpursuit>
@@ -17138,13 +17143,13 @@
               <p>Tacticians study strategy and the ways of war. Those scholars who choose the Tactician Pursuit train themselves and their allies in combat maneuvers to deftly eliminate their foes through clever positioning, and fierce, timely attacks.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.battleproficiencies3@SW5e Player Book">Battle Proficiencies</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.tacticalmastery3@SW5e Player Book">Tactical Mastery</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.additionalmaneuvers3@SW5e Player Book">Additional Maneuvers</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.fireasone6@SW5e Player Book">Fire As One</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.battlefieldsurvey9@SW5e Player Book">Battlefield Survey</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.all_outattack17@SW5e Player Book">All-Out Attack</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scholar.features.discoveries_tacticianpursuit3@SW5e Player Book">Discoveries-Tactician Pursuit</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.battleproficiencies3@SW5e Player Book">Battle Proficiencies</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.tacticalmastery3@SW5e Player Book">Tactical Mastery</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.additionalmaneuvers3@SW5e Player Book">Additional Maneuvers</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.fireasone6@SW5e Player Book">Fire As One</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.battlefieldsurvey9@SW5e Player Book">Battlefield Survey</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.all_outattack17@SW5e Player Book">All-Out Attack</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scholar_overhaulme.features.discoveries_tacticianpursuit3@SW5e Player Book">Discoveries-Tactician Pursuit</link>
               </listlink>
             </text>
           </tacticianpursuit>
@@ -17165,9 +17170,9 @@
             </item>
           </standard>
         </equipment>
-      </scholar>
-      <scout>
-        <name type="string">Scout</name>
+      </scholar_overhaulme>
+      <scout_overhaulme>
+        <name type="string">Scout-Overhaulme</name>
         <text type="formattedtext">
           <h>Scout</h>
           <p>Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.</p>
@@ -17401,26 +17406,26 @@
           <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (5d4 x 100) cr.</p>
           <h>Features</h>
           <listlink>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.favoredenemy1@SW5e Player Book">Favored Enemy</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.skilledexplorer1@SW5e Player Book">Skilled Explorer</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.fightingstyle2@SW5e Player Book">Fighting Style</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.techcasting2@SW5e Player Book">Techcasting</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.supremeawareness3@SW5e Player Book">Supreme Awareness</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.scouttechnique3@SW5e Player Book">Scout Technique</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.extraattack5@SW5e Player Book">Extra Attack</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.greaterfavoredenemy6@SW5e Player Book">Greater Favored Enemy</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.fleetoffoot8@SW5e Player Book">Fleet of Foot</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.hideinplainsight10@SW5e Player Book">Hide in Plain Sight</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.vanish14@SW5e Player Book">Vanish</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.feralsenses18@SW5e Player Book">Feral Senses</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout.features.foeslayer20@SW5e Player Book">Foe Slayer</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.favoredenemy1@SW5e Player Book">Favored Enemy</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.skilledexplorer1@SW5e Player Book">Skilled Explorer</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.fightingstyle2@SW5e Player Book">Fighting Style</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.techcasting2@SW5e Player Book">Techcasting</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.supremeawareness3@SW5e Player Book">Supreme Awareness</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.scouttechnique3@SW5e Player Book">Scout Technique</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.extraattack5@SW5e Player Book">Extra Attack</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.greaterfavoredenemy6@SW5e Player Book">Greater Favored Enemy</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.fleetoffoot8@SW5e Player Book">Fleet of Foot</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.hideinplainsight10@SW5e Player Book">Hide in Plain Sight</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.vanish14@SW5e Player Book">Vanish</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.feralsenses18@SW5e Player Book">Feral Senses</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.foeslayer20@SW5e Player Book">Foe Slayer</link>
           </listlink>
           <h>Scout Techniques</h>
           <listlink>
-            <link class="reference_classability" recordname="reference.classdata.scout.abilities.deadeyetechnique@SW5e Player Book">Deadeye Technique</link>
-            <link class="reference_classability" recordname="reference.classdata.scout.abilities.huntertechnique@SW5e Player Book">Hunter Technique</link>
-            <link class="reference_classability" recordname="reference.classdata.scout.abilities.stalkertechnique@SW5e Player Book">Stalker Technique</link>
+            <link class="reference_classability" recordname="reference.classdata.scout_overhaulme.abilities.deadeyetechnique@SW5e Player Book">Deadeye Technique</link>
+            <link class="reference_classability" recordname="reference.classdata.scout_overhaulme.abilities.huntertechnique@SW5e Player Book">Hunter Technique</link>
+            <link class="reference_classability" recordname="reference.classdata.scout_overhaulme.abilities.stalkertechnique@SW5e Player Book">Stalker Technique</link>
           </listlink>
         </text>
         <hp>
@@ -17922,12 +17927,12 @@
               <p>Due to their uncanny focus, Deadeyes can make shots that other marksmen would never dare to attempt. Deadeyes know how to make the most of ranged weapons and can use them to greater effect than other Scouts.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.focusedsuperiority3@SW5e Player Book">Focused Superiority</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.maneuvers@SW5e Player Book">Maneuvers</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.ocularenhancement3@SW5e Player Book">Ocular Enhancement</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.covertocover7@SW5e Player Book">Cover To Cover</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.shootfirst11@SW5e Player Book">Shoot First</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.overwatch15@SW5e Player Book">Overwatch</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.focusedsuperiority3@SW5e Player Book">Focused Superiority</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.maneuvers@SW5e Player Book">Maneuvers</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.ocularenhancement3@SW5e Player Book">Ocular Enhancement</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.covertocover7@SW5e Player Book">Cover To Cover</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.shootfirst11@SW5e Player Book">Shoot First</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.overwatch15@SW5e Player Book">Overwatch</link>
               </listlink>
             </text>
           </deadeyetechnique>
@@ -17938,10 +17943,10 @@
               <p>Some scouts seek to master weapons to better protect civilization from the terrors of their enemies. Followers of the Hunter Technique learn specialized fighting techniques for use against the most dire threats, from an onslaught of soldiers to towering walkers.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.hunter_sprey3@SW5e Player Book">Hunter's Prey</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.defensivetactics7@SW5e Player Book">Defensive Tactics</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.multiattack11@SW5e Player Book">Multiattack</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.superiorhunter_sdefense15@SW5e Player Book">Superior Hunter's Defense</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.hunter_sprey3@SW5e Player Book">Hunter's Prey</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.defensivetactics7@SW5e Player Book">Defensive Tactics</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.multiattack11@SW5e Player Book">Multiattack</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.superiorhunter_sdefense15@SW5e Player Book">Superior Hunter's Defense</link>
               </listlink>
             </text>
           </huntertechnique>
@@ -17952,11 +17957,11 @@
               <p>Some Scouts become consumed by the thrill of the hunt. Only heard and never seen they revel in the violence of battle. Followers of the Stalker Technique hone their abilities to track others utilizing a variety of techniques: camouflage, infiltration, surveillance, and target acquisition.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.shadowedstalking3@SW5e Player Book">Shadowed Stalking</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.accomplishedambusher3@SW5e Player Book">Accomplished Ambusher</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.concealment7@SW5e Player Book">Concealment</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.stalker_sflurry11@SW5e Player Book">Stalker's Flurry</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout.features.stalker_sdodge15@SW5e Player Book">Stalker's Dodge</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.shadowedstalking3@SW5e Player Book">Shadowed Stalking</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.accomplishedambusher3@SW5e Player Book">Accomplished Ambusher</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.concealment7@SW5e Player Book">Concealment</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.stalker_sflurry11@SW5e Player Book">Stalker's Flurry</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.stalker_sdodge15@SW5e Player Book">Stalker's Dodge</link>
               </listlink>
             </text>
           </stalkertechnique>
@@ -17978,7 +17983,7 @@
             </item>
           </standard>
         </equipment>
-      </scout>
+      </scout_overhaulme>
       <sentinel>
         <name type="string">Sentinel</name>
         <text type="formattedtext">
@@ -18656,41 +18661,41 @@
           <typeletterO>
             <description type="string">O</description>
             <index>
-              <operative>
+              <operative_overhaulme>
                 <link type="windowreference">
                   <class>reference_class</class>
-                  <recordname>reference.classdata.operative@SW5e Player Book</recordname>
+                  <recordname>reference.classdata.operative_overhaulme@SW5e Player Book</recordname>
                   <description>
                     <field>name</field>
                   </description>
                 </link>
                 <source type="string"/>
-              </operative>
+              </operative_overhaulme>
             </index>
           </typeletterO>
           <typeletterS>
             <description type="string">S</description>
             <index>
-              <scholar>
+              <scholar_overhaulme>
                 <link type="windowreference">
                   <class>reference_class</class>
-                  <recordname>reference.classdata.scholar@SW5e Player Book</recordname>
+                  <recordname>reference.classdata.scholar_overhaulme@SW5e Player Book</recordname>
                   <description>
                     <field>name</field>
                   </description>
                 </link>
                 <source type="string"/>
-              </scholar>
-              <scout>
+              </scholar_overhaulme>
+              <scout_overhaulme>
                 <link type="windowreference">
                   <class>reference_class</class>
-                  <recordname>reference.classdata.scout@SW5e Player Book</recordname>
+                  <recordname>reference.classdata.scout_overhaulme@SW5e Player Book</recordname>
                   <description>
                     <field>name</field>
                   </description>
                 </link>
                 <source type="string"/>
-              </scout>
+              </scout_overhaulme>
               <sentinel>
                 <link type="windowreference">
                   <class>reference_class</class>
