@@ -78,7 +78,7 @@ At 2nd level, you gain an uncanny sense of when things nearby aren't as they sho
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 #fe;Berserker Approach;3
 At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
-#fe;Ability Score Improvement;4,8,12,16,20
+#fe;Ability Score Improvement;
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -1846,7 +1846,7 @@ When you select this pursuit, you gain access to new discoveries which reflect y
 #tr;TACTICAL RETREAT;;When you take the Dash action, opportunity attacks made against you are made at disadvantage.;
 #tr;OBSERVANT LEADER;;You can add your Intelligence modifier to any Wisdom (Perception) skill checks you make.;
 #te;
-##;Scout-Overhaulme
+##;Scout
 #h;Scout
 Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.
 After tumbling away from the shrapnel of a missile's explosion, a bothan finds her feet and quick-fires two shots from her carbine at the oncoming tank. Shrugging off the wave of fear that threatens to permeate her entire being, she strafes around her foe, firing shot after shot to try to penetrate the tank's thick armor.
@@ -1866,24 +1866,24 @@ You can make a scout quickly by following these suggestions. First, make Strengt
 #h;The Scout
 #ts;
 #th;Level;Proficiency Bonus;Features;Tech Powers Known;Tech Points;Max Power Level;
-#tr;1;+2;Favored Enemy, Skilled Explorer;0;0;0;
+#tr;1;+2;Swift Response, Rangers Quarry;0;0;0;
 #tr;2;+2;Fighting Style, Techcasting;4;2;1;
-#tr;3;+2;Supreme Awareness, Scout Technique;5;3;1;
+#tr;3;+2;Pathfinder, Scout Technique;5;3;1;
 #tr;4;+2;Ability Score Improvement;6;4;1;
 #tr;5;+3;Extra Attack;7;5;2;
-#tr;6;+3;Greater Favored Enemy;6;8;2;
-#tr;7;+3;Scout Technique;7;9;2;
-#tr;8;+3;Ability Score Improvement, Fleet of Foot;8;10;2;
+#tr;6;+3;Expertise;6;8;2;
+#tr;7;+3;Technique feature;7;9;2;
+#tr;8;+3;Ability Score Improvement;8;10;2;
 #tr;9;+4;-;11;9;3;
-#tr;10;+4;Hide in Plain Sight;12;10;3;
-#tr;11;+4;Scout Technique;13;11;3;
+#tr;10;+4;Commando;12;10;3;
+#tr;11;+4;Technique feature;13;11;3;
 #tr;12;+4;Ability Score Improvement;14;12;3;
 #tr;13;+5;-;15;13;4;
-#tr;14;+5;Vanish;16;14;4;
-#tr;15;+5;Scout Technique;16;15;4;
+#tr;14;+5;Combat Tech;16;14;4;
+#tr;15;+5;Technique feature;16;15;4;
 #tr;16;+5;Ability Score Improvement;16;16;4;
 #tr;17;+6;-;17;17;5;
-#tr;18;+6;Feral Senses;17;18;5;
+#tr;18;+6;Supreme Awareness;17;18;5;
 #tr;19;+6;Ability Score Improvement;17;19;5;
 #tr;20;+6;Foe Slayer;18;20;5;
 #te;
@@ -1895,7 +1895,7 @@ Hit Points at 1st Level: 10 + your Constitution modifier.
 Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per scout level after 1st.
 Proficiencies
 Armor: Light Armor, Medium Armor
-Weapons: Simple Blasters, Martial Blasters, Simple Vibroweapons, Martial Vibroweapons
+Weapons: All Blasters, all Vibroweapons
 Tools: None
 Saving Throws: Strength, Dexterity
 Skills: Choose three from Animal Handling, Athletics, Insight, Investigation, Perception, Piloting, Stealth, Survival, and Technology
@@ -1910,26 +1910,21 @@ You start with the following equipment, in addition to the equipment granted by 
 #le;
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (5d4 x 100) cr.
-#fe;Favored Enemy;1
-Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.
-Choose a type of favored enemy: beasts, constructs, droids, force-wielders, or humanoids. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them. 
-When you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.
-#fe;Skilled Explorer;1
-You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits: 
+#fe;Swift Response;1
+Beginning at 1st level, you learn to react with swift and decisive action in combat. You gain the following benefits:
 #ls;
 #li;You ignore difficult terrain
 #li;You have advantage on initiative rolls. 
 #li;On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
 #le;
-In addition, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more: 
+#fe;Rangers Quarry;1
+Also 1st level, you learn how to effectively read and track your prey. On your turn, you can choose a creature you can see within 90 feet and mark it as your quarry (no action required). For the next 10 minutes, you gain the following benefits:
 #ls;
-#li;Difficult terrain doesn't slow your group's travel. 
-#li;Your group can't become lost by unenhanced means. 
-#li;Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger. 
-#li;If you are traveling alone, you can move stealthily at a normal pace. 
-#li;When you forage, you find twice as much food as you normally would. 
-#li;While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+#li;Once per round, when you hit the target with a weapon attack, you can deal 1d4 additional damage to it of the same type as the weapon's damage. This die changes as you gain scout levels, as shown in the Ranger's Quarry Damage Die column of the scout class table.
+#li;You have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it while it's on the same planet as you.
 #le;
+You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a short or long rest.
+Starting at 9th level, you can expend two uses of this feature to extend the duration to 8 hours. At 17th level, you can expend three uses to extend the duration to 24 hours.
 #fe;Fighting Style;2
 Beginning at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
 #zls;
@@ -1940,10 +1935,10 @@ Also at 2nd level, you have derived powers from schematics with the aid of your 
 #h;Tech Powers Known
 You learn 4 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Scout class table. You may not learn a tech power of a level higher than your Max Power Level.
 #h;Tech Points
-You have a number of tech points points equal to your scout level, and you earn more at higher levels, as shown in the Tech Points column of the Scout class table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
+You have a number of tech points equal to your scout level, as shown in the Tech Points column of the scout class table, + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
 #h;Max Power Level
 Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Scout class table.
-You may only cast tech powers at 4th and 5th-level once. You regain the ability to do so after a short or long rest.
+You may only cast tech powers at 4th and 5th-level once. You regain the ability to do so after a long rest.
 #h;Techcasting Ability
 Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
 #bp;Tech save DC
@@ -1952,12 +1947,18 @@ Intelligence is your techcasting ability for your tech powers. You use your Inte
 your proficiency bonus +your Intelligence modifier
 #h;Techcasting Focus
 You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
-#fe;Supreme Awareness;3
-Beginning at 3rd level, you learn to establish a link to beasts and to the land around you. 
-Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes. 
-Additionally, you can use your wristpad to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a power), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group.
+#fe;Pathfinder;3
+Beginning at 3rd level, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more:
+#ls;
+#li;Difficult terrain doesn't slow your group's travel. 
+#li;You can't become lost by unenhanced means.
+#li;Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+#li;If you are traveling alone, you can move stealthily at a normal pace.
+#li;When you forage, you find twice as much food as you normally would. 
+#li;When you make a Wisdom (Survival) check, you gain a bonus to the check equal to your Intelligence modifier.
+#le;
 #fe;Scout Technique;3
-At 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
+Also at 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 #zls;
 #zl;scout_ability;Deadeye Technique
 #zl;scout_ability;Hunter Technique
@@ -1967,23 +1968,26 @@ At 3rd level, you choose to focus on a specific scout technique, which is detail
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-#fe;Greater Favored Enemy;6
-At 6th level, you are ready to hunt even deadlier game. Choose a second type of favored enemy. You gain all the benefits against this chosen enemy that you gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4. 
-Additionally, you have advantage on saving throws against the powers and abilities used by a greater favored enemy.
-#fe;Fleet of Foot;8
-Beginning at 8th level, you can use the Dash action as a bonus action on your turn.
-#fe;Hide in Plain Sight;10
-Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes. 
-When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or bec-ause of some external effect. You are still automat-ically detected if any effect or action causes you to no longer be hidden. 
+#fe;Expertise;6
+At 6th level, choose two of your skill proficiencies, or one of skill proficiencies and one of your tool proficiencies, or two of your tool proficiencies. You gain expertise in those skills or tools.
+At 14th level, you can choose another two proficiencies (in skills or tools) to gain this benefit.
+#fe;Commando;10
+Starting at 10th level, you can take the Dash and Hide actions as a bonus action on each of your turns. Additionally, you can remain perfectly still for long periods of time to set up ambushes.
+When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.
 If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.
-#fe;Vanish;14
-Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by unenhanced means, unless you choose to leave a trail.
-#fe;Feral Senses;18
-At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it. 
+Additionally, you can no longer be tracked by unenhanced means, unless you choose to leave a trail.
+#fe;Combat Tech;14
+At 14th level, when you use your action to cast a tech power, you can make one weapon attack as a bonus action.
+#fe;Supreme Awareness;18
+At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
 #fe;Foe Slayer;20
-At 20th level, you become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores is now 22. 
+At 20th level, you become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores increases by 2.
 Additionally, once on each of your turns, you can add your Intelligence modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+
+
+
+
 #abh;Scout Techniques
 #ab;Deadeye Technique
 Followers of the Deadeye Technique the art of the blaster shot and utilize their incredible focus to make shots that most would deem impossible. When everything depends on one shot, you want a Deadeye pulling the trigger.
@@ -2045,58 +2049,64 @@ When a creature misses you with a ranged attack, you can use your reaction and e
 #h;SUPPRESSING FIRE
 When you hit a creature with a ranged weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. 
 That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
-#abf;Ocular Enhancement;3
-Also at 3rd level, your wristpad can interface with a gadget, cybernetic implant, or other accessory for improved target acquisition. The long-distance range on any ranged weapon you have proficiency with is doubled.
-Additionally, the tech power *hunter's mark*'s range is doubled.
+#abf;Mark Of The Deadeye;3
+Also at 3rd level, the range of your Ranger's Quarry feature doubles. Additionally, when making ranged weapon attacks against the target of your Ranger's Quarry, the normal and long range of your ranged weapons double.
 #abf;Cover To Cover;7
 Beginning at 7th level, attack rolls made against you on your turn are made with disadvantage.
 #abf;Shoot First;11
 Starting at 11th level, you have learned that the person who shoots first is often the one who walks out alive. When you make a ranged weapon attack against a creature that has not yet acted during your first turn in combat and you have advantage on the roll, you can reroll one of the dice once.
 Additionally, on a hit, you deal an extra 1d6 damage of the same type as the weapon.
 #abf;Overwatch;15
-At 15th level, you have become a master at protecting your allies from afar. When a creature attempts to make an opportunity attack against an allied creature, or forces your ally to make a saving throw, you can use your reaction to make an attack roll against the enemy creature. 
+At 15th level, you have become a master at protecting your allies from afar. When a creature attempts to make an opportunity attack against an allied creature, or forces your ally to make a saving throw, you can use your reaction to make an attack roll against the enemy creature.
 If your attack hits, either impose disadvantage on the enemy creature's opportunity attack roll or grant advantage to any allies making the saving throw.
+
+
+
+
 #ab;Hunter Technique
 Some scouts seek to master weapons to better protect civilization from the terrors of their enemies. Followers of the Hunter Technique learn specialized fighting techniques for use against the most dire threats, from an onslaught of soldiers to towering walkers.
 #abf;Hunter's Prey;3
 When you choose this technique at 3rd level, you gain one of the following features of your choice. 
 #h;Colossus Slayer
-Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn. 
+Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn, and this damage is the same type as the weapon's damage.
 #h;Giant Killer
-When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature. 
+When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
 #h;Horde Breaker
-Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon, no action required.
+#abf;Mark Of The Hunter;3
+Also at 3rd level, when you use your Ranger's Quarry feature, the first time you make a tech or weapon attack against the target of your Ranger's Quarry each round, roll your Ranger's Quarry Damage Die and add it to the roll.
 #abf;Defensive Tactics;7
 Beginning at 7th level, you gain one of the following features of your choice. 
 #h;Escape The Horde
 Opportunity attacks against you are made with disadvantage.
 #h;Multiattack Defense
-When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn. 
+When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
 #h;Steel Will
 You have advantage on saving throws against being frightened.
 #abf;Multiattack;11
 Starting at 11th level, you gain one of the following features of your choice. 
 #h;Volley
-You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target. 
+You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 #h;Whirlwind Attack
 You can use your action to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 #abf;Superior Hunter's Defense;15
 At 15th level, you gain one of the following features of your choice. 
 #h;Evasion
-When you are subjected to an effect, such as a consular's *force storm* or an engineer's *explosion*, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
+When you are subjected to an effect, such as a consular's force storm or an engineer's explosion, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
 #h;Stand Against The Tide
-When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice. 
+When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attac against another creature (other than itself) of your choice.
 #h;Uncanny Dodge
 When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 #ab;Stalker Technique
 Some Scouts become consumed by the thrill of the hunt. Only heard and never seen they revel in the violence of battle. Followers of the Stalker Technique hone their abilities to track others utilizing a variety of techniques: camouflage, infiltration, surveillance, and target acquisition.
-#abf;Shadowed Stalking;3
-When you choose this technique at 3rd level, you learn to strike from the shadows. While you are hidden and more than 30 feet from your target, the first attack roll you make each round does not automatically reveal your presence. Make a Dexterity (Stealth) check contested by your target's Wisdom (Perception) check. On a success, you remain hidden. If you are less than 30 feet from your target, the Dexterity (Stealth) check is made with disadvantage.
 #abf;Accomplished Ambusher;3
-Also at 3rd level, when you take the Attack action against a creature that is surprised, you can make one additional attack against that creature as a part of that action.
+When you choose this technique at 3rd level, when you take the Attack action against a creature that is surprised, you can make one additional attack against that creature as a part of that action.
+#abf;Mark Of The Stalker;3
+Also at 3rd level, while you are hidden from the target of your Ranger's Quarry feature, the first attack roll you make each round against that creature does not automatically reveal your presence to that creature. Make a Dexterity (Stealth) check contested by your target's Wisdom (Perception) check. On a success, you remain hidden. If you are less than 30 feet from your target, the Dexterity (Stealth) check is made with disadvantage.
 #abf;Concealment;7
 Beginning at 7th level, you've become adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
-Additionally, when you hit a creature with a ranged weapon attack while hidden, you can force that creature to make a Dexterity saving throw against your tech save DC. On a failed save, the creature's speed is reduced to 0 until the end of your next turn. You can use this feature a number of times equal to your Intelligence modifier (minimum of one). You regain all expended uses when you finish a short or long rest.
+Additionally, when you hit a creature with a ranged weapon attack while hidden, you can force that creature to make a Dexterity saving throw against your tech save DC. On a failed save, the creature's speed is reduced to 0 until the end of your next turn. You can use this feature a number of times equal to your Intelligence modifier (minimum of one).
+You regain all expended uses when you finish a short or long rest.
 #abf;Stalker's Flurry;11
 Starting at 11th level, if you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
 #abf;Stalker's Dodge;15
@@ -2234,7 +2244,7 @@ Different sentinels select different callings, called Paths, to follow as they h
 #zl;sentinel_ability;Path Of Focus
 #zl;sentinel_ability;Path Of Shadows
 #zle;
-#fe;Ability Score Improvement;4
+#fe;Ability Score Improvement;
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
