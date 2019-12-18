@@ -10815,7 +10815,7 @@
             <link class="reference_classfeature" recordname="reference.classdata.berserker.features.recklessattack2@SW5e Player Book">Reckless Attack</link>
             <link class="reference_classfeature" recordname="reference.classdata.berserker.features.dangersense2@SW5e Player Book">Danger Sense</link>
             <link class="reference_classfeature" recordname="reference.classdata.berserker.features.berserkerapproach3@SW5e Player Book">Berserker Approach</link>
-            <link class="reference_classfeature" recordname="reference.classdata.berserker.features.abilityscoreimprovement4@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.berserker.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
             <link class="reference_classfeature" recordname="reference.classdata.berserker.features.extraattack5@SW5e Player Book">Extra Attack</link>
             <link class="reference_classfeature" recordname="reference.classdata.berserker.features.fastmovement5@SW5e Player Book">Fast Movement</link>
             <link class="reference_classfeature" recordname="reference.classdata.berserker.features.feralinstinct7@SW5e Player Book">Feral Instinct</link>
@@ -10912,41 +10912,13 @@
               <p>At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p>
             </text>
           </berserkerapproach3>
-          <abilityscoreimprovement4>
+          <abilityscoreimprovement>
             <name type="string">Ability Score Improvement</name>
-            <level type="number">4</level>
+            <level type="number"/>
             <text type="formattedtext">
               <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
             </text>
-          </abilityscoreimprovement4>
-          <abilityscoreimprovement8>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">8</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement8>
-          <abilityscoreimprovement12>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">12</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement12>
-          <abilityscoreimprovement16>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">16</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement16>
-          <abilityscoreimprovement20>
-            <name type="string">Ability Score Improvement</name>
-            <level type="number">20</level>
-            <text type="formattedtext">
-              <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
-            </text>
-          </abilityscoreimprovement20>
+          </abilityscoreimprovement>
           <extraattack5>
             <name type="string">Extra Attack</name>
             <level type="number">5</level>
@@ -17197,8 +17169,8 @@
           </standard>
         </equipment>
       </scholar_overhaulme>
-      <scout_overhaulme>
-        <name type="string">Scout-Overhaulme</name>
+      <scout>
+        <name type="string">Scout</name>
         <text type="formattedtext">
           <h>Scout</h>
           <p>Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.</p>
@@ -17241,7 +17213,7 @@
             <tr>
               <td>1</td>
               <td>+2</td>
-              <td>Favored Enemy, Skilled Explorer</td>
+              <td>Swift Response, Rangers Quarry</td>
               <td>0</td>
               <td>0</td>
               <td>0</td>
@@ -17257,7 +17229,7 @@
             <tr>
               <td>3</td>
               <td>+2</td>
-              <td>Supreme Awareness, Scout Technique</td>
+              <td>Pathfinder, Scout Technique</td>
               <td>5</td>
               <td>3</td>
               <td>1</td>
@@ -17281,7 +17253,7 @@
             <tr>
               <td>6</td>
               <td>+3</td>
-              <td>Greater Favored Enemy</td>
+              <td>Expertise</td>
               <td>6</td>
               <td>8</td>
               <td>2</td>
@@ -17289,7 +17261,7 @@
             <tr>
               <td>7</td>
               <td>+3</td>
-              <td>Scout Technique</td>
+              <td>Technique feature</td>
               <td>7</td>
               <td>9</td>
               <td>2</td>
@@ -17297,7 +17269,7 @@
             <tr>
               <td>8</td>
               <td>+3</td>
-              <td>Ability Score Improvement, Fleet of Foot</td>
+              <td>Ability Score Improvement</td>
               <td>8</td>
               <td>10</td>
               <td>2</td>
@@ -17313,7 +17285,7 @@
             <tr>
               <td>10</td>
               <td>+4</td>
-              <td>Hide in Plain Sight</td>
+              <td>Commando</td>
               <td>12</td>
               <td>10</td>
               <td>3</td>
@@ -17321,7 +17293,7 @@
             <tr>
               <td>11</td>
               <td>+4</td>
-              <td>Scout Technique</td>
+              <td>Technique feature</td>
               <td>13</td>
               <td>11</td>
               <td>3</td>
@@ -17345,7 +17317,7 @@
             <tr>
               <td>14</td>
               <td>+5</td>
-              <td>Vanish</td>
+              <td>Combat Tech</td>
               <td>16</td>
               <td>14</td>
               <td>4</td>
@@ -17353,7 +17325,7 @@
             <tr>
               <td>15</td>
               <td>+5</td>
-              <td>Scout Technique</td>
+              <td>Technique feature</td>
               <td>16</td>
               <td>15</td>
               <td>4</td>
@@ -17377,7 +17349,7 @@
             <tr>
               <td>18</td>
               <td>+6</td>
-              <td>Feral Senses</td>
+              <td>Supreme Awareness</td>
               <td>17</td>
               <td>18</td>
               <td>5</td>
@@ -17412,7 +17384,7 @@
           <p>
             <b>Armor:</b> Light Armor, Medium Armor</p>
           <p>
-            <b>Weapons:</b> Simple Blasters, Martial Blasters, Simple Vibroweapons, Martial Vibroweapons</p>
+            <b>Weapons:</b> All Blasters, all Vibroweapons</p>
           <p>
             <b>Tools:</b> None</p>
           <p>
@@ -17432,26 +17404,25 @@
           <p>In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (5d4 x 100) cr.</p>
           <h>Features</h>
           <listlink>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.favoredenemy1@SW5e Player Book">Favored Enemy</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.skilledexplorer1@SW5e Player Book">Skilled Explorer</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.fightingstyle2@SW5e Player Book">Fighting Style</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.techcasting2@SW5e Player Book">Techcasting</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.supremeawareness3@SW5e Player Book">Supreme Awareness</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.scouttechnique3@SW5e Player Book">Scout Technique</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.extraattack5@SW5e Player Book">Extra Attack</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.greaterfavoredenemy6@SW5e Player Book">Greater Favored Enemy</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.fleetoffoot8@SW5e Player Book">Fleet of Foot</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.hideinplainsight10@SW5e Player Book">Hide in Plain Sight</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.vanish14@SW5e Player Book">Vanish</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.feralsenses18@SW5e Player Book">Feral Senses</link>
-            <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.foeslayer20@SW5e Player Book">Foe Slayer</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.swiftresponse1@SW5e Player Book">Swift Response</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.rangersquarry1@SW5e Player Book">Rangers Quarry</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.fightingstyle2@SW5e Player Book">Fighting Style</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.techcasting2@SW5e Player Book">Techcasting</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.pathfinder3@SW5e Player Book">Pathfinder</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.scouttechnique3@SW5e Player Book">Scout Technique</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.extraattack5@SW5e Player Book">Extra Attack</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.expertise6@SW5e Player Book">Expertise</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.commando10@SW5e Player Book">Commando</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.combattech14@SW5e Player Book">Combat Tech</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.supremeawareness18@SW5e Player Book">Supreme Awareness</link>
+            <link class="reference_classfeature" recordname="reference.classdata.scout.features.foeslayer20@SW5e Player Book">Foe Slayer</link>
           </listlink>
           <h>Scout Techniques</h>
           <listlink>
-            <link class="reference_classability" recordname="reference.classdata.scout_overhaulme.abilities.deadeyetechnique@SW5e Player Book">Deadeye Technique</link>
-            <link class="reference_classability" recordname="reference.classdata.scout_overhaulme.abilities.huntertechnique@SW5e Player Book">Hunter Technique</link>
-            <link class="reference_classability" recordname="reference.classdata.scout_overhaulme.abilities.stalkertechnique@SW5e Player Book">Stalker Technique</link>
+            <link class="reference_classability" recordname="reference.classdata.scout.abilities.deadeyetechnique@SW5e Player Book">Deadeye Technique</link>
+            <link class="reference_classability" recordname="reference.classdata.scout.abilities.huntertechnique@SW5e Player Book">Hunter Technique</link>
+            <link class="reference_classability" recordname="reference.classdata.scout.abilities.stalkertechnique@SW5e Player Book">Stalker Technique</link>
           </listlink>
         </text>
         <hp>
@@ -17475,7 +17446,7 @@
           </armor>
           <weapons>
             <name type="string">Weapons</name>
-            <text type="string">Simple Blasters, Martial Blasters, Simple Vibroweapons, Martial Vibroweapons</text>
+            <text type="string">All Blasters, all Vibroweapons</text>
           </weapons>
           <tools>
             <name type="string">Tools</name>
@@ -17491,36 +17462,31 @@
           </skills>
         </proficiencies>
         <features>
-          <favoredenemy1>
-            <name type="string">Favored Enemy</name>
+          <swiftresponse1>
+            <name type="string">Swift Response</name>
             <level type="number">1</level>
             <text type="formattedtext">
-              <p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy commonly encountered in the wilds.</p>
-              <p>Choose a type of favored enemy: beasts, constructs, droids, force-wielders, or humanoids. You gain a +2 bonus to damage rolls with weapon attacks against creatures of the chosen type. Additionally, you have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.</p>
-              <p>When you gain this feature, you also learn one language of your choice, typically one spoken by your favored enemy or creatures associated with it. However, you are free to pick any language you wish to learn.</p>
-            </text>
-          </favoredenemy1>
-          <skilledexplorer1>
-            <name type="string">Skilled Explorer</name>
-            <level type="number">1</level>
-            <text type="formattedtext">
-              <p>You are a master of navigating the natural world, and you react with swift and decisive action when attacked. This grants you the following benefits:</p>
+              <p>Beginning at 1st level, you learn to react with swift and decisive action in combat. You gain the following benefits:</p>
               <list>
                 <li>You ignore difficult terrain</li>
                 <li>You have advantage on initiative rolls.</li>
                 <li>On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.</li>
               </list>
-              <p>In addition, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more:</p>
-              <list>
-                <li>Difficult terrain doesn't slow your group's travel.</li>
-                <li>Your group can't become lost by unenhanced means.</li>
-                <li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>
-                <li>If you are traveling alone, you can move stealthily at a normal pace.</li>
-                <li>When you forage, you find twice as much food as you normally would.</li>
-                <li>While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.</li>
-              </list>
             </text>
-          </skilledexplorer1>
+          </swiftresponse1>
+          <rangersquarry1>
+            <name type="string">Rangers Quarry</name>
+            <level type="number">1</level>
+            <text type="formattedtext">
+              <p>Also 1st level, you learn how to effectively read and track your prey. On your turn, you can choose a creature you can see within 90 feet and mark it as your quarry (no action required). For the next 10 minutes, you gain the following benefits:</p>
+              <list>
+                <li>Once per round, when you hit the target with a weapon attack, you can deal 1d4 additional damage to it of the same type as the weapon's damage. This die changes as you gain scout levels, as shown in the Ranger's Quarry Damage Die column of the scout class table.</li>
+                <li>You have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it while it's on the same planet as you.</li>
+              </list>
+              <p>You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses when you finish a short or long rest.</p>
+              <p>Starting at 9th level, you can expend two uses of this feature to extend the duration to 8 hours. At 17th level, you can expend three uses to extend the duration to 24 hours.</p>
+            </text>
+          </rangersquarry1>
           <fightingstyle2>
             <name type="string">Fighting Style</name>
             <level type="number">2</level>
@@ -17539,10 +17505,10 @@
               <h>Tech Powers Known</h>
               <p>You learn 4 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Scout class table. You may not learn a tech power of a level higher than your Max Power Level.</p>
               <h>Tech Points</h>
-              <p>You have a number of tech points points equal to your scout level, and you earn more at higher levels, as shown in the Tech Points column of the Scout class table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.</p>
+              <p>You have a number of tech points equal to your scout level, as shown in the Tech Points column of the scout class table, + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.</p>
               <h>Max Power Level</h>
               <p>Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Scout class table.</p>
-              <p>You may only cast tech powers at 4th and 5th-level once. You regain the ability to do so after a short or long rest.</p>
+              <p>You may only cast tech powers at 4th and 5th-level once. You regain the ability to do so after a long rest.</p>
               <h>Techcasting Ability</h>
               <p>Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.</p>
               <p>
@@ -17557,20 +17523,26 @@
               <p>You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.</p>
             </text>
           </techcasting2>
-          <supremeawareness3>
-            <name type="string">Supreme Awareness</name>
+          <pathfinder3>
+            <name type="string">Pathfinder</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>Beginning at 3rd level, you learn to establish a link to beasts and to the land around you.</p>
-              <p>Through sounds and gestures, you can communicate simple ideas to a beast as an action, and can read its basic mood and intent. You learn its emotional state, its short-term needs (such as food or safety), and actions you can take (if any) to persuade it to not attack. You cannot use this ability against a creature that you have attacked within the past 10 minutes.</p>
-              <p>Additionally, you can use your wristpad to determine if any of your favored enemies lurk nearby. By spending 1 uninterrupted minute in concentration (as if you were concentrating on a power), you can sense whether any of your favored enemies are present within 5 miles of you. This feature reveals which of your favored enemies are present, their numbers, and the creatures' general direction and distance (in miles) from you. If there are multiple groups of your favored enemies within range, you learn this information for each group.</p>
+              <p>Beginning at 3rd level, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more:</p>
+              <list>
+                <li>Difficult terrain doesn't slow your group's travel.</li>
+                <li>You can't become lost by unenhanced means.</li>
+                <li>Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.</li>
+                <li>If you are traveling alone, you can move stealthily at a normal pace.</li>
+                <li>When you forage, you find twice as much food as you normally would.</li>
+                <li>When you make a Wisdom (Survival) check, you gain a bonus to the check equal to your Intelligence modifier.</li>
+              </list>
             </text>
-          </supremeawareness3>
+          </pathfinder3>
           <scouttechnique3>
             <name type="string">Scout Technique</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>At 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
+              <p>Also at 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
               <listlink>
                 <link class="reference_classability" recordname="reference.classdata.scout.abilities.deadeyetechnique@SW5e Player Book">Deadeye Technique</link>
                 <link class="reference_classability" recordname="reference.classdata.scout.abilities.huntertechnique@SW5e Player Book">Hunter Technique</link>
@@ -17592,50 +17564,44 @@
               <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
             </text>
           </extraattack5>
-          <greaterfavoredenemy6>
-            <name type="string">Greater Favored Enemy</name>
+          <expertise6>
+            <name type="string">Expertise</name>
             <level type="number">6</level>
             <text type="formattedtext">
-              <p>At 6th level, you are ready to hunt even deadlier game. Choose a second type of favored enemy. You gain all the benefits against this chosen enemy that you gain against your favored enemy, including an additional language. Your bonus to damage rolls against all your favored enemies increases to +4.</p>
-              <p>Additionally, you have advantage on saving throws against the powers and abilities used by a greater favored enemy.</p>
+              <p>At 6th level, choose two of your skill proficiencies, or one of skill proficiencies and one of your tool proficiencies, or two of your tool proficiencies. You gain expertise in those skills or tools.</p>
+              <p>At 14th level, you can choose another two proficiencies (in skills or tools) to gain this benefit.</p>
             </text>
-          </greaterfavoredenemy6>
-          <fleetoffoot8>
-            <name type="string">Fleet of Foot</name>
-            <level type="number">8</level>
-            <text type="formattedtext">
-              <p>Beginning at 8th level, you can use the Dash action as a bonus action on your turn.</p>
-            </text>
-          </fleetoffoot8>
-          <hideinplainsight10>
-            <name type="string">Hide in Plain Sight</name>
+          </expertise6>
+          <commando10>
+            <name type="string">Commando</name>
             <level type="number">10</level>
             <text type="formattedtext">
-              <p>Starting at 10th level, you can remain perfectly still for long periods of time to set up ambushes.</p>
-              <p>When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or bec-ause of some external effect. You are still automat-ically detected if any effect or action causes you to no longer be hidden.</p>
+              <p>Starting at 10th level, you can take the Dash and Hide actions as a bonus action on each of your turns. Additionally, you can remain perfectly still for long periods of time to set up ambushes.</p>
+              <p>When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.</p>
               <p>If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</p>
+              <p>Additionally, you can no longer be tracked by unenhanced means, unless you choose to leave a trail.</p>
             </text>
-          </hideinplainsight10>
-          <vanish14>
-            <name type="string">Vanish</name>
+          </commando10>
+          <combattech14>
+            <name type="string">Combat Tech</name>
             <level type="number">14</level>
             <text type="formattedtext">
-              <p>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can't be tracked by unenhanced means, unless you choose to leave a trail.</p>
+              <p>At 14th level, when you use your action to cast a tech power, you can make one weapon attack as a bonus action.</p>
             </text>
-          </vanish14>
-          <feralsenses18>
-            <name type="string">Feral Senses</name>
+          </combattech14>
+          <supremeawareness18>
+            <name type="string">Supreme Awareness</name>
             <level type="number">18</level>
             <text type="formattedtext">
               <p>At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.</p>
               <p>You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.</p>
             </text>
-          </feralsenses18>
+          </supremeawareness18>
           <foeslayer20>
             <name type="string">Foe Slayer</name>
             <level type="number">20</level>
             <text type="formattedtext">
-              <p>At 20th level, you become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores is now 22.</p>
+              <p>At 20th level, you become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores increases by 2.</p>
               <p>Additionally, once on each of your turns, you can add your Intelligence modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>
             </text>
           </foeslayer20>
@@ -17813,15 +17779,14 @@
             </text>
             <specialization type="string">Deadeye Technique</specialization>
           </maneuvers>
-          <ocularenhancement3>
-            <name type="string">Ocular Enhancement</name>
+          <markofthedeadeye3>
+            <name type="string">Mark Of The Deadeye</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>Also at 3rd level, your wristpad can interface with a gadget, cybernetic implant, or other accessory for improved target acquisition. The long-distance range on any ranged weapon you have proficiency with is doubled.</p>
-              <p>Additionally, the tech power *hunter's mark*'s range is doubled.</p>
+              <p>Also at 3rd level, the range of your Ranger's Quarry feature doubles. Additionally, when making ranged weapon attacks against the target of your Ranger's Quarry, the normal and long range of your ranged weapons double.</p>
             </text>
             <specialization type="string">Deadeye Technique</specialization>
-          </ocularenhancement3>
+          </markofthedeadeye3>
           <covertocover7>
             <name type="string">Cover To Cover</name>
             <level type="number">7</level>
@@ -17854,14 +17819,22 @@
             <text type="formattedtext">
               <p>When you choose this technique at 3rd level, you gain one of the following features of your choice.</p>
               <h>Colossus Slayer</h>
-              <p>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.</p>
+              <p>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn, and this damage is the same type as the weapon's damage.</p>
               <h>Giant Killer</h>
               <p>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.</p>
               <h>Horde Breaker</h>
-              <p>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p>
+              <p>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon, no action required.</p>
             </text>
             <specialization type="string">Hunter Technique</specialization>
           </hunter_sprey3>
+          <markofthehunter3>
+            <name type="string">Mark Of The Hunter</name>
+            <level type="number">3</level>
+            <text type="formattedtext">
+              <p>Also at 3rd level, when you use your Ranger's Quarry feature, the first time you make a tech or weapon attack against the target of your Ranger's Quarry each round, roll your Ranger's Quarry Damage Die and add it to the roll.</p>
+            </text>
+            <specialization type="string">Hunter Technique</specialization>
+          </markofthehunter3>
           <defensivetactics7>
             <name type="string">Defensive Tactics</name>
             <level type="number">7</level>
@@ -17894,36 +17867,37 @@
             <text type="formattedtext">
               <p>At 15th level, you gain one of the following features of your choice.</p>
               <h>Evasion</h>
-              <p>When you are subjected to an effect, such as a consular's *force storm* or an engineer's *explosion*, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.</p>
+              <p>When you are subjected to an effect, such as a consular's force storm or an engineer's explosion, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.</p>
               <h>Stand Against The Tide</h>
-              <p>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.</p>
+              <p>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attac against another creature (other than itself) of your choice.</p>
               <h>Uncanny Dodge</h>
               <p>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>
             </text>
             <specialization type="string">Hunter Technique</specialization>
           </superiorhunter_sdefense15>
-          <shadowedstalking3>
-            <name type="string">Shadowed Stalking</name>
-            <level type="number">3</level>
-            <text type="formattedtext">
-              <p>When you choose this technique at 3rd level, you learn to strike from the shadows. While you are hidden and more than 30 feet from your target, the first attack roll you make each round does not automatically reveal your presence. Make a Dexterity (Stealth) check contested by your target's Wisdom (Perception) check. On a success, you remain hidden. If you are less than 30 feet from your target, the Dexterity (Stealth) check is made with disadvantage.</p>
-            </text>
-            <specialization type="string">Stalker Technique</specialization>
-          </shadowedstalking3>
           <accomplishedambusher3>
             <name type="string">Accomplished Ambusher</name>
             <level type="number">3</level>
             <text type="formattedtext">
-              <p>Also at 3rd level, when you take the Attack action against a creature that is surprised, you can make one additional attack against that creature as a part of that action.</p>
+              <p>When you choose this technique at 3rd level, when you take the Attack action against a creature that is surprised, you can make one additional attack against that creature as a part of that action.</p>
             </text>
             <specialization type="string">Stalker Technique</specialization>
           </accomplishedambusher3>
+          <markofthestalker3>
+            <name type="string">Mark Of The Stalker</name>
+            <level type="number">3</level>
+            <text type="formattedtext">
+              <p>Also at 3rd level, while you are hidden from the target of your Ranger's Quarry feature, the first attack roll you make each round against that creature does not automatically reveal your presence to that creature. Make a Dexterity (Stealth) check contested by your target's Wisdom (Perception) check. On a success, you remain hidden. If you are less than 30 feet from your target, the Dexterity (Stealth) check is made with disadvantage.</p>
+            </text>
+            <specialization type="string">Stalker Technique</specialization>
+          </markofthestalker3>
           <concealment7>
             <name type="string">Concealment</name>
             <level type="number">7</level>
             <text type="formattedtext">
               <p>Beginning at 7th level, you've become adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.</p>
-              <p>Additionally, when you hit a creature with a ranged weapon attack while hidden, you can force that creature to make a Dexterity saving throw against your tech save DC. On a failed save, the creature's speed is reduced to 0 until the end of your next turn. You can use this feature a number of times equal to your Intelligence modifier (minimum of one). You regain all expended uses when you finish a short or long rest.</p>
+              <p>Additionally, when you hit a creature with a ranged weapon attack while hidden, you can force that creature to make a Dexterity saving throw against your tech save DC. On a failed save, the creature's speed is reduced to 0 until the end of your next turn. You can use this feature a number of times equal to your Intelligence modifier (minimum of one).</p>
+              <p>You regain all expended uses when you finish a short or long rest.</p>
             </text>
             <specialization type="string">Stalker Technique</specialization>
           </concealment7>
@@ -17953,12 +17927,12 @@
               <p>Due to their uncanny focus, Deadeyes can make shots that other marksmen would never dare to attempt. Deadeyes know how to make the most of ranged weapons and can use them to greater effect than other Scouts.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.focusedsuperiority3@SW5e Player Book">Focused Superiority</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.maneuvers@SW5e Player Book">Maneuvers</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.ocularenhancement3@SW5e Player Book">Ocular Enhancement</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.covertocover7@SW5e Player Book">Cover To Cover</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.shootfirst11@SW5e Player Book">Shoot First</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.overwatch15@SW5e Player Book">Overwatch</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.focusedsuperiority3@SW5e Player Book">Focused Superiority</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.maneuvers@SW5e Player Book">Maneuvers</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.markofthedeadeye3@SW5e Player Book">Mark Of The Deadeye</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.covertocover7@SW5e Player Book">Cover To Cover</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.shootfirst11@SW5e Player Book">Shoot First</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.overwatch15@SW5e Player Book">Overwatch</link>
               </listlink>
             </text>
           </deadeyetechnique>
@@ -17969,10 +17943,11 @@
               <p>Some scouts seek to master weapons to better protect civilization from the terrors of their enemies. Followers of the Hunter Technique learn specialized fighting techniques for use against the most dire threats, from an onslaught of soldiers to towering walkers.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.hunter_sprey3@SW5e Player Book">Hunter's Prey</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.defensivetactics7@SW5e Player Book">Defensive Tactics</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.multiattack11@SW5e Player Book">Multiattack</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.superiorhunter_sdefense15@SW5e Player Book">Superior Hunter's Defense</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.hunter_sprey3@SW5e Player Book">Hunter's Prey</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.markofthehunter3@SW5e Player Book">Mark Of The Hunter</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.defensivetactics7@SW5e Player Book">Defensive Tactics</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.multiattack11@SW5e Player Book">Multiattack</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.superiorhunter_sdefense15@SW5e Player Book">Superior Hunter's Defense</link>
               </listlink>
             </text>
           </huntertechnique>
@@ -17983,11 +17958,11 @@
               <p>Some Scouts become consumed by the thrill of the hunt. Only heard and never seen they revel in the violence of battle. Followers of the Stalker Technique hone their abilities to track others utilizing a variety of techniques: camouflage, infiltration, surveillance, and target acquisition.</p>
               <h>Features</h>
               <listlink>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.shadowedstalking3@SW5e Player Book">Shadowed Stalking</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.accomplishedambusher3@SW5e Player Book">Accomplished Ambusher</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.concealment7@SW5e Player Book">Concealment</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.stalker_sflurry11@SW5e Player Book">Stalker's Flurry</link>
-                <link class="reference_classfeature" recordname="reference.classdata.scout_overhaulme.features.stalker_sdodge15@SW5e Player Book">Stalker's Dodge</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.accomplishedambusher3@SW5e Player Book">Accomplished Ambusher</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.markofthestalker3@SW5e Player Book">Mark Of The Stalker</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.concealment7@SW5e Player Book">Concealment</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.stalker_sflurry11@SW5e Player Book">Stalker's Flurry</link>
+                <link class="reference_classfeature" recordname="reference.classdata.scout.features.stalker_sdodge15@SW5e Player Book">Stalker's Dodge</link>
               </listlink>
             </text>
           </stalkertechnique>
@@ -18009,7 +17984,7 @@
             </item>
           </standard>
         </equipment>
-      </scout_overhaulme>
+      </scout>
       <sentinel>
         <name type="string">Sentinel</name>
         <text type="formattedtext">
@@ -18269,7 +18244,7 @@
             <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.force_empoweredself2@SW5e Player Book">Force-Empowered Self</link>
             <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.sentinelideals2@SW5e Player Book">Sentinel Ideals</link>
             <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.sentinelcalling3@SW5e Player Book">Sentinel Calling</link>
-            <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.abilityscoreimprovement4@SW5e Player Book">Ability Score Improvement</link>
+            <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.abilityscoreimprovement@SW5e Player Book">Ability Score Improvement</link>
             <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.extraattack5@SW5e Player Book">Extra Attack</link>
             <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.battlereadiness10@SW5e Player Book">Battle Readiness</link>
             <link class="reference_classfeature" recordname="reference.classdata.sentinel.features.enlightenedevasion15@SW5e Player Book">Enlightened Evasion</link>
@@ -18468,13 +18443,13 @@
               </listlink>
             </text>
           </sentinelcalling3>
-          <abilityscoreimprovement4>
+          <abilityscoreimprovement>
             <name type="string">Ability Score Improvement</name>
-            <level type="number">4</level>
+            <level type="number"/>
             <text type="formattedtext">
               <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).</p>
             </text>
-          </abilityscoreimprovement4>
+          </abilityscoreimprovement>
           <extraattack5>
             <name type="string">Extra Attack</name>
             <level type="number">5</level>
@@ -18814,16 +18789,16 @@
                 </link>
                 <source type="string"/>
               </scholar_overhaulme>
-              <scout_overhaulme>
+              <scout>
                 <link type="windowreference">
                   <class>reference_class</class>
-                  <recordname>reference.classdata.scout_overhaulme@SW5e Player Book</recordname>
+                  <recordname>reference.classdata.scout@SW5e Player Book</recordname>
                   <description>
                     <field>name</field>
                   </description>
                 </link>
                 <source type="string"/>
-              </scout_overhaulme>
+              </scout>
               <sentinel>
                 <link type="windowreference">
                   <class>reference_class</class>
