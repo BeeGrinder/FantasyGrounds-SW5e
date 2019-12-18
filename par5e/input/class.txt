@@ -2119,23 +2119,23 @@ You can make a sentinel quickly by following these suggestions. First, make Dext
 #ts;
 #th;Level;Proficiency Bonus;Features;Kinetic Combat Damage Die;Force Powers Known;Force Points;Max Power Level;
 #tr;1;+2;Forcecasting, Kinetic Combat;d4;6;3;1;
-#tr;2;+2;Force-Empowered Self, Combat Meditation;d4;7;6;1;
+#tr;2;+2;Force-Empowered Self, Sentinel Ideals;d4;7;6;1;
 #tr;3;+2;Sentinel Calling;d4;9;9;2;
 #tr;4;+2;Ability Score Improvement;d4;10;12;2;
 #tr;5;+3;Extra Attack;d6;11;15;2;
 #tr;6;+3;-;d6;13;18;3;
-#tr;7;+3;Sentinel Calling;d6;14;21;3;
+#tr;7;+3;Calling feature;d6;14;21;3;
 #tr;8;+3;Ability Score Improvement;d6;15;24;3;
 #tr;9;+4;-;d6;17;27;4;
-#tr;10;+4;Evasion;d6;18;30;4;
+#tr;10;+4;Battle Readiness;d6;18;30;4;
 #tr;11;+4;-;d8;20;33;5;
 #tr;12;+4;Ability Score Improvement;d8;21;36;5;
-#tr;13;+5;Sentinel Calling;d8;22;39;5;
+#tr;13;+5;Calling feature;d8;22;39;5;
 #tr;14;+5;-;d8;24;42;6;
-#tr;15;+5;Battle Readiness;d8;25;45;6;
+#tr;15;+5;Enlightened Evasion;d8;25;45;6;
 #tr;16;+5;Ability Score Improvement;d8;26;48;6;
 #tr;17;+6;-;d10;28;51;7;
-#tr;18;+6;Sentinel Calling;d10;29;54;7;
+#tr;18;+6;Calling feature;d10;29;54;7;
 #tr;19;+6;Ability Score Improvement;d10;30;57;7;
 #tr;20;+6;Center of the Force;d10;30;60;7;
 #te;
@@ -2178,26 +2178,57 @@ Your forcecasting ability varies based on the alignment of the powers you cast. 
 #bp;Force attack modifier
 your proficiency bonus +your forcecasting ability modifier
 #fe;Kinetic Combat;1
-At 1st level, you've learned how to blend your weapon attacks with unarmed strikes while wielding sentinel weapons, which are weapon proficiencies granted by this class.
-You gain the following benefits while you are unarmed or wielding only sentinel weapons and you aren't wearing medium or heavy armor or wielding a heavy shield:
-#ls;
-#li;You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and sentinel weapons.
-#li;You can roll a d4 in place of the normal damage of your unarmed strike or sentinel weapon. This die changes as you gain sentinel levels, as shown in the Kinetic Combat Damage Die column of the Sentinel table.
-#li;When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can make one unarmed strike or sentinel weapon attack as a bonus action. This attack deals damage equal to your Kinetic Combat Damage Die.
-#le;
+At 1st level, you are an unrelenting flurry of strikes. When you take the Attack action on your turn, you can make one unarmed strike or melee weapon attack as a bonus action. This attack deals damage equal to your Kinetic Combat Damage Die. This die changes as you gain sentinel levels, as shown in the Kinetic Combat Damage Die column of the sentinel class table.
+Additionally, when you make this bonus action attack, your movement speed increases by 10 feet until the end of your turn.
 #fe;Force-Empowered Self;2
-Starting at 2nd level, your training allows you to harness the mystical energy of the Force throughout your body. While you are unarmed or wielding only sentinel weapons and you aren't wearing medium or heavy armor or wielding a heavy shield, you learn to use your Force Points to fuel various Force-Empowered features. You start knowing three such features: Deflection, Double Strike, and Slow Time.
+Starting at 2nd level, your training allows you to harness the mystical energy of the Force throughout your body. When you hit a target with your Kinetic Combat attack, you can spend 1 force point to use a Force-Empowered Self effect. You start with three such effects: Deflection, Double Strike, and Slow Time. You can only use one effect per turn.
 #h;DEFLECTION
-You can spend 3 force points to take the Dodge action as a bonus action on your turn.
+You can roll a Kinetic Combat Damage Die and add it to your AC against one attack before the start of your next turn.
 #h;DOUBLE STRIKE
-When you use the Attack action with an unarmed strike or a sentinel weapon on your turn, you can spend 2 force points to make two unarmed strikes or sentinel weapon attacks as a bonus action. These attacks deals damage equal to your Kinetic Combat Damage Die.
+You deal additional damage to the target equal to your Kinetic Combat Damage Die.
 #h;SLOW TIME
-You can spend 1 force point to take the Disengage or Dash action as a bonus action on your turn.
-#fe;Combat Meditation;2
-Also at 2nd level, you can take advantage of brief lulls in combat to redouble your focus. As an action, you can meditate for a moment to regain a number of force points equal to your Wisdom or Charisma modifier (your choice, minimum of one).
-Once you've used this feature, you must finish a long rest before you can use it again. Starting at 11th level, you can use it twice before a rest. Starting at 17th level, you can use it three times.
+Your speed increases by an amount equal to 5 x your Kinetic Combat Damage Die until the end of your turn.
+#fe;Sentinel Ideals;2
+Also at 2nd level, you adopt an ideal that exemplifies your bond with the Force. You adopt one ideal of your choice, as detailed at the end of the class description. You adopt an additional ideal at 6th and 11th level. When you manifest your Sentinel Ideals, you choose which effect to create.
+You can manifest your ideals twice. You gain an additional use at 11th level. You regain all expended uses when you finish a long rest.
+The ideals are presented in alphabetical order. You can't benefit from a Sentinel Ideal option more than once, even if you later get to choose again.
+#zls;
+#zl;sentinel_feature;IDEAL OF THE AGILE
+#zl;sentinel_feature;IDEAL OF THE ARTISAN
+#zl;sentinel_feature;IDEAL OF THE CONTENDER
+#zl;sentinel_feature;IDEAL OF THE HUNTER
+#zl;sentinel_feature;IDEAL OF THE STEADFAST
+#zl;sentinel_feature;IDEAL OF THE TITAN
+#zl;sentinel_feature;IDEAL OF THE TRANQUIL
+#zl;sentinel_feature;IDEAL OF THE VIGOROUS
+#zle;
+#abf;IDEAL OF THE AGILE;
+You gain a swimming speed and a climbing speed equal to your walking speed. When you make a long jump, you can cover a number of feet up to twice your Wisdom or Charisma score (your choice). When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Wisdom or Charisma score (your choice).
+Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, opportunity attacks against you are made with disadvantage.
+#abf;IDEAL OF THE ARTISAN;
+Choose one of your skill or tool proficiencies. When you make an ability check with the chosen skill or tool, you can add half your Wisdom or Charisma modifier (your choice, minimum of one) to any check you make that doesn't already include that modifier.
+Additionally, as an action, you can manifest this ideal in a brief surge of energy. For the next 10 minutes, the bonus increases to your Wisdom or Charisma modifier, and you can choose a second skill or tool to extend this feature to.
+#abf;IDEAL OF THE CONTENDER;
+You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes, and your unarmed strikes deal damage equal to your Kinetic Combat Damage Die.
+Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, your unarmed strikes count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage, and you can use your Wisdom or Charisma modifier (your choice) instead of Strength for checks made to grapple a target or escape a grapple.
+#abf;IDEAL OF THE HUNTER;
+You gain darkvision out to a range of 60 feet. If you already have darkvision, this ideal increases its range by 30 feet.
+Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you can see normally in enhanced darkness, and you gain blindsight to 10 feet.
+#abf;IDEAL OF THE STEADFAST;
+When you would make a melee weapon attack roll, you can instead force the target to make a Dexterity saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier + any bonuses to melee weapon attack rolls). If you would have advantage on your attack roll, the creature instead has disadvantage on their saving throw. On a failed save, the target takes normal weapon damage and is subjected to any additional effects that would occur on a hit.
+Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, when a creature succeeds on the saving throw, they take half of the normal weapon damage, and when a creature rolls a 1 on the saving throw, they take damage as if suffering a critical hit.
+#abf;IDEAL OF THE TITAN;
+You gain proficiency in medium armor.
+Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you have advantage on ability checks and attack rolls that would forcefully move another creature, and the distance they would be moved increases by 5 feet.
+#abf;IDEAL OF THE TRANQUIL;
+When you finish a short or long rest, you gain a number of temporary force points equal to your Wisdom or Charisma modifier (your choice, minimum of one). When you would spend a force point while you have temporary force points, the temporary force points are spent first. All temporary force points are lost at the end of your next short or long rest.
+Additionally, as an action, you can manifest this ideal in a brief surge of energy. You regain a number of force points equal to your Wisdom or Charisma modifier (your choice, minimum of one).
+#abf;IDEAL OF THE VIGOROUS;
+When you roll a Hit Die to regain hit points, you may use your Wisdom or Charisma modifier in place of your Constitution modifier when determining the number of hit points you regain.
+Additionally, as an action, you can manifest this ideal in a brief surge of energy. You gain a number of temporary hit points equal to half your sentinel level (rounded down) + your Wisdom or Charisma modifier (your choice, minimum of one).
 #fe;Sentinel Calling;3
 When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.
+Different sentinels select different callings, called Paths, to follow as they hone their powers.
 #zls;
 #zl;sentinel_ability;Path Of Aggression
 #zl;sentinel_ability;Path Of Focus
@@ -2207,48 +2238,49 @@ When you reach 3rd level, you choose a sentinel calling, which is detailed at th
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-#fe;Evasion;10
-Starting at 10th level, when you are subjected to an effect, such as a consular's *force storm* or an engineer's *explosion*, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
-#fe;Battle Readiness ;15
-When you reach 15th level, you have fully learned how to blend the Force with your weapon strikes. When you use your action to cast a force power, you can use your Kinetic Combat and Force-Empowered Self features.
+#fe;Battle Readiness;10
+Starting at 10th level, you have fully learned how to meld your physical self with the Force. When you take the Dodge or Disengage actions, or use your action to cast a force power, you can use your Kinetic Combat feature.
+#fe;Enlightened Evasion;15
+When you reach 15th level, when you are subjected to a damage-dealing effect that forces you to make a saving throw, you can spend 2 force points to add your Wisdom or Charisma modifier (your choice, minimum of one) to the saving throw if doesn't already include that modifier. If you do so, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. You can wait until after you roll the d20 to use this feature, but you must decide before the GM says whether the roll succeeds or fails.
 #fe;Center of the Force;20
-At 20th level, you are perfectly centered with the Force. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores is now 22.
+At 20th level, you are perfectly centered with the Force. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2.
 Additionally, once per turn, when you would roll a Kinetic Combat Damage Die, you can instead choose the maximum.
 #abh;Sentinel Callings
 #ab;Path Of Aggression
 From the murky depths of the dark side comes seething fury. Those sentinels who follow the Path of Aggression charge their weapon with lightning, culminating in a massive discharge that can ravage their opponents.
 #abf;Voltaic Slash;3
-Starting when you choose this calling at 3rd level, you learn to channel the devastation of lightning through your weapon attacks. You learn the *lightning charge* force power, and when you cast it you can use your Kinetic Combat and Force-Empowered Self features.
-#abf;Crackling Blasts;7
-At 7th level, you can spend 2 force points to cast the *lightning charge* force power as a bonus action. 
-Additionally, when you deal lightning damage with the *lightning charge* force power, you can force the target to become *shocked* until the end of their next turn.
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a short or long rest.
-#abf;Entropic Rush;13
-By 13th level, you've learned to move with speed and precision, discharging your lightning in a massive burst. When you take the Dash action and move at least 30 feet before casting *lightning charge*, you make the attack roll with advantage. Additionally, on a hit, the lightning can leap a second time, to a third creature within range or back to the first creature.
-Once you've used this feature, you must complete a short or long rest before you can use it again.
+Starting when you choose this calling at 3rd level, you learn the lightning charge force power, which does not count against your total powers known. Additionally, you can use Wisdom or Charisma as your forcecasting ability for it, and you can use your Kinetic Combat feature when you cast it as your action. Finally, when you deal lightning damage with the lightning charge force power, you deal additional lightning damage equal to half your Wisdom or Charisma modifier (your choice, minimum of one) if it doesn't already include that modifier.
+#abf;Thunderous Momentum;3
+Also at 3rd level, your stride becomes nigh unbreakable. You are immune to the shocked condition, and other effects that would reduce your speed only reduce it by 5 feet.
+#abf;Entropic Rush;7
+At 7th level, you've learned to move with speed and precision, discharging your lightning in a massive burst. When you move at least half your speed before casting lightning charge, you make the attack roll with advantage. Additionally, on a hit, the lightning can leap a second time, to a third creature within range or back to the first creature.
+#abf;Living Current;13
+By 13th level, you've learned to channel the damage done to you to enhance your strikes. The first time you deal damage on your turn, if you took damage since the start of your last turn, you can deal additional lightning damage equal to your Kinetic Combat Damage Die + half the amount of damage taken (rounded down).
+You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a short or long rest.
 #abf;Retaliatory Strike;18
-At 18th level, when a creature hits you with an attack while within 5 feet of you, you can use your reaction to cast the *lightning charge* force power, targeting them.
+At 18th level, when a creature hits you with an attack while within 5 feet of you, you can use your reaction to cast the lightning charge force power, targeting them.
 #ab;Path Of Focus
 The ways of the Force can reveal themselves to a sentinel through intense concentration and, most importantly, focus. Those sentinels who follow the Path of Focus use debilitating bursts of lightsaber strikes and force powers to exhaust their foes, crushing any hopes they had of mounting an effective defense.
 #abf;Focused Burst;3
-Starting when you choose this calling at 3rd level, you can learn to overcome even the hardiest of defenses. When you would make a melee weapon attack roll, you can instead force the target to make a Dexterity saving throw (DC equal to 8 + your proficiency bonus + your Strength or Dexterity modifier). If you would have advantage on your attack roll, the creature instead has disadvantage on their saving throw. On a failed save, the target takes normal weapon damage.
-Additionally, when a creature rolls a 1 on the saving throw, they take damage as if suffering a critical hit.
-#abf;Blade Dance;7
-At 7th level, when a creature takes melee weapon damage from you, you can move up to 10 feet. This movement does not provoke opportunity attacks.
-#abf;Blade Storm;13
-By 13th level, your bursts become even more overwhelming. On your turn, when a creature fails two consecutive Focused Burst saving throws, you can immediately make one additional attack against that creature (no action required). You can only make this additional attack once per turn.
+Starting when you choose this calling at 3rd level, you learn the burst force power, which does not count against your total powers known. Additionally, you can use your Kinetic Combat feature when you cast it as your action. Finally, you add your Wisdom or Charisma modifier (your choice, a minimum of +1) to damage rolls with it, and creatures that succeed on their saving throw take half damage, instead of none.
+#abf;Blade Dance;3
+Also at 3rd level, when you deal damage to a creature within 5 feet of you, you can move up to 10 feet without provoking opportunity attacks.
+#abf;Blade Storm;7
+At 7th level, your bursts become even more overwhelming. Once on your turn, when a creature takes damage from you twice, you can immediately make one additional attack against that creature (no action required). This attack deals damage equal to your Kinetic Combat Damage Die.
+#abf;Focused Flow;13
+By 13th level, whenever you use a Force-Empowered Self feature, you may instead expend no force points and roll a d4 in place of your Kinetic Combat Damage Die.
 #abf;Master Strike;18
-At 18th level, your burst can overpower even the fiercest of foes. On your turn, when a creature fails three consecutive Focused Burst saving throws, it becomes stunned until the start of its next turn.
+At 18th level, your bursts can overpower even the fiercest of foes. Once on your turn, when a creature takes damage from you three times, you can force it to make a Constitution saving throw against your universal force save DC. On a failed save, it becomes stunned until the end of its next turn.
 #ab;Path Of Shadows
 In darkness, there is protection. Those sentinels who follow the Path of Shadows utilize a calculated plan, becoming masters of stealth and ambush who forgo the head-on attack for the vulnerable flank.
-#abf;Shadow Strike;3
-Starting when you choose this calling at 3rd level, you learn to strike from the shadows. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the roll. You must be wielding a sentinel weapon to gain this benefit.
+#abf;Dead Silence;3
+Starting when you choose this calling at 3rd level, you learn the psychic charge force power, which does not count against your total powers known. Additionally, you can use Wisdom or Charisma as your forcecasting ability for it, and you can use your Kinetic Combat feature when you cast it as your action. Finally, when you hit a creature with the psychic charge force power and the target tries to speak, their voice does not produce sound until the end of your next turn.
+#abf;Cloak Of Shadows;3
+Also at 3rd level, you can take the Hide action as a bonus action on your turn. Additionally, you can try to hide when you are lightly obscured from the creature from which you are hiding.
+#abf;Shadow Strike;7
+At 7th level, you learn to strike from the shadows. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the roll.
 The extra damage increases to 2d6 at 11th level and 3d6 at 17th level.
-#abf;Cloak Of Shadows;7
-At 7th level, you have learned to become one with the shadows. You learn the *force camouflage* power, and you can cast it as a bonus action.  
-Additionally, when you cast *force camouflage*, you can spend an additional force point to make a Dexterity (Stealth) check as a part of this casting.
 #abf;Shadow Step;13
 By 13th level, you gain the ability to step from one shadow into another. While you are in dim light or darkness, as a bonus action you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
 #abf;Shadow's Wrath;18
-At 18th level, your training has taught you advanced techniques while you maneuver in the shadows. The first attack roll you make on your turn while invisible and hidden does not automatically reveal your presence. Make a Dexterity (Stealth) check against your target's Wisdom (Perception) check. On a success, you stay invisible and hidden.
-
+At 18th level, your training has taught you advanced techniques while you maneuver in the shadows. While you are hidden from your target, the first attack roll you make each round does not automatically reveal your presence. Make a Dexterity (Stealth) check against your target's Wisdom (Perception) check. On a success, you remain hidden. If you are also invisible, you remain invisible.
