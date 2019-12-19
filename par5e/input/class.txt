@@ -400,27 +400,27 @@ While creating your engineer character, consider what your primary skill set is 
 You can make an engineer quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Constitution. Second, choose the guild artisan background.
 #h;The Engineer
 #ts;
-#th;Level;Proficiency Bonus;Features;Tech Powers Known;Tech Points;Max Power Level;Upgrade Slots;
-#tr;1;+2;Techcasting, Potent Aptitude;6;2;1;0;
-#tr;2;+2;Infuse Item;7;4;1;0;
-#tr;3;+2;Tool Understanding, Engineering Discipline;9;6;2;3;
-#tr;4;+2;Ability Score Improvement;10;8;2;3;
-#tr;5;+3;Potent Aptitude, Quick Thinking;11;10;3;4;
-#tr;6;+3;Engineering Discipline;12;12;3;4;
+#th;Level;Proficiency Bonus;Features;Tech Powers Known;Tech Points;Max Power Level;Modification Slots;
+#tr;1;+2;Techcasting, Potent Aptitude(d6);6;2;1;0;
+#tr;2;+2;Infuse Item, Tool Understanding;7;4;1;0;
+#tr;3;+2;Engineering Discipline;9;6;2;4;
+#tr;4;+2;Ability Score Improvement;10;8;2;4;
+#tr;5;+3;Potent Aptitude(d8), Quick Thinking;11;10;3;5;
+#tr;6;+3;Engineering Discipline Feature;12;12;3;5;
 #tr;7;+3;-;13;14;4;5;
-#tr;8;+3;Ability Score Improvement;14;16;4;5;
+#tr;8;+3;Ability Score Improvement;14;16;4;6;
 #tr;9;+4;-;15;18;5;6;
-#tr;10;+4;Potent Aptitude;16;20;5;6;
+#tr;10;+4;Potent Aptitude(d10);16;20;5;6;
 #tr;11;+4;-;17;22;6;7;
 #tr;12;+4;Ability Score Improvement;18;24;6;7;
-#tr;13;+5;-;19;26;7;8;
-#tr;14;+5;Engineering Discipline;20;28;7;8;
-#tr;15;+5;Potent Aptitude;21;30;8;9;
-#tr;16;+5;Ability Score Improvement;22;32;8;9;
-#tr;17;+6;-;23;34;9;10;
-#tr;18;+6;Engineering Discipline;24;36;9;10;
-#tr;19;+6;Ability Score Improvement;25;38;9;11;
-#tr;20;+6;Tech Mastery;26;40;9;12;
+#tr;13;+5;-;19;26;7;7;
+#tr;14;+5;Engineering Discipline Feature;20;28;7;8;
+#tr;15;+5;Potent Aptitude(d12);21;30;8;8;
+#tr;16;+5;Ability Score Improvement;22;32;8;8;
+#tr;17;+6;-;23;34;9;9;
+#tr;18;+6;Engineering Discipline Feature;24;36;9;9;
+#tr;19;+6;Ability Score Improvement;25;38;9;9;
+#tr;20;+6;Tech Mastery;26;40;9;9;
 #te;
 #h;Class Features
 As an engineer, you gain the following class features.
@@ -431,7 +431,7 @@ Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per enginee
 Proficiencies
 Armor: Light Armor
 Weapons: Simple Blasters, Simple Vibroweapons
-Tools: Tinker's tools
+Tools: Tinker's tools and one of your choice
 Saving Throws: Constitution, Intelligence
 Skills: Choose three from Investigation, Lore, Medicine, Nature, Piloting, and Technology
 Equipment
@@ -447,32 +447,32 @@ In lieu of the equipment granted by your class and background, you can elect to 
 #fe;Techcasting;1
 During your training you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
 #h;Tech Powers Known
-You learn 6 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Engineer class table. You may not learn a tech power of a level higher than your Max Power Level.
+You learn 6 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the engineer class table. You may not learn a tech power of a level higher than your Max Power Level.
 #h;Tech Points
-You have a number of tech points points equal to your engineer level x 2, and you earn more at higher levels, as shown in the Tech Points column of the Engineer class table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
+You have a number of tech points equal to your engineer level x 2, as shown in the Tech Points column of the engineer class table, + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
 #h;Max Power Level
-Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Engineer class table.
-You may only cast tech powers at 5th, 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a short or long rest.
-#h;Techcasting Ability;1
+Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the engineer class table.
+You may only cast tech powers at 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a long rest.
+#h;Techcasting Ability
 Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
 #bp;Tech save DC
 8 + your proficiency bonus +your Intelligence modifier
 #bp;Tech attack modifier
 your proficiency bonus + your Intelligence modifier
 #h;Techcasting Focus
-You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
+You use a wristpad (found in chapter 5) or your tool proficiencies granted by this class as a techcasting focus for your tech powers.
 #fe;Potent Aptitude;1
 Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d6.
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the DM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost. A creature can have only one Potent Aptitude die at a time
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the GM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost. A creature can have only one Potent Aptitude die at a time.
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 Your Potent Aptitude die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 #fe;Infuse Item;2
-At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon.
-Once you've used this feature, you can't use it again until you finish a long rest.
+At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon. Once you've used this feature, you can't use it again until you finish a long rest.
 #fe;Tool Understanding;3
-Starting at 3rd level, you have advantage on any ability check you make that uses any of the tool proficiencies you gain from this class.
+Also at 2nd level, you have advantage on any ability check you make that uses any of the tool proficiencies you gain from this class.
 #fe;Engineering Discipline;3
-Also at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.
+Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.
+The wide range of tool applications gives birth to well defined distinctions between different engineering disciplines. Each discipline focuses on maximizing the personal use of a certain tool.
 #zls;
 #zl;engineer_ability;Armormech Engineering
 #zl;engineer_ability;Armstech Engineering
@@ -483,135 +483,134 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 #fe;Quick Thinking;5
 Beginning when you reach 5th level, you regain all of your expended uses of Potent Aptitude when you finish a short or long rest.
 #fe;Tech Mastery;20
-At 20th level, your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores is now 22.
+At 20th level, your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores increases by 2.
 Additionally, when you roll initiative and have no uses of Potent Aptitude left, you regain one use.
 #abh;Engineer Disciplines
 #ab;Armormech Engineering
 Those engineers who choose the Armormech Engineering discipline focus on the ability to work with hard metals and electronic shielding to construct and enhance all types of personal armor.
 #abf;Bonus Proficiencies;3
-When you choose this discipline at 3rd level, you gain prociency in armormech's tools, medium armor, and heavy armor
+When you choose this discipline at 3rd level, you gain proficiency in armormech's tools, medium armor, and heavy armor. Additionally, when you engage in crafting with armormech's tools, the rate at which you craft doubles.
 #abf;Modified Armor;3
-Also at 3rd level, you learn to modify one suit of armor or shield utilizing your armortech knowledge. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to modify it. You must have the armor, materials, and armortech's tools in order to perform this modification.
-Your modfiied armor requires attunement, and can only be used by you. Your modified armor has 3 upgrade slots, and it gains more at higher levels, as shown in the Upgrade Slots column of the Engineer class table.
-Some upgrade effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
-Over the course of a long rest, you can change a number of upgrades up to your Intelligence modifier (minimum of one).
-At 9th level, you can maintain both a modified suit of armor and shield. The total upgrade slots are split across the two items.
+Also at 3rd level, you learn to modify one unenhanced suit of armor or shield utilizing your armormech knowledge. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to modify it. You must have the armor, materials, and armormech's tools in order to perform this modification.
+Your modified armor is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified armor has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+At 9th level, you can maintain both a modified suit of armor and shield. The total modification slots are split across the two items.
 #zls;
 #zl;engineer_feature;Armormech Upgrades
 #zle;
-#abf;Damage Avoidance;3
-Lastly at 3rd level, when a creature hits you with an attack roll, you can expend one use of your Potent Aptitude to attempt to turn that hit into a miss. Roll the die and subtract it from the attack roll.
-#abf;Extra Attack;6
-Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn
-#abf;Combat Tech;14
-At 14th level, when you use your action to a cast a tech power, you can make one weapon attack as a bonus action.
+#abf;Damage Absorption;3
+Lastly at 3rd level, when you take damage, you can use your reaction and expend one use of your Potent Aptitude to absorb some of that damage. When you do so, the damage you take from the attack is reduced by the amount rolled on the die + your Intelligence modifier (minimum of one).
+#abf;Armormech's Celerity;6
+Beginning at 6th level, when you take the Attack action, you can make one weapon attack as a bonus action.
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you complete a long rest.
+#abf;Casting Celerity;14
+At 14th level, when you use your action to a cast a tech power, you can use your Armormech's Celerity feature.
 #abf;Suit Reliability;18
-Starting at 18th level, your suit is like a second skin. Whenever you make an ability check or saving throw that uses Strength, Dexterity, or Constitution, you can treat a d20 roll of 9 or lower as a 10. You must be wearing your  modified armor to gain this benefit.
+Starting at 18th level, your suit is like a second skin. Whenever you make an ability check or saving throw that uses Strength, Dexterity, or Constitution, you can treat a d20 roll of 9 or lower as a 10. You must be wearing your modified armor to gain this benefit.
 #abf;Armormech Upgrades;
 If an upgrade has prerequisites, you must meet them to install it. You can install the upgrade at the same time that you meet its prerequisites.
 #ts;
 #th;Name;Prerequisites;Description;
-#tr;ABSORPTION SHIELD;Light Shield Generator;You modify your light shield generator to block incoming damage. As a bonus action you can activate this ability and gain temporary hit points equal to 1d4 + Intelligence modier. These hit points last for one hour. You can use this feature a number of times equal to your Intelligence modier (a minimum of once). You regain any expended uses when you nish a long rest.;
-#tr;ACCELERATED MOVEMENT;Armor;You reduce the weight of your  modified armor's bulk and increase the power to joints. If the armor has a Strength requirement, you ignore it. The  modified armors weight is reduced by 15 lbs. While wearing your  modified armor your speed increases by 10 feet. This applies to all movement speeds you have while wearing your armor.;
-#tr;ADAPTABLE ARMOR;Armor;You integrate deployable hooks and ns into your armor, augmenting its mobility. While wearing your  modified armor, you gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Additionally, you gain a swim speed equal to your walking speed.;
-#tr;ADVANCED ENHANCEMENT;Level 15, Prototype Enhancement;You fine tune your  modified armor or shield. The  modified armor or shield gains an additional +1 bonus to armor class.;
-#tr;ADVANCED POWER FIST;Level 11, Prototype Power Fist;You further upgrade your  modified armor's gauntlet with increased reinforcement and weight. Your  modified armor's unarmed strike deals 1d8 kinetic damage. Additionally, your unarmed strikes score a critical hit on a roll of 19 or 20.;
-#tr;ARTIFICIALLY INTELLIGENT;Level 7;You install an articial intelligence into your modified armor. While wearing your  modified armor, when you make an ability check, your armor's articial intelligence can take the Help action. You can use this feature a number of times equal to your Intelligence modier (minimum of 1). You regain all expended uses when you complete a long rest.;
-#tr;COLLAPSIBLE SUIT;Level 5, Light Armor;Your modified armor can collapse into a case for easy storage. When transformed this way the armor is indistinguishable from a normal case and weighs 1/3 its normal weight. As an action you can don or dof the armor, allowing it to transform as needed.;
-#tr;DARVISION VISOR;Armor;While wearing your  modified armor, you have darkvision to a range of 60 feet. If you already have darkvision, this upgrade increases its range by 30 feet.;
-#tr;ENHANCED ENDURANCE;Armor;When you are reduced to 0 hit points while wearing your modified armor but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you nish a long rest.;
-#tr;ELECTROSHOCK SHIELD;Heavy Shield;You install eletroshockers in your shield. Whenever an enemy misses a melee attack against you by an amount equal to or less than your shield modier the shield deals 1d4 lightning damage to the attacker.;
-#tr;ENHANCEMENT;Level 5;You fine tune your  modified armor or shield. The modified armor or shield gains a +1 bonus to armor class and is now considered enhanced.;
-#tr;FLIGHT;Level 9, Armor;You integrate a propulsion system into your modified armor. While wearing your  modified armor you have an enhanced flying speed of 30 feet.;
+#tr;ABSORPTION SHIELD;Light Shield Generator;You modify your light shield generator to block incoming damage. As a bonus action you can activate this ability and gain temporary hit points equal to 1d4 + Intelligence modifier. These hit points last for one hour. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
+#tr;ACCELERATED MOVEMENT;Armor;You reduce the weight of your modified armor's bulk and increase the power to joints. If the armor has a Strength requirement, you ignore it. The modified armor's weight is reduced by 15 lbs. While wearing your modified armor your speed increases by 10 feet. This applies to all movement speeds you have while wearing your armor.;
+#tr;ADAPTABLE ARMOR;Armor;You integrate deployable hooks and fins into your armor, augmenting its mobility. While wearing your modified armor, you gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Additionally, you gain a swim speed equal to your walking speed.;
+#tr;ADVANCED POWER FIST;Level 11, Prototype Power Fist;You further modify your modified armor's gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d8 kinetic damage. Additionally, your unarmed strikes score a critical hit on a roll of 19 or 20.;
+#tr;ARMORWEAVE UNDERLAY;Level 5;You gain a +1 bonus to saving throws. This bonus increases to +2 at 11th level and +3 at 17th level.;
+#tr;ARTIFICIALLY INTELLIGENT;Level 7;You install an artificial intelligence into your modified armor. While wearing your modified armor, when you make an ability check, your armor's artificial intelligence can take the Help action. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you complete a long rest.;
+#tr;COLLAPSIBLE SUIT;Level 5, Light Armor;Your modified armor can collapse into a case for easy storage. When transformed this way the armor is indistinguishable from a normal case and weighs 1/3 its normal weight. As an action you can don or doff the armor, allowing it to transform as needed.;
+#tr;DAMPENING OVERLAY;Level 5; You gain a +1 bonus to AC. This bonus increases to +2 at 11th level and +3 at 17th level.;
+#tr;DARVISION VISOR;Armor;While wearing your modified armor, you have darkvision to a range of 60 feet. If you already have darkvision, this modification increases its range by 30 feet.;
+#tr;ENHANCED ENDURANCE;Armor;When you are reduced to 0 hit points while wearing your modified armor but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.;
+#tr;ELECTROSHOCK SHIELD;Heavy Shield;You install electroshockers in your shield. Whenever an enemy misses you with a melee attack, you can use your reaction to do 1d4 + your Intelligence modifier lightning damage to the attacker.;
+#tr;FLIGHT;Level 9, Armor;You integrate a propulsion system into your modified armor. While wearing your modified armor you have an enhanced flying speed of 30 feet.;
 #tr;GRAPPLING HARPOON;Armor;Your modified armor gains an integrated grappling harpoon set into your gauntlet. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While the harpoon is deployed, you can use your bonus action to activate the reel, pulling yourself to the location if the target is larger than you. A creature or object your size or smaller is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.;
-#tr;HEAVY SUIT;Level 5, Heavy Armor;You enhance your suit, making it dicult to move. As a bonus action, you can anchor your feet to the ground. While anchored, your speed is 0, you have advantage on Strength checks and Strength Saving Throws, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.;
-#tr;INFILTRATION SUIT;Armor;You install a cloaking device in your modified armor. This device has 2 charges. As an action you can use 1 charge to cast in *infiltrate* targeting yourself. The cloaking device regains all expended charges after a long rest.;
-#tr;OVERLOAD SHIELD;Light or Medium Shield Generator;You modify your shield generator to overload. As an action you can overload your shield generator. Each Large or smaller creature within 5 feet of you must make a Dexterity or Strength saving throw (their choice) against your tech save DC. On a failed save, they are pushed back 5 feet and knocked prone. You can use this feature a number of times equal to your Intelligence modier (a minimum of once). You regain any expended uses when you finish a long rest.;
-#tr;POWER FIST;Armor;You upgrade your  modified armor gauntlet with increased reinforcement and weight. Your  modified armor's unarmed strike deals 1d4 kinetic damage. Additionally, when you take the Attack action and make an unarmed attack, you can make an additional unarmed attack as a bonus action.;
-#tr;PROTOTYPE ENHANCEMENT;Level 9, Enhancement;You further fine tune your modified armor or shield. The  modified armor or shield gains an additional +1 bonus to armor class.;
-#tr;PROTOTYPE POWER FIST;Level 7, Armor, Power Fist;You further upgrade your modified armor gauntlet with increased reinforcement and weight. Your  modified armor's unarmed strike deals 1d6 kinetic damage and has the following property. If you or your target move at least 10 feet in a straight line immediately before making an unarmed attack, the first unarmed attack you make deals additional damage equal to your Intelligence modifier.;
-#tr;RESISTANCE;Armor;You tune your modified armor against certain forms of damage. Choose acid, cold, energy, fire, ion, kinetic, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this upgrade multiple times. Each time you do so, you must choose a different damage type.;
+#tr;HEAVY SUIT;Level 5, Heavy Armor;You enhance your suit, making it difficult to move. As a bonus action, you can anchor your feet to the ground. While anchored, your speed is 0, you have advantage on Strength checks and Strength saving throws, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.;
+#tr;INFILTRATION SUIT;Light or Medium Armor;You install a cloaking device in your modified armor. This device has 2 charges. As an action you can use 1 charge to cast infiltrate targeting yourself. The cloaking device regains all expended charges after a long rest.;
+#tr;OVERLOAD SHIELD;Light or Medium Shield Generator;You modify your shield generator to overload. As an action you can overload your shield generator. Each Large or smaller creature within 5 feet of you must make a Dexterity or Strength saving throw (their choice) against your tech save DC. On a failed save, they are pushed back 5 feet and knocked prone. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
+#tr;POWER FIST;Armor;You modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d4 kinetic damage. Additionally, when you take the Attack action and make an unarmed attack, you can make an additional unarmed attack as a bonus action.;
+#tr;PROTOTYPE POWER FIST;Level 7, Armor, Power Fist;You further modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d6 kinetic damage and has the following property. If you or your target move at least 10 feet in a straight line immediately before making an unarmed attack, the first unarmed attack you make deals additional damage equal to your Intelligence modifier.;
+#tr;RESISTANCE;Armor;You tune your modified armor against certain forms of damage. Choose acid, cold, fire, ion, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this modification multiple times. Each time you do so, you must choose a different damage type.;
 #tr;SEALED SUIT;Level 5, Armor;As a bonus action you can hermetically seal your modified armor, giving you an air supply for up to 1 hour and making you immune to poison (but not curing you of existing poisoned conditions). Your armor regains 1 minute of air for every minute that you are not submerged and the armor is not sealed. Additionally, while you are wearing your modified armor you are considered adapted to cold and hot climates as well as high altitude, as described in chapter 5 of the Dungeon Master's Guide.;
-#tr;SENTIENT ARMOR;Level 13, Artificially Intelligent;Your artificial intelligence has learned to control the suit without you being in it. It is now a valid target of the *tracker droid interface* tech power. While your armor is acting independently, it uses your ability scores, saving throws, and skills, and it has hit points equal to your engineer level. If reduced to 0 hit points, it falls directly to the ground, and it can not be equipped again until you finish a long rest.;
-#tr;SHIELD AMPLIFIER;Medium Shield Generator;You modify your medium shield generator to project outward. As a bonus action you can amplify your medium shield generator until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC qual to your shield's bonus. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
+#tr;SENTIENT ARMOR;Level 13, Artificially Intelligent;Your artificial intelligence has learned to control the suit without you being in it. It is now a valid target of the tracker droid interface tech power. While your armor is acting independently, it uses your ability scores, saving throws, and skills, and it has hit points equal to your engineer level. If reduced to 0 hit points, it falls directly to the ground, and it can not be equipped again until you finish a long rest.;
+#tr;SHIELD AMPLIFIER;Medium Shield Generator;You modify your medium shield generator to project outward. As a bonus action you can amplify your medium shield generator until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC equal to your shield's bonus. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
 #tr;SHIELD COVER;Heavy Shield;You modify your heavy shield to be used as a portable source of cover. As a bonus action you can anchor your heavy shield to the ground. While anchored, your heavy shield provides three-quarters cover, but can not be moved. You can unanchor using a bonus action.;
-#tr;TECH BLAST;Armor;You upgrade your modified armor gauntlet to allow you to make a ranged tech attack. The weapon res blasts of energy which deal 1d8 + your Intelligence modier energy damage with a range of 30 feet. When you would make a ranged weapon attack, you can use this ranged tech attack in place of it.;
-#tr;TECHCASTING EQUIPMENT;;You can use your modified armor or shield as a techcasting focus for your tech powers instead of your wristpad. Any enhancements are applied to your tech attack modier and tech save DC.;
-#tr;WEAPON INTEGRATION;Medium Armor;You can integrate a single weapon that weighs no more than 8 lb. into your armor. While integrated, that weapon gains the hidden property. Additionally, you have advantage on Strength saving throws to avoid being disarmed.;
+#tr;TECH BLAST;Armor;You modify your modified armor gauntlet to allow you to make a ranged tech attack. The weapon fires blasts of energy which deal 1d8 + your Intelligence modifier energy damage with a range of 30 feet. When you would make a ranged weapon attack, you can use this ranged tech attack in place of it.;
+#tr;WEAPON INTEGRATION;Medium or Heavy Armor;You can integrate a single weapon that weighs no more than 8 lb. into your armor. While integrated, that weapon gains the hidden property. Additionally, you have advantage on Strength saving throws to avoid being disarmed.;
 #te;
 #ab;Armstech Engineering
 Those engineers who choose the Armstech Engineeering discipline focus on the skill of constructing and modifying blasters, vibroweapons.
 #abf;Bonus Proficiencies;3
-When you choose this discipline at 3rd level, you gain prociency in armstech's tools, medium armor, martial blasters, and martial vibroweapons.
+When you choose this discipline at 3rd level, you gain proficiency in armstech's tools, medium armor, martial blasters, and martial vibroweapons. Additionally, when you engage in crafting with armstech's tools, the rate at which you craft doubles.
 #abf;Modified Weaponry;3
-Also at 3rd level, you learn to modify one weapon with which you are proficient utilizing your technological knowledge. Over the course of a long rest, you can expend materials equal to half the cost of a weapon in order to modify it. You must have the weapon, materials, and armstech's tools in order to perform this modification.
-Your modified weapon requires attunement, and can only be used by you. Your modified weapon has 3 upgrade slots, and it gains more at higher levels, as shown in the Upgrade Slots column of the Engineer class table.
-Some upgrade effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
-Over the course of a long rest, you can change a number of upgrades up to your Intelligence modifier (minimum of one).
-At 9th level, you can maintain two modified weapons. The total upgrade slots are split across the two weapons.
+Also at 3rd level, you learn to modify one unenhanced weapon with which you are proficient utilizing your armstech experience. Over the course of a long rest, you can expend materials equal to half the cost of a weapon in order to modify it. You must have the weapon, materials, and armstech's tools in order to perform this modification.
+Your modified weapon is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified weapon has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+At 9th level, you can maintain two modified weapons. The total modification slots are split across the two weapons.
 #zls;
 #zl;engineer_feature;Armstech Upgrades
 #zle;
 #abf;Close Call;3
-Lastly at 3rd level, when you make an attack roll with your  modified weapon and miss, you can expend one use of your Potent Aptitude to attempt to turn that miss into a hit. Roll the die and add it to the attack roll.
-#abf;Extra Attack;6
-Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn
-#abf;Combat Tech;14
-At 14th level, when you use your action to a cast a tech power, you can make one weapon attack as a bonus action.
-#abf;Variable Shots;18
-Starting at 18th level, once per turn, when you hit with your  modified weapon, you can change the damage type to acid, cold, energy, re, ion, kinetic, lightning, or sonic damage
-#abf;Armstech Upgrades;
-If an upgrade has prerequisites, you must meet them to install it. You can install the upgrade at the same time that you meet its prerequisites.
+Lastly at 3rd level, when you make an attack roll with your modified weapon and miss, you can expend one use of your Potent Aptitude to attempt to turn that miss into a hit. Roll the die and add it to the attack roll.
+#abf;Armstech's Strike;6
+Beginning at 6th level, once per round, when you deal damage to a creature with your modified weapon, you can increase the damage by 1d6. The damage is of the same type as the weapon's damage. The damage increases to 2d6 at 11th level and 3d6 at 17th level.
+#abf;Targeting Matrix;14
+At 14th level, when you cast a tech power that allows you to force creatures in an area to make a saving throw, you can instead make an attack roll with your modified weapon against a single target that would be in the range of the power. On a hit, the target suffers the effects as though they failed their saving throw. If the power would affect more than one creature, it instead affects only one.
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+#abf;Armstech's Salvo;18
+Starting at 18th level, when you use your Targeting Matrix feature, and the tech power would affect more than one creature, you can instead attack each affected creature that would be in the range of the power. Make a separate attack roll for each target. On a hit, each target suffers the effects as though they failed their saving throw.
+#abf;Armstech Modifications;
+If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
 #ts;
 #th;Name;Prerequisites;Description;
-#tr;ADVANCED ENHANCEMENT;Level 15, Prototype Enhancement;You fine tune your modified weapon. The modified weapon gains an additional +1 bonus to attack and damage rolls made with it.;
-#tr;Augmented Steps;;Once per turn, when you deal damage with your modified weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can't make opportunity attacks against you for the rest of your turn.;
-#tr;Bayonet;Blaster;You affix a short blade to the barrel of your modified blaster weapon, allowing you to make a melee weapon attack with it. The blade is a melee weapon with the finesse property that you are procient with, and deals 1d6 kinetic damage.;
-#tr;Burst Fire;Level 9, Blaster;Your weapon gains the burst property, with a burst number equal to half its capacity.;
-#tr;Booming Strikes;Level 7;You pack extra power into your modified weapon. Once per turn, when you hit with the weapon, you can deal an additional 1d6 damage. If you do so, the weapon makes a loud boom which can be heard 100 feet away. If you are hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have advantage.;
-#tr;Collapsible Hilt;Vibroweapon;You install an expandable hilt on your modified weapon. Your modified weapon gains the reach property.;
-#tr;Enhancement;Level 5;You fine tune your modified weapon. The modified weapon gains a +1 bonus to attack and damage rolls made with it.;
-#tr;Expanded Magazine;Blaster;Your modified weapon can hold two power cells at a time, allowing you to expend both before a reload is required. You can only reload one power cell at a time.;
-#tr;Flashlight;;You afix a targeted light to your weapon. As a bonus action, you can toggle the light on or off. While on, your weapon sheds bright light in a 60-foot cone.;
-#tr;Harpoon Reel;Level 5;You install a secondary firemode that launches a harpoon attached to a tightly coiled cord. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While connected in this manner, you can use your bonus action to activate the reel, pulling yourself to the location if the target is your size or larger. A creature or object smaller than you is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.;
-#tr;Imbue Weapon;Level 9, Techcasting Weapon;You modify your weapon to carry a charge. Over the course of a short rest, you can cast an at-will tech power, channeling it into your weapon. The next time you hit with your weapon, the stored power is released. If the power would require an attack roll, make a tech attack roll. If the power would require a saving throw, the target must make the saving throw as normal. On a hit, or a failure, the target suers the power's normal effects.;
-#tr;Integrated Magazine;Expanded Magazine;Your modified weapon can hold three power cells at a time, and you can replace all three power cells with the same action.;
-#tr;Jagged Edge;Vibroweapon;When you critically hit with the weapon, you deal an additional 1d8 kinetic damage.;
-#tr;Keen Edge;Level 11, Jagged Edge;Your weapon now scores a critical hit on a roll of 19 or 20.;
-#tr;Overcharge Weapon;Level 11, Booming Strikes;You gain the ability to channel your tech power to enhance your weapon's damage. You can expend one tech slot to deal additional damage to the target. The extra damage is 1d6 for a 1st-level tech slot, plus 1d6 for each slot level higher than 1st, to a maximum of 5d6. The damage is the same type as the weapon damage. If you also use your Booming Strikes with an attack, you add this damage to the extra damage of your Booming Strikes.;
-#tr;Prototype Enhancement;Level 9, Enhancement;You further fine tune your modified weapon. The modified weapon gains an additional +1 bonus to attack and damage rolls made with it.;
-#tr;Power Transfer;Level 7;When you hit with the weapon, you can choose to gain temporary hit points equal to half the damage dealt. Once you've used this feature, you must complete a long rest before you can use it again.;
-#tr;Returning Weapon;Vibroweapon;You install a retractible chain in your modified vibroweapon. If the weapon does not already have the thrown property, it gains it with a range of 20/60. Additionally, when you throw the weapon, it immediately returns to your hand. Once you've used this feature, you must complete a long rest before you can use it again.;
-#tr;Screening Weapon;;You upgrade your modified weapon with a sound dampening module. When you make a weapon attack with your weapon while hidden, Investigation and Perception checks made to locate you that rely on sound have disadvantage.;
-#tr;Siege Weapon;;You modify your weapon to be more effective against barriers. Your weapon deals double damage against structures.;
-#tr;Shock Absorber;Techcasting Weapon;You add a reclamation device to your modified weapon to gather energy from the surroundings when it is present. As a reaction to taking acid, cold, energy, re, ion, kinetic, lightning, or sonic damage, you can cast absorb energy without expending tech points. When absorbed in this method, you can apply the bonus damage granted by Absorb Elements to your next modified weapon attack even if you make a ranged attack. Once you've used this feature, you must complete a short or long rest before you can use it again.;
-#tr;Shock Harpoon;Level 9, Harpoon Reel;After hitting a creature with the harpoon fire mode, you can use the connection to deliver an at-will tech power. As a bonus action, you can cast an at-will tech power at the target as if you were standing in the target's space. If the power requires a saving throw, the target has disadvantage. Once you've used this feature, you can't use it again until you recover the harpoon.;
-#tr;Shocking Strike;Level 9, Vibroweapon;When you hit with the weapon, you can create an electronic burst. Each creature in a 15-foot cone centered on the creature you hit must make a Dexterity saving throw against your tech save DC, taking 1d8 lightning damage on a failed save or half as much on a successful one. Once you've used this feature, you must complete a long rest before you can use it again.;
-#tr;Snap Fire;Level 9, Blaster;You upgrade your modified blaster weapon for quick shots. You can use your reaction to take a opportunity attack with your modified weapon if an enemy comes within 10 ft of you. You have disadvantage on this attack.;
-#tr;Staggering Strike;Vibroweapon;When you hit with the weapon, you can force the target to make a Strength saving throw. On a failed save, the creature is pushed back 10 feet and knocked prone. Once you've used this feature, you must complete a long rest before you can use it again.;
-#tr;Techcasting Weapon;You can use your modified weapon as a techcasting focus for your tech powers instead of your wristpad. Any weapon enhancements are applied to your tech attack modier and tech save DC.;
-#tr;Tracker;Level 5;You add a tracking mechanism to your modified weapon. The tracker has 3 charges. As a bonus action you can use 1 charge to cast hunter's mark . As an action you can use 2 charges to cast detect invisibility. The tracker regains all expended charges after a long rest.;
-#tr;Truelight;Level 11, Flashlight;When toggled on, your flashlight now automatically dispels illusions and can detect invisibility, as with truesight.;
-#tr;Venomous Weapon;Level 7, Vibroweapon;As a bonus action, you can coat your weapon in a thin layer of poison for 1 minute. The next time you hit with the weapon, the creature must make a Constitution saving throw against your tech save DC. On a failed save, a creature takes 1d10 poison damage and becomes poisoned for 1 minute. Once you've used this feature, you must complete a long rest before you can use it again.;
+#tr;ACCURACY SCOPE;Level 5, Blaster;You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
+#tr;AMPLIFYING BARREL;Level 5, Blaster;You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
+#tr;AUGMENTED STEPS;;Once per turn, when you deal damage with your modified weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can't make opportunity attacks against you for the rest of your turn.;
+#tr;BAYONET;Blaster;You affix a short blade to the barrel of your modified blaster weapon, allowing you to make a melee weapon attack with it. The blade is a melee weapon with the finesse property that you are proficient with, and deals 1d6 kinetic damage.;
+#tr;BURST FIRE;Level 9, Blaster;Your weapon gains the burst property, with a burst number equal to half its capacity.;
+#tr;BOOMING STRIKES;Level 7;You pack extra power into your modified weapon. Once per turn, when you hit with the weapon, you can deal an additional 1d6 damage. If you do so, the weapon makes a loud boom which can be heard 100 feet away. If you are hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have advantage.;
+#tr;COLLAPSIBLE HILT;Vibroweapon;You install an expandable hilt on your modified weapon. Your modified weapon gains the reach property.;
+#tr;CONTOURED GRIP;Level 5, Vibroweapon;You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
+#tr;EXPANDED MAGAZINE;Blaster;Your modified weapon can hold two power cells at a time, allowing you to expend both before a reload is required. You can only reload one power cell at a time.;
+#tr;FLASHLIGHT;;You affix a targeted light to your weapon. As a bonus action, you can toggle the light on or off. While on, your weapon sheds bright light in a 60-foot cone.;
+#tr;HARPOON REEL;Level 5;You install a secondary firemode that launches a harpoon attached to a tightly coiled cord. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While connected in this manner, you can use your bonus action to activate the reel, pulling yourself to the location if the target is your size or larger. A creature or object smaller than you is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.;
+#tr;IMBUE WEAPON;Level 9;You modify your weapon to carry a charge. Over the course of a short rest, you can cast an at-will tech power, channeling it into your weapon. The next time you hit with your weapon, the stored power is released. If the power would require an attack roll, make a tech attack roll. If the power would require a saving throw, the target must make the saving throw as normal. On a hit, or a failure, the target suffers the power's normal effects.;
+#tr;INTEGRATED MAGAZINE;Expanded Magazine;Your modified weapon can hold three power cells at a time, and you can replace all three power cells with the same action.;
+#tr;JAGGED EDGE;Vibroweapon;When you critically hit with the weapon, you deal an additional 1d8 kinetic damage.;
+#tr;KEEN EDGE;Level 11, Jagged Edge;Your weapon now scores a critical hit on a roll of 19 or 20.;
+#tr;NEUTRONIUM EDGE;Level 5, Vibroweapon;You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
+#tr;OVERCHARGE WEAPON;Level 11, Booming Strikes;You gain the ability to channel your tech power to enhance your weapon's damage. You can expend one tech slot to deal additional damage to the target. The extra damage is 1d6 for a 1st-level tech slot, plus 1d6 for each slot level higher than 1st, to a maximum of 5d6. The damage is the same type as the weapon damage. If you also use your Booming Strikes with an attack, you add this damage to the extra damage of your Booming Strikes.;
+#tr;POWER LOOP;Level 7;When you hit with the weapon, you can choose channel the energy generated, gaining temporary hit points equal to half the damage dealt. Once you've used this feature, you must complete a long rest before you can use it again.;
+#tr;RETURNING WEAPON;Vibroweapon;You install a retractible chain in your modified vibroweapon. If the weapon does not already have the thrown property, it gains it with a range of 20/60. Additionally, when you throw the weapon, it immediately returns to your hand.;
+#tr;SCREENING WEAPON;;You modify your modified weapon with a sound dampening module. When you make a weapon attack with your weapon while hidden, Investigation and Perception checks made to locate you that rely on sound have disadvantage.;
+#tr;SIEGE WEAPON;;You modify your weapon to be more effective against barriers. Your weapon deals double damage against structures.;
+#tr;SHOCK ABSORBER;;You add a reclamation device to your modified weapon to gather energy from the surroundings when it is present. While wielding your modified weapon, you can cast the absorb energy tech power and the power's extra damage applies to both melee and ranged weapon attacks.;
+#tr;SHOCK HARPOON;Level 9, Harpoon Reel;After hitting a creature with the harpoon fire mode, you can use the connection to deliver an at-will tech power. As a bonus action, you can cast an at-will tech power at the target as if you were standing in the target's space. If the power requires a saving throw, the target has disadvantage. Once you've used this feature, you can't use it again until you recover the harpoon.;
+#tr;SHOCKING STRIKE;Level 9, Vibroweapon;When you hit with the weapon, you can create an electronic burst. Each creature in a 15-foot cone centered on the creature you hit must make a Dexterity saving throw against your tech save DC, taking 1d8 lightning damage on a failed save or half as much on a successful one. Once you've used this feature, you must complete a long rest before you can use it again.;
+#tr;SNAP FIRE;Level 9, Blaster;You modify your modified blaster weapon for quick shots. You can use your reaction to take a opportunity attack with your modified weapon if an enemy comes within 10 ft of you. You have disadvantage on this attack.;
+#tr;STAGGERING STRIKE;Vibroweapon;When you hit with the weapon, you can force the target to make a Strength saving throw. On a failed save, the creature is pushed back 10 feet and knocked prone. Once you've used this feature, you must complete a short or long rest before you can use it again.;
+#tr;SUBDUED RECOIL;Blaster;You install a recoil dampener in your modified blaster, removing the strength property from it.;
+#tr;TRACKER;Level 5;You add a tracking mechanism to your modified weapon. The tracker has 3 charges. As an action you can use 1 charge to cast target lock. As an action you can use 2 charges to cast detect invisibility. The tracker regains all expended charges after a long rest.;
+#tr;TRUELIGHT;Level 11, Flashlight;When toggled on, your flashlight now automatically dispels illusions and can detect invisibility, as with truesight.;
+#tr;VENOMOUS WEAPON;Level 7, Vibroweapon;As a bonus action, you can coat your weapon in a thin layer of poison for 1 minute. The next time you hit with the weapon, the creature must make a Constitution saving throw against your tech save DC. On a failed save, a creature takes 1d10 poison damage and becomes poisoned for 1 minute. Once you've used this feature, you must complete a long rest before you can use it again.;
 #te;
 #ab;Astrotech Engineering
 Those engineers who choose the Astrotech Engineering discipline focus on crafting and upgrading their droid companions
 #abf;Bonus Proficiencies;3
-When you choose this discipline at 3rd level, you gain prociency in astrotech's tools.
+When you choose this discipline at 3rd level, you gain proficiency in astrotech's tools. Additionally, when you engage in crafting with astrotech's tools, the rate at which you craft doubles.
 #abf;Droid Companion;3
-Also at 3rd level, you gain the aid of a droid companion, either through construction or purchase. If you choose to construct your droid companion, you must have astrotech's tools, you must spend half the cost of the droid in materials, and you must spend a number of days equal to the droid's cost divided by 100. The character is assumed to work for 8 hours each of those days.
-Choose a droid companion, which is detailed at the end of this discipline. Over the course of 1 hour, which can be done during a short rest, you can expend 500 credits worth of materials and circuitry to interface your wristpad with that droid. It then becomes a valid target of the *tracker droid interface* tech power. 
-If your droid is irreparably destroyed, or you want to interface with a different droid, you can spend an additional 250 credits and 1 hour to change the target of this feature. You may only have one droid companion at a time. 
-Your droid gains a variety of benefits while it is interfaced with you: 
+Also at 3rd level, you learn to employ all the knowledge you've accumulated to create and customize your own personalized droid companion.
+Choose your droid, which is detailed at the end of this discipline. Over the course of 8 hours, which can be done during a long rest, you can expend 500 cr worth of materials to finally finish your droid.
+If your droid is irreparable destroyed, or you want to interface with a different droid, you can spend an additional 250 credits and 1 hour to change the target of this feature. You may only have one droid companion at a time.
+Your droid gains a variety of benefits while it is interfaced with you:
 #ls;
 #li;The droid obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your droid acts on its own.
-#li;Your droid's level equals your engineer level, and for each engineer level you gain after 3rd, your droid companion gains an additional hit die and increases its hit points accordingly.
+#li;Your droid's level equals your engineer level, and for each engineer level you gain after 3rd, your droid companion gains an additional Hit Die and increases its hit points accordingly.
 #li;Your droid has the proficiency bonus of a player character of the same level.
-#li;Whenever you gain the Ability Score Improvement class feature, your droid's abilities also improve. Your droid can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your droid can't increase an ability score above 20 using this feature unless its description species otherwise.
+#li;Whenever you gain the Ability Score Improvement class feature, your droid's abilities also improve. Your droid can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your droid can't increase an ability score above 20 using this feature unless its description specifies otherwise.
 #li;Your droid can not wear armor, but you can have the armor professionally integrated into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to integrate it into your droid. Your droid must be proficient in armor in order to have it integrated.
+#li;Your droid is a valid target of the tracker droid interface tech power.
 #le;
-Additionally, you can upgrade your droid. Your droid companion has 3 upgrade slots, and it gains more at higher levels, as shown in the Upgrade Slots column of the Engineer class table. 
-Over the course of a long rest, you can change a number of upgrades up to your Intelligence modifier (minimum of one).
+Additionally, you can modify your droid. Your droid companion has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
 #zls;
 #zl;engineer_feature;Astrotech Upgrades
 #zle;
