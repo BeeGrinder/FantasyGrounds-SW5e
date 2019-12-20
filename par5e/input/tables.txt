@@ -1,0 +1,26 @@
+#@;SW5e Scholar
+##;Scholar Physician Side Effects
+#!;Scholar Physician Side Effect Table
+Scholar Physician Side Effects
+column;Side Effect
+dice;d20
+row;1;1;The creature turns out to be allergic to this specific treatment. Every ability score is reduced by 1.
+row;2;2;The creature starts sneezing uncontrollably. Any attack rolls with a die roll value of 19 results in a miss due to a poorly timed sneeze.
+row;3;3;The creature's legs become swollen. Their move speed becomes at most half their normal movement speed.
+row;4;4;The creature becomes one size larger or smaller.
+row;5;5;The skin at their joints turns into a wooden material, giving them a bonus of +2 to AC.
+row;6;6;The creature's body starts producing powerful stomach acid in high amounts. The creature can use an action to spew stomach acid in a 15 feet cone. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 acid damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+row;7;7;The creature becomes mute and has uncontrollable gas. They have disadvantage on Dexterity (Stealth) checks that rely on smell.
+row;8;8;The creature's eyes glows bright red. The creature also gains darkvision, but if they already have darkvision they get a light headache instead.
+row;9;9;The creature gains +4 to perception checks based on hearing, but everything seems uncomfortably loud to them. They gain vulnerability to sonic damage.
+row;10;10;The treatment slows down their brain function, reducing their Intelligence by 4.
+row;11;11;The creature's skin turns dark purple. If they are already purple, they turn bright pink instead.
+row;12;12;The creature becomes covered in sickly, green pustules. When the creature is hit by a melee attack, the attacker takes 1d4 poison damage.
+row;13;13;The creature's skin starts to seriously bloat up from internal pressure build-up, and a strong impact may cause it to explode. Whenever the creature takes damage, the creature has to pass a concentration check or the creature takes kinetic damage equal to half their maximum hit points. Other creatures within 10 feet of the explosion also take a fourth of the damage. Once this explosion occurs, their skin becomes very soft.
+row;14;14;The creature rapidly grows body hair all over, including the face, until they resemble a wookiee. If they are already a wookiee, the reverse effect occurs; all hair immediately falls off, leaving the skin bare.
+row;15;15;The creature's body temperature fluctuates to extremes. They gain resistance to cold and fire damage.
+row;16;16;The creature becomes ravenous. Every hour they haven't eaten a meal they gain a level of exhaustion.
+row;17;17;The creature believes they are the chosen one.
+row;18;18;The creature has a difficult time resting. The amount they heal from Hit Dice is now halved.
+row;19;19;The creature's movement speed is increased by 15 feet, and opportunity attacks on them have disadvantage.
+row;20;20;The creature gains 10d10 hit points, and they feel happy and carefree.

@@ -1,49 +1,66 @@
-#@;Fantasy Grounds Specific
-#!;Fantasy Grounds Conversion
-##;Player/DM notes
-Every effort was made to have the Fantasy Grounds SW5e experience similar to the standard 5e experience.
-However, because certain ruleset changes may effect the Fantasy Grounds interface or other behaviors, some things may be slightly different in Fantasy Grounds than they appear in the SW5e PDF documents. These should be minor and intuative.
-#h;Modules and Extensions
-It is required that this module is used with the SW5e Extension.  Many of its features will not work if the extension is not loaded.
-The following modules should all be used together; SW5e Player Book(Class, Race, Background, etc), SW5e Supplement(Spells, Items, etc), SW5e NPC Manual(NPCs).
-#h;Changes from the SW5e PDF Document
-#h;Class Changes
-#bp;Berserker
-Unarmored Defense: This skill does not automatically alter the AC calculation in the character sheet.  The player/DM must add the CON bonus manually.
-#h;Race Changes
-No issues found in species at this time.
-#h;Background Changes
-No issues found in backgrounds at this time.
-#h;Feats Changes
-No issues found in feats at this time.
-#h;Other Changes
-#bp;Items and Equipment
-Items and Equipment are in a separate module called SW5e Supplement.mod see the reference section of that module for any notes.
-#bp;Item Effects
-Some items, like grenades, have effects, these are included in the SW5e Supplement module.
-#bp;Equipment Packs
-The starting Equipment Packs are found as Parcels in the SW5e Supplement module.  They have no cost, so if doing the starting wealth option, be sure to deduct the proper costs involved.
-#bp;Items Button Weapon/Armor Lists
-When you use the Items button on the right side of the screen you see the Armor and Weapons buttons at the top of that window.  These buttons should give items by category for picking weapons and armor.
-#bp;Powers(Spells)
-Powers(Spells) are in a separate module called SW5e Supplement.mod see the reference section of that module for any notes.
-#bp;-----
+#@;Read Me
+#!;Fantasy Grounds SW5e
+##;Player/GM notes
+The Fantasy Grounds SW5e modules are not meant to replace the PDF documentation.  All participants should use the PDF for rules and game mechanics.
+#h;The SW5e Extension
 #ls;
-#li;Special thanks to Maximus13 for allowing me to use data from his web site.
-#li;Special thanks to CaptainDaddy for feedback and testing.
+#li;The SW5e extension must be loaded in your campaign. Many of the features will not work if the extension is not loaded.
 #le;
+#h;The SW5e Modules
+The following modules should all be used together
+#ls;
+#li;SW5e Player Book (Class, Race, Background, etc)
+#li;SW5e Supplement (Spells, Items, etc)
+#li;SW5e NPC Manual (NPCs, Monsters, Droids, etc)
+#le;
+#h;Issues to be aware of
+#bp; Berserker Unarmored Defense
+This skill does not automatically alter the AC calculation in the character sheet.  The player/GM must add the CON bonus manually.
+#bp; Items and Equipment
+Items and Equipment are in the SW5e Supplement.mod. It must be loaded to use inventory features.
+#bp; Item Effects
+Some items, like grenades, have effects or conditions that can be used in the combat tracker, many of these are included in the SW5e Supplement module.
+#bp; Class, Race, Background Effects
+Some classes, races, backgrounds, etc. have effects or conditions that can be used in the combat tracker, many of these are included in the SW5e Supplement module.
+#bp; Equipment Packs
+The starting Equipment Packs are found as Parcels in the SW5e Supplement module.  They have no cost, so if doing the starting wealth option, be sure to deduct the proper costs involved.
+#bp; Items Button Weapon/Armor Lists
+When you use the "Items" button on the right side of the screen you will see the Armor and Weapons buttons at the top of that window.  These buttons should give items by category for picking weapons and armor.
+#h; Powers(Spells)
+Powers(Spells) are in the SW5e Supplement.mod. It must be loaded to use caster features.
+Translation of Spell terms
+#ls;
+#li;Tech/Force Powers Known = Number of spells known
+#li;Tech/Force Points = Spell Points
+#li;Tech/Force Power Level = Spell Level
+#li;Max Power Level = Highest spell level that can be used
+#le;
+#bp; Spell Points
+The power (spell) system in SW5e uses the alternate rules of spell points as defined in the 5e DMG.  This can be implemented in Fantasy Grounds in the character sheet Actions tab.  Use the Add Power (Star) button to add a power called "Spell Points" and finish with the "-" button.  Go to mode "Preparation" and enter the number of desired points with the period "Daily".  This will automatically reset on a long rest.
+
 #@;Attribution and Copyright
 #!;SW5e Ruleset Information
 ##;Credits and Attribution
-#h;Credits from the SW5e Player Handbook
-Please read the "official" SW5e Player Handbook.  See the section about credit and attributions.
+#h;Official Documentation
+Please read the "official" SW5e Player Handbook.
 All the SW5e PDF files are available in the first post of the SW5e subreddit at the link below.
 https://www.reddit.com/r/sw5e/
-
+or also
+https://sw5e.com/
+#h;Credits and Attributions
+See the official documentation PDF and read the credit and attribution section.
+#h;Fantasy Grounds SW5e Open Source
+All sources can be found on GitHub at the link below
+https://github.com/BeeGrinder/FantasyGrounds-SW5e/
+Please, create an issue ticket there for any issues or requests for changes/improvements.
 #!;Copyrights and Licensing
-##;Conversion Copyright
+##;Copyrights
 #h;Fantasy Grounds Conversion Copyright Information
 This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
+This project is in no way affiliated with or endorsed by Lucasfilm Limited or any of its subsidiaries, employees, or associates. This project offers no suggestion that the work presented is "official" or produced or sanctioned by the owner or any licensees of the aforementioned trademarks. This project will take all steps necessary to ensure that any usage of trademarked items in no way confuses the audience of this site as to its origin. This project makes no claim to own Star Wars or any of the copyrights or trademarks related to it.
+Any property owned by this project is released under the following copyright:
+Creative Commons Attribution NonCommercial 3.0 License
+http://creativecommons.org/licenses/by-nc/3.0/us/
 ##;(OGL)Open Gaming License
 #h;(OGL)Open Gaming License and SRD5
 Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.0 (“SRD5”) is granted solely through the use of the Open Gaming License, Version 1.0a. 
@@ -53,9 +70,7 @@ The following items are designated Product Identity, as defined in Section 1(e) 
 All of the rest of the SRD5 is Open Game Content as described in Section 1(d) of the License. 
 The terms of the Open Gaming License Version 1.0a are as follows: 
 OPEN GAME LICENSE Version 1.0a
-The	following	text	is	the	property	of	Wizards	of	the	
-Coast,	Inc.	and	is	Copyright	2000	Wizards	of	the	
-Coast,	Inc	("Wizards").	All	Rights	Reserved.	
+The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved. 
 1. Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity. (e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) "You" or "Your" means the licensee in terms of this agreement. 
 2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License. 
 3.Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License. 
@@ -73,156 +88,4 @@ Coast,	Inc	("Wizards").	All	Rights	Reserved.
 15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc. 
 System Reference Document 5.0 Copyright 2016, Wizards of the Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris Sims, and Steve Townshend, based on original material by E. Gary Gygax and Dave Arneson. 
 END OF LICENSE
-
-#@;SW5e Handbook
-#!;1. Character Creation
-##;Character Creation
-Your first step in playing an adventurer in the Dungeons & Dragons game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a species (such as human or twi'lek) and a class (such as sentinel or scout). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the Dungeons & Dragons world.
-Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking scoundrel, a fervent consular, or a cruel guardian. Or you might be more interested in an unconventional character, such as a brawny scoundrel who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like non-Human species like Twi'leks or Wookiees? Try building a character of one of those species. Do you want your character to be the toughest adventurer at the table? Consider the soldier class. If you don’t know where else to begin, take a look at the illustrations in any Star Wars book to see what catches your interest.
-Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What’s important is that you come to the table with a character you’re excited to play.
-Throughout this section, we use the term character sheet to mean whatever you use to track your character, whether it’s a formal character sheet (like the one at the end of these rules), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.
-See PDF for more details.
-
-#!;2. Species
-##;Species (Race in Fantasy Grounds)
-A visit to any of the great cities in the worlds of Star Wars overwhelms the senses. Voices chatter in countless different languages. The smells of cooking in dozens of different cuisines mingle with the odors of crowded streets and poor sanitation. Buildings in myriad architectural styles display the diverse origins of their inhabitants.
-And the people themselves-people of varying size, shape, and color, dressed in a dazzling spectrum of styles and hues-represent many different species, from diminutive Bothans and stalwart Cereans to majestic Twi'Leks and towering Wookiees, mingling among a variety of human ethnicities.
-Scattered among the members of these more common species are the true exotics: a hulking Besalisk here, pushing his way through the crowd, and a sly Chiss there, lurking in the shadows with mischief in her eyes. A group of Jawas chatters as one of them activates a clever mechanical toy that moves of its own accord. Zabraks and Devaronians live and work alongside humans, without fully belonging. And there, well out of the sunlight, is a lone Duros-a fugitive from the the Galactic Republic, trying to make his way in a world.
-See PDF for more details.
-
-#!;3. Classes
-##;Classes
-Adventurers are extraordinary people, driven by a thirst for excitement into a life that others would never dare lead. They are heroes, compelled to explore the dark places of the world and take on the challenges that lesser women and men can’t stand against.
-Class is the primary definition of what your character can do. It’s more than a profession; it’s your character’s calling. Class shapes the way you think about the world and interact with it and your relationship with other people and powers in the galaxy. A fighter, for example, might view the world in pragmatic terms of strategy and maneuvering, and see herself as just a pawn in a much larger game. A consular, by contrast, might see himself as a willing servant of the Force. While the fighter has contacts in a mercenary company or army, the consular might know a number of Jedi or Sith who share his faith.
-Your class gives you a variety of special features, such as a fighter’s mastery of weapons and armor, and an engineer’s powers. At low levels, your class gives you only two or three features, but as you advance in level you gain more and your existing features often improve. Each class entry in this chapter includes a table summarizing the benefits you gain at every level, and a detailed explanation of each one.
-Adventurers sometimes advance in more than one class. An operative might switch direction in life and become an engineer. A berserker might discover latent force sensitivity and dabble in the guardian class while continuing to advance as a berserker. Sith purebloods are known to combine martial mastery with force training and advance as fighters and consulars simultaneously. 
-Optional rules for combining classes in this way, called multiclassing, appear in chapter 6.
-See PDF for more details.
-
-#!;4. Personality and Background
-##;Characters
-Characters are defined by much more than their species and class. They’re individuals with their own stories, interests, connections, and capabilities beyond those that class and species define. This section expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
-See PDF for more details.
-
-#!;5. Adventuring and Equipment
-##;Adventuring and Equipment
-The marketplace of a large city teems with buyers and sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.
-For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
-See PDF for more details.
-##;Cost and Currency
-The marketplace of a large city teems with buyers and sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.
-For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
-#h;Wealth
-Wealth generally appears in the form of credits. The Galactic Republic and Sith Empire have their own mints, but in most worlds, the chits are interchangeable. Other trade goods, gemstones, artifacts, and property can reflect your character’s financial well-being. Members of the lower class trade in goods, bartering for what they need and paying taxes in raw materials. Members of the nobility trade either in legal rights, such as the rights to a mine, a port, or a company, or in high denomination credits. Only merchants, adventurers, and those offering professional services for hire commonly deal in credits.
-#h;VARIANT: STARTING WEALTH BY CLASS
-#ts;
-#th;Class;Funds;
-#tr;Berserker;1,000 + 2d4 x 100 cr;
-#tr;Consular;1,000 + 2d4 x 100 cr;
-#tr;Engineer;1,000 + 3d4 x 100 cr;
-#tr;Fighter;1,000 + 5d4 x 100 cr;
-#tr;Guardian;1,000 + 5d4 x 100 cr;
-#tr;Monk;1,000 + 1d4 x 100 cr;
-#tr;Operative;1,000 + 4d4 x 100 cr;
-#tr;Scholar;1,000 + 3d4 x 100 cr;
-#tr;Scout;1,000 + 5d4 x 100 cr;
-#tr;Sentinel;1,000 + 3d4 x 100 cr;
-#te;
-#h;Currency
-Credits come in a variety of denominations: from a single chit to cards loaded with incredible value. While the Republic and Empire have their own currencies, in most worlds they can be used interchangeably.
-With ten credits, a character can buy a power cell, a stylus, or a glowrod. A skilled (but not exceptional) artisan can earn ten credits a day. The credit is the standard unit of measure for wealth, even if the chit itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of credits, the transactions don’t usually involve the exchange of individual chits. Rather, the credit is a standard measure of value, and the actual exchange is in credit cards, letters of credit, or valuable goods.
-A standard chit weighs about a third of an ounce, so fifty chits weigh a pound.
-#h;Light Weapon Cost
-#ls;
-#li;The listed cost of lightweapons is equal to 5x their vibroweapon counterpart. If you use the Variant: Starting Wealth rule, you should consider letting players use the value of the vibroweapon counterpart as their purchase price.
-#li;Additionally, lightweapons are a scarce and restricted resource. Finding a buyer for a salvaged lightweapon is often diffcult due to their clandestine nature.
-#le;
-#h;SELLING TREASURE
-Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
-#h;ARMS, ARMOR, AND OTHER EQUIPMENT
-As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Used weapons and armor aren't always in good enough condition to sell.
-#h;ENHANCED ITEMS
-Selling enhanced items can be problematic. Finding someone to find an overtuned blaster isn't hard, but the most unique of items are beyond all but the wealthiest denizens. Likewise, aside from a few common enhanced items, you won't normally come across enhanced items to purchase. The value of special equipment is far beyond simple credits and should always be treated as such.
-#h;GEMS, JEWELRY, AND ART OBJECTS
-These items retain their full value in the marketplace, and you can either trade them in for credits or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large city or even another planet.
-#h;TRADE GOODS
-In the Outer Rim, many people conduct transactions through barter. Like gems and art objects, trade goods -raw materials like bags of salt, livestock, and so on- retain their full value in the market and can be used as currency.
-##;Adventuring Gear
-#h;EQUIPMENT PACKS
-This section describes items that have special rules or require further explanation.
-#bp;EQUIPMENT PACKS
-The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
-#bp;BURGLAR’S PACK
-Costs 290 credits. Includes a backpack, two glow rods, a hydrospanner, a fusion cutter, a chronometer, a grappling hook, 5 days of field rations, and a canteen.
-#bp;DIPLOMAT'S PACK
-Costs 330 credits. Includes a chest, a set of fine clothes, a datapad, 5 datacards, a stylus, 5 days of field rations, and a canteen.
-#bp;DUNGEONEER’S PACK
-Costs 320 credits. Includes a backpack, five glow rods, a fusion cutter, a grappling hook, a chronometer, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
-#bp;ENTERTAINER’S PACK
-Costs 420 credits. Includes a backpack, a bedroll, two costumes, two glowrods, 5 days of field rations, a canteen, and a disguise kit.
-#bp;EXPLORER’S PACK
-Costs 250 credits. Includes a backpack, a bedroll, a blanket, a mess kit, two glowrods, a commlink, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
-#bp;PRIEST’S PACK
-Costs 275 credits. Includes a backpack, a blanket, two glowrods, a datapad, a medkit, 5 days of field rations, and a canteen.
-#bp;SCHOLAR’S PACK
-Costs 290 credits. Includes a backpack, a datapad, 5 datacards, a stylus, a holorecorder, 5 days of field rations, and a canteen.
-#bp;TECHNOLOGIST'S PACK
-Costs 670 credits. Includes a backpack, chronometer, respirator, datapad, holocomm, comlink, bedroll, canteen, and 5 days of field rations.
-
-#!;6. Customization Options
-##;Customization Options
-The combination of ability scores, species, class, and background defines your character’s capabilities in the game, and the personal details you create set your character apart from every other character. Even within your class and species, you have options to fine-tune what your character can do. But this chapter is for players who—with the DM’s permission—want to go a step further.
-This chapter defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability s cores as you gain levels. Your DM decides whether these options are available in a campaign.
-See PDF for more details.
-
-#!;7. Ability Scores
-##;Ability Scores
-Six abilities provide a quick description of every creature’s physical and mental characteristics:
-#bw;Strength, measuring physical power
-#bw;Dexterity, measuring agility
-#bw;Constitution, measuring endurance
-#bw;Intelligence, measuring reasoning and memory
-#bw;Wisdom, measuring perception and insight
-#bw;Charisma, measuring force of personality
-See PDF for more details.
-#!;8. Adventuring
-##;Adventuring
-Delving into an ancient sith tomb, slipping through the Black Sun territory of Coruscant, hacking a fresh trail through the thick jungles on the forest moon of Endor-these are the things that Star Wars adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
-This chapter covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this chapter, along with a discussion of the activities your character might pursue between adventures.
-Whether adventurers are exploring a dusty dungeon or the complex relationships of a noble court, the game follows a natural rhythm, as outlined in the book’s introduction:
-1. The DM describes the environment.
-2. The players describe what they want to do.
-3. The DM narrates the results of their actions.
-Typically, the DM uses a map as an outline of the adventure, tracking the characters' progress as they explore enclave corridors or wilderness regions.
-The DM’s notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers’ actions determine what happens, so the DM might use a timeline or a flowchart to track their progress instead of a map.
-See PDF for more details.
-#!;9. Combat
-##;Combat
-he shriek of blaster fire flying overhead. The clash of a gamorrean's axe striking against a composite shield. The crackle of lightning emenating from a Sith lord's hands. The sharp tang of blood in the air, cutting through the stench of vile monsters. Roars of fury, shouts of triumph, cries of pain. Combat in D&D can be chaotic, deadly, and thrilling.
-This chapter provides the rules you need for your characters and monsters to engage in combat, whether it is a brief skirmish or an extended conflict in a dungeon or on a field of battle. Throughout this chapter, the rules address you, the player or Dungeon Master. The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. “You” can also mean the character or monster that you control.
-See PDF for more details.
-#!;10. Force- And Tech-Casting
-##;Force- And Tech-Casting
-Magic exists in the worlds of Star Wars in the form of powers. This chapter provides the rules for casting these powers. There are two major sources of these power: the Force and technology. While multiple classes use the Force or technology to fuel their powers, there are only the two sources. Regardless, powers follow the rules here.
-#h;WHAT IS A POWER?
-A power is a discrete effect, a single shaping of the energies of the Force or a result of a technological formula, that creates a desired effect. In casting a power, a character carefully constructs the desired effect using the source of their power, and then releases it, all in the span of seconds.
-Powers can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix A), drain life energy away, and restore life to the dead.
-A great number of powers exist, and over time many have been created and forgotten. An ancient force technique may exist in a long-lost holocron, or a piece of Rakatan schemata may contain revolutionary tech.
-See PDF for more details.
-#!;11. Force Powers
-##;Force Powers
-See PDF for power lists. You can also open the Fantasy Grounds SPELLS button and choose the type of power in the SCHOOL (force or tech) selector and filter you view further by selecting the level.  Level 0 is at-will cantrips.
-#!;11. Tech Powers
-##;Tech Powers
-See PDF for power lists. You can also open the Fantasy Grounds SPELLS button and choose the type of power in the SCHOOL (force or tech) selector and filter you view further by selecting the level.  Level 0 is at-will cantrips.
-#!;Appendix A: Conditions
-##;Conditions
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a power, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
-A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
-See PDF for more details.
-#!;Appendix B: Recommended Variant Rules
-##;Recommended Variant Rules
-House/variant rules are optional additions to each game that in some way enhance or alter game play. Generally, they are done to alleviate stress from the DM, to improve player engagement, or to help a player realize a character goal. This appendix includes a number of variant rule options, all of which I offer at my table.
-I would encourage you to become familiar with the core content of this conversion before you decide if these house rules are right for you.
-See PDF for more details.
+1
