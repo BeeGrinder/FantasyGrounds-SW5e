@@ -13,4 +13,4 @@ cat client_preedit.xml |\
  > client.xml
 /c/Program\ Files/7-Zip/7z.exe a "SW5e Player Book.zip" client.xml definition.xml thumbnail.png images
 mv "SW5e Player Book.zip" "SW5e Player Book.mod"
-mv "SW5e Player Book.mod"  /c/Users/joecy/AppData/Roaming/Fantasy\ Grounds/modules/
+mv "SW5e Player Book.mod" /d/games/Smiteworks/FGClassic/FGCData/modules
