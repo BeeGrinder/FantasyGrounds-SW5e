@@ -21,6 +21,10 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 ---
 
+__Fantasy Grounds Unity(FGU)__ : Please note this is not tested in FGU.  Use at your own risk.
+
+---
+
 ### Fantasy Grounds User Information
 
 #### Installation
