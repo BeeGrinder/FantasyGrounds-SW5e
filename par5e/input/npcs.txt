@@ -1,0 +1,31 @@
+Selenas Tylina
+Medium humanoid (elf wizard), lawful good
+Armor Class 12 (15 with mage armor)
+Hit Points 7 (1d6 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 7 (-2) 15 (+2) 12 (+1) 18 (+4) 11 (+0) 10 (+0)
+Saving Throws Int +6, Wis +2
+Skills Animal Handling +2, Arcana +6, Nature +6, Stealth +4
+Senses passive Perception 10
+Languages Common, Elvish
+Challenge 1/2 (100 XP) 
+Actions
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+##;
+
+Dark Aspirant
+Medium humanoid (any), any dark
+Armor Class 12 (15 with battle precognition)
+Hit Points 44 (8d6 + 16)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 12 (+1) 14 (+2) 10 (+0) 10 (+0) 18 (+4)
+Saving Throws Wis +3, Cha +7
+Skills Lore +3, Insight +3
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 6 (2,300 XP)
+Devotion. The dark aspirant has advantage on saving throws against being charmed or frightened. Force Shield. 3/day: When the dark aspirant is hit by an attack, it can use its reaction to shroud itself in Force energy. Until the start of its next turn, it has a +4 bonus to AC.
+Spellcasting. The Dark Aspirant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +4 to hit with spell attacks). The Dark Aspirant has the following spells prepared: \rCantrips (at will): guidance, mending, resistance, thaumaturgy\r1st level (1 slots): battle meditation, curse, sap vitality, hex, improved feedback\r2nd level (1 slots): drain vitality, force camouflage\r3rd level (1 slots): force lightning, choke, horror
+ACTIONS
+Lightfoil. Melee Weapon Attack: +4 to hit, reach 5 ft. , one target. Hit: 5 (1d8 + 1) energy damage.
+##;
