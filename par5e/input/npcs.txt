@@ -1,17 +1,86 @@
-Selenas Tylina
-Medium humanoid (elf wizard), lawful good
-Armor Class 12 (15 with mage armor)
-Hit Points 7 (1d6 + 4)
-Speed 30 ft.
-STR DEX CON INT WIS CHA 7 (-2) 15 (+2) 12 (+1) 18 (+4) 11 (+0) 10 (+0)
-Saving Throws Int +6, Wis +2
-Skills Animal Handling +2, Arcana +6, Nature +6, Stealth +4
-Senses passive Perception 10
-Languages Common, Elvish
-Challenge 1/2 (100 XP) 
-Actions
-Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+Acklay, Adolescent
+Huge beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 95 (10d12 + 30)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 22 (+6) 9 (0) 17 (+3) 3 (-4) 11 (+0) 5 (-3)
+Senses passive perception 10
+Languages —
+Challenge 5 (1,800 XP)
+Trampling Charge. If the acklay moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the acklay can make one claw attack against it as a bonus action.
+ACTIONS
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft. , one target. Hit: 24 (4d8 + 6) kinetic damage.
+Claw. Melee Weapon Attack: +9 to hit, reach 10 ft. , one target. Hit: 21 (3d10 + 6) kinetic damage.
 ##;
+The acklay is a non-sentient mix of crustacean and reptile with amphibious traits that allow it to inhabit the water and land of its homeworld of Vendaxa. The gigantic creature is protected by a hard, shell-like carapace of bony nodules. They walk on six hardened, skin-covered claws, and have grappling hands. Its mouth is filled with razor-sharp teeth, and uses an organ beneath its chin to sense the electricical field given off by its prey, which it then spears with its pointed legs. The species has stretchy stomachs and three eyes.
+
+Acklay, Adult
+Huge beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 149 (13d12 + 65)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 25 (+7) 10 (0) 20 (+5) 3 (-4) 11 (+0) 5 (-3)
+Senses passive perception 10
+Languages —
+Challenge 8 (3,900 XP)
+Trampling Charge. If the acklay moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 19 Strength saving throw or be knocked prone. If the target is prone, the acklay can make one claw attack against it as a bonus action.
+ACTIONS
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft. , one target. Hit: 25 (4d8 + 7) kinetic damage.
+Claw. Melee Weapon Attack: +11 to hit, reach 10 ft. , one target. Hit: 29 (4d10 + 7) kinetic damage.
+##;
+The acklay is a non-sentient mix of crustacean and reptile with amphibious traits that allow it to inhabit the water and land of its homeworld of Vendaxa. The gigantic creature is protected by a hard, shell-like carapace of bony nodules. They walk on six hardened, skin-covered claws, and have grappling hands. Its mouth is filled with razor-sharp teeth, and uses an organ beneath its chin to sense the electricical field given off by its prey, which it then spears with its pointed legs. The species has stretchy stomachs and three eyes.
+
+Armored Assault Tank (AAT)
+Huge Construct, unaligned
+Armor Class 19
+Hit Points 168(16d12+64)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 22 (+6) 19 (+4) 10 (0) 14 (+2) 7 (-2)
+Saving Throws Str +9, Con +8
+Damage Vulnerabilities Ion
+Condition Immunities Poisoned, Frightened, Petrified, Restrained, Incapacitated, Stunned, Prone, Blinded, Charmed, disease
+Challenge 13 (10,000 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Operated. Pilot and Gunner roll a separate initiative for both
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. Pilot Controls movement, Ram action, & Rocket launchers
+Gunner. The construct requires an active gunner to operate the vehicles weaponry. Gunner controls Plasma Cannon & Medium Repeating Blasters
+Freedom of Movement. The AAT ignores difficult terrain and can pass through occupied hostile spaces
+Vulnerable Interior. The AAT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.
+ACTIONS
+Ram. Any creature within the AAT's movement path must make a DC 17 Dexterity saving throw, taking 26 (4d12) kinetic damage on a failed save and is knocked prone, or half as much damage on a successful one. Pilot of the AAT can use the Ram action and make 1 attack utilizing the Rocket Launcher.
+Rocket Launchers (6/day Reload 1 turn). Ranged weapon range 100/400 DC 14 launches a barrage of rockets at a target and any creature within 10ft. Taking 6d6 kinetic damage on a failed save and half as much on a successful one.
+Medium Repeating Blasters. Ranged Weapon Attack: +10 to hit, range 120/240 ft. , one target. Hit: 25 (4d10 + 6) energy damage. Gunner can make two attacks using the medium repeating blasters.
+Plasma Cannon (Recharge 5-6). The AAT launches a plasma shell 150/300 ft range target must be at least 15 ft away from the AAT. Blast has a 15ft Radius. Each creature in that area must make a DC 18 Dexterity saving throw, taking 52 (8d12) fire damage on a failed save, or half as much damage on a successful one. (If shot is over 150ft targets have advantage on dex save)
+##;
+The Armored Assault Tank, also known as the AAT battle tank or the AAT-1 Hover Tank, was a tank vehicle used by the Trade Federation[4] and later donated to the Confederacy of Independent Systems where it served as one of its backbone infantry defenses and backbone vehicles during the Clone Wars. Many of the AATs used by the Confederacy were painted in Confederate colors, such as blue, however there were still tanks used by the CIS in the previous tan used by the Trade Federation. The tanks were also donated to Death Watch during their alliance with the Confederacy.
+
+
+Speeder Bike 74z
+Large construct, unaligned
+Armor Class 14 (armor plating)
+Hit Points 39 (6d10 + 6)
+Speed 0 ft., fly 50 ft.
+STR DEX CON INT WIS CHA 11 (+1) 17 (+3) 13 (+1) 10 (+0) 10 (+0) 7 (-1)
+Saving Throws Dex +5
+Damage Vulnerabilities Ion
+Damage Resistances Necrotic, Poison, Psychic
+Condition Immunities poison, disease
+Senses -
+Languages -
+Challenge 2 (450 XP)
+Comm Jammers. The construct suppresses all electronic communications devices within 60 feet of it.
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
+ACTIONS
+Multiattack. The construct makes two attacks with its blaster cannon.
+Blaster Cannon. Ranged Weapon Attack: +5 to hit, range 60/240 ft. , one target. Hit: 6 (1d6 + 3) energy damage.
+REACTIONS
+Redirect. If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.
+##;
+The 74-Z speeder bike is a model of speeder bike manufactured by the Aratech Repulsor Company. It is commonly used for reconnaissance missions as well as rapid transportation in combat zones.
+They were capable of reaching speeds up to and beyond five hundred kilometers per hour, and had a flight ceiling of twenty-five meters. 74-Zs were the military variant of the civilian 74-Y. They were controlled by handlebars located towards the front of the vehicle, and foot pedals slung underneath adjusted speed and altitude.
+The highly maneuverable vehicles were equipped with sensor and communications devices located between the handlebars, including a comlink and a comlink-jamming device. The speeder was equipped with terrain-following sensors that linked up with the HUD in the driver's helmet. They were armed with a forward rotating blaster cannon for combat.
+They were also equipped with a very powerful boost that could propel them over vast distances in a shorter amount of time. In addition, the 74-Z was stripped down to just its fundamental components, namely the engine and steering vane, in order to increase its overall speed, and as such a single, scaled-down, forward-facing blaster cannon was fixed on the undercarriage.
 
 Dark Aspirant
 Medium humanoid (any), any dark
