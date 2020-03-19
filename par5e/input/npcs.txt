@@ -1,3 +1,18 @@
+Acolyte
+Medium humanoid (any), any alignment
+Armor Class 11 (unarmored)
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 10 (+0) 10 (+0) 14 (+2) 11 (+0)
+Skills Lore +2
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 1/4 (50 XP)
+Spellcasting. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (power save DC 12, +4 to hit with spell attacks) and it has 6 force points. The acolyte has the following spells prepared: \rCantrips (at will): denounce, force push/pull, saber reflect, saber ward\r1st level (9 slots):  cloud mind, slow
+ACTIONS
+Shotosaber. Melee Weapon Attack: +3 to hit, reach 5 ft. , one target. Hit: 4 (1d6 + 1) energy damage.
+##;
+
 Acklay, Adolescent
 Huge beast, unaligned
 Armor Class 13 (natural armor)
