@@ -30,13 +30,18 @@ When you use the "Items" button on the right side of the screen you will see the
 Powers(Spells) are in the SW5e Supplement.mod. It must be loaded to use caster features.
 Translation of Spell terms
 #ls;
-#li;Tech/Force Powers Known = Number of spells known
+#li;Tech/Force Powers Known = Number of spells known/prepared
 #li;Tech/Force Points = Spell Points
 #li;Tech/Force Power Level = Spell Level
 #li;Max Power Level = Highest spell level that can be used
 #le;
+Many times in this converion to the Fantasy Grounds(FG) 5e ruleset you may see force/tech powers referred to as "spells".  This is because the FG system is not set up to handle custom powers at this time.
 #bp; Spell Points
 The power (spell) system in SW5e uses the alternate rules of spell points as defined in the 5e DMG.  This can be implemented in Fantasy Grounds in the character sheet Actions tab.  Use the Add Power (Star) button to add a power called "Spell Points" and finish with the "-" button.  Go to mode "Preparation" and enter the number of desired points with the period "Daily".  This will automatically reset on a long rest.
+#bp; Spells/Powers and NPCs
+In the Fantasy Grounds combat tracker you should see the available spells as actions.  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker.
+The combat tracker can be used to automate many effects, saves, and other roles.
+Please, note that the NPCs spell slot count is NOT to be used as spell slots! These numbers reflect the spell points the NPC has. Do not add them together. The spell points are shown in every spell level the NPC is capable of casting.  This is not possible to track in the combat tracker at this time.  The DM/GM must manually track an NPCs remaining spell points.
 
 #@;Attribution and Copyright
 #!;SW5e Ruleset Information

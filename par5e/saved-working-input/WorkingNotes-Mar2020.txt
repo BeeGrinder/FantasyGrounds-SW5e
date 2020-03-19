@@ -1,0 +1,352 @@
+NPC-Name CR Page
+74-Z Speeder Bike 2 62
+AAT 13 67
+Acklay, Adolescent 5 10
+Acklay, Adult 8 10
+Acolyte 0.25 184
+Aiwha 3 11
+Anooba 1 12
+Apprentice 2 184
+Aqualish Enforcer 4 187
+Aryx 0.25 168
+Assassin 8 188
+AT-AT 19 63
+AT-RT 4 64
+AT-ST 11 65
+AT-TE 18 66
+Auto-Turret 0.5 152
+Avatar of Abeloth 21 8
+Awakened Carnivorous Plant 1 19
+Awakened Shrub 0 18
+Awakened Tree 2 18
+Awakened Vines 2 19
+B'omarr Brain Walker 3 30
+B'omarr Monk Initiate 0.125 30
+B1 Battle Droid 0.125 21
+B1-X Battle Droid 0.5 22
+B2 Super Battle Droid 1 22
+B2-HA Super Battle Droid 4 23
+Bantha, Adolescent 4 20
+Bantha, Adult 6 20
+Battle Hydra 9 27
+BB Series Astromech 0.125 16
+Berserker 2 188
+Blurrg 2 28
+Boar-Wolf 2 168
+Bogwing, Greater 1 29
+Bogwing, Lesser 0.125 29
+Bor Gullet 13 31
+Brain Worm 2 32
+BT-1 Assassin Droid 9 13
+BX Commando Droid 2 23
+BX-5C Commando Droid 5 24
+C1 Series Astromech 0.125 17
+Cantina Brawl 3 33
+Captain 6 188
+Clodhopper 0.25 168
+Combat Engineer 4 189
+Name CR Page
+Combat Engineer, Junior 1 189
+Condor Dragon 3 34
+Dark Aspirant 6 184
+Dark Lord 12 185
+Dark Lord Spirit 24 38
+Dark Side Spirit 5 37
+Death Trooper 6 39
+Destroyer Droid 7 24
+Dewback, Adolescent 1 40
+Dewback, Adult 2 40
+Dianoga, Adolescent 2 42
+Dianoga, Adult 5 42
+Dragonsnake 8 43
+DRK-1 Tracker Droid 0 143
+DSD1 Dwarf Spider Droid 2 25
+Energy Spider 0.5 47
+Eopie 0.125 169
+Ewok Pony 0.125 169
+Exogorth, Adolescent 11 49
+Exogorth, Adult 15 49
+Explosives Expert 3 189
+Fambaa 3 50
+Fambaa Howdah 5 50
+Fathier 0.5 169
+Fexian Skullborer 3 51
+Field Medic 1 190
+Flesh Raider 0.125 52
+Flesh Raider Apprentice 2 53
+Flesh Raider Berserker 1 53
+Flutterplume 0 54
+Force Storm Eye 23 55
+Fyrnock 0.5 170
+Gamorrean Guard 2 72
+Geejaw 0 170
+GH-7 Medical Analysis Unit 0 144
+Ghest 6 73
+Gizka 0 74
+Gizka Swarm 0.25 74
+Gladiator 5 190
+Gonk Droid 0 116
+Gonk Droid, Weaponized 0.125 116
+Gorax 6 75
+Grand Admiral 20 71
+Greysor 0.125 171
+Gundark Alpha 9 77
+Gundark Matriarch 4 77
+Name CR Page
+Gundark, Adolescent 0.5 76
+Gundark, Adult 2 77
+Gutkurr 4 78
+Hawk-bat 0.25 79
+Hawk-bat Swarm 2 79
+Hidden Turret 0.25 152
+Hive Rat 0.25 171
+HK-47 Assassin Droid 8 14
+Horned Kath Hound 2 95
+Hrumph 2 172
+Hssiss 7 80
+Hyena-Class Bomber 6 44
+ID9 Seeker Droid 0 146
+IG-227 Hailfire Droid 14 46
+IG-86 Assassin Droid 3 15
+IG-88 Assassin Droid 10 15
+Inquisitor Knight 4 84
+Inquisitor Master 8 84
+Inquisitor, Grand 14 83
+ISB Infiltrator 3 82
+ISB Officer 3 82
+IT-0 Interrog. Unit 0.25 82
+Jakrab 0 172
+Jawa Scrapper 0.5 86
+Jawa Shaman 2 87
+Jawa Tinkerer 0.5 86
+Jubba Bird 0.25 173
+Juggernaut 17 185
+Junk Behemoth 1 88
+Junk Droid 0.25 88
+K'Lor'Slug 0.25 96
+Kaadu 0.125 173
+Katarn 2 94
+Kath Hound 0.5 95
+Khagan, Cyborg 10 93
+Knobby White Spider 5 97
+Knobby White Spiderling 1 97
+Kolkpravis Baatar 4 90
+Kolkpravis Blackarm 2 90
+Kolkpravis Khagan 9 92
+Kolkpravis Khan 6 91
+Kolkpravis Tarkhan 3 89
+Kolkpravis Warrior 1 89
+Krayt Dragon, Adult 17 100
+Krayt Dragon, Greater 23 101
+Krayt Dragon, Juvenile 9 99
+Legendary T'Doshok Hunter 14 150
+Lylek 7 102
+Maalraas 2 103
+Magnaguard Sentinel 4 26
+Manifestation of Abeloth 26 9
+Marksman-H Remote 0 143
+Massiff 1 104
+Mistryl Apprentice 3 105
+Mob 5 36
+Mole Serpent, Adult 10 107
+Monkey-Lizard 0 98
+Monkey-Lizard Swarm 0.5 98
+Moof 2 174
+Mott 2 174
+Mucous Salamander 2 108
+Mynock 0.125 109
+Mynock Swarm 2 109
+Mystryl Master 5 106
+Mystryl Prime 8 106
+Narglatch 3 110
+Navy Pilot 0.25 70
+Navy Trooper 0.5 70
+Nerf 2 175
+Nexu, Adult Forest 5 111
+Nuna 0.25 175
+Officer, Junior 0.5 69
+Officer, Senior 3 70
+Opee Sea Killer 5 112
+Orbalisk 1 113
+Orbalisk Swarm 3 113
+Padawan 2 186
+Pelko Bug 0 114
+Pelko Bugs Swarm 3 114
+Pistoeka Sabotage Droid 0 144
+Pit Droid 0 145
+Porg 0 115
+Porg Swarm 0.25 115
+Probe Droid, Sith 0 117
+Probe Droid, Viper 1 118
+Protocol Droid, 0-0-0 Series 2 120
+Protocol Droid, 3P0 Series 0 119
+Protocol Droid, LOM Series 2 120
+R2 Series Astromech 0.125 17
+Rakghoul 1 121
+Rakghoul, Hulking 5 122
+Rancor, Adolescent 8 124
+Name CR Page
+Rancor, Adult 12 123
+Rancor, Ancient 19 124
+Rancor, Juvenile 2 123
+Rathar 9 126
+Rathtar, Dwarf 5 126
+Reek, Adolescent 2 127
+Reek, Adult 7 127
+Riot 10 36
+Rock Wart 0.125 176
+Ronto 4 129
+Sage 6 186
+Sando Aqua Monster 25 131
+Sarlacc, Adult 21 133
+Scout 0.5 191
+Scrange 7 134
+Scurrier 0.25 176
+Security Droid, JK-13 9 135
+Security Officer 0.5 192
+Seer 3 186
+Sergeant 3 192
+Shaak 0.125 177
+Shyrack 0 136
+Shyrack Swarm 1 136
+Sibian Hound 0.25 177
+Sketto 0.25 178
+Soldier 0.5 192
+Spotlight Sloth 2 178
+Spy 1 193
+Squad of Troopers 5 57
+Starweird 4 137
+Steelpecker 0.125 179
+Steep 2 138
+Stintaril 0 179
+Stintaril Swarm 0.25 179
+Super Tactical Droid 15 141
+Swamp Slug 14 139
+T-Series Tactical Droid 2 140
+T3-Series Utility Droid 0.125 128
+Tauntaun 0.125 180
+Terentatek 9 142
+Thug 0.125 193
+Trandoshan Elite Warrior 6 149
+Trandoshan Hunter 3 148
+Trandoshan Huntmaster 7 147
+Trandoshan Warrior 2 148
+Trooper 0.5 57
+Name CR Page
+Trooper Captain 4 57
+Trooper, Demolitions 0.5 58
+Trooper, Flame 2 58
+Trooper, Headhunter 2 58
+Trooper, Heavy 3 59
+Trooper, Jetpack 2 59
+Trooper, Mounted 2 61
+Trooper, Purge 3 85
+Trooper, Scout 0.5 60
+Trooper, Shore 1 60
+Trooper, Sniper 0.5 60
+Tuk'ata 2 151
+Tusk Cat 2 180
+Tusken Brute 2 154
+Tusken Chieftain 4 153
+Tusken Raider 0.5 154
+Twirrl 0.5 181
+TX-225A Occupier Tank 6 68
+Uprising 15 36
+Varactyl, Adolescent 0.25 155
+Varactyl, Adult 0.5 155
+Veermok 2 181
+Vesuvague Tree 7 156
+Vornskr 1 157
+Voxyn 15 158
+Vulptex 0.125 182
+Vulture-Class Droid 3 45
+Wampa, Cliff 5 159
+Wampa, Snow 3 159
+Wampa, Swamp 4 159
+War Wyrm 20 160
+Whisper Bird 0 182
+Womp Rat, Beggar's Canyon 0.25 161
+Womp Rat, Jundland Wastes 0.5 161
+Woodoo 3 183
+Wookie Berserker 1 163
+Wookie Engineer 4 162
+Wookie Hunter 6 163
+Worrt 2 164
+Worrt, Giant 4 164
+Wraid 2 165
+Wyyyschokk 4 166
+Ysalamir 0 167
+Ysalamiri Swarm 0.5 167
+Z-58 Security Droid 0 146
+Zalaaca 2 183
+
+Feb. 2020 update notes:
+2/18/2020
+Chapter 3
+Engineer archetypes have had minor tweaks—predominantly names—to better align with Wretched Hives.
+
+Armstech and armormech no longer split their modification slots across multiple items.
+
+Chapter 5
+Armors have been renamed, removing material names, to better align with the new rules in WH.
+
+Armor prices have seen some minor adjustments.
+
+Armors now have properties. For instance, instead of certain armors having disadvantage on Dexterity (Stealth) checks, they now have a property that adds this feature. This has been done to align with new rules in WH.
+
+There are now six shields; each shield size has a physical and generator version. Starting equipment for all classes has been updated to the physical version. Generator versions can be obtained through purchase.
+
+Consolidated cobbler's tools and synthweaver's tools.
+
+Chapter 6
+Some feats and fighting styles have seen minor tweaks to align with some rule updates.
+
+And, as always
+Minor text fixes.
+
+WH
+Changelog
+2/18/2020
+Throughout
+Some chapters have been shifted around. All of the enhanced item chapters—enhanced items, modifiable items, cybernetic augmentations, and droid customizations—have been consolidated into chapter 7.
+
+Chapter 2
+New downtime activities: Espionage and Training.
+
+Chapter 5
+New chapter for additional equipment. Includes most/all of the expanded content weapons as well as other new adventuring gear.
+
+Added two sets of gathering tools: archaeologist kit and scavenging kit.
+
+Herbalism kit moved from the PHB to here and relabeled bioanalysis kit. Slightly retooled as a third gathering tool.
+
+Brewer's and spicer's tools moved from the PHB to here and relabled kits.
+
+Chapter 6
+New chapter for additional customization options. Lots of the expanded content feats have been shuffled here.
+
+Herbalist feat moved here from the PHB and relabled Bioanalyst.
+
+Chapter 7
+Attunement now scales with proficiency bonus, from two slots at 1st level to six at 17th level. Standard, premium, and prototype enhanced items cost one attunement slot, while advanced, legendary, and artifact cost two.
+
+Added rules for upgrading modifiable item chassis.
+
+Modifiable item chassis are no longer considered enhanced for the purpose of overcoming resistances unless they have a modification installed.
+
+Chapter 8
+Carpenter's tools and mason's tools consolidated into constructor's tools.
+
+Cobbler's tools collapsed into synthweaver's tools.
+
+Painter's tools renamed artist's tools.
+
+Migrated brewer's tools to this book, relabled kit.
+
+Appendix A
+More enhanced items.
+
+Removed the fixed values from all enhanced items.
+
+And, as always
+Minor text fixes.
