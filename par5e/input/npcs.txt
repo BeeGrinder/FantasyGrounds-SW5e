@@ -1,3 +1,42 @@
+Aiwha
+Huge beast, unaligned
+Armor Class 12
+Hit Points 82 (11d12 + 11)
+Speed 10 ft., fly 80 ft., swim 60 ft.
+STR DEX CON INT WIS CHA 19 (+4) 14 (+2) 13 (+1) 3 (-4) 12 (+1) 5 (-3)
+Skills Perception +3
+Senses blindsight 120 ft., passive Perception 13
+Languages —
+Challenge 3 (700 XP)
+Dive Attack. If the aiwha is flying and dives at least 30 ft. straight toward a target and then hits it with a bite attack, the attack deals an extra 10 (3d6) damage to the target.
+Echolocation. The aiwha can't use its blindsight while deafened.
+Hold Breath. The aiwha can hold its breath for 30 minutes
+ACTIONS
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft. , one target. Hit: 14 (3d6 + 4) kinetic damage.
+##;
+Massive, winged cetaceans, the aiwha were native to both the oceans and skies of the planet Kamino, capable of both swimming and flying using their wingtips to propel them through either substance. Their long, beak-like mouths featured a baleen used for filtering krill from seawater. The non-sentient species, one of a wide variety of aquatic life on Kamino, was also known as the "air whale", and were a peaceful and majestic species. Aiwha gave out bleating cries when dying.
+History. When the climate of Kamino changed drastically, leading to planet-wide flooding when the ice caps melted, the native Kaminoans adapted both themselves and some of their fellow creatures to their new environment. The aiwhas were among those who were adapted using the Kaminoans' advanced cloning technologies, and became biological curiosities used as mounts to traverse Kamino's endless ocean. The Kaminoans used aiwhas as mounts, although aiwhariders traveled beneath the waters during the lashing tempests of the severe electrical storms which raged for much of the planet's year.
+
+Anooba
+Medium beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 36 (5d10+9)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 16 (+3) 15 (+2) 15 (+2) 3(-4) 12 (+1) 7 (-2)
+Skill Perception +3, Stealth +4
+Senses passive perception 13
+Challenge 1 (100 XP)
+Keen Hearing and Smell. The anooba has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The anooba has advantage on an attack roll against a creature if at least one of the anooba allies is within 5 ft. of the creature and the ally isn’t incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft. , one target. Hit: (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+##;
+Anoobas were aggressive pack predators native to Tatooine. Opportunistic hunters as well as scavengers, these wolflike canines would attack virtually anything smaller than themselves (such as scurriers) and would band together in packs to bring down rontos, eopies, and similar creatures.
+Strong, horny beaks on their jaws assisted in the breaking of thick skeletons, while long, tufted tails helped to counterbalance the body and dissipate heat. Anoobas could vary in weight from 20 to 45 kilograms —males being larger than females—and often banded into packs of ten to twelve. These units were dominated by an alpha male and alpha female, and it was not uncommon to see entire packs waiting alongside podrace courses for an easy meal.
+Like the winged urusai, accounts tell of anoobas being so engorged on meals that they are unable to move. This may be due in part to the fact that anooba mothers fed their young, born three to four at a time, through regurgitation.
+Domestication. Anoobas were also known to be, like the massiff, domesticated by Tatooine's Tusken Raiders as pets and guard animals.
+Off-World. Packs of escaped, adaptable anoobas imported from Tatooine roamed Coruscant alleys looking for prey. As a result, nocturnal foot traffic in certain areas was highly risky. Anoobas on Coruscant were known to howl at the planet's moons. Anoobas were sometimes caught in packs and used as gladiatorial fighting animals, for which they were given a shock collar to control their behavior.
+
 Acolyte
 Medium humanoid (any), any alignment
 Armor Class 11 (unarmored)
