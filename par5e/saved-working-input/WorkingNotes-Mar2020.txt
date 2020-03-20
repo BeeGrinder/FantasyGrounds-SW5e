@@ -1,9 +1,5 @@
 NPC-Name CR Page
-74-Z Speeder Bike 2 62
-AAT 13 67
-Acklay, Adolescent 5 10
-Acklay, Adult 8 10
-Acolyte 0.25 184
+
 Aiwha 3 11
 Anooba 1 12
 Apprentice 2 184
