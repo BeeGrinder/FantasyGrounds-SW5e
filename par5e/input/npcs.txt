@@ -1,32 +1,3 @@
-Avatar Of Abeloth
-Medium undead, neautral dark side
-Armor Class 17 (force shield)
-Hit Points 153 (18d6 + 90)
-Speed 30 ft.
-STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 20 (+5) 16 (+3) 14 (+2) 20 (+5)
-Saving Throws Con +12, Wis +9, Cha +12
-Skills Lore +10, Perception +9, Insight +9, Deception +19, Persuasion +12
-Damage Resistances cold, lightning, necrotic
-Damage Immunities poison; kinetic, ion, and energy from unenhanced weapons.
-Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned
-Senses truesight 120 ft., passive Perception 19
-Languages all, telepathy 120 ft.
-Challenge 21 (33,000 XP)
-Legendary Resistance (3/Day). If Abeloth fails a saving throw, she can choose to succeed instead.
-Force Resistance. Abeloth has advantage on saving throws against Force Powers.
-Font of Power. When Abeloth rolls damage for a power, she can spend 1 additional force point to reroll a number of the damage dice up to her Charisma modifier (5). She must use the new rolls.
-Pool of Knowledge. When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.
-Spellcasting. The Abeloth is a 18th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). Abeloth has 77 Force Points and the following spells prepared:  \rCantrips (at will): Burst, Feedback, Force Push/Pull, Give Life, Saber Reflect, Shock\r1st level (77 slots): Cloud Mind, Force Mask, Force Throw, Project\r2nd level (77 slots): Coerce Mind, Hallucination\r3rd level (77 slots): Force Lightning, Force Repulse, Knight Speed, Telekinetic Storm\r4th level (77 slots): Drain Life, Mind Trap\r5th level (77 slots): Dominate Mind, Greater Feedback, Siphon Life\r6th level (77 slots): Mass Coerce Mind, Telekinetic Burst\r7th level (77 slots): Force Project, Whirlwind\r8th level (77 slots): Death Field, Earthquake, Telekinetic Wave\r9th level (77 slots): Master Feedback
-ACTIONS
-Shotosaber. Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) energy damage.
-Teleport. Abeloth teleports up to 120 feet into an unoccupied space she can see.
-LEGENDARY ACTIONS
-Abeloth can take 3 Legendary Actions, choosing from the options below. One legendary action can be used at a time, and only at the end of another's turn. Spent legendary Actions are regained at the start of each turn.
-At Will Power. Abeloth casts an at will power.
-Attack. Abeloth attacks once with Shotosaber.
-Teleport. Abeloth uses her teleport action.
-##;
-
 Awakened Shrub
 Small Plant, unaligned
 Armor Class 9
@@ -168,7 +139,7 @@ ACTIONS
 Multiattack. The AT-ST can use its Frightful Presence. It then makes two attacks with its repeating blasters or takes the Stomp action.
 Stomp. All creatures standing within the AT-ST's space or within 5 feet of it must make a DC 18 Dexterity saving throw, taking 39 (6d12) kinetic damage on a failed save, or half as much damage on a successful one.
 Repeating Blaster Cannon. Ranged Weapon Attack: +7 to hit, range 120/240 ft., one target. Hit: 25 (4d10 + 3) energy damage.
-rightful Presence. Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.
+Frightful Presence. Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.
 ##;
 The All Terrain Scout Transport (or AT-ST), also known as the chicken walker for its two-legged design, is a bipedal walker used by the Galactic Republic during the late Clone Wars and, later and more extensively, by the Galactic Empire during the Galactic Civil War.
 AT-STs are commonly used to screen the flanks of larger assault walkers for major ground operations. The Empire used them for swift reconnaissance and troop support. As such, they are essential for cleaning up minor resistance along the path of a planned invasion route, and can quickly eliminate small threats that evade an AT-AT's barrage. The walker is commonly used on anti-personnel hunting missions, and is piloted by two AT-ST drivers.
@@ -287,23 +258,6 @@ Vibroaxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (1d12
 Slugthrower. Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 6 (2d4 + 1) kinetic damage.
 Burst. The aqualish sprays a 10-foot-cube area within normal range of its slugthrower with shots. Each creature in the area must make a DC 11 Dexterity saving throw, taking normal weapon damage on a failed save.
 Battle Cry (1/Day). Each creature of the aqualish's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the aqualish's next turn. The aqualish can then make one attack as a bonus action.
-##;
-
-Apprentice
-Medium humanoid (any), any dark
-Armor Class 13 (combat suit)
-Hit Points 33 (6d8+6)
-Speed 30 ft.
-STR DEX CON INT WIS CHA 11 (+0) 14 (+2) 12 (+1) 10 (+0) 13 (+1) 14 (+2)
-Skills Deception +4, Persuasion +4, Lore +2
-Senses passive Perception 11
-Languages Galactic Basic and one other
-Challenge 2 (450 XP)
-Devotion. The apprentice has advantage on saving throws against being charmed or frightened.
-Spellcasting. The apprentice is a 4th-level spellcaster. Its spellcaster ability is Wisdom (spell save DC 11, +3 to hit with spell attacks) and it has 14 force points. The apprentice knows the following force powers: \rCantrips (at will): denounce, lightning charge, saber reflect, saber ward\r1st level (14 slots): curse, sap vitality\r2nd level (14 slots): drain vitality, force camouflage
-ACTIONS
-Multiattack. The apprentice makes two melee weapon attacks.
-Doublesaber. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) energy damage.
 ##;
 
 IG-86 Assassin Droid
@@ -453,21 +407,6 @@ Like the winged urusai, accounts tell of anoobas being so engorged on meals that
 Domestication. Anoobas were also known to be, like the massiff, domesticated by Tatooine's Tusken Raiders as pets and guard animals.
 Off-World. Packs of escaped, adaptable anoobas imported from Tatooine roamed Coruscant alleys looking for prey. As a result, nocturnal foot traffic in certain areas was highly risky. Anoobas on Coruscant were known to howl at the planet's moons. Anoobas were sometimes caught in packs and used as gladiatorial fighting animals, for which they were given a shock collar to control their behavior.
 
-Acolyte
-Medium humanoid (any), any alignment
-Armor Class 11 (unarmored)
-Hit Points 9 (2d8)
-Speed 30 ft.
-STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 10 (+0) 10 (+0) 14 (+2) 11 (+0)
-Skills Lore +2
-Senses passive Perception 10
-Languages Galactic Basic and one other
-Challenge 1/4 (50 XP)
-Spellcasting. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (power save DC 12, +4 to hit with spell attacks) and it has 6 force points. The acolyte has the following spells prepared: \rCantrips (at will): denounce, force push/pull, saber reflect, saber ward\r1st level (9 slots):  cloud mind, slow
-ACTIONS
-Shotosaber. Melee Weapon Attack: +3 to hit, reach 5 ft. , one target. Hit: 4 (1d6 + 1) energy damage.
-##;
-
 Acklay, Adolescent
 Huge beast, unaligned
 Armor Class 13 (natural armor)
@@ -552,19 +491,17 @@ They were capable of reaching speeds up to and beyond five hundred kilometers pe
 The highly maneuverable vehicles were equipped with sensor and communications devices located between the handlebars, including a comlink and a comlink-jamming device. The speeder was equipped with terrain-following sensors that linked up with the HUD in the driver's helmet. They were armed with a forward rotating blaster cannon for combat.
 They were also equipped with a very powerful boost that could propel them over vast distances in a shorter amount of time. In addition, the 74-Z was stripped down to just its fundamental components, namely the engine and steering vane, in order to increase its overall speed, and as such a single, scaled-down, forward-facing blaster cannon was fixed on the undercarriage.
 
-Dark Aspirant
-Medium humanoid (any), any dark
-Armor Class 12 (15 with battle precognition)
-Hit Points 44 (8d6 + 16)
+B-Omarr Monk Initiate
+Medium humanoid, any neutral alignment
+Armor Class 12 (Combat Suit)
+Hit Points 9 (2d8)
 Speed 30 ft.
-STR DEX CON INT WIS CHA 12 (+1) 12 (+1) 14 (+2) 10 (+0) 10 (+0) 18 (+4)
-Saving Throws Wis +3, Cha +7
-Skills Lore +3, Insight +3
-Senses passive Perception 10
-Languages Galactic Basic and one other
-Challenge 6 (2,300 XP)
-Devotion. The dark aspirant has advantage on saving throws against being charmed or frightened. Force Shield. 3/day: When the dark aspirant is hit by an attack, it can use its reaction to shroud itself in Force energy. Until the start of its next turn, it has a +4 bonus to AC.
-Spellcasting. The Dark Aspirant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +4 to hit with spell attacks). The Dark Aspirant has the following spells prepared: \rCantrips (at will): guidance, mending, resistance, thaumaturgy\r1st level (1 slots): battle meditation, curse, sap vitality, hex, improved feedback\r2nd level (1 slots): drain vitality, force camouflage\r3rd level (1 slots): force lightning, choke, horror
-ACTIONS
-Lightfoil. Melee Weapon Attack: +4 to hit, reach 5 ft. , one target. Hit: 5 (1d8 + 1) energy damage.
+STR DEX CON INT WIS CHA 8 (-1) 8 (-1) 8 (-1) 1 (+0) 14 (+2) 9 (-1)
+Skills Medicine +4, Deception +2
+Senses Senses passive Perception 10
+Languages Basic, Huttese
+Challenge 1/8 (25 XP)
+Unearthly Focus. The initiate has advantage on saving throws against being charmed or frightened.
+ACTIONS1
+Hold-Out Blaster. Ranged Weapon Attack: +2 to hit, range 30/120, one target. Hit: 4 (1d4 + 2) energy damage.
 ##;
