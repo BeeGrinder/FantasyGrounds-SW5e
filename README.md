@@ -17,7 +17,9 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 |SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, etc. |
 |SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement |
 |SW5e NPC Manual.mod | Released. | NPCs and some vehicles |
-|Rule-set Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
+|Ruleset Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
+
+See the FG Forum post for news about current projects and module changes underway.
 
 ---
 
@@ -67,6 +69,16 @@ The *__ext-src__* dirctory is for the extension sources.
    * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
    * If the data is readily available and easily parsed, some expanded content *__may__* be included.
    * Powers will still be called spells in the FG interface.
+
+---
+
+__EDITORIAL__
+
+In my opinion Fantasy Grounds (FG) is one of the best TTRPG platforms available.  The ability to customize and modify the game rules and contents is unsurpassed.  The skeuomorphic interface receives a lot of criticism, but this issue just takes a little extra time to become familiar with the UI paradigm.  I have not seen another system with an equivalent level of gameplay automation.  The FG automation makes the GMs job much easier. 
+
+Customizing FG is complex but powerful.  By learning how the rule system (Lua language scripts) and the data storage (XML files) are arranged, you can implement just about anything in this interface.  With the release of the Unity version, the future of this game system is significantly improved.  Especially if/when sound and animation are added. 
+
+The SW5e ruleset should probably have its dependency on the FG 5e ruleset removed and converted to use the FG ruleset called “Core RPG”.  The Core RPG ruleset should be used as the base for SW5e because SW5e has deviated a lot from its 5e roots.  By moving to the Core RPG base, things like the space combat system and other features that are not well translated into the 5e ruleset could be implemented without having to figure out how to reengineer it through the true 5e ruleset. 
 
 ---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
