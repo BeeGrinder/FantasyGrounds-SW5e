@@ -22241,6 +22241,556 @@
       </img_zabrak_jpg>
     </imagedata>
     <npcdata>
+      <aryx>
+        <locked type="number">1</locked>
+        <name type="string">Aryx</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">19</hp>
+        <hd type="string">(3d10 + 3)</hd>
+        <speed type="string">50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Beak</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Talons</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\aryx.png@SW5e Player Book</token>
+      </aryx>
+      <aqualishenforcer>
+        <locked type="number">1</locked>
+        <name type="string">Aqualish Enforcer</name>
+        <type type="string">humanoid (aqualish)</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(durasteel armor)</actext>
+        <hp type="number">93</hp>
+        <hd type="string">(11d8+44)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +6, Con +6, Wis +2</savingthrows>
+        <skills type="string">Intimidation +5</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 10</senses>
+        <alignment type="string">chaotic dark</alignment>
+        <languages type="string">Galactic Basic, Aqualish and one other</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Aggressive</name>
+            <desc type="string">As a bonus action, the aqualish can move up to its speed toward a hostile creature that it can see.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Fury</name>
+            <desc type="string">The aqualish deals an extra 4 (ld8) damage when it hits with a melee weapon attack (included in the attack).</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The aqualish makes two weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Vibroaxe</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (1d12 + 4 + 1d8) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Slugthrower</name>
+            <desc type="string">Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 6 (2d4 + 1) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Burst</name>
+            <desc type="string">The aqualish sprays a 10-foot-cube area within normal range of its slugthrower with shots. Each creature in the area must make a DC 11 Dexterity saving throw, taking normal weapon damage on a failed save.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Battle Cry (1/Day)</name>
+            <desc type="string">Each creature of the aqualish's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the aqualish's next turn. The aqualish can then make one attack as a bonus action.</desc>
+          </id-00005>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\aqualishenforcer.png@SW5e Player Book</token>
+      </aqualishenforcer>
+      <apprentice>
+        <locked type="number">1</locked>
+        <name type="string">Apprentice</name>
+        <type type="string">humanoid (any)</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(combat suit)</actext>
+        <hp type="number">33</hp>
+        <hd type="string">(6d8+6)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Deception +4, Persuasion +4, Lore +2</skills>
+        <senses type="string">passive Perception 11</senses>
+        <alignment type="string">any dark</alignment>
+        <languages type="string">Galactic Basic and one other</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Devotion</name>
+            <desc type="string">The apprentice has advantage on saving throws against being charmed or frightened.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The apprentice is a 4th-level spellcaster. Its spellcaster ability is Wisdom (spell save DC 11, +3 to hit with spell attacks) and it has 14 force points. The apprentice knows the following force powers: \rCantrips (at will): denounce, lightning charge, saber reflect, saber ward\r1st level (14 slots): curse, sap vitality\r2nd level (14 slots): drain vitality, force camouflage</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The apprentice makes two melee weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Doublesaber</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) energy damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\apprentice.png@SW5e Player Book</token>
+      </apprentice>
+      <ig_86assassindroid>
+        <locked type="number">1</locked>
+        <name type="string">IG-86 Assassin Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">58</hp>
+        <hd type="string">(9d8+18)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3, Stealth +5, Survival +3</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poison, disease</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, Galactic Basic</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Sneak Attack (1/Turn)</name>
+            <desc type="string">The assassin droid deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin droid that isn't incapacitated and the assassin doesn't have disadvantage on the roll.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Sniper Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 9 (1d12 + 3) energy damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stock Strike</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <text type="formattedtext">
+          <p>The IG series is a series of droids manufactured by Holowan Laboratories. They are often used as both bodyguards and assassins.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\ig_86assassindroid.png@SW5e Player Book</token>
+      </ig_86assassindroid>
+      <ig_88assassindroid>
+        <locked type="number">1</locked>
+        <name type="string">IG-88 Assassin Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Medium</size>
+        <ac type="number">17</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">112</hp>
+        <hd type="string">(15d8+45)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +9, Int +7, Wis +7</savingthrows>
+        <skills type="string">Insight +7, Perception +7, Stealth +9, Survival +7</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poison, disease</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 17</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, Galactic Basic</languages>
+        <cr type="string">10</cr>
+        <xp type="number">5900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If IG-88 fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Sneak Attack (1/Turn)</name>
+            <desc type="string">IG-88 deals an extra 28 (8d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of IG-88 that isn't incapacitated and IG- 88 doesn't have disadvantage on the roll.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">IG-88 makes three weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Sniper Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 10 (1d12+4) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Stock Strike</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Stock Strike</name>
+            <desc type="string"> IG-88 can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The assassin droid regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Attack</name>
+            <desc type="string">IG-88 makes one weapon attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Detect</name>
+            <desc type="string">IG-88 makes a Wisdom (Perception) check.</desc>
+          </id-00003>
+        </legendaryactions>
+        <text type="formattedtext">
+          <p>The IG series is a series of droids manufactured by Holowan Laboratories. They are often used as both bodyguards and assassins.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\ig_88assassindroid.png@SW5e Player Book</token>
+      </ig_88assassindroid>
+      <hk_47assassindroid>
+        <locked type="number">1</locked>
+        <name type="string">HK-47 Assassin Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Medium</size>
+        <ac type="number">18</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">75</hp>
+        <hd type="string">(10d8+30)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +6, Acrobatics +9, Insight +7, Perception +7, Survival +7</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poison, disease</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 17</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, Galactic Basic</languages>
+        <cr type="string">8</cr>
+        <xp type="number">3900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Droid Synergy</name>
+            <desc type="string">Once per turn, the assassin droid can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the assassin droid that isn't incapacitated.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the assassin droid fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00003>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Reactive Shield (1/day)</name>
+            <desc type="string">Until the start of its next turn, the assassin droid has a +5 bonus to AC. This includes the triggering attack.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The assassin droid makes three weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +9 to hit, range 100/400 ft., one target. Hit: 9 (1d8+5) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Stock Strike</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Reactive Shield (1/day)</name>
+            <desc type="string"> The HK-47 Assassin Droid can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The assassin droid regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Attack</name>
+            <desc type="string">The assassin droid makes one weapon attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Detect</name>
+            <desc type="string">The assassin droid makes a Wisdom (Perception) check.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Rocket Boost</name>
+            <desc type="string">The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.</desc>
+          </id-00004>
+        </legendaryactions>
+        <text type="formattedtext">
+          <p>The HK series assassin droid, also known as the HK series protocol droid, is a combination of an assassin droid and protocol droid. The series designation stands for "Hunter Killer," befitting their primary functions as assassins. They are manufactured by Czerka Corporation. Their ability to perform the functions of a protocol droid became a major reason for their unmatched lethality, as they could and would often act as normal (if quite sinister looking) protocol droids, thus concealing their true function and allowing them to get closer to intended targets. HK series assassin droids are equipped with an integrated emergency shield and jet pack.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\hk_47assassindroid.png@SW5e Player Book</token>
+      </hk_47assassindroid>
+      <bt_1assassindroid>
+        <locked type="number">1</locked>
+        <name type="string">BT-1 Assassin Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Small</size>
+        <ac type="number">17</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">90</hp>
+        <hd type="string">(12d8+36)</hd>
+        <speed type="string">25 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Stealth +6, Perception +5, Survival +5, Intimidation +3</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poison, disease</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 15</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, Galactic Basic</languages>
+        <cr type="string">9</cr>
+        <xp type="number">5000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the assassin droid fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The assassin droid makes three Blaster Cannon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Blaster Cannon</name>
+            <desc type="string">Each creature in a 10 foot cube centered on a point the droid can see within 100 ft. must make a DC 16 Dexterity saving throw. A creature takes 9 (1d10+4) energy damage on a failed save.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Flamethrower (2/day)</name>
+            <desc type="string">Each creature in a 30-foot cone must make a DC 16 Dexterity saving throw. A creature takes 36 (8d8) fire damage on a failed save, or half as much on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Rocket Barrage (2/Day)</name>
+            <desc type="string">Each creature in a 20-foot-radius sphere centered on a point that you can see within 150 feet must make a DC 16 Dexterity saving throw. A target takes 14 (4d6) kinetic damage and 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00004>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Rocket Barrage (2/Day)</name>
+            <desc type="string"> The BT-1 Assassin Droid can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The assassin droid regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Attack</name>
+            <desc type="string">The assassin droid makes one Blaster Cannon attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Detect</name>
+            <desc type="string">The assassin droid makes a Wisdom (Perception) check.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Rocket Boost</name>
+            <desc type="string">The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.</desc>
+          </id-00004>
+        </legendaryactions>
+        <text type="formattedtext">
+          <p>A homicidal assassin droid created by the Galactic Empire's Tarkin Initiative, the BT-1 model is designed to look like an astromech droid in order to fool others. The droid is armed with a variety of weapons including several blaster cannons, flamethrowers, and rockets. The BT-1 model is also equipped with rocket boosters.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\bt_1assassindroid.png@SW5e Player Book</token>
+      </bt_1assassindroid>
       <aiwha>
         <locked type="number">1</locked>
         <name type="string">Aiwha</name>
@@ -22807,6 +23357,36 @@
           <typeletterA>
             <description type="string">A</description>
             <index>
+              <aryx>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aryx@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </aryx>
+              <aqualishenforcer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aqualishenforcer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </aqualishenforcer>
+              <apprentice>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </apprentice>
               <aiwha>
                 <link type="windowreference">
                   <class>npc</class>
@@ -22869,6 +23449,61 @@
               </armoredassaulttank_aat_>
             </index>
           </typeletterA>
+          <typeletterI>
+            <description type="string">I</description>
+            <index>
+              <ig_86assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ig_86assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ig_86assassindroid>
+              <ig_88assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ig_88assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ig_88assassindroid>
+            </index>
+          </typeletterI>
+          <typeletterH>
+            <description type="string">H</description>
+            <index>
+              <hk_47assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hk_47assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hk_47assassindroid>
+            </index>
+          </typeletterH>
+          <typeletterB>
+            <description type="string">B</description>
+            <index>
+              <bt_1assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.bt_1assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </bt_1assassindroid>
+            </index>
+          </typeletterB>
           <typeletterS>
             <description type="string">S</description>
             <index>
@@ -22904,9 +23539,84 @@
       <bylevel>
         <description type="string">NPCs</description>
         <groups>
+          <level1_4>
+            <description type="string">1/4</description>
+            <index>
+              <aryx>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aryx@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </aryx>
+              <acolyte>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.acolyte@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </acolyte>
+            </index>
+          </level1_4>
+          <level04>
+            <description type="string">4</description>
+            <index>
+              <aqualishenforcer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aqualishenforcer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </aqualishenforcer>
+            </index>
+          </level04>
+          <level02>
+            <description type="string">2</description>
+            <index>
+              <apprentice>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </apprentice>
+              <speederbike74z>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.speederbike74z@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </speederbike74z>
+            </index>
+          </level02>
           <level03>
             <description type="string">3</description>
             <index>
+              <ig_86assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ig_86assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ig_86assassindroid>
               <aiwha>
                 <link type="windowreference">
                   <class>npc</class>
@@ -22919,6 +23629,61 @@
               </aiwha>
             </index>
           </level03>
+          <level10>
+            <description type="string">10</description>
+            <index>
+              <ig_88assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ig_88assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ig_88assassindroid>
+            </index>
+          </level10>
+          <level08>
+            <description type="string">8</description>
+            <index>
+              <hk_47assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hk_47assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hk_47assassindroid>
+              <acklay_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.acklay_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </acklay_adult>
+            </index>
+          </level08>
+          <level09>
+            <description type="string">9</description>
+            <index>
+              <bt_1assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.bt_1assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </bt_1assassindroid>
+            </index>
+          </level09>
           <level01>
             <description type="string">1</description>
             <index>
@@ -22934,21 +23699,6 @@
               </anooba>
             </index>
           </level01>
-          <level1_4>
-            <description type="string">1/4</description>
-            <index>
-              <acolyte>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.acolyte@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </acolyte>
-            </index>
-          </level1_4>
           <level05>
             <description type="string">5</description>
             <index>
@@ -22964,21 +23714,6 @@
               </acklay_adolescent>
             </index>
           </level05>
-          <level08>
-            <description type="string">8</description>
-            <index>
-              <acklay_adult>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.acklay_adult@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </acklay_adult>
-            </index>
-          </level08>
           <level13>
             <description type="string">13</description>
             <index>
@@ -22994,21 +23729,6 @@
               </armoredassaulttank_aat_>
             </index>
           </level13>
-          <level02>
-            <description type="string">2</description>
-            <index>
-              <speederbike74z>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.speederbike74z@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </speederbike74z>
-            </index>
-          </level02>
           <level06>
             <description type="string">6</description>
             <index>
@@ -23032,6 +23752,16 @@
           <typebeast>
             <description type="string">Beast</description>
             <index>
+              <aryx>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aryx@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </aryx>
               <aiwha>
                 <link type="windowreference">
                   <class>npc</class>
@@ -23074,9 +23804,34 @@
               </acklay_adult>
             </index>
           </typebeast>
+          <typehumanoid_aqualish_>
+            <description type="string">Humanoid (aqualish)</description>
+            <index>
+              <aqualishenforcer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aqualishenforcer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (aqualish)</source>
+              </aqualishenforcer>
+            </index>
+          </typehumanoid_aqualish_>
           <typehumanoid_any_>
             <description type="string">Humanoid (any)</description>
             <index>
+              <apprentice>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </apprentice>
               <acolyte>
                 <link type="windowreference">
                   <class>npc</class>
@@ -23099,6 +23854,51 @@
               </darkaspirant>
             </index>
           </typehumanoid_any_>
+          <typedroid>
+            <description type="string">Droid</description>
+            <index>
+              <ig_86assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ig_86assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </ig_86assassindroid>
+              <ig_88assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ig_88assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </ig_88assassindroid>
+              <hk_47assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hk_47assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </hk_47assassindroid>
+              <bt_1assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.bt_1assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </bt_1assassindroid>
+            </index>
+          </typedroid>
           <typerepeatingblasters_rangedweaponattack__10tohit_range120_240ft_>
             <description type="string">Repeating Blasters. Ranged Weapon Attack: +10 To Hit, Range 120/240 Ft.</description>
             <index>
