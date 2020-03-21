@@ -42,7 +42,12 @@ The power (spell) system in SW5e uses the alternate rules of spell points as def
 In the Fantasy Grounds combat tracker you should see the available spells as actions.  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker.
 The combat tracker can be used to automate many effects, saves, and other roles.
 Please, note that the NPCs spell slot count is NOT to be used as spell slots! These numbers reflect the spell points the NPC has. Do not add them together. The spell points are shown in every spell level the NPC is capable of casting.  This is not possible to track in the combat tracker at this time.  The DM/GM must manually track an NPCs remaining spell points.
-
+#h; NPC Issues
+#bp; NPC Sizes
+#ls;
+#li; The AT-AT and AT-TE should be Gargantuan but is listed as Huge. 
+#le;
+Due to an issue with the module utility these NPCs have an incorect size category.  If this will not work in your game, you can copy the NPC and change the size category.
 #@;Attribution and Copyright
 #!;SW5e Ruleset Information
 ##;Credits and Attribution

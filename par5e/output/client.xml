@@ -22241,6 +22241,861 @@
       </img_zabrak_jpg>
     </imagedata>
     <npcdata>
+      <avatarofabeloth>
+        <locked type="number">1</locked>
+        <name type="string">Avatar Of Abeloth</name>
+        <type type="string">undead</type>
+        <size type="string">Medium</size>
+        <ac type="number">17</ac>
+        <actext type="string">(force shield)</actext>
+        <hp type="number">153</hp>
+        <hd type="string">(18d6 + 90)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Con +12, Wis +9, Cha +12</savingthrows>
+        <skills type="string">Lore +10, Perception +9, Insight +9, Deception +19, Persuasion +12</skills>
+        <damageresistances type="string">cold, lightning, necrotic</damageresistances>
+        <damageimmunities type="string">poison; kinetic, ion, and energy from unenhanced weapons.</damageimmunities>
+        <conditionimmunities type="string">charmed, exhaustion, frightened, paralyzed, poisoned</conditionimmunities>
+        <senses type="string">truesight 120 ft., passive Perception 19</senses>
+        <alignment type="string">neautral dark side</alignment>
+        <languages type="string">all, telepathy 120 ft.</languages>
+        <cr type="string">21</cr>
+        <xp type="number">33000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If Abeloth fails a saving throw, she can choose to succeed instead.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Force Resistance</name>
+            <desc type="string">Abeloth has advantage on saving throws against Force Powers.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Font of Power</name>
+            <desc type="string">When Abeloth rolls damage for a power, she can spend 1 additional force point to reroll a number of the damage dice up to her Charisma modifier (5). She must use the new rolls.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Pool of Knowledge</name>
+            <desc type="string">When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The Abeloth is a 18th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). Abeloth has 77 Force Points and the following spells prepared:  \rCantrips (at will): Burst, Feedback, Force Push/Pull, Give Life, Saber Reflect, Shock\r1st level (77 slots): Cloud Mind, Force Mask, Force Throw, Project\r2nd level (77 slots): Coerce Mind, Hallucination\r3rd level (77 slots): Force Lightning, Force Repulse, Knight Speed, Telekinetic Storm\r4th level (77 slots): Drain Life, Mind Trap\r5th level (77 slots): Dominate Mind, Greater Feedback, Siphon Life\r6th level (77 slots): Mass Coerce Mind, Telekinetic Burst\r7th level (77 slots): Force Project, Whirlwind\r8th level (77 slots): Death Field, Earthquake, Telekinetic Wave\r9th level (77 slots): Master Feedback</desc>
+          </id-00005>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Shotosaber</name>
+            <desc type="string">Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) energy damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Teleport</name>
+            <desc type="string">Abeloth teleports up to 120 feet into an unoccupied space she can see.</desc>
+          </id-00002>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Teleport</name>
+            <desc type="string">Abeloth uses her teleport action.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">At Will Power</name>
+            <desc type="string">Abeloth casts an at will power.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Attack</name>
+            <desc type="string">Abeloth attacks once with Shotosaber.</desc>
+          </id-00003>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\avatarofabeloth.png@SW5e Player Book</token>
+      </avatarofabeloth>
+      <awakenedshrub>
+        <locked type="number">1</locked>
+        <name type="string">Awakened Shrub</name>
+        <type type="string">Plant</type>
+        <size type="string">Small</size>
+        <ac type="number">9</ac>
+        <actext type="string"/>
+        <hp type="number">10</hp>
+        <hd type="string">(3d6)</hd>
+        <speed type="string">20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">fire</damagevulnerabilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">blinded, charmed, deafened, prone</conditionimmunities>
+        <senses type="string">Tremorsense 120 ft. (blind beyond this radius), passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">False Appearance</name>
+            <desc type="string">While the tree remains motionless, it is indistinguishable from a normal tree.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Rake</name>
+            <desc type="string">Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\awakenedshrub.png@SW5e Player Book</token>
+      </awakenedshrub>
+      <awakenedtree>
+        <locked type="number">1</locked>
+        <name type="string">Awakened Tree</name>
+        <type type="string">Plant</type>
+        <size type="string">Large</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">73</hp>
+        <hd type="string">(7d10 + 28)</hd>
+        <speed type="string">20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">fire</damagevulnerabilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">blinded, charmed, deafened, prone</conditionimmunities>
+        <senses type="string">Tremorsense 120 ft. (blind beyond this radius), passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">False Appearance</name>
+            <desc type="string">While the tree remains motionless, it is indistinguishable from a normal tree.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Slam</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 23 (4d8 + 5) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\awakenedtree.png@SW5e Player Book</token>
+      </awakenedtree>
+      <awakenedvines>
+        <locked type="number">1</locked>
+        <name type="string">Awakened Vines</name>
+        <type type="string">Plant</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">84</hp>
+        <hd type="string">(12d10 + 24)</hd>
+        <speed type="string">20 ft., climb 15 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">fire</damagevulnerabilities>
+        <conditionimmunities type="string">blinded, charmed, deafened, prone</conditionimmunities>
+        <senses type="string">Blindsight 60 ft. (blind beyond this radius), passive Perception 8</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Constrict</name>
+            <desc type="string">Creatures grappled by the vines take 4 (1d8) kinetic damage at the start of every round.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">False Appearance</name>
+            <desc type="string">While the vines remains motionless, they are indistinguishable from normal vines.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Vines</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 22 (4d8 + 4) kinetic damage, and the target is Grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the vines can't constrict another target.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\awakenedvines.png@SW5e Player Book</token>
+      </awakenedvines>
+      <awakenedcarnivorousplant>
+        <locked type="number">1</locked>
+        <name type="string">Awakened Carnivorous Plant</name>
+        <type type="string">Plant</type>
+        <size type="string">Small</size>
+        <ac type="number">8</ac>
+        <actext type="string"/>
+        <hp type="number">24</hp>
+        <hd type="string">(4d6 + 12)</hd>
+        <speed type="string">10 ft., climb 10 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">fire</damagevulnerabilities>
+        <damageresistances type="string">acid</damageresistances>
+        <conditionimmunities type="string">blinded, charmed, deafened, prone</conditionimmunities>
+        <senses type="string">Blindsight 60 ft. (blind beyond this radius), passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">1</cr>
+        <xp type="number">100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Corrode Metal Any unenhanced weapon made of metal that hits the plant corrodes</name>
+            <desc type="string">After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. The plant can eat through 2-inch-thick, unenhanced metal in 1 round. False Appearance While the plant remains motionless, it is indistinguishable from a normal plant.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) kinetic damage plus 7 (2d6) acid damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\awakenedcarnivorousplant.png@SW5e Player Book</token>
+      </awakenedcarnivorousplant>
+      <auto_turret>
+        <locked type="number">1</locked>
+        <name type="string">Auto-Turret</name>
+        <type type="string">construct</type>
+        <size type="string">Medium</size>
+        <ac type="number">14</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">19</hp>
+        <hd type="string">(3d8+6)</hd>
+        <speed type="string">0 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +2</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poison, disease</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 12</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">1/2</cr>
+        <xp type="number">100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Targeting Systems</name>
+            <desc type="string">The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The turret makes two repeating blaster attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Repeating Blaster</name>
+            <desc type="string">Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit 5 (1d6+2) energy damage.</desc>
+          </id-00002>
+        </actions>
+        <text type="formattedtext">
+          <p>An autoturret is a blaster turret emplacement used to defend an area. Known for their killing power and effectiveness, they are employed by many factions throughout galactic history.</p>
+          <p>Autoturrets were used widely during the Jedi Civil War, with the Sith Empire deploying them to restrict access to the Undercity of Taris and to defend their military bases. Often, they were installed at the entrances to hidden bases, onboard capital ships, or near personal valuables.</p>
+          <p>In the later stages of the Clone Wars, portable autoturrets were used by both the Grand Army of the Republiic and the Separatist Droid Army for covering fire or to reinforce the defense of field command posts. These autoturrets became the standard equipment of clone and droid snipers, who were entrusted with their deployment.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\auto_turret.png@SW5e Player Book</token>
+      </auto_turret>
+      <at_te>
+        <locked type="number">1</locked>
+        <name type="string">AT-TE</name>
+        <type type="string">Repeaters. Ranged Weapon Attack: +8 to hit, range 120/240 ft.</type>
+        <size type="string">Medium</size>
+        <ac type="number">18</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">248</hp>
+        <hd type="string">(16d20 + 80)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">25</score>
+            <modifier type="string">+7</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +12, Con +10</savingthrows>
+        <damageresistances type="string">Psychic</damageresistances>
+        <damageimmunities type="string">Poison, Necrotic, Ion</damageimmunities>
+        <conditionimmunities type="string">Poisoned, Frightened, Petrified, Restrained, Incapacitated, Stunned, Prone, Blinded, Charmed, disease</conditionimmunities>
+        <senses type="string">-</senses>
+        <alignment type="string">one target. Hit: 19 (3d10+3) energy damage.</alignment>
+        <languages type="string">-</languages>
+        <cr type="string">18</cr>
+        <xp type="number">20000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Electromagnetic Shielding</name>
+            <desc type="string">The AT-TE is Immune to Ion damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Heavy Durasteel Armor</name>
+            <desc type="string">The outer layer of the AT-TE is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the AT-TE takes no damage from that attack. If the AT-TE takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Towering</name>
+            <desc type="string">Creatures of Medium size or smaller can stand in the AT-TE's space.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Troop Transport</name>
+            <desc type="string">The AT-TE can transport a maximum of 20 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-TE.</desc>
+          </id-00006>
+          <id-00007>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The AT-TE's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00007>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The AT-TE makes four attacks: one with its laser cannon volley and three with its medium repeaters.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Laser Cannon Volley</name>
+            <desc type="string">The AT-TE chooses a point within 240 ft and lets loose a blast from its heavy laser cannon that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 33 (6d10) energy damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00002>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Laser Cannon Volley</name>
+            <desc type="string"> The AT-TE can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The AT-TE regains spent legendary actions at the start of their turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Repeating Blasters</name>
+            <desc type="string">The AT-TE makes a single attack with its medium repeaters.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Deploy Troops (Costs 2 Actions)</name>
+            <desc type="string">The AT-TE mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers. These troops appear in any unoccupied spaces within 10 ft. of the AT-TE.</desc>
+          </id-00003>
+        </legendaryactions>
+        <text type="formattedtext">
+          <p>The All Terrain Tactical Enforcer (AT-TE), is an all terrain assault walker developed for the Grand Army of the Republic during the Clone Wars. The walker is used for transporting platoons of troopers and attacking enemy installations. The AT-TE's cramped rear compartment contains computer hologram communication devices and space for troopers to stand during transportation. On the back end of the machine is a large door for quick deployment of troopers. Some versions of the walker were able to scale vertical cliffs. The typical arsenal includes a top-mounted mass-driver cannon, along with six other laser cannons placed strategically around the outside of the vehicle.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\at_te.png@SW5e Player Book</token>
+      </at_te>
+      <at_st>
+        <locked type="number">1</locked>
+        <name type="string">AT-ST</name>
+        <type type="string">construct</type>
+        <size type="string">Huge</size>
+        <ac type="number">17</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">168</hp>
+        <hd type="string">(16d12+64)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +10, Con +8</savingthrows>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">psychic</damageresistances>
+        <damageimmunities type="string">poison, necrotic</damageimmunities>
+        <conditionimmunities type="string">poisoned, disease, frightened, petrified, restrained, incapacitated, stunned, prone, blinded, charmed</conditionimmunities>
+        <senses type="string">-</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">-</languages>
+        <cr type="string">11</cr>
+        <xp type="number">7200</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Towering</name>
+            <desc type="string">Creatures of Medium size or smaller can stand in the AT-ST's space.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The AT-ST's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00004>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The AT-ST can use its Frightful Presence. It then makes two attacks with its repeating blasters or takes the Stomp action.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stomp</name>
+            <desc type="string">All creatures standing within the AT-ST's space or within 5 feet of it must make a DC 18 Dexterity saving throw, taking 39 (6d12) kinetic damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Repeating Blaster Cannon</name>
+            <desc type="string">Ranged Weapon Attack: +7 to hit, range 120/240 ft., one target. Hit: 25 (4d10 + 3) energy damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">rightful Presence</name>
+            <desc type="string">Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.</desc>
+          </id-00004>
+        </actions>
+        <text type="formattedtext">
+          <p>The All Terrain Scout Transport (or AT-ST), also known as the chicken walker for its two-legged design, is a bipedal walker used by the Galactic Republic during the late Clone Wars and, later and more extensively, by the Galactic Empire during the Galactic Civil War.</p>
+          <p>AT-STs are commonly used to screen the flanks of larger assault walkers for major ground operations. The Empire used them for swift reconnaissance and troop support. As such, they are essential for cleaning up minor resistance along the path of a planned invasion route, and can quickly eliminate small threats that evade an AT-AT's barrage. The walker is commonly used on anti-personnel hunting missions, and is piloted by two AT-ST drivers.</p>
+          <p>Despite its speed and agility, an AT-ST walker's offensive and defensive power are significantly compromised. Offensively, its weapons systems are only good against lightly armored targets at close range. Defensively, its lighter armor can repel attacks from small-arms fire, but not laser cannons, missiles, or other heavy ordnance. Its armor does not cover its entire frame, lest the walker lose its agility. Striking the walker's unprotected gyros underneath the command module can destabilize the walker and cause it to fall. Additionally, deep trenches or cable lines leveled at the height of the AT-ST's ankles and knees can cause it to trip and topple the vehicle.</p>
+          <p>The modular design of the AT-ST allows for ease in customizing the walker with armaments and tools for specific mission parameters such as mortar launchers attached to the command pod.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\at_st.png@SW5e Player Book</token>
+      </at_st>
+      <at_rt>
+        <locked type="number">1</locked>
+        <name type="string">AT-RT</name>
+        <type type="string">construct</type>
+        <size type="string">Large</size>
+        <ac type="number">15</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">58</hp>
+        <hd type="string">(9d10+9)</hd>
+        <speed type="string">50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +5</savingthrows>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poison, disease</conditionimmunities>
+        <senses type="string">-</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">-</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00002>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Redirect</name>
+            <desc type="string">If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Repeating Blaster Cannon</name>
+            <desc type="string">Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 10 (2d6+3) energy damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Mortar Launcher</name>
+            <desc type="string">The construct launches a mortar at a point it can see within 100 feet. Each creature in a 20- foot radius centered on that point must make a Dexterity saving throw. A target takes 14 (4d6) damage on a failed save, or half as much on a succesful one.</desc>
+          </id-00002>
+        </actions>
+        <text type="formattedtext">
+          <p>The All Terrain Recon Transport (AT-RT), is a one-man bipedal walker used for reconnaissance and patrolling made by Kuat Drive Yards as part of their All Terrain series. It is equipped with a single seat for a pilot, as well as a repeating blaster cannon and mortar launcher, and is 3.2 meters tall and 2.9 meters long,.</p>
+          <p>Also known as the Republic scout walker, the AT-RT was used mainly during the Clone Wars by Advanced Recon Force troopers. It was the precursor to both the All Terrain Defense Pod and the All Terrain Scout Transport. During the Galactic Civil War, these walkers were adopted by both the Galactic Empire, who used Scout troopers to man the vehicles, and the Alliance to Restore the Republic, who upgraded them to compete with the advancements of the Empire.</p>
+          <p>The AT-RT's were usually used for a variety of missions including ground support, police support, civil defense, and post-battle cleanup efforts. They occasionally took up position on the front lines of ground battles when difficult terrain prevented the use of larger vehicles.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\at_rt.png@SW5e Player Book</token>
+      </at_rt>
+      <at_at>
+        <locked type="number">1</locked>
+        <name type="string">AT-AT</name>
+        <type type="string">Repeaters. Ranged Weapon Attack: +8 to hit, range 240/360 ft.</type>
+        <size type="string">Medium</size>
+        <ac type="number">20</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">330</hp>
+        <hd type="string">(20d20 + 120)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">27</score>
+            <modifier type="string">+8</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +14, Con +12</savingthrows>
+        <damagevulnerabilities type="string">Ion</damagevulnerabilities>
+        <damageresistances type="string">Psychic</damageresistances>
+        <damageimmunities type="string">Poison, Necrotic</damageimmunities>
+        <conditionimmunities type="string">Poisoned, Frightened, Petrified, Restrained, Incapacitated, Stunned, Prone, Blinded, Charmed, Disease</conditionimmunities>
+        <senses type="string">-</senses>
+        <alignment type="string">one target. Hit: 22 (4d10) energy damage.</alignment>
+        <languages type="string">-</languages>
+        <cr type="string">19</cr>
+        <xp type="number">22000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Heavy Durasteel Armor</name>
+            <desc type="string">The outer layer of the AT-AT is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 30 points, the AT-AT takes no damage from that attack. If the AT-AT takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Towering</name>
+            <desc type="string">Creatures of Large size or smaller can stand in the AT-AT's space.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Troop Transport</name>
+            <desc type="string">The AT-AT can transport a maximum of 40 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-AT.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The AT-AT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00006>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The AT-AT can use its Frightful Presence. It then makes three attacks: one with its laser cannon volley and two with its medium repeaters.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Laser Cannon Volley</name>
+            <desc type="string">The AT-AT chooses a point within 320 ft and lets loose a blast from each of its heavy laser cannons that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 54 (12d8) energy damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Stomp</name>
+            <desc type="string">All creatures standing within the AT-AT's space or within 5ft of it must make a DC 20 Dexterity saving throw, taking 78 (12d12) kinetic damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Frightful Presence</name>
+            <desc type="string">Each creature of the AT-AT's choice within 240 feet of the AT-AT and aware of it must succeed on a DC 16 Wisdom saving throw or become Frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-AT's Frightful Presence for 24 hours.</desc>
+          </id-00004>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Frightful Presence</name>
+            <desc type="string"> The AT-AT can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The AT-AT regains spent legendary actions at the start of their turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stomp</name>
+            <desc type="string">The AT-AT makes a stomp attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Repeating Blasters</name>
+            <desc type="string">The AT-AT makes a single attack with its medium repeaters.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Deploy Troops (Costs 2 Actions)</name>
+            <desc type="string">The AT-AT mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers and 1 74-Z speeder bike. These troops appear in any unoccupied spaces within 10 ft. of the AT-AT.</desc>
+          </id-00004>
+        </legendaryactions>
+        <text type="formattedtext">
+          <p>The All Terrain Armored Transport is an imposing, heavily armored, quadrupedal combat walker that stands 22.5 meters tall and can move at 60 kph. In addition to it's armaments, it also served as transport for combat personnel. The vehicle's cockpit and sensor array are located in the "head" of the walker, which also carries spotlights and the main armaments: dual Piperii-Cerlurn R-90C medium blasters located on the sides or "temples," and a pair of heavier Taim &amp; Bak MS-1 heavy blaster cannons fitted on the "chin." The main body houses a troop compartment capable of ferrying numerous soldiers, along with a vehicle bay at the walker's rear that holds five 74-Z speeder bikes. The main, troop hatch is located in the middle of the walker's side, two smaller escape hatches are located both to the main hatch's immediate left and right, and the auxiliary hatch is located in the walker's underside.</p>
+        </text>
+        <token type="token">tokens\SW5e Player Book\at_at.png@SW5e Player Book</token>
+      </at_at>
+      <assassin>
+        <locked type="number">1</locked>
+        <name type="string">Assassin</name>
+        <type type="string">humanoid (any)</type>
+        <size type="string">Medium</size>
+        <ac type="number">15</ac>
+        <actext type="string">(heavy combat suit)</actext>
+        <hp type="number">78</hp>
+        <hd type="string">(12d8+24)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +7, Int +5</savingthrows>
+        <skills type="string">Acrobatics +7, Deception +4, Perception +4, Stealth +11</skills>
+        <damageresistances type="string">Poison</damageresistances>
+        <senses type="string">passive Perception 14</senses>
+        <alignment type="string">any alignment</alignment>
+        <languages type="string">Galactic Basic and one other</languages>
+        <cr type="string">8</cr>
+        <xp type="number">3900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Assassinate</name>
+            <desc type="string">During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Evasion</name>
+            <desc type="string">If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Sneak Attack (1/Turn)</name>
+            <desc type="string">The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the roll.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The assassin makes two weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Hidden blade</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 3) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Hold-out</name>
+            <desc type="string">Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 5 (1d4 + 3) energy damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\assassin.png@SW5e Player Book</token>
+      </assassin>
       <aryx>
         <locked type="number">1</locked>
         <name type="string">Aryx</name>
@@ -23357,6 +24212,116 @@
           <typeletterA>
             <description type="string">A</description>
             <index>
+              <avatarofabeloth>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.avatarofabeloth@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </avatarofabeloth>
+              <awakenedshrub>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedshrub@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedshrub>
+              <awakenedtree>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedtree@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedtree>
+              <awakenedvines>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedvines@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedvines>
+              <awakenedcarnivorousplant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedcarnivorousplant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedcarnivorousplant>
+              <auto_turret>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.auto_turret@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </auto_turret>
+              <at_te>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_te@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_te>
+              <at_st>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_st@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_st>
+              <at_rt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_rt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_rt>
+              <at_at>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_at@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_at>
+              <assassin>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.assassin@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </assassin>
               <aryx>
                 <link type="windowreference">
                   <class>npc</class>
@@ -23539,6 +24504,226 @@
       <bylevel>
         <description type="string">NPCs</description>
         <groups>
+          <level21>
+            <description type="string">21</description>
+            <index>
+              <avatarofabeloth>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.avatarofabeloth@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </avatarofabeloth>
+            </index>
+          </level21>
+          <level00>
+            <description type="string">0</description>
+            <index>
+              <awakenedshrub>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedshrub@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedshrub>
+            </index>
+          </level00>
+          <level02>
+            <description type="string">2</description>
+            <index>
+              <awakenedtree>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedtree@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedtree>
+              <awakenedvines>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedvines@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedvines>
+              <apprentice>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </apprentice>
+              <speederbike74z>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.speederbike74z@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </speederbike74z>
+            </index>
+          </level02>
+          <level01>
+            <description type="string">1</description>
+            <index>
+              <awakenedcarnivorousplant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedcarnivorousplant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </awakenedcarnivorousplant>
+              <anooba>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.anooba@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </anooba>
+            </index>
+          </level01>
+          <level1_2>
+            <description type="string">1/2</description>
+            <index>
+              <auto_turret>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.auto_turret@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </auto_turret>
+            </index>
+          </level1_2>
+          <level18>
+            <description type="string">18</description>
+            <index>
+              <at_te>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_te@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_te>
+            </index>
+          </level18>
+          <level11>
+            <description type="string">11</description>
+            <index>
+              <at_st>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_st@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_st>
+            </index>
+          </level11>
+          <level04>
+            <description type="string">4</description>
+            <index>
+              <at_rt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_rt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_rt>
+              <aqualishenforcer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.aqualishenforcer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </aqualishenforcer>
+            </index>
+          </level04>
+          <level19>
+            <description type="string">19</description>
+            <index>
+              <at_at>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_at@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_at>
+            </index>
+          </level19>
+          <level08>
+            <description type="string">8</description>
+            <index>
+              <assassin>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.assassin@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </assassin>
+              <hk_47assassindroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hk_47assassindroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hk_47assassindroid>
+              <acklay_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.acklay_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </acklay_adult>
+            </index>
+          </level08>
           <level1_4>
             <description type="string">1/4</description>
             <index>
@@ -23564,46 +24749,6 @@
               </acolyte>
             </index>
           </level1_4>
-          <level04>
-            <description type="string">4</description>
-            <index>
-              <aqualishenforcer>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.aqualishenforcer@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </aqualishenforcer>
-            </index>
-          </level04>
-          <level02>
-            <description type="string">2</description>
-            <index>
-              <apprentice>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </apprentice>
-              <speederbike74z>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.speederbike74z@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </speederbike74z>
-            </index>
-          </level02>
           <level03>
             <description type="string">3</description>
             <index>
@@ -23644,31 +24789,6 @@
               </ig_88assassindroid>
             </index>
           </level10>
-          <level08>
-            <description type="string">8</description>
-            <index>
-              <hk_47assassindroid>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.hk_47assassindroid@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </hk_47assassindroid>
-              <acklay_adult>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.acklay_adult@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </acklay_adult>
-            </index>
-          </level08>
           <level09>
             <description type="string">9</description>
             <index>
@@ -23684,21 +24804,6 @@
               </bt_1assassindroid>
             </index>
           </level09>
-          <level01>
-            <description type="string">1</description>
-            <index>
-              <anooba>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.anooba@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source type="number"/>
-              </anooba>
-            </index>
-          </level01>
           <level05>
             <description type="string">5</description>
             <index>
@@ -23749,6 +24854,186 @@
       <bytype>
         <description type="string">NPCs</description>
         <groups>
+          <typeundead>
+            <description type="string">Undead</description>
+            <index>
+              <avatarofabeloth>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.avatarofabeloth@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>undead</source>
+              </avatarofabeloth>
+            </index>
+          </typeundead>
+          <typeplant>
+            <description type="string">Plant</description>
+            <index>
+              <awakenedshrub>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedshrub@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Plant</source>
+              </awakenedshrub>
+              <awakenedtree>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedtree@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Plant</source>
+              </awakenedtree>
+              <awakenedvines>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedvines@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Plant</source>
+              </awakenedvines>
+              <awakenedcarnivorousplant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.awakenedcarnivorousplant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Plant</source>
+              </awakenedcarnivorousplant>
+            </index>
+          </typeplant>
+          <typeconstruct>
+            <description type="string">Construct</description>
+            <index>
+              <auto_turret>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.auto_turret@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>construct</source>
+              </auto_turret>
+              <at_st>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_st@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>construct</source>
+              </at_st>
+              <at_rt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_rt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>construct</source>
+              </at_rt>
+              <speederbike74z>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.speederbike74z@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>construct</source>
+              </speederbike74z>
+            </index>
+          </typeconstruct>
+          <typerepeaters_rangedweaponattack__8tohit_range120_240ft_>
+            <description type="string">Repeaters. Ranged Weapon Attack: +8 To Hit, Range 120/240 Ft.</description>
+            <index>
+              <at_te>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_te@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Repeaters. Ranged Weapon Attack: +8 to hit, range 120/240 ft.</source>
+              </at_te>
+            </index>
+          </typerepeaters_rangedweaponattack__8tohit_range120_240ft_>
+          <typerepeaters_rangedweaponattack__8tohit_range240_360ft_>
+            <description type="string">Repeaters. Ranged Weapon Attack: +8 To Hit, Range 240/360 Ft.</description>
+            <index>
+              <at_at>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_at@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Repeaters. Ranged Weapon Attack: +8 to hit, range 240/360 ft.</source>
+              </at_at>
+            </index>
+          </typerepeaters_rangedweaponattack__8tohit_range240_360ft_>
+          <typehumanoid_any_>
+            <description type="string">Humanoid (any)</description>
+            <index>
+              <assassin>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.assassin@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </assassin>
+              <apprentice>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </apprentice>
+              <acolyte>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.acolyte@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </acolyte>
+              <darkaspirant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.darkaspirant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </darkaspirant>
+            </index>
+          </typehumanoid_any_>
           <typebeast>
             <description type="string">Beast</description>
             <index>
@@ -23819,41 +25104,6 @@
               </aqualishenforcer>
             </index>
           </typehumanoid_aqualish_>
-          <typehumanoid_any_>
-            <description type="string">Humanoid (any)</description>
-            <index>
-              <apprentice>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.apprentice@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source>humanoid (any)</source>
-              </apprentice>
-              <acolyte>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.acolyte@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source>humanoid (any)</source>
-              </acolyte>
-              <darkaspirant>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.darkaspirant@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source>humanoid (any)</source>
-              </darkaspirant>
-            </index>
-          </typehumanoid_any_>
           <typedroid>
             <description type="string">Droid</description>
             <index>
@@ -23914,21 +25164,6 @@
               </armoredassaulttank_aat_>
             </index>
           </typerepeatingblasters_rangedweaponattack__10tohit_range120_240ft_>
-          <typeconstruct>
-            <description type="string">Construct</description>
-            <index>
-              <speederbike74z>
-                <link type="windowreference">
-                  <class>npc</class>
-                  <recordname>reference.npcdata.speederbike74z@SW5e Player Book</recordname>
-                  <description>
-                    <field>name</field>
-                  </description>
-                </link>
-                <source>construct</source>
-              </speederbike74z>
-            </index>
-          </typeconstruct>
         </groups>
       </bytype>
     </npclists>
@@ -27144,6 +28379,14 @@
           <p>In the Fantasy Grounds combat tracker you should see the available spells as actions.  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker.</p>
           <p>The combat tracker can be used to automate many effects, saves, and other roles.</p>
           <p>Please, note that the NPCs spell slot count is NOT to be used as spell slots! These numbers reflect the spell points the NPC has. Do not add them together. The spell points are shown in every spell level the NPC is capable of casting.  This is not possible to track in the combat tracker at this time.  The DM/GM must manually track an NPCs remaining spell points.</p>
+          <h> NPC Issues</h>
+          <p>
+            <b> NPC Sizes</b>
+          </p>
+          <list>
+            <li> The AT-AT and AT-TE should be Gargantuan but is listed as Huge.</li>
+          </list>
+          <p>Due to an issue with the module utility these NPCs have an incorect size category.  If this will not work in your game, you can copy the NPC and change the size category.</p>
         </text>
       </refpage_000000player_gmnotes>
       <refpage_010000creditsandattribution>
@@ -27230,7 +28473,7 @@
                     </description>
                   </listlink>
                   <name type="string">Player/GM notes</name>
-                  <keywords type="string">The Fantasy Grounds SW5e modules are not meant to replace the PDF documentation  All participants should use the PDF for rules and game mechanics The SW5e Extension  The SW5e extension must be loaded in your campaign Many of the features will not work if the extension is not loaded  The SW5e Modules The following modules should all be used together  SW5e Player Book Class Race Background etc SW5e Supplement Spells Items etc SW5e NPC Manual NPCs Monsters Droids etc  Issues to be aware of  Berserker Unarmored Defense This skill does not automatically alter the AC calculation in the character sheet  The playerGM must add the CON bonus manually  Items and Equipment Items and Equipment are in the SW5e Supplementmod It must be loaded to use inventory features  Item Effects Some items like grenades have effects or conditions that can be used in the combat tracker many of these are included in the SW5e Supplement module  Class Race Background Effects Some classes races backgrounds etc have effects or conditions that can be used in the combat tracker many of these are included in the SW5e Supplement module  Equipment Packs The starting Equipment Packs are found as Parcels in the SW5e Supplement module  They have no cost so if doing the starting wealth option be sure to deduct the proper costs involved  Items Button WeaponArmor Lists When you use the Items button on the right side of the screen you will see the Armor and Weapons buttons at the top of that window  These buttons should give items by category for picking weapons and armor  PowersSpells PowersSpells are in the SW5e Supplementmod It must be loaded to use caster features Translation of Spell terms  TechForce Powers Known  Number of spells knownprepared TechForce Points  Spell Points TechForce Power Level  Spell Level Max Power Level  Highest spell level that can be used  Many times in this converion to the Fantasy GroundsFG 5e ruleset you may see forcetech powers referred to as spells  This is because the FG system is not set up to handle custom powers at this time  Spell Points The power spell system in SW5e uses the alternate rules of spell points as defined in the 5e DMG  This can be implemented in Fantasy Grounds in the character sheet Actions tab  Use the Add Power Star button to add a power called Spell Points and finish with the  button  Go to mode Preparation and enter the number of desired points with the period Daily  This will automatically reset on a long rest  SpellsPowers and NPCs In the Fantasy Grounds combat tracker you should see the available spells as actions  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker The combat tracker can be used to automate many effects saves and other roles Please note that the NPCs spell slot count is NOT to be used as spell slots These numbers reflect the spell points the NPC has Do not add them together The spell points are shown in every spell level the NPC is capable of casting  This is not possible to track in the combat tracker at this time  The DMGM must manually track an NPCs remaining spell points</keywords>
+                  <keywords type="string">The Fantasy Grounds SW5e modules are not meant to replace the PDF documentation  All participants should use the PDF for rules and game mechanics The SW5e Extension  The SW5e extension must be loaded in your campaign Many of the features will not work if the extension is not loaded  The SW5e Modules The following modules should all be used together  SW5e Player Book Class Race Background etc SW5e Supplement Spells Items etc SW5e NPC Manual NPCs Monsters Droids etc  Issues to be aware of  Berserker Unarmored Defense This skill does not automatically alter the AC calculation in the character sheet  The playerGM must add the CON bonus manually  Items and Equipment Items and Equipment are in the SW5e Supplementmod It must be loaded to use inventory features  Item Effects Some items like grenades have effects or conditions that can be used in the combat tracker many of these are included in the SW5e Supplement module  Class Race Background Effects Some classes races backgrounds etc have effects or conditions that can be used in the combat tracker many of these are included in the SW5e Supplement module  Equipment Packs The starting Equipment Packs are found as Parcels in the SW5e Supplement module  They have no cost so if doing the starting wealth option be sure to deduct the proper costs involved  Items Button WeaponArmor Lists When you use the Items button on the right side of the screen you will see the Armor and Weapons buttons at the top of that window  These buttons should give items by category for picking weapons and armor  PowersSpells PowersSpells are in the SW5e Supplementmod It must be loaded to use caster features Translation of Spell terms  TechForce Powers Known  Number of spells knownprepared TechForce Points  Spell Points TechForce Power Level  Spell Level Max Power Level  Highest spell level that can be used  Many times in this converion to the Fantasy GroundsFG 5e ruleset you may see forcetech powers referred to as spells  This is because the FG system is not set up to handle custom powers at this time  Spell Points The power spell system in SW5e uses the alternate rules of spell points as defined in the 5e DMG  This can be implemented in Fantasy Grounds in the character sheet Actions tab  Use the Add Power Star button to add a power called Spell Points and finish with the  button  Go to mode Preparation and enter the number of desired points with the period Daily  This will automatically reset on a long rest  SpellsPowers and NPCs In the Fantasy Grounds combat tracker you should see the available spells as actions  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker The combat tracker can be used to automate many effects saves and other roles Please note that the NPCs spell slot count is NOT to be used as spell slots These numbers reflect the spell points the NPC has Do not add them together The spell points are shown in every spell level the NPC is capable of casting  This is not possible to track in the combat tracker at this time  The DMGM must manually track an NPCs remaining spell points  NPC Issues  NPC Sizes   The ATAT and ATTE should be Gargantuan but is listed as Huge  Due to an issue with the module utility these NPCs have an incorect size category  If this will not work in your game you can copy the NPC and change the size category</keywords>
                 </refpage_00>
               </refpages>
             </subchapter_00>
