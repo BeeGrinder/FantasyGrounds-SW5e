@@ -1,3 +1,260 @@
+Avatar Of Abeloth
+Medium undead, neautral dark side
+Armor Class 17 (force shield)
+Hit Points 153 (18d6 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 20 (+5) 16 (+3) 14 (+2) 20 (+5)
+Saving Throws Con +12, Wis +9, Cha +12
+Skills Lore +10, Perception +9, Insight +9, Deception +19, Persuasion +12
+Damage Resistances cold, lightning, necrotic
+Damage Immunities poison; kinetic, ion, and energy from unenhanced weapons.
+Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned
+Senses truesight 120 ft., passive Perception 19
+Languages all, telepathy 120 ft.
+Challenge 21 (33,000 XP)
+Legendary Resistance (3/Day). If Abeloth fails a saving throw, she can choose to succeed instead.
+Force Resistance. Abeloth has advantage on saving throws against Force Powers.
+Font of Power. When Abeloth rolls damage for a power, she can spend 1 additional force point to reroll a number of the damage dice up to her Charisma modifier (5). She must use the new rolls.
+Pool of Knowledge. When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.
+Spellcasting. The Abeloth is a 18th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). Abeloth has 77 Force Points and the following spells prepared:  \rCantrips (at will): Burst, Feedback, Force Push/Pull, Give Life, Saber Reflect, Shock\r1st level (77 slots): Cloud Mind, Force Mask, Force Throw, Project\r2nd level (77 slots): Coerce Mind, Hallucination\r3rd level (77 slots): Force Lightning, Force Repulse, Knight Speed, Telekinetic Storm\r4th level (77 slots): Drain Life, Mind Trap\r5th level (77 slots): Dominate Mind, Greater Feedback, Siphon Life\r6th level (77 slots): Mass Coerce Mind, Telekinetic Burst\r7th level (77 slots): Force Project, Whirlwind\r8th level (77 slots): Death Field, Earthquake, Telekinetic Wave\r9th level (77 slots): Master Feedback
+ACTIONS
+Shotosaber. Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) energy damage.
+Teleport. Abeloth teleports up to 120 feet into an unoccupied space she can see.
+LEGENDARY ACTIONS
+Abeloth can take 3 Legendary Actions, choosing from the options below. One legendary action can be used at a time, and only at the end of another's turn. Spent legendary Actions are regained at the start of each turn.
+At Will Power. Abeloth casts an at will power.
+Attack. Abeloth attacks once with Shotosaber.
+Teleport. Abeloth uses her teleport action.
+##;
+
+Awakened Shrub
+Small Plant, unaligned
+Armor Class 9
+Hit Points 10 (3d6)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 3 (-4) 8 (-1) 11 (+0) 10 (+0) 10 (+0) 6 (-2)
+Damage Vulnerabilities fire
+Damage Resistances kinetic
+Condition Immunities blinded, charmed, deafened, prone
+Senses Tremorsense 120 ft. (blind beyond this radius), passive Perception 10
+Challenge 0 (10 XP)
+False Appearance. While the tree remains motionless, it is indistinguishable from a normal tree.
+ACTIONS
+Rake. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) kinetic damage.
+##;
+
+Awakened Tree
+Large Plant, unaligned
+Armor Class 13 (natural armor)
+Hit Points 73 (7d10 + 28)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 21 (+5) 6 (-2) 18 (+4) 10 (+0) 10 (+0) 7 (-2)
+Damage Vulnerabilities fire
+Damage Resistances kinetic
+Condition Immunities blinded, charmed, deafened, prone
+Senses Tremorsense 120 ft. (blind beyond this radius), passive Perception 10
+Challenge 2 (450 XP)
+False Appearance. While the tree remains motionless, it is indistinguishable from a normal tree.
+ACTIONS
+Slam. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 23 (4d8 + 5) kinetic damage.
+##;
+
+Awakened Vines
+Large Plant, unaligned
+Armor Class 12
+Hit Points 84 (12d10 + 24)
+Speed 20 ft., climb 15 ft.
+STR DEX CON INT WIS CHA 18 (+4) 14 (+2) 12 (+1) 10 (+0) 7 (-2) 4 (-3)
+Damage Vulnerabilities fire
+Condition Immunities blinded, charmed, deafened, prone
+Senses Blindsight 60 ft. (blind beyond this radius), passive Perception 8
+Challenge 2 (450 XP)
+Constrict. Creatures grappled by the vines take 4 (1d8) kinetic damage at the start of every round.
+False Appearance. While the vines remains motionless, they are indistinguishable from normal vines.
+ACTIONS
+Vines. Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 22 (4d8 + 4) kinetic damage, and the target is Grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the vines can't constrict another target.
+##;
+
+Awakened Carnivorous Plant
+Small Plant, unaligned
+Armor Class 8
+Hit Points 24 (4d6 + 12)
+Speed 10 ft., climb 10 ft.
+STR DEX CON INT WIS CHA 12 (+1) 11 (+0) 16 (+3) 10 (+0) 10 (+0) 2 (-4)
+Damage Vulnerabilities fire
+Damage Resistances acid
+Condition Immunities blinded, charmed, deafened, prone
+Senses Blindsight 60 ft. (blind beyond this radius), passive Perception 10
+Challenge 1 (100 XP)
+Corrode Metal Any unenhanced weapon made of metal that hits the plant corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. The plant can eat through 2-inch-thick, unenhanced metal in 1 round.
+False Appearance While the plant remains motionless, it is indistinguishable from a normal plant.
+ACTIONS
+Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) kinetic damage plus 7 (2d6) acid damage.
+##;
+
+
+Auto-Turret
+Medium construct, unaligned
+Armor Class 14 (armor plating)
+Hit Points 19(3d8+6)
+Speed 0 ft.
+STR DEX CON INT WIS CHA 12 (+1) 2 (-4) 15 (+2) 14 (+2) 11 (+0) 4 (-3)
+Skills Perception +2
+Damage vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poison, disease
+Senses darkvision 60 ft., passive Perception 12
+Challenge 1/2 (100 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Targeting Systems. The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.
+ACTIONS
+Multiattack. The turret makes two repeating blaster attacks.
+Repeating Blaster. Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit 5 (1d6+2) energy damage.
+##;
+An autoturret is a blaster turret emplacement used to defend an area. Known for their killing power and effectiveness, they are employed by many factions throughout galactic history.
+Autoturrets were used widely during the Jedi Civil War, with the Sith Empire deploying them to restrict access to the Undercity of Taris and to defend their military bases. Often, they were installed at the entrances to hidden bases, onboard capital ships, or near personal valuables.
+In the later stages of the Clone Wars, portable autoturrets were used by both the Grand Army of the Republiic and the Separatist Droid Army for covering fire or to reinforce the defense of field command posts. These autoturrets became the standard equipment of clone and droid snipers, who were entrusted with their deployment.
+
+AT-TE
+Huge Construct, unaligned
+Armor Class 18 (armor plating)
+Hit Points 248 (16d20 + 80)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 25 (+7) 16 (+3) 21 (+5) 10 (+0) 10 (+0) 7 (-1)
+Saving Throws Str +12, Con +10
+Damage Resistances Psychic
+Damage Immunities Poison, Necrotic, Ion
+Condition Immunities Poisoned, Frightened, Petrified, Restrained, Incapacitated, Stunned, Prone, Blinded, Charmed, disease
+Senses -
+Languages -
+Challenge 18 (20,000 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Electromagnetic Shielding. The AT-TE is Immune to Ion damage.
+Heavy Durasteel Armor. The outer layer of the AT-TE is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the AT-TE takes no damage from that attack. If the AT-TE takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
+Towering. Creatures of Medium size or smaller can stand in the AT-TE's space.
+Troop Transport. The AT-TE can transport a maximum of 20 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-TE.
+Vulnerable Interior. The AT-TE's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.
+ACTIONS
+Multiattack. The AT-TE makes four attacks: one with its laser cannon volley and three with its medium repeaters.
+Laser Cannon Volley. The AT-TE chooses a point within 240 ft and lets loose a blast from its heavy laser cannon that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 33 (6d10) energy damage on a failed save, or half as much damage on a successful one.
+Medium Repeaters. Ranged Weapon Attack: +8 to hit, range 120/240 ft., one target. Hit: 19 (3d10+3) energy damage.
+LEGENDARY ACTIONS
+The AT-TE can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The AT-TE regains spent legendary actions at the start of their turn.
+Repeating Blasters. The AT-TE makes a single attack with its medium repeaters.
+Deploy Troops (Costs 2 Actions). The AT-TE mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers. These troops appear in any unoccupied spaces within 10 ft. of the AT-TE.
+##;
+The All Terrain Tactical Enforcer (AT-TE), is an all terrain assault walker developed for the Grand Army of the Republic during the Clone Wars. The walker is used for transporting platoons of troopers and attacking enemy installations. The AT-TE's cramped rear compartment contains computer hologram communication devices and space for troopers to stand during transportation. On the back end of the machine is a large door for quick deployment of troopers. Some versions of the walker were able to scale vertical cliffs. The typical arsenal includes a top-mounted mass-driver cannon, along with six other laser cannons placed strategically around the outside of the vehicle.
+
+AT-ST
+Huge construct, unaligned
+Armor Class 17 (armor plating)
+Hit Points 168 (16d12+64)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 23 (+6) 16 (+3) 19 (+4) 10 (+0) 14 (+2) 7 (-2)
+Saving Throws Str +10, Con +8
+Damage Vulnerabilities ion
+Damage Resistances psychic
+Damage Immunities poison, necrotic
+Condition Immunities poisoned, disease, frightened, petrified, restrained, incapacitated, stunned, prone, blinded, charmed
+Senses —
+Languages —
+Challenge 11 (7,200 XP)
+Towering. Creatures of Medium size or smaller can stand in the AT-ST's space.
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Vulnerable Interior. The AT-ST's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.
+ACTIONS
+Multiattack. The AT-ST can use its Frightful Presence. It then makes two attacks with its repeating blasters or takes the Stomp action.
+Stomp. All creatures standing within the AT-ST's space or within 5 feet of it must make a DC 18 Dexterity saving throw, taking 39 (6d12) kinetic damage on a failed save, or half as much damage on a successful one.
+Repeating Blaster Cannon. Ranged Weapon Attack: +7 to hit, range 120/240 ft., one target. Hit: 25 (4d10 + 3) energy damage.
+rightful Presence. Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.
+##;
+The All Terrain Scout Transport (or AT-ST), also known as the chicken walker for its two-legged design, is a bipedal walker used by the Galactic Republic during the late Clone Wars and, later and more extensively, by the Galactic Empire during the Galactic Civil War.
+AT-STs are commonly used to screen the flanks of larger assault walkers for major ground operations. The Empire used them for swift reconnaissance and troop support. As such, they are essential for cleaning up minor resistance along the path of a planned invasion route, and can quickly eliminate small threats that evade an AT-AT's barrage. The walker is commonly used on anti-personnel hunting missions, and is piloted by two AT-ST drivers.
+Despite its speed and agility, an AT-ST walker's offensive and defensive power are significantly compromised. Offensively, its weapons systems are only good against lightly armored targets at close range. Defensively, its lighter armor can repel attacks from small-arms fire, but not laser cannons, missiles, or other heavy ordnance. Its armor does not cover its entire frame, lest the walker lose its agility. Striking the walker's unprotected gyros underneath the command module can destabilize the walker and cause it to fall. Additionally, deep trenches or cable lines leveled at the height of the AT-ST's ankles and knees can cause it to trip and topple the vehicle.
+The modular design of the AT-ST allows for ease in customizing the walker with armaments and tools for specific mission parameters such as mortar launchers attached to the command pod.
+
+AT-RT
+Large construct, unaligned
+Armor Class 15 (armor plating)
+Hit Points 58 (9d10+9)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 15 (+2) 16 (+3) 12 (+1) 10 (+0) 10 (+0) 7 (-1)
+Saving Throws Dex +5
+Damage vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poison, disease
+Senses —
+Languages —
+Challenge 4 (1,100 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
+ACTIONS Multiattack. The construct makes two attacks with its repeating blaster cannon or uses its mortar launcher.
+Repeating Blaster Cannon. Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 10 (2d6+3) energy damage.
+Mortar Launcher. The construct launches a mortar at a point it can see within 100 feet. Each creature in a 20- foot radius centered on that point must make a Dexterity saving throw. A target takes 14 (4d6) damage on a failed save, or half as much on a succesful one.
+REACTIONS
+Redirect. If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.
+##;
+The All Terrain Recon Transport (AT-RT), is a one-man bipedal walker used for reconnaissance and patrolling made by Kuat Drive Yards as part of their All Terrain series. It is equipped with a single seat for a pilot, as well as a repeating blaster cannon and mortar launcher, and is 3.2 meters tall and 2.9 meters long,.
+Also known as the Republic scout walker, the AT-RT was used mainly during the Clone Wars by Advanced Recon Force troopers. It was the precursor to both the All Terrain Defense Pod and the All Terrain Scout Transport. During the Galactic Civil War, these walkers were adopted by both the Galactic Empire, who used Scout troopers to man the vehicles, and the Alliance to Restore the Republic, who upgraded them to compete with the advancements of the Empire.
+The AT-RT's were usually used for a variety of missions including ground support, police support, civil defense, and post-battle cleanup efforts. They occasionally took up position on the front lines of ground battles when difficult terrain prevented the use of larger vehicles.
+
+AT-AT
+Huge Construct, unaligned
+Armor Class 20 (armor plating)
+Hit Points 330 (20d20 + 120)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 27 (+8) 14 (+2) 23 (+6) 10 (+0) 10 (+0) 7 (-1)
+Saving Throws Str +14, Con +12
+Damage Vulnerabilities Ion
+Damage Resistances Psychic
+Damage Immunities Poison, Necrotic
+Condition Immunities Poisoned, Frightened, Petrified, Restrained, Incapacitated, Stunned, Prone, Blinded, Charmed, Disease
+Senses -
+Languages -
+Challenge 19 (22,000 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Heavy Durasteel Armor. The outer layer of the AT-AT is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 30 points, the AT-AT takes no damage from that attack. If the AT-AT takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.
+Towering. Creatures of Large size or smaller can stand in the AT-AT's space.
+Troop Transport. The AT-AT can transport a maximum of 40 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-AT.
+Vulnerable Interior. The AT-AT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.
+ACTIONS
+Multiattack. The AT-AT can use its Frightful Presence. It then makes three attacks: one with its laser cannon volley and two with its medium repeaters.
+Laser Cannon Volley. The AT-AT chooses a point within 320 ft and lets loose a blast from each of its heavy laser cannons that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 54 (12d8) energy damage on a failed save, or half as much damage on a successful one.
+Medium Repeaters. Ranged Weapon Attack: +8 to hit, range 240/360 ft., one target. Hit: 22 (4d10) energy damage.
+Stomp. All creatures standing within the AT-AT's space or within 5ft of it must make a DC 20 Dexterity saving throw, taking 78 (12d12) kinetic damage on a failed save, or half as much damage on a successful one.
+Frightful Presence. Each creature of the AT-AT's choice within 240 feet of the AT-AT and aware of it must succeed on a DC 16 Wisdom saving throw or become Frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-AT's Frightful Presence for 24 hours.
+LEGENDARY ACTIONS
+The AT-AT can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The AT-AT regains spent legendary actions at the start of their turn.
+Stomp. The AT-AT makes a stomp attack.
+Repeating Blasters. The AT-AT makes a single attack with its medium repeaters.
+Deploy Troops (Costs 2 Actions). The AT-AT mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers and 1 74-Z speeder bike. These troops appear in any unoccupied spaces within 10 ft. of the AT-AT.
+##;
+The All Terrain Armored Transport is an imposing, heavily armored, quadrupedal combat walker that stands 22.5 meters tall and can move at 60 kph. In addition to it's armaments, it also served as transport for combat personnel. The vehicle's cockpit and sensor array are located in the "head" of the walker, which also carries spotlights and the main armaments: dual Piperii-Cerlurn R-90C medium blasters located on the sides or "temples," and a pair of heavier Taim & Bak MS-1 heavy blaster cannons fitted on the "chin." The main body houses a troop compartment capable of ferrying numerous soldiers, along with a vehicle bay at the walker's rear that holds five 74-Z speeder bikes. The main, troop hatch is located in the middle of the walker's side, two smaller escape hatches are located both to the main hatch's immediate left and right, and the auxiliary hatch is located in the walker's underside.
+
+Assassin
+Medium humanoid (any), any alignment
+Armor Class 15 (heavy combat suit)
+Hit Points 78 (12d8+24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 14 (+2) 13 (+1) 11 (+0) 10 (+0)
+Saving Throws Dex +7, Int +5
+Skills Acrobatics +7, Deception +4, Perception +4, Stealth +11
+Damage Resistances Poison
+Senses passive Perception 14
+Languages Galactic Basic and one other
+Challenge 8 (3,900 XP)
+Assassinate. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
+Evasion. If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Sneak Attack (1/Turn). The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the roll.
+ACTIONS
+Multiattack. The assassin makes two weapon attacks.
+Hidden blade. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 3) kinetic damage.
+Hold-out. Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 5 (1d4 + 3) energy damage.
+##;
+
 Aryx
 Large beast, unaligned
 Armor Class 12

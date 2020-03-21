@@ -1,17 +1,6 @@
 NPC-Name CR Page
 
-Aryx 0.25 168
-Assassin 8 188
-AT-AT 19 63
-AT-RT 4 64
-AT-ST 11 65
-AT-TE 18 66
-Auto-Turret 0.5 152
-Avatar of Abeloth 21 8
-Awakened Carnivorous Plant 1 19
-Awakened Shrub 0 18
-Awakened Tree 2 18
-Awakened Vines 2 19
+
 B'omarr Brain Walker 3 30
 B'omarr Monk Initiate 0.125 30
 B1 Battle Droid 0.125 21
