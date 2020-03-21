@@ -1,3 +1,162 @@
+Aryx
+Large beast, unaligned
+Armor Class 12
+Hit Points 19 (3d10 + 3)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 14 (+2) 15 (+2) 12 (+1) 2 (-4) 10 (0) 5 (-3)
+Senses passive Perception 10
+Challenge 1/4 (50 XP)
+ACTIONS
+Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage.
+Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) kinetic damage.
+##;
+
+Aqualish Enforcer
+Medium humanoid (aqualish), chaotic dark
+Armor Class 16 (durasteel armor)
+Hit Points 93 (11d8+44)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 18 (+4) 12 (+1) 18 (+4) 11 (+0) 11 (+0) 16 (+3)
+Saving Throws Str +6, Con +6, Wis +2
+Skills Intimidation +5
+Senses darkvision 60 ft., passive Perception 10
+Languages Galactic Basic, Aqualish and one other
+Challenge 4 (1,100 XP)
+Aggressive. As a bonus action, the aqualish can move up to its speed toward a hostile creature that it can see.
+Fury. The aqualish deals an extra 4 (ld8) damage when it hits with a melee weapon attack (included in the attack).
+ACTIONS
+Multiattack. The aqualish makes two weapon attacks.
+Vibroaxe. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (1d12 + 4 + 1d8) kinetic damage.
+Slugthrower. Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 6 (2d4 + 1) kinetic damage.
+Burst. The aqualish sprays a 10-foot-cube area within normal range of its slugthrower with shots. Each creature in the area must make a DC 11 Dexterity saving throw, taking normal weapon damage on a failed save.
+Battle Cry (1/Day). Each creature of the aqualish's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the aqualish's next turn. The aqualish can then make one attack as a bonus action.
+##;
+
+Apprentice
+Medium humanoid (any), any dark
+Armor Class 13 (combat suit)
+Hit Points 33 (6d8+6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 14 (+2) 12 (+1) 10 (+0) 13 (+1) 14 (+2)
+Skills Deception +4, Persuasion +4, Lore +2
+Senses passive Perception 11
+Languages Galactic Basic and one other
+Challenge 2 (450 XP)
+Devotion. The apprentice has advantage on saving throws against being charmed or frightened.
+Spellcasting. The apprentice is a 4th-level spellcaster. Its spellcaster ability is Wisdom (spell save DC 11, +3 to hit with spell attacks) and it has 14 force points. The apprentice knows the following force powers: \rCantrips (at will): denounce, lightning charge, saber reflect, saber ward\r1st level (14 slots): curse, sap vitality\r2nd level (14 slots): drain vitality, force camouflage
+ACTIONS
+Multiattack. The apprentice makes two melee weapon attacks.
+Doublesaber. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) energy damage.
+##;
+
+IG-86 Assassin Droid
+Medium droid, unaligned
+Armor Class 16 (armor plating)
+Hit Points 58 (9d8+18)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 17 (+3) 15 (+2) 14 (+2) 13 (+1) 7 (-1)
+Skills Perception +3, Stealth +5, Survival +3
+Damage vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poison, disease
+Senses darkvision 60 ft., passive Perception 13
+Languages Binary, Galactic Basic
+Challenge 3 (700 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Sneak Attack (1/Turn). The assassin droid deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin droid that isn't incapacitated and the assassin doesn't have disadvantage on the roll.
+ACTIONS
+Sniper Rifle. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 9 (1d12 + 3) energy damage.
+Stock Strike. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.
+##;
+The IG series is a series of droids manufactured by Holowan Laboratories. They are often used as both bodyguards and assassins.
+
+IG-88 Assassin Droid
+Medium droid, unaligned
+Armor Class 17 (armor plating)
+Hit Points 112 (15d8+45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 19 (+4) 16 (+3) 14 (+2) 15 (+2) 7 (-1)
+Saving Throws Dex +9, Int +7, Wis +7
+Skills Insight +7, Perception +7, Stealth +9, Survival +7
+Damage vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poison, disease
+Senses darkvision 60 ft., passive Perception 17
+Languages Binary, Galactic Basic
+Challenge 10 (5,900 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Legendary Resistance (3/Day). If IG-88 fails a saving throw, it can choose to succeed instead.
+Sneak Attack (1/Turn). IG-88 deals an extra 28 (8d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of IG-88 that isn't incapacitated and IG- 88 doesn't have disadvantage on the roll.
+ACTIONS
+Multiattack. IG-88 makes three weapon attacks.
+Sniper Rifle. Ranged Weapon Attack: +9 to hit, range 150/600 ft., one target. Hit: 10 (1d12+4) energy damage.
+Stock Strike. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
+LEGENDARY ACTIONS
+IG-88 can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The assassin droid regains spent legendary actions at the start of its turn.
+Attack. IG-88 makes one weapon attack.
+Detect. IG-88 makes a Wisdom (Perception) check.
+##;
+The IG series is a series of droids manufactured by Holowan Laboratories. They are often used as both bodyguards and assassins.
+
+
+HK-47 Assassin Droid
+Medium droid, unaligned
+Armor Class 18 (armor plating)
+Hit Points 75 (10d8+30)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 14 (+2) 20 (+5) 17 (+3) 15 (+2) 16 (+3) 15 (+2)
+Skills Athletics +6, Acrobatics +9, Insight +7, Perception +7, Survival +7
+Damage vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poison, disease
+Senses darkvision 60 ft., passive Perception 17
+Languages Binary, Galactic Basic
+Challenge 8 (3,900 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Droid Synergy. Once per turn, the assassin droid can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the assassin droid that isn't incapacitated.
+Legendary Resistance (3/Day). If the assassin droid fails a saving throw, it can choose to succeed instead.
+ACTIONS
+Multiattack. The assassin droid makes three weapon attacks.
+Blaster Rifle. Ranged Weapon Attack: +9 to hit, range 100/400 ft., one target. Hit: 9 (1d8+5) energy damage.
+Stock Strike. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
+REACTIONS
+Reactive Shield (1/day). Until the start of its next turn, the assassin droid has a +5 bonus to AC. This includes the triggering attack.
+LEGENDARY ACTIONS
+The HK-47 Assassin Droid can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The assassin droid regains spent legendary actions at the start of its turn.
+Attack. The assassin droid makes one weapon attack.
+Detect. The assassin droid makes a Wisdom (Perception) check.
+Rocket Boost. The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.
+##;
+The HK series assassin droid, also known as the HK series protocol droid, is a combination of an assassin droid and protocol droid. The series designation stands for "Hunter Killer," befitting their primary functions as assassins. They are manufactured by Czerka Corporation. Their ability to perform the functions of a protocol droid became a major reason for their unmatched lethality, as they could and would often act as normal (if quite sinister looking) protocol droids, thus concealing their true function and allowing them to get closer to intended targets. HK series assassin droids are equipped with an integrated emergency shield and jet pack.
+
+BT-1 Assassin Droid
+Small droid, unaligned
+Armor Class 17 (armor plating)
+Hit Points 90 (12d8+36)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 8 (-1) 15 (+2) 17 (+3) 18 (+4) 13 (+1) 8 (-1)
+Skills Stealth +6, Perception +5, Survival +5, Intimidation +3
+Damage vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poison, disease
+Senses darkvision 60 ft., passive Perception 15
+Languages Binary, Galactic Basic
+Challenge 9 (5,000 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Legendary Resistance (3/Day). If the assassin droid fails a saving throw, it can choose to succeed instead.
+ACTIONS
+Multiattack. The assassin droid makes three Blaster Cannon attacks.
+Blaster Cannon. Each creature in a 10 foot cube centered on a point the droid can see within 100 ft. must make a DC 16 Dexterity saving throw. A creature takes 9 (1d10+4) energy damage on a failed save.
+Flamethrower (2/day). Each creature in a 30-foot cone must make a DC 16 Dexterity saving throw. A creature takes 36 (8d8) fire damage on a failed save, or half as much on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
+Rocket Barrage (2/Day). Each creature in a 20-foot-radius sphere centered on a point that you can see within 150 feet must make a DC 16 Dexterity saving throw. A target takes 14 (4d6) kinetic damage and 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+LEGENDARY ACTIONS
+The BT-1 Assassin Droid can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The assassin droid regains spent legendary actions at the start of its turn.
+Attack. The assassin droid makes one Blaster Cannon attack.
+Detect. The assassin droid makes a Wisdom (Perception) check.
+Rocket Boost. The assassin droid leaps up to 40 feet in any direction. This movement does not provoke opportunity attacks.
+##;
+A homicidal assassin droid created by the Galactic Empire's Tarkin Initiative, the BT-1 model is designed to look like an astromech droid in order to fool others. The droid is armed with a variety of weapons including several blaster cannons, flamethrowers, and rockets. The BT-1 model is also equipped with rocket boosters.
+
 Aiwha
 Huge beast, unaligned
 Armor Class 12
