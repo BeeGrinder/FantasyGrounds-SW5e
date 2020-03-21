@@ -4,7 +4,7 @@
 
 SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works within the 5e ruleset.
 
-[SW5e Website](http://star-wars-5e.azurewebsites.net/)
+[SW5e Website](https://sw5e.com/)
 
 [SW5e Subreddit](https://www.reddit.com/r/sw5e/)
 
