@@ -65,7 +65,7 @@ The *__supplement-mod__* directory contains all Force and Tech Powers (spells) a
 The *__ext-src__* dirctory is for the extension sources.
 
 #### Goals for next release
-* Initial Release (V1.1)
+* Next Release (V1.1 mid-2020?)
    * Updates to "final" core manual changes (as of Jan. 2020).
    * Marking additional races already done as "Expanded Content".  No other expanded content will be included.
    * Remake NPC list from the Scum and Villainy book.  Attempt to integrate with main PHB module.
