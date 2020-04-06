@@ -64,11 +64,12 @@ The *__supplement-mod__* directory contains all Force and Tech Powers (spells) a
 
 The *__ext-src__* dirctory is for the extension sources.
 
-#### Release Goals
-* Initial Release (V1.0)
-   * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
-   * If the data is readily available and easily parsed, some expanded content *__may__* be included.
-   * Powers will still be called spells in the FG interface.
+#### Goals for next release
+* Initial Release (V1.1)
+   * Updates to "final" core manual changes (as of Jan. 2020).
+   * Marking additional races already done as "Expanded Content".  No other expanded content will be included.
+   * Remake NPC list from the Scum and Villainy book.  Attempt to integrate with main PHB module.
+   * Powers will still be called spells in the FG interface.  This may be permanent as long as it is based on the core 5e ruleset.
 
 ---
 
