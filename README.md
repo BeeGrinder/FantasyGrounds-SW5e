@@ -64,21 +64,22 @@ The *__supplement-mod__* directory contains all Force and Tech Powers (spells) a
 
 The *__ext-src__* dirctory is for the extension sources.
 
-#### Release Goals
-* Initial Release (V1.0)
-   * Playable Races, Classes, Backgrounds, Feats, Equipment, Spells, NPCs from the sw5e PDF *__core__* documents.
-   * If the data is readily available and easily parsed, some expanded content *__may__* be included.
-   * Powers will still be called spells in the FG interface.
+#### Goals for next release
+* Next Release (V1.1 mid-2020?)
+   * Updates to "final" core manual changes (as of Jan. 2020).
+   * Marking additional races already done as "Expanded Content".  No other expanded content will be included.
+   * Remake NPC list from the Scum and Villainy book.  Attempt to integrate with main PHB module.
+   * Powers will still be called spells in the FG interface.  This may be permanent as long as it is based on the core 5e ruleset.
 
 ---
 
-__EDITORIAL__
+__Project News__
 
-In my opinion Fantasy Grounds (FG) is one of the best TTRPG platforms available.  The ability to customize and modify the game rules and contents is unsurpassed.  The skeuomorphic interface receives a lot of criticism, but this issue just takes a little extra time to become familiar with the UI paradigm.  I have not seen another system with an equivalent level of gameplay automation.  The FG automation makes the GMs job much easier. 
+Apr. 6, 2020 Update
 
-Customizing FG is complex but powerful.  By learning how the rule system (Lua language scripts) and the data storage (XML files) are arranged, you can implement just about anything in this interface.  With the release of the Unity version, the future of this game system is significantly improved.  Especially if/when sound and animation are added. 
+Progress is slow on the NPC update.  Over 200 NPCs require coding into the PAR5e utilities special format.  And, the PAR5e utility is about as finicky as it gets.  Some of the more complex NPCs can take hours to work correctly and not destroy the other NPC's output into the module.  I may do a partial release with non-force users.
 
-The SW5e ruleset should probably have its dependency on the FG 5e ruleset removed and converted to use the FG ruleset called “Core RPG”.  The Core RPG ruleset should be used as the base for SW5e because SW5e has deviated a lot from its 5e roots.  By moving to the Core RPG base, things like the space combat system and other features that are not well translated into the 5e ruleset could be implemented without having to figure out how to reengineer it through the true 5e ruleset. 
+The current world health crisis and lock-down has actually given me less time for this project.  My real-world programming job has gotten more demanding as the situation continues.  So, progress is not as fast as I would like.
 
 ---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
