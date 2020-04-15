@@ -23,7 +23,7 @@ See the FG Forum post for news about current projects and module changes underwa
 
 ---
 
-__Fantasy Grounds Unity(FGU)__ : Please note this is not tested in FGU.  Use at your own risk.
+__Fantasy Grounds Unity(FGU)__ : Please note this is not tested in FGU.  Use at your own risk.  Some recent updates should help with compatibility issues.
 
 ---
 
@@ -74,6 +74,10 @@ The *__ext-src__* dirctory is for the extension sources.
 ---
 
 __Project News__
+
+Apr. 15, 2020 Update
+
+Several updates were done to the Player Book module and the SW5e extension available here.  Module now has NPCs from the Scum and Villiany book.  The extension has had some FGU compatibility issues fixed, but it is still not fully tested in FGU.
 
 Apr. 6, 2020 Update
 
