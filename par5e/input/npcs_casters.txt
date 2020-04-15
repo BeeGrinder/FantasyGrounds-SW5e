@@ -1,0 +1,373 @@
+Acolyte
+Medium humanoid (any), any alignment
+Armor Class 11 (unarmored)
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 10 (+0) 10 (+0) 14 (+2) 11 (+0)
+Skills Lore +2
+Senses passive Perception 12
+Languages
+Challenge 1/4 (50 XP)
+Spellcasting. The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has 6 force points. The acolyte has the following  spells prepared:\rCantrips (At will): denounce, force push/pull, saber reflect, saber ward\r1st level (6 slots): cloud mind, slow\r2nd level (14 slots): drain vitality, force camouflage
+ACTIONS
+Shotosaber. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) energy damage.
+##;
+
+Starweird
+Medium aberration, chaotic neutral
+Armor Class 15 (natural armor)
+Hit Points 66 (12d8 + 12)
+Speed 0 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA 7 (-2) 14 (+2) 12 (+1) 13 (+1) 16 (+3) 17 (+3)
+Saving Throws Wis +7, Cha +7
+Damage Resistance acid, fire, lightning, sonic, energy, ion, and kinetic from unenhanced weapons.
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 11
+Languages --
+Challenge 4 (1,100 XP)
+Space-borne. The starweird can survive in the vacuum of space.
+Devil's Sight. Force and tech created darkness does not impede the starweird's darkvision.
+Force Resistance. The starweird has advantage on saving throws against force powers.
+Phase Shift. The starweird can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) kinetic damage if it ends its turn inside an object.
+Spellcasting. The starweird is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). The starweird has 31 force points. The starweird has the following  spells prepared:\rCantrips (At will): denounce, force push/pull, shock\r1st level (31 slots): curse, sap vitality, sense force\r2nd level (31 slots): drain vitality, force sight\r3rd level (31 slots): choke, force lightning\r4th level (31 slots): drain life
+ACTIONS
+Multiattack. The starweird can make two claw attacks.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage and 3 (1d6) necrotic damage.
+Telepathic Scream (1/Day). The starweird releases a terrifying scream. Each creature of the starweird's choice that is within 30 ft. of the starweird and aware of it must succeed on a DC 15 Wisdom saving throw. On a failure, a creature takes 21 (6d6) psychic damage plus 21 (6d6) necrotic damage and is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself. On a success, a creature takes half damage and is not frightened.
+##;
+
+Apprentice
+Medium humanoid (any), any dark
+Armor Class 13 (combat suit)
+Hit Points 33 (6d8+6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 14 (+2) 12 (+1) 10 (+0) 13 (+1) 14 (+2)
+Skills Deception +4, Persuasion +4, Lore +2
+Senses passive Perception 11
+Languages Galactic Basic and one other
+Challenge 2 (450 XP)
+Devotion. The apprentice has advantage on saving throws against being charmed or frightened.
+Spellcasting. The apprentice is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The apprentice has 14 force points. The apprentice has the following  spells prepared:\rCantrips (At will): denounce, lightning charge, saber reflect, saber ward\r1st level (14 slots): curse, sap vitality\r2nd level (14 slots): drain vitality, force camouflage
+ACTIONS
+Multiattack. The apprentice makes two melee weapon attacks.
+Doublesaber. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) energy damage.
+##;
+
+Avatar Of Abeloth
+Medium undead, neautral dark side
+Armor Class 17 (force shield)
+Hit Points 153 (18d6 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 20 (+5) 16 (+3) 14 (+2) 20 (+5)
+Saving Throws Con +12, Wis +9, Cha +12
+Skills Lore +10, Deception +19, Insight +9, Perception +9, Persuasion +12
+Damage Resistances cold, lightning, necrotic
+Damage Immunities poison, kinetic, ion, and energy from unenhanced weapons
+Condition Immunities charmed, exhaustion, frightened, paralyzed, poisoned
+Senses truesight 120 ft., passive Perception 19
+Languages All, telepathy 120 ft.
+Challenge 21 (33000 XP)
+Legendary Resistance (3/Day). If Abeloth fails a saving throw, she can choose to succeed instead.
+Force Resistance. Abeloth has advantage on saving throws against Force Powers.
+Font Of Power. When Abeloth rolls damage for a power, she can spend 1 additional force point to reroll a number of the damage dice up to her Charisma modifier (5). She must use the new rolls.
+Pool Of Knowledge. When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.
+To Hit, Reach 5 Ft. one creature. Hit: 10 (2d6 + 3) energy damage.
+Teleport. Abeloth teleports up to 120 feet into an unoccupied space she can see.
+Spellcasting. The avatar of abeloth is a 18-level spellcaster. Its spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). Abeloth has 77 Force Points. The avatar of abeloth has the following  spells prepared:\rCantrips (At will): Burst, Feedback, Force Push/Pull, Give Life, Saber Reflect, Shock\r1st level (77 slots): Cloud Mind, Force Mask, Force Throw, Project\r2nd level (77 slots): Coerce Mind, Hallucination\r3rd level (77 slots): Force Lightning, Force Repulse, Knight Speed, Telekinetic Storm\r4th level (77 slots): Drain Life, Mind Trap\r5th level (77 slots): Dominate Mind, Greater Feedback, Siphon Life\r6th level (77 slots): Mass Coerce Mind, Telekinetic Burst\r7th level (77 slots): Force Project, Whirlwind\r8th level (77 slots): Death Field, Earthquake, Telekinetic Wave\r9th level (77 slots): Master Feedback
+ACTIONS
+Shotosaber. Melee Weapon Attack: +10 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) energy damage.
+Teleport. The avatar of abeloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+LEGENDARY ACTIONS
+Options. Abeloth can take 3 Legendary Actions, choosing from the options below. One legendary action can be used at a time, and only at the end of another's turn. Spent legendary Actions are regained at the start of each turn.
+At Will Power. Abeloth casts an at will power.
+Attack. Abeloth attacks once with Shotosaber.
+Teleport. Abeloth uses her teleport action.
+##;
+
+B-Omarr Brain Walker
+Medium construct, any Dark
+Armor Class 14 (armor plating)
+Hit Points 54 (8d8+16)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 1 (-5) 11 (+0) 15 (+2) 16 (+3) 12 (+1) 16 (+3)
+Saving Throws Int +6, Wis +4, Cha +6
+Skills Lore +6, Deception +6, Perception +4, Persuasion +6
+Damage Vulnerabilities ion
+Damage Resistances psychic
+Condition Immunities charmed, frightened, paralyzed
+Senses blindsight 60 ft., passive Perception 11
+Languages Galactic Basic, Huttese
+Challenge 3 (700 XP)
+Circuitry. The B-Omarr Brain Walker has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Innate Spellcasting. The b-omarr brain walker's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:\rAt will: affect mind, force push/pull\r1/day each: greater feedback, mind trap
+ACTIONS
+Multiattack. The B-Omarr Brain Walker makes Two MindThrust attacks.
+Mind Thrust. One creature within 60 feet of the B-Omarr Brain Walker must make a DC 13 Wisdom saving throw, taking 13 (4d6) psychic damage on a failed save, or half as much on a successful one.
+##;
+
+Dark Aspirant
+Medium humanoid (any), any dark
+Armor Class 12 (15 with battle precognition)
+Hit Points 44 (8d6 + 16)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 12 (+1) 14 (+2) 10 (+0) 10 (+0) 18 (+4)
+Saving Throws Wis +3, Cha +7
+Skills Lore +3, Insight +3
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 6 (2,300 XP)
+Devotion. The dark aspirant has advantage on saving throws against being charmed or frightened.
+Force Shield. 3/day: When the dark aspirant is hit by an attack, it can use its reaction to shroud itself in Force energy. Until the start of its next turn, it has a +4 bonus to AC.
+Spellcasting. The dark aspirant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +4 to hit with spell attacks). The dark aspirant has 24 force points. The dark aspirant has the following  spells prepared:\rCantrips (At will): denounce, lightning charge, saber reflect, saber ward, shock\r1st level (24 slots): battle meditation, curse, sap vitality, hex, improved feedback\r2nd level (24 slots): drain vitality, force camouflage\r3rd level (24 slots): force lightning, choke, horror
+ACTIONS
+Lightfoil. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d8+1) energy damage.
+##;
+
+Dark Lord Spirit
+Medium undead, neautral dark side
+Armor Class 20 (natural armor)
+Hit Points 313 (33d8 + 165)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 22 (+6) 15 (+2) 21 (+5) 23 (+6) 21 (+5) 26 (+8)
+Saving Throws Dex +9, Con +12, Wis +12
+Skills Deception +15, Insight +12, Perception +12, Persuasion +15
+Damage Resistances cold, fire, lightning
+Damage Immunities poison, kinetic, ion and energy from unenhanced weapons
+Condition Immunities charmed, exhaustion, frightened, poisoned
+Senses truesight 120 ft., passive Perception 22
+Languages All, telepathy 120 ft.
+Challenge 24 (62,000 XP)
+Legendary Resistance (3/Day). If the spirit fails a saving throw, it can choose to succeed instead.
+Tech Resistance. The spirit has advantage on saving throws against tech powers.
+Innate Spellcasting. The dark lord spirit's innate spellcasting ability is Charisma (spell save DC 23). It can innately cast the following spells, requiring no material components:\rAt will: coerce mind, fear, improved feedback, sense force, sever force\r3/day each: darkness, dominate mind, force project, force suppression, sanctuary, telekinesis\r1/day each: dominate monster, improved force camouflage, mass animation
+ACTIONS
+Multiattack. The spirirt attacks twice with Force Saber.
+Force Saber. Melee Power Attack. +13 to hit, reach 5 ft., one target. Hit: 20 (4d6+6) energy damage plus 10 (3d6) psychic damage.
+Teleport. The spirit teleports up to 120 feet into an unoccupied space it can see.
+LEGENDARY ACTIONS
+Options. The spirit can take 3 legendary actions per round from the options below. Only one option can be used at a time and only at the end of another creature's turn.
+Attack. The spirit attacks once with Force Saber.
+Dark Lightning. Ranged Power Attack. +13 to hit, range 60 ft., one target. Hit: 14 (4d6) necrotic damage. The target must succeed on a DC 23 Strength saving throw or become shocked until the end of their next turn.
+Sow Discord. The spirit casts coerce mind or fear.
+Teleport. The spirit uses its teleport action.
+##;
+
+Dark Lord
+Medium humanoid (any), any dark
+Armor Class 12 (15 with battle precognition)
+Hit Points 99 (18d8+18)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 14 (+2) 12 (+1) 15 (+2) 20 (+5) 16 (+3)
+Saving Throws Int +6, Wis +9, Cha +7
+Skills Lore +6, Insight +13
+Damage Resistances damage from force powers
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 12 (8,400 XP)
+Force Resistance. The dark lord has advantage on saving throws against force powers.
+Spellcasting. The dark lord is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The dark lord has 77 force points. The dark lord has the following  spells prepared:\rCantrips (At will): affect mind, denounce, force push/pull, mind trick, saber reflect, saber ward, shock\r1st level (77 slots): battle precognition, force body, hex\r2nd level (77 slots): battle meditation, darkness, phasewalk\r3rd level (77 slots): force lightning, force suppression, sever force\r4th level (77 slots): dominate beast, force immunity, shocking shield\r5th level (77 slots): mproved battle meditation, improved phasewalk, telekinesis\r6th level (77 slots): force chain lightning, improved force immunity\r7th level (77 slots): force lightning cone\r8th level (77 slots): master force immunity\r9th level (77 slots): force storm
+ACTIONS
+Lightfoil. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) energy damage.
+##;
+
+Flesh Raider Apprentice
+Medium aberration, unaligned
+Armor Class 13
+Hit Points 30 (4d10 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 10 (+0) 14 (+2) 10 (+0) 10 (+0) 12 (+1)
+Saving Throws Str +4, Cha +3
+Skills Athletics +4
+Senses passive Perception 10
+Languages Rakata, Galactic Basic
+Challenge 2 (450 XP)
+Spellcasting. The flesh raider apprentice is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +3 to hit with spell attacks). The Flesh Raider Apprentice has 13 force points. The flesh raider apprentice has the following  spells prepared:\rCantrips (At will): denounce, lightning charge, saber reflect, saber ward\r1st level (13 slots): curse, sap vitality\r2nd level (13 slots): drain vitality, force camouflage
+ACTIONS
+Multiattack. The Flesh Raider Apprentice makes 2 Lightsaber Strikes.
+Lightsaber Strike. Melee Weapon Attack: +4 to hit, reach 5 ft., Hit: 5 (1d8 + 1) kinetic damage.
+Feasting Bite (1/day). Melee Weapon Attack: +3 to hit, reach 5 ft., Hit: 3 (1d4 + 1) kinetic damage and the flesh raider apprentice takes a chunk of flesh out of its target, swallowing it whole and gaining temporary hit points equal to its constitution modifier.
+##;
+
+Jubba Bird
+Tiny beast, neutral
+Armor Class 12
+Hit Points 5 (2d4)
+Speed 10 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 5 (-3) 16 (+3) 10 (+0) 7 (-2) 14 (+2) 7 (-2)
+Skills Insight +6, Perception +4
+Senses passive Perception 14
+Languages Understands Galactic Basic but can't speak, telepathy 60 ft.
+Challenge 1/4 (50 XP)
+Advanced Telepathy. The jubba bird can perceive the content of any telepathic communication used within 60 feet of it, and it can't be surprised by creatures with any form of telepathy.
+Force Sensitive. The jubba bird has innate forcecasting ability.
+Innate Spellcasting. The jubba bird's innate spellcasting ability is  (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells:\rAt will: sense emotions
+ACTIONS
+Talons. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) kinetic damage.
+##;
+
+Juggernaut
+Medium humanoid (any), any dark
+Armor Class 21 (heavy durasteel armor, heavy shield)
+Hit Points 180 (19d8+95)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 11 (+0) 20 (+5) 12 (+1) 19 (+4) 18 (+4)
+Saving Throws Str +11, Dex +6, Wis +10, Cha +10
+Skills Athletics +11
+Damage Resistances necrotic
+Condition Immunities exhaustion, frightened
+Senses passive Perception 13
+Languages Galactic Basic and one other
+Challenge 17 (18,000 XP)
+Force Resistance. The juggernaut has advantage on saving throws against force powers.
+Scornful Rebuke. When a creature hits the juggernaut with an attack, it takes 4 psychic damage as long as the juggernaut is not incapacitated.
+Spellcasting. The juggernaut is a 19-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The juggernaut has 42 force points. The juggernaut has the following  spells prepared:\rCantrips (At will): affect mind, denounce, feedback, overcharge saber, saber ward\r1st level (42 slots): force jump, improved feedback, sap vitality, wound\r2nd level (42 slots): darkness, drain vitality, force sight\r3rd level (42 slots): force scream, sever force\r4th level (42 slots): dominate beast, force immunity, shroud of darkness\r5th level (42 slots): greater feedback, improved force scream, steel wind strike
+ACTIONS
+Multiattack. The juggernaut makes three attacks.
+Lightsaber. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) energy damage.
+Conquering Presence (1/Day). Each creature within 30 feet of the juggernaut must make a DC 18 Wisdom saving throw. On a failed save, a creature becomes frightened of the juggernaut for 1 minute, and has its speed reduced to 0. At the end of each of its turns, a frightened creature takes 4 psychic damage and repeats this save, ending the effect on a success.
+##;
+
+Maalraas
+Medium beast, neutral
+Armor Class 13 (natural armor)
+Hit Points 33 (6d8 + 6)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 14 (+2) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+Saving Throws Dex +4
+Skills Stealth +6
+Damage Resistances fire
+Senses darkvision 60 ft., passive Perception 11
+Languages
+Challenge 2 (450 XP)
+Keen Hearing And Smell. The maalraas has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Force Sensitive. The maalraas has innate forcecasting ability.
+Innate Spellcasting. The maalraas's innate spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\rAt will: force camouflage
+ACTIONS
+Mutliattack. The maalraas can make a bite attack and a claw attack.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.
+##;
+
+Manifestation Of Abeloth
+Medium undead, neautral dark side
+Armor Class 22
+Hit Points 406 (28d12 + 224)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 29 (+9) 21 (+5) 26 (+8) 20 (+5) 17 (+3) 25 (+7)
+Saving Throws Dex +13, Con +16, Wis +11, Cha +15
+Skills Deception +15, Insight +11, Perception +19
+Damage Resistances cold, fire, lightning
+Damage Immunities poison, kinetic, ion and energy from unenhanced weapons
+Condition Immunities charmed, exhaustion, frightened, poisoned
+Senses truesight 120 ft., passive Perception 29
+Languages All, telepathy 120 ft.
+Challenge 26 (90,000 XP)
+Legendary Resistance (3/Day). If Abeloth fails a saving throw, she can choose to succeed instead.
+Force Resistance. Abeloth has advantage on saving throws against force powers and effects.
+One With The Force. Abeloth has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
+Magic Weapons. Magic Weapons. Abeloth's weapon attacks are magical. (enhanced)
+Innate Spellcasting. The manifestation of abeloth's innate spellcasting ability is Charisma (spell save DC 23). It can innately cast the following spells, requiring no material components:\rAt will: coerce mind, sense force\r3/day each: fear, force suppression, telekinesis\r1/day each: telekinetic wave, force lightning cone
+ACTIONS
+Multiattack. Abeloth makes two tentacle attacks.
+Tentacles. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 28 (3d12+9) kinetic damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. If the target's hit point maximum is reduced to 0, they die and their essence is absorbed into Abeloth.
+Will. Abeloth turns her will upon one creature she can see within 120 feet. That target must make a DC 23 Wisdome saving throw. Unless the target is incapacitated, it can avert it's attention to automatically succeed on the save. If the target does so, it can't see Abeloth until the start of its next turn. If the target again focuses on Abeloth in the meantime, it must immediately make the save.\rIf the target fails the save, the target suffers one of the following effects of Abeloth's choice or at random.
+1. Beguiling Will. The target is stunned until the start of Abeloth's next turn.
+2. Hypnotic Will. The target is charmed by Abeloth until the start of Abeloth's next turn. Abeloth chooses how the charmed target uses its actions, reactions, and movement. Because this effect requires Abeloth's strong effort, she can't use her Maddening Will legendary action until the start of her next turn.
+3. Insane Will. The target suffers the effect of the confusion power without making a saving throw. The effect lasts until the start of Abeloth's next turn. Abeloth doesn't need to concentrate on the power.
+LEGENDARY ACTIONS
+Options. Abeloth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Abeloth regains spent legendary actions at the start of her turn.
+Draining Lightning. Ranged Power Attack. +17 to hit, range 15 ft., one target. Hit: 20 (2d10+9) lightning damage plus 11 (2d10) necrotic damage.
+Maddening Will. Abeloth uses her Will action, and must choose either the Beguiling Will or the Insane Will effect.
+##;
+
+Padawan
+Medium humanoid (any), any light
+Armor Class 11 (14 with battle precognition)
+Hit Points 27 (5d8+5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 13 (+1) 12 (+1) 15 (+2) 11 (+0)
+Skills Lore +3, Medicine +3, Perception +4
+Senses passive Perception 14
+Languages Galactic Basic and two others
+Challenge 2 (450 XP)
+Spellcasting. The padawan is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The padawan has 18 force points. The padawan has the following  spells prepared:\rCantrips (At will): give life, guidance, spare the dying, turbulence\r1st level (18 slots): cloud mind, heal, project, valor\r2nd level (18 slots): calm emotions, force barrier
+ACTIONS
+Shotosaber. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) energy damage.
+##;
+
+Sage
+Medium humanoid (any), any universal
+Armor Class 12 (15 with battle precognition)
+Hit Points 40 (9d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 9 (-1) 14 (+2) 11 (+0) 12 (+1) 19 (+4) 11 (+0)
+Saving Throws Int +4, Wis +7
+Skills Lore +4, Medicine +7
+Senses passive Perception 13
+Languages Galactic Basic and two others
+Challenge 6 (2,300 XP)
+Spellcasting. The sage is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). The sage has 40 force points. The sage has the following  spells prepared:\rCantrips (At will): mind trick, saber ward, saber reflect, turbulence\r1st level (40 slots): breath control, battle precognition, force jump\r2nd level (40 slots): battle meditation, force confusion, phasewalk\r3rd level (40 slots): force suppression, sever force, telekinetic gust\r4th level (40 slots): force immunity, freedom of movement\r5th level (40 slots): improved battle meditation
+ACTIONS
+Shotosaber. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) energy damage.
+##;
+
+Seer
+Medium humanoid (any), any light
+Armor Class 12 (15 with battle precognition)
+Hit Points 27 (6d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 14 (+2) 11 (+0) 13 (+1) 18 (+4) 13 (+1)
+Saving Throws Wis +6
+Skills Lore +3, Medicine +6, Persuasion +3
+Senses passive Perception 14
+Languages Galactic Basic and two others
+Challenge 3 (700 XP)
+Preserve Life. As an action, the seer can evoke healing energy that can restore 30 hit points to any number of creatures within 30 feet of it, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. This feature has no effect on droids or constructs.
+Spellcasting. The seer is a 6th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The seer has 28 force points. The seer has the following  spells prepared:\rCantrips (At will): give life, guidance, spare the dying, turbulence\r1st level (28 slots): battle precognition, burst of speed, heal, project\r2nd level (28 slots): force barrier, force enlightenment, stun\r3rd level (28 slots): knight speed, share life
+ACTIONS
+Shotosaber. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) energy damage.
+##;
+
+
+BB Series Astromech Droid
+Small , unaligned
+Armor Class 13 (armor plating)
+Hit Points 14 (4d6)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 5 (-3) 14 (+2) 11 (+0) 17 (+3) 12 (+1) 9 (-1)
+Skills Perception +3, Technology +5, Piloting +5
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 30 ft., passive Perception 13
+Languages Speaks binary, understands Basic
+Challenge 1/8 (25 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that deal ion or lightning damage.
+Keen Hearing And Sight. The astromech droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+Spellcasting. The bb series astromech droid is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The droid has 15 tech points. The bb series astromech droid has the following  spells prepared:\rCantrips (At will): jet of flame, mending, minor hologram, on/off\r1st level (15 slots): decryption program, expeditious retreat, hologram, repair droid, target lock\r2nd level (15 slots): translocate, motivator boost
+ACTIONS
+Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) lightning damage.
+##;
+
+R2 Series Astromech Droid
+Small , unaligned
+Armor Class 12 (armor plating)
+Hit Points 13 (3d6 + 3)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 6 (-2) 13 (+1) 12 (+1) 17 (+3) 12 (+1) 7 (-2)
+Skills Perception +3, Technology +5, Piloting +5
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 60 ft., passive Perception 13
+Languages Speaks binary, understands Basic
+Challenge 1/8 (25 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that deal ion or lightning damage.
+Keen Hearing And Sight. The astromech droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+Rocket Boost (1/Day). The astromech droid leaps up to 40 feet in any direction.
+Spellcasting. The r2 series astromech droid is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The droid has 15 tech points. The r2 series astromech droid has the following  spells prepared:\rCantrips (At will): light, mending, minor hologram, on/off\r1st level (15 slots): decryption program, oil slick, repair droid, smoke cloud, target lock\r2nd level (15 slots): lock, release
+ACTIONS
+Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) lightning damage.
+##;
+
