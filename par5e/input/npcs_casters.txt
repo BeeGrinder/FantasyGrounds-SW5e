@@ -331,7 +331,7 @@ Shotosaber. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6
 
 
 BB Series Astromech Droid
-Small , unaligned
+Small droid, unaligned
 Armor Class 13 (armor plating)
 Hit Points 14 (4d6)
 Speed 25 ft.
@@ -351,7 +351,7 @@ Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+
 ##;
 
 R2 Series Astromech Droid
-Small , unaligned
+Small droid, unaligned
 Armor Class 12 (armor plating)
 Hit Points 13 (3d6 + 3)
 Speed 25 ft.
