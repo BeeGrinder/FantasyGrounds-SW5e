@@ -1008,3 +1008,210 @@ Stool. Melee Weapon Attack: +4 to hit, range 0 ft., one target in the cantina br
 Broken Bottles. Melee Weapon Attack: +3 to hit, range 0 ft., one target in the cantina brawl's space. Hit: 17 (6d4 + 2) kinetic damage, or 8 (3d4 + 1) if the cantina brawl has half its hit points or fewer.
 Darts. Ranged Weapon Attack: +3 to hit, range 20/40 ft., Hit.\r10 (4d4) kinetic damage, or 5 (2d4) if the cantina brawl has half its hit points or fewer.
 ##;
+
+Condor Dragon
+Large beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 67 (9d10 + 18)
+Speed 20 ft., fly 80 ft.
+STR DEX CON INT WIS CHA 18 (+4) 10 (+0) 15 (+2) 4 (-3) 12 (+1) 6 (-2)
+Skills Perception +4
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 3 (700 XP)
+Unhindered Movement. The dragon's movement speed is not reduced while moving with a grappled creature.
+ACTIONS
+Multiattack. The dragon can make three attacks. two with its claws and one with its bite.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) kinetic damage.
+Claws. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) kinetic damage.
+##;
+
+Mob
+Huge humanoid (any), unaligned
+Armor Class 11
+Hit Points 91 (14d12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 17 (+3) 10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0)
+Damage Resistances kinetic
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 10
+Languages any one language (usually Basic)
+Challenge 5 (1,800 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Multiattack. The swarm makes two improvised weapons attacks.
+Improvised Weapons. Melee or Ranged Weapon Attack: +6 to hit, reach 0 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 13 (3d6 + 3) kinetic damage plus 10 (3d6) fire damage, or 8 (2d6 + 1) kinetic damage plus 7 (2d6) fire damage if the swarm has half of its hit points or fewer.
+##;
+
+Riot
+Gargantuan humanoid (any), unaligned
+Armor Class 11
+Hit Points 199 (19d20)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0)
+Damage Resistances kinetic
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 10
+Languages any one language (usually Basic)
+Challenge 10 (5,900 XP)
+Strength In Numbers. The swarm has advantage on Strength and Constitution checks and saving throws.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Multiattack. The swarm makes three improvised weapons attacks.
+Improvised Weapons. Melee or Ranged Weapon Attack: +9 to hit, reach 0 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 15 (3d6 + 5) kinetic damage plus 10 (3d6) fire damage, or 9 (2d6 + 2) kinetic damage plus 7 (2d6) fire damage if the swarm has half of its hit points or fewer.
+##;
+
+Uprising
+Gargantuan humanoid (any), unaligned
+Armor Class 11
+Hit Points 315 (30d20)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 24 (+7) 10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0)
+Damage Resistances kinetic
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 10
+Languages any one language (usually Basic)
+Challenge 15 (13,000 XP)
+Strength In Numbers. The swarm has advantage on Strength and Constitution checks and saving throws.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Multiattack. The swarm makes four improvised weapons attacks.
+Improvised Weapons. Melee or Ranged Weapon Attack: +12 to hit, reach 0 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 21 (4d6 + 7) kinetic damage plus 14 (4d6) fire damage, or 13 (3d6 + 3) kinetic damage plus 10 (3d6) fire damage if the swarm has half of its hit points or fewer.
+##;
+
+Dark Side Spirit
+Medium undead, neutral dark side
+Armor Class 13
+Hit Points 40 (9d8)
+Speed 30 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA 6 (-2) 17 (+3) 10 (+0) 17 (+3) 15 (+2) 16 (+3)
+Saving Throws Int +6, Wis +5
+Skills Perception +5, Stealth +6
+Damage Resistances acid, fire, sonic, kinetic
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 15
+Languages The languages it knew in life
+Challenge 5 (1,800 XP)
+Incorporeal Movement. The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+ACTIONS
+Maddening Touch. Melee Power Attack. +6 to hit, reach 5 ft., one target. Hit: 17 (4d6+3) psychic damage.
+Whispers of Madness. The spirit chooses up to three creatures it can see within 60 ft. of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 7 (1d8 + 3) psychic damage and must use its reaction to make a melee weapon attack against one creature of the spirit's choice that the spirit can see.
+Howling Babble (Recharge 6). Each creature within 30 ft. of the spirit that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3) psychic damage, and it is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.
+##;
+
+Death Trooper
+Medium humanoid (human), lawful dark side
+Armor Class 16 (battle armor)
+Hit Points 97 (15d8 + 30)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 19 (+4) 15 (+2) 11 (+0) 13 (+1) 11 (+0)
+Skills Perception +7, Stealth +10, Survival +4
+Senses blindsight 30 ft., darkvision 60 ft., truesight 15 ft., passive Perception 17
+Languages Galactic Basic, one other of your choice
+Challenge 6 (2,300 XP)
+Skirmish. The trooper can use Disengage as a bonus action.
+Precise Shot (3/Day). As a bonus action before making a ranged weapon attack, the trooper can take aim at a vital point of a target causing an extra 7 (2d6) energy damage on a hit.
+Enhanced Sensors. The trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+Enhanced Weapons. The troopers weapon attacks are enhanced.
+Stealthy. The trooper can take the Hide action as a bonus action.
+Surprise Attack. If the trooper surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+ACTIONS
+Multiattack. The trooper makes two melee attacks or four ranged attacks.
+Techblade. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 +4) kinetic damage.
+Blaster Rifle. Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 8 (1d8 + 4) energy damage.
+Volley (Recharge 5-6). The trooper shoots a rain of deadly blaster bolts in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 22 (4d8 + 4) energy damage on a failed save, or half as much damage on a successful one.
+##;
+
+Dewback, Adolescent
+Large beast, unaligned
+Armor Class 11 (natural armor)
+Hit Points 34 (4d10 + 12)
+Speed 40 ft., swim 30 ft.
+STR DEX CON INT WIS CHA 19 (+4) 10 (+0) 16 (+3) 2 (-4) 13 (+1) 7 (-2)
+Skills Perception +3
+Senses passive Perception 13
+Languages --
+Challenge 1 (200 XP)
+Keen Smell. The dewback has advantage on Wisdom (Perception) checks that rely on smell.
+ACTIONS
+Multiattack. The dewback makes two attacks. one with its bite and one with its claws.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) kinetic damage.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) kinetic damage.
+##;
+
+Dewback, Adult
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 42 (5d10 + 15)
+Speed 40 ft., swim 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 10 (+0) 16 (+3) 2 (-4) 13 (+1) 7 (-2)
+Skills Perception +3
+Senses passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Keen Smell. The dewback has advantage on Wisdom (Perception) checks that rely on smell.
+ACTIONS
+Multiattack. The dewback makes two attacks. one with its bite and one with its claws.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) kinetic damage.
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) kinetic damage.
+##;
+
+Dianoga, Adolescent
+Large beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 51 (6d10 + 18)
+Speed 15 ft., swim 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 13 (+1) 16 (+3) 4 (-3) 12 (+1) 5 (-3)
+Skills Stealth +3
+Damage Resistances necrotic, poison
+Senses darkvision 60 ft., passive Perception 11
+Languages Dianoga
+Challenge 2 (450 XP)
+Limited Amphibiousness. The dianoga can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+ACTIONS
+Multiattack. The dianoga can make two attacks. one with its tentacles and one with its bite.
+Tentacles. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) kinetic damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until the poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
+##;
+
+Dianoga, Adult
+Huge beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 105 (10d12 + 40)
+Speed 15 ft., swim 60 ft.
+STR DEX CON INT WIS CHA 18 (+4) 15 (+2) 19 (+4) 6 (-2) 13 (+1) 6 (-2)
+Saving Throws Con +7
+Skills Stealth +5
+Damage Resistances necrotic, poison
+Senses darkvision 60 ft., passive Perception 11
+Languages Dianoga
+Challenge 5 (1,800 XP)
+Grasping Tendrils. The dianoga can have up to seven at a time. Each tentacle can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage).\rDestroying a tentacle deals no damage to the dianoga, which can extrude a replacement tentacle on its next turn. A tentacle can also be broken if a creature takes an action and succeeds on a DC 16 Strength check against it.
+Limited Amphibiousness. The dianoga can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
+ACTIONS
+Multiattack. The dianoga can make three attacks. two with its tentacles and one with its bite.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
+Tentacles. Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 11 (2d8 + 2) kinetic damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained.
+Tentacle Slam. The dianoga slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) kinetic damage and be stunned until the end of the dianoga's next turn. On a successful save, the target takes half the kinetic damage and isn't stunned.
+##;
+
+Dragonsnake
+Large beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 85 (10d10 + 30)
+Speed 20 ft., swim 40 ft.
+STR DEX CON INT WIS CHA 20 (+5) 15 (+2) 16 (+3) 2 (-4) 12 (+1) 5 (-3)
+Skills Perception +4, Stealth +5
+Damage Resistances acid, poison
+Senses passive Perception 14
+Languages --
+Challenge 8 (3,900 XP)
+Hold Breath. The dragonsnake can hold its breath for 1 hour.
+Surprise Attack. If the dragonsnake surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+ACTIONS
+Multiattack. The dragonsnake can make three attacks. two with its claws and one with its bite.
+Bite. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) kinetic damage.
+Claws. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) kinetic damage.
+##;
+

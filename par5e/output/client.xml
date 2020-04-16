@@ -18570,6 +18570,826 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\brainworm.png@SW5e Player Book</token>
       </brainworm>
+      <cantinabrawl>
+        <locked type="number">1</locked>
+        <name type="string">Cantina Brawl</name>
+        <type type="string">humanoid</type>
+        <size type="string">Huge</size>
+        <ac type="number">12</ac>
+        <actext type="string">(combat suit)</actext>
+        <hp type="number">67</hp>
+        <hd type="string">(9d12 + 9)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic Basic and any one other language</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Liquid Courage (Recharge 5-6)</name>
+            <desc type="string">As a bonus action, the cantina brawl imbibes nearby alcohol to gain access to a hidden reservoir of audacity and grit. The cantina brawl gains 7 (2d6) temporary hp for 1 minute.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Swarm</name>
+            <desc type="string">The cantina brawl can occupy another creature's space and vice versa, and the cantina brawl can move through any opening large enough for a medium humanoid. Except for Liquid COurage, the cantina brawl can't regain hp or gain temporary hp.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The cantina brawl makes two melee attacks or two darts attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stool</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, range 0 ft., one target in the cantina brawl's space. Hit: 14 (4d4 + 4) kinetic damage, or 7 (2d4 + 2) if the cantina brawl has half its hit points or fewer.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Broken Bottles</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, range 0 ft., one target in the cantina brawl's space. Hit: 17 (6d4 + 2) kinetic damage, or 8 (3d4 + 1) if the cantina brawl has half its hit points or fewer.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Darts</name>
+            <desc type="string">Ranged Weapon Attack: +3 to hit, range 20/40 ft., Hit.\r10 (4d4) kinetic damage, or 5 (2d4) if the cantina brawl has half its hit points or fewer.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\cantinabrawl.png@SW5e Player Book</token>
+      </cantinabrawl>
+      <condordragon>
+        <locked type="number">1</locked>
+        <name type="string">Condor Dragon</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">67</hp>
+        <hd type="string">(9d10 + 18)</hd>
+        <speed type="string">20 ft., fly 80 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Unhindered Movement</name>
+            <desc type="string">The dragon's movement speed is not reduced while moving with a grappled creature.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The dragon can make three attacks. two with its claws and one with its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\condordragon.png@SW5e Player Book</token>
+      </condordragon>
+      <mob>
+        <locked type="number">1</locked>
+        <name type="string">Mob</name>
+        <type type="string">humanoid (any)</type>
+        <size type="string">Huge</size>
+        <ac type="number">11</ac>
+        <actext type="string" />
+        <hp type="number">91</hp>
+        <hd type="string">(14d12)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">any one language (usually Basic)</languages>
+        <cr type="string">5</cr>
+        <xp type="number">1800</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Swarm</name>
+            <desc type="string">The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The swarm makes two improvised weapons attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Improvised Weapons</name>
+            <desc type="string">Melee or Ranged Weapon Attack: +6 to hit, reach 0 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 13 (3d6 + 3) kinetic damage plus 10 (3d6) fire damage, or 8 (2d6 + 1) kinetic damage plus 7 (2d6) fire damage if the swarm has half of its hit points or fewer.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\mob.png@SW5e Player Book</token>
+      </mob>
+      <riot>
+        <locked type="number">1</locked>
+        <name type="string">Riot</name>
+        <type type="string">humanoid (any)</type>
+        <size type="string">Gargantuan</size>
+        <ac type="number">11</ac>
+        <actext type="string" />
+        <hp type="number">199</hp>
+        <hd type="string">(19d20)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">any one language (usually Basic)</languages>
+        <cr type="string">10</cr>
+        <xp type="number">5900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Strength In Numbers</name>
+            <desc type="string">The swarm has advantage on Strength and Constitution checks and saving throws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Swarm</name>
+            <desc type="string">The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The swarm makes three improvised weapons attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Improvised Weapons</name>
+            <desc type="string">Melee or Ranged Weapon Attack: +9 to hit, reach 0 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 15 (3d6 + 5) kinetic damage plus 10 (3d6) fire damage, or 9 (2d6 + 2) kinetic damage plus 7 (2d6) fire damage if the swarm has half of its hit points or fewer.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Bookriot.png@SW5e Player Book</token>
+      </riot>
+      <uprising>
+        <locked type="number">1</locked>
+        <name type="string">Uprising</name>
+        <type type="string">humanoid (any)</type>
+        <size type="string">Gargantuan</size>
+        <ac type="number">11</ac>
+        <actext type="string" />
+        <hp type="number">315</hp>
+        <hd type="string">(30d20)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">24</score>
+            <modifier type="string">+7</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">any one language (usually Basic)</languages>
+        <cr type="string">15</cr>
+        <xp type="number">13000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Strength In Numbers</name>
+            <desc type="string">The swarm has advantage on Strength and Constitution checks and saving throws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Swarm</name>
+            <desc type="string">The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Medium humanoid. The swarm can't regain hit points or gain temporary hit points.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The swarm makes four improvised weapons attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Improvised Weapons</name>
+            <desc type="string">Melee or Ranged Weapon Attack: +12 to hit, reach 0 ft. or range 20/60 ft., one target in the swarm's space or within range. Hit: 21 (4d6 + 7) kinetic damage plus 14 (4d6) fire damage, or 13 (3d6 + 3) kinetic damage plus 10 (3d6) fire damage if the swarm has half of its hit points or fewer.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\uprising.png@SW5e Player Book</token>
+      </uprising>
+      <darksidespirit>
+        <locked type="number">1</locked>
+        <name type="string">Dark Side Spirit</name>
+        <type type="string">undead</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string" />
+        <hp type="number">40</hp>
+        <hd type="string">(9d8)</hd>
+        <speed type="string">30 ft., fly 40 ft. (hover)</speed>
+        <abilities>
+          <strength>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Int +6, Wis +5</savingthrows>
+        <skills type="string">Perception +5, Stealth +6</skills>
+        <damageresistances type="string">acid, fire, sonic, kinetic</damageresistances>
+        <damageimmunities type="string">cold, necrotic, poison</damageimmunities>
+        <conditionimmunities type="string">charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 15</senses>
+        <alignment type="string">neutral dark side</alignment>
+        <languages type="string">The languages it knew in life</languages>
+        <cr type="string">5</cr>
+        <xp type="number">1800</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Incorporeal Movement</name>
+            <desc type="string">The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Maddening Touch</name>
+            <desc type="string">Melee Power Attack. +6 to hit, reach 5 ft., one target. Hit: 17 (4d6+3) psychic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Whispers of Madness</name>
+            <desc type="string">The spirit chooses up to three creatures it can see within 60 ft. of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 7 (1d8 + 3) psychic damage and must use its reaction to make a melee weapon attack against one creature of the spirit's choice that the spirit can see.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Howling Babble (Recharge 6)</name>
+            <desc type="string">Each creature within 30 ft. of the spirit that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (2d8 + 3) psychic damage, and it is stunned until the end of its next turn. On a successful save, it takes half as much damage and isn't stunned.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\darksidespirit.png@SW5e Player Book</token>
+      </darksidespirit>
+      <deathtrooper>
+        <locked type="number">1</locked>
+        <name type="string">Death Trooper</name>
+        <type type="string">humanoid (human)</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(battle armor)</actext>
+        <hp type="number">97</hp>
+        <hd type="string">(15d8 + 30)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +7, Stealth +10, Survival +4</skills>
+        <senses type="string">blindsight 30 ft., darkvision 60 ft., truesight 15 ft., passive Perception 17</senses>
+        <alignment type="string">lawful dark side</alignment>
+        <languages type="string">Galactic Basic, one other of your choice</languages>
+        <cr type="string">6</cr>
+        <xp type="number">2300</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Skirmish</name>
+            <desc type="string">The trooper can use Disengage as a bonus action.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Precise Shot (3/Day)</name>
+            <desc type="string">As a bonus action before making a ranged weapon attack, the trooper can take aim at a vital point of a target causing an extra 7 (2d6) energy damage on a hit.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Enhanced Sensors</name>
+            <desc type="string">The trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Enhanced Weapons</name>
+            <desc type="string">The troopers weapon attacks are enhanced.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Stealthy</name>
+            <desc type="string">The trooper can take the Hide action as a bonus action.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Surprise Attack</name>
+            <desc type="string">If the trooper surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.</desc>
+          </id-00006>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trooper makes two melee attacks or four ranged attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Techblade</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 +4) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 8 (1d8 + 4) energy damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Volley (Recharge 5-6)</name>
+            <desc type="string">The trooper shoots a rain of deadly blaster bolts in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 22 (4d8 + 4) energy damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\deathtrooper.png@SW5e Player Book</token>
+      </deathtrooper>
+      <dewback_adolescent>
+        <locked type="number">1</locked>
+        <name type="string">Dewback, Adolescent</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">11</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">34</hp>
+        <hd type="string">(4d10 + 12)</hd>
+        <speed type="string">40 ft., swim 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1</cr>
+        <xp type="number">200</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The dewback has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The dewback makes two attacks. one with its bite and one with its claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\dewback_adolescent.png@SW5e Player Book</token>
+      </dewback_adolescent>
+      <dewback_adult>
+        <locked type="number">1</locked>
+        <name type="string">Dewback, Adult</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">42</hp>
+        <hd type="string">(5d10 + 15)</hd>
+        <speed type="string">40 ft., swim 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The dewback has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The dewback makes two attacks. one with its bite and one with its claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\dewback_adult.png@SW5e Player Book</token>
+      </dewback_adult>
+      <dianoga_adolescent>
+        <locked type="number">1</locked>
+        <name type="string">Dianoga, Adolescent</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">51</hp>
+        <hd type="string">(6d10 + 18)</hd>
+        <speed type="string">15 ft., swim 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Stealth +3</skills>
+        <damageresistances type="string">necrotic, poison</damageresistances>
+        <senses type="string">darkvision 60 ft., passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Dianoga</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Limited Amphibiousness</name>
+            <desc type="string">The dianoga can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The dianoga can make two attacks. one with its tentacles and one with its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tentacles</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 4 (1d4 + 2) kinetic damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until the poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\dianoga_adolescent.png@SW5e Player Book</token>
+      </dianoga_adolescent>
+      <dianoga_adult>
+        <locked type="number">1</locked>
+        <name type="string">Dianoga, Adult</name>
+        <type type="string">beast</type>
+        <size type="string">Huge</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">105</hp>
+        <hd type="string">(10d12 + 40)</hd>
+        <speed type="string">15 ft., swim 60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Con +7</savingthrows>
+        <skills type="string">Stealth +5</skills>
+        <damageresistances type="string">necrotic, poison</damageresistances>
+        <senses type="string">darkvision 60 ft., passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Dianoga</languages>
+        <cr type="string">5</cr>
+        <xp type="number">1800</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Grasping Tendrils</name>
+            <desc type="string">The dianoga can have up to seven at a time. Each tentacle can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage).\rDestroying a tentacle deals no damage to the dianoga, which can extrude a replacement tentacle on its next turn. A tentacle can also be broken if a creature takes an action and succeeds on a DC 16 Strength check against it.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Limited Amphibiousness</name>
+            <desc type="string">The dianoga can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The dianoga can make three attacks. two with its tentacles and one with its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Tentacles</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 11 (2d8 + 2) kinetic damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Tentacle Slam</name>
+            <desc type="string">The dianoga slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) kinetic damage and be stunned until the end of the dianoga's next turn. On a successful save, the target takes half the kinetic damage and isn't stunned.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\dianoga_adult.png@SW5e Player Book</token>
+      </dianoga_adult>
+      <dragonsnake>
+        <locked type="number">1</locked>
+        <name type="string">Dragonsnake</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">85</hp>
+        <hd type="string">(10d10 + 30)</hd>
+        <speed type="string">20 ft., swim 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4, Stealth +5</skills>
+        <damageresistances type="string">acid, poison</damageresistances>
+        <senses type="string">passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">8</cr>
+        <xp type="number">3900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Hold Breath</name>
+            <desc type="string">The dragonsnake can hold its breath for 1 hour.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Surprise Attack</name>
+            <desc type="string">If the dragonsnake surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The dragonsnake can make three attacks. two with its claws and one with its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\dragonsnake.png@SW5e Player Book</token>
+      </dragonsnake>
     </npcdata>
     <npclists>
       <npcs>
@@ -18954,6 +19774,26 @@
                 </link>
                 <source type="number" />
               </c1seriesastromechdroid>
+              <cantinabrawl>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.cantinabrawl@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </cantinabrawl>
+              <condordragon>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.condordragon@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </condordragon>
             </index>
           </typeletterC>
           <typeletterD>
@@ -19009,6 +19849,76 @@
                 </link>
                 <source type="number" />
               </darklord>
+              <darksidespirit>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.darksidespirit@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </darksidespirit>
+              <deathtrooper>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.deathtrooper@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </deathtrooper>
+              <dewback_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dewback_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dewback_adolescent>
+              <dewback_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dewback_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dewback_adult>
+              <dianoga_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dianoga_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dianoga_adolescent>
+              <dianoga_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dianoga_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dianoga_adult>
+              <dragonsnake>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dragonsnake@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dragonsnake>
             </index>
           </typeletterD>
           <typeletterM>
@@ -19044,6 +19954,16 @@
                 </link>
                 <source type="number" />
               </manifestationofabeloth>
+              <mob>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.mob@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </mob>
             </index>
           </typeletterM>
           <typeletterS>
@@ -19149,8 +20069,33 @@
                 </link>
                 <source type="number" />
               </r2seriesastromechdroid>
+              <riot>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.riot@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </riot>
             </index>
           </typeletterR>
+          <typeletterU>
+            <description type="string">U</description>
+            <index>
+              <uprising>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.uprising@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </uprising>
+            </index>
+          </typeletterU>
         </groups>
       </byletter>
       <bylevel>
@@ -19179,6 +20124,36 @@
                 </link>
                 <source type="number" />
               </bx_5ccommandodroid>
+              <mob>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.mob@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </mob>
+              <darksidespirit>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.darksidespirit@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </darksidespirit>
+              <dianoga_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dianoga_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dianoga_adult>
             </index>
           </level05>
           <level08>
@@ -19204,6 +20179,16 @@
                 </link>
                 <source type="number" />
               </hk_47assassindroid>
+              <dragonsnake>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dragonsnake@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dragonsnake>
             </index>
           </level08>
           <level03>
@@ -19249,6 +20234,26 @@
                 </link>
                 <source type="number" />
               </seer>
+              <cantinabrawl>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.cantinabrawl@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </cantinabrawl>
+              <condordragon>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.condordragon@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </condordragon>
             </index>
           </level03>
           <level01>
@@ -19294,6 +20299,16 @@
                 </link>
                 <source type="number" />
               </bogwing_greater>
+              <dewback_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dewback_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dewback_adolescent>
             </index>
           </level01>
           <level00>
@@ -19414,6 +20429,26 @@
                 </link>
                 <source type="number" />
               </brainworm>
+              <dewback_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dewback_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dewback_adult>
+              <dianoga_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dianoga_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </dianoga_adolescent>
             </index>
           </level02>
           <level04>
@@ -19494,6 +20529,16 @@
                 </link>
                 <source type="number" />
               </sage>
+              <deathtrooper>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.deathtrooper@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </deathtrooper>
             </index>
           </level06>
           <level09>
@@ -19534,6 +20579,16 @@
                 </link>
                 <source type="number" />
               </ig_88assassindroid>
+              <riot>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.riot@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </riot>
             </index>
           </level10>
           <level1_8>
@@ -19746,6 +20801,21 @@
               </borgullet>
             </index>
           </level13>
+          <level15>
+            <description type="string">15</description>
+            <index>
+              <uprising>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.uprising@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number" />
+              </uprising>
+            </index>
+          </level15>
         </groups>
       </bylevel>
       <bytype>
@@ -19884,6 +20954,66 @@
                 </link>
                 <source>beast</source>
               </brainworm>
+              <condordragon>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.condordragon@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </condordragon>
+              <dewback_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dewback_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </dewback_adolescent>
+              <dewback_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dewback_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </dewback_adult>
+              <dianoga_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dianoga_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </dianoga_adolescent>
+              <dianoga_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dianoga_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </dianoga_adult>
+              <dragonsnake>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.dragonsnake@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </dragonsnake>
             </index>
           </typebeast>
           <typeplant>
@@ -20179,6 +21309,36 @@
                 </link>
                 <source>humanoid (any)</source>
               </seer>
+              <mob>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.mob@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </mob>
+              <riot>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.riot@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </riot>
+              <uprising>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.uprising@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (any)</source>
+              </uprising>
             </index>
           </typehumanoid_any_>
           <typeaberration>
@@ -20249,6 +21409,16 @@
                 </link>
                 <source>undead</source>
               </manifestationofabeloth>
+              <darksidespirit>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.darksidespirit@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>undead</source>
+              </darksidespirit>
             </index>
           </typeundead>
           <typehumanoid>
@@ -20264,6 +21434,16 @@
                 </link>
                 <source>humanoid</source>
               </b_omarrmonkinitiate>
+              <cantinabrawl>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.cantinabrawl@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </cantinabrawl>
             </index>
           </typehumanoid>
           <typeconstruct>
@@ -20281,6 +21461,21 @@
               </b_omarrbrainwalker>
             </index>
           </typeconstruct>
+          <typehumanoid_human_>
+            <description type="string">Humanoid (human)</description>
+            <index>
+              <deathtrooper>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.deathtrooper@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (human)</source>
+              </deathtrooper>
+            </index>
+          </typehumanoid_human_>
         </groups>
       </bytype>
     </npclists>
