@@ -1,6 +1,6 @@
 #= In new PHB list
 
-3PO-series Protocol Droid 119
+#3PO-series Protocol Droid 119
 #74-Z Speeder Bike
 #Acklay, Adolescent
 #Acklay, Adult
@@ -17,64 +17,64 @@
 #B2-HA Series Super Battle Droid
 #Bantha, Adolescent
 #Bantha, Adult
-Berserker 188
+#Berserker 188
 #BX Commando Droid
 #BX-5C Supercommando Droid
-Captain 188
+#Captain 188
 #Dark Lord
 #Destroyer Droid
 #Dewback, Adolescent
 #Dewback, Adult
-DRK-1 Tracker Droid 143
-Gladiator 190
-Hidden Turret 152
+#DRK-1 Tracker Droid 143
+#Gladiator 190
+#Hidden Turret 152
 #HK-47 Assassin Droid
 #IG-86 Assassin Droid
 #IG-88 Assassin Droid
 #Juggernaut
-Kaadu 173
-Kowakian Monkey-Lizard 98
-Kowakian Monkey Lizard, Swarm
-Mynock 109
-Opee Sea Killer 112
-Orbalisk 113
-Porg, Swarm 115
+#Kaadu 173
+#Kowakian Monkey-Lizard 98
+#Kowakian Monkey Lizard, Swarm
+#Mynock 109
+#Opee Sea Killer 112
+#Orbalisk 113
+#Porg, Swarm 115
 #R2-series Astromech Droid
-Rakghoul 121
-Rakghoul, Hulking 121
-Rancor, Adolescent 124
-Rancor, Adult 123
-Rancor, Ancient
-Rancor, Juvenile
-Reek, Adolescent 127
-Reek, Adult
+#Rakghoul 121
+#Rakghoul, Hulking 121
+#Rancor, Adolescent 124
+#Rancor, Adult 123
+#Rancor, Ancient
+#Rancor, Juvenile
+#Reek, Adolescent 127
+#Reek, Adult
 #Sage
-Scout 191
+#Scout 191
 #Seer
-Sergeant 192
-Shyrack 136
-Shyrack, Swarm
-Sibian Hound 177
-Soldier 192
-Spy 193
+#Sergeant 192
+#Shyrack 136
+#Shyrack, Swarm
+#Sibian Hound 177
+#Soldier 192
+#Spy 193
 STAP 
-Tauntaun 180
-Thug 193
-Trooper 57
-Trooper, Captain
-Trooper, Demolitions
-Trooper, Flame
+#Tauntaun 180
+#Thug 193
+#Trooper 57
+#Trooper, Captain
+#Trooper, Demolitions
+#Trooper, Flame
 Trooper, Headhunter
-Trooper, Heavy
+#Trooper, Heavy
 Trooper, Jetpack
-Trooper, Scout
-Tusken Brute
-Tusken Chieftain
-Tusken Raider 154
-Varactyl, Adolescent 155
-Varactyl, Adult
-Viper Probe Droid
-Wampa, Cliff 159
-Wampa, Snow
-Wampa, Swamp
-Ysalamir 167
+#Trooper, Scout
+#Tusken Brute
+#Tusken Chieftain
+#Tusken Raider 154
+#Varactyl, Adolescent 155
+#Varactyl, Adult
+#Viper Probe Droid
+#Wampa, Cliff 159
+#Wampa, Snow
+#Wampa, Swamp
+#Ysalamir 167

@@ -1409,3 +1409,940 @@ Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4
 Extract Brain. Melee Weapon Attack: +7 to hit, reach 5 ft., one incapacitated humanoid grappled by the skullborer. Hit: The target takes 36 (8d8) kinetic damage. If this damage reduces the target to 0 hit points, the skullborer kills the target by extracting and devouring its brain.
 ##;
 
+Protocol Droid, 3Po Series
+Medium droid, unaligned
+Armor Class 10 (armor plating)
+Hit Points 18 (4d8)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 10 (+0) 8 (-1) 11 (+0) 14 (+2) 12 (+1) 11 (+0)
+Skills Lore +4, Persuasion +2
+Damage Vulnerabilities lightning, Ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 60 ft., passive Perception 11
+Languages All registered languages
+Challenge 0 (10 XP)
+ACTIONS
+Strike. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Berserker
+Medium humanoid (any), any chaotic alignment
+Armor Class 13 (heavy combat suit)
+Hit Points 67 (9d8+27)
+Speed 35 ft.
+STR DEX CON INT WIS CHA 16 (+3) 12 (+1) 17 (+3) 9 (-1) 11 (+0) 9 (-1)
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 2 (450 XP)
+Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+ACTIONS
+Vibroaxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12+3) kinetic damage.
+##;
+
+Captain
+Medium humanoid (any), any alignment
+Armor Class 20 (powered durasteel armor, heavy
+Hit Points 97 (6d8+12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 14 (+2) 16 (+3) 15 (+2) 11 (+0) 15 (+2)
+Saving Throws Int +5, Wis +3, Cha +5
+Skills Athletics +5, Persuasion +5
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 6 (2,300 XP)
+Martial Advantage. Once per turn, the captain can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the captain that isn't incapacitated.
+ACTIONS
+Multiattack. The mercenary makes three weapon attacks.
+Hold-out. Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) energy damage.
+Techblade. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) kinetic damage.
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the captain can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the captain. A creature can benefit from only one Leadership die at a time. This effect ends if the captain is incapacitated.
+REACTIONS
+Parry. The captain adds 3 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+##;
+
+Drk-1 Tracker Droid
+Tiny droid, unaligned
+Armor Class 11
+Hit Points 1 (1d4-1)
+Speed 5 ft., fly 60 ft.
+STR DEX CON INT WIS CHA 3 (-4) 13 (+1) 8 (-1) 2 (-4) 12 (+1) 7 (-2)
+Skills Perception +3, Stealth +3, Survival +3
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 120 ft., passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Interfaced Tracking Protocol. While a creature is interfaced with this droid via the tracker droid interface tech power, when it makes a Wisdom (Survival) check to track a target, and this droid is also tracking that target, the interfaced creature gains advantage on the check. If it already has advantage, it can instead reroll one of the dice once.
+ACTIONS
+Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.
+##;
+
+Marksman-h Remote
+Tiny droid, unaligned
+Armor Class 11 (armor plating)
+Hit Points 1 (1d4-1)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 2 (-4) 16 (+3) 8 (-1) 2 (-4) 12 (+1) 4 (-3)
+Skills Acrobatics +5
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses blindsight 60 ft., passive Perception 11
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Safety Restraints. The droid deals only non-lethal damage.
+Interfaced Distraction Protocol. While you are interfaced with this droid via the tracker droid interface tech power, when your droid is within 5 feet of a target, you do not provoke opportunity attacks when moving out of that creature's reach.
+ACTIONS
+Stunner. Ranged Weapon Attack: +5 to hit, range 10/30 ft., one target. Hit: 1 energy damage.
+##;
+
+Gladiator
+Medium humanoid (any), chaotic dark
+Armor Class 16 (combat suit, heavy shield)
+Hit Points 112 (15d8+45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 18 (+4) 15 (+2) 16 (+3) 10 (+0) 12 (+1) 15 (+2)
+Saving Throws Str +7, Dex +5, Con +6
+Skills Athletics +10, Intimidation +5
+Senses passive Perception 11
+Languages Galactic Basic and one other
+Challenge 5 (1,800 XP)
+Brave. The gladiator has advantage on saving throws against being frightened.
+Brute. A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
+ACTIONS
+Multiattack. The gladiator makes two vibroblade attacks and one shield bash.
+Vibroblade. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8+4) kinetic damage.
+Shield Bash. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d4+4) kinetic damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+REACTIONS
+Parry. The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
+##;
+
+Auto-turret
+Medium construct, unaligned
+Armor Class 14 (armor plating)
+Hit Points 19 (3d8+6)
+Speed 0 ft.
+STR DEX CON INT WIS CHA 12 (+1) 2 (-4) 15 (+2) 14 (+2) 11 (+0) 4 (-3)
+Skills Perception +2
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 60 ft., passive Perception 12
+Languages --
+Challenge 1/2 (100 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Targeting Systems. The turret uses its Intelligence modifier for attack, damage, and intitiative rolls.
+ACTIONS
+Multiattack. The turret makes two repeating blaster attacks.
+Repeating Blaster. Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit 5 (1d6+2) energy damage.
+##;
+
+Hidden-turret
+Medium construct, unaligned
+Armor Class 13 (armor plating)
+Hit Points 11 (2d8+2)
+Speed 0 ft.
+STR DEX CON INT WIS CHA 11 (+0) 2 (-4) 13 (+1) 14 (+2) 11 (+0) 4 (-3)
+Skills Perception +2
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 60 ft., passive Perception 12
+Languages --
+Challenge 1/4 (50 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+False Appearance. While the turret is inactive, it is indistinguishable from an ordinary section of floor, wall, or ceiling.
+Targeting Systems. The turret uses its Intelligence modifier for attack, damage, and initiative rolls.\rIntelligence (Investigation) and Wisdom (Perception) checks made to identify an inactive turret are made with disadvantage.
+ACTIONS
+Blaster Cannon. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit 7 (1d10+2) energy damage.
+##;
+
+Kaadu
+Large beast, unaligned
+Armor Class 10 (natural armor)
+Hit Points 13 (2d10+2)
+Speed 40 ft., swim 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 10 (+0) 13 (+1) 2 (-4) 10 (+0) 5 (-3)
+Senses passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+Sure-footed. The kaadu has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+ACTIONS
+Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
+##;
+
+Monkey-lizard
+Small beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 3 (1d6)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 14 (+2) 11 (+0) 5 (-3) 12 (+1) 6 (-2)
+Senses passive Perception 11
+Languages --
+Challenge 0 (10 XP)
+Pack Tactics. The monkey-lizard has advantage on attack rolls against a creature if at least one of the monkeylizard's allies is within 5 feet of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4-1) kinetic damage.
+##;
+
+Monkey-lizard Swarm
+Medium swarm of tiny beasts, unaligned
+Armor Class 12
+Hit Points 24 (7d8-7)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 6 (-2) 14 (+2) 8 (-1) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +5
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 15
+Languages --
+Challenge 1/2 (100 XP)
+Pack Tactics. The swarm has advantage on attack rolls against a creature while at more than half of its hit points.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny porg. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage, or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Mynock
+Small beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 6 (1d12)
+Speed 5 ft., fly 40 ft.
+STR DEX CON INT WIS CHA 4 (-3) 16 (+3) 11 (+0) 2 (-4) 8 (-1) 6 (-2)
+Senses darkvision 60 ft., passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+Atmosphere Agnostic. The mynock can survive in any type of atmosphere or vacuum.
+Battery Drainer. If the mynock attaches itself to a piece of equipment that needs energy to function, that piece will stop working until the Mynock is removed.
+Pack Tactics. The mynock has advantage on an attack roll against a creature if at least one ally of the mynock is within 5 feet of the creature and the ally isn't incapacitated.
+ACTIONS
+Energy Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) kinetic damage, and the mynock attaches to the target. If attached to a droid or construct, at the start of each of the mynock's turns, the target loses 5 (1d4 + 3) hit points due to energy being drained.\rThe mynock can detach itself by spending 5 feet of its Movement. It does so after it drains 10 Hit Points of energy from the target or the target dies. A creature, including the target, can use its action to detach the Mynock.
+##;
+
+Mynock Swarm
+Large beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 39 (7d10)
+Speed 5 ft., fly 40 ft.
+STR DEX CON INT WIS CHA 6 (-2) 16 (+3) 11 (+0) 2 (-4) 8 (-1) 6 (-2)
+Skills Perception +1
+Damage Resistances energy, kinetic
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 60 ft., passive Perception 11
+Languages --
+Challenge 2 (450 XP)
+Atmosphere Agnostic. The mynock swarm can survive in any type of atmosphere or vacuum.
+Pack Tactics. The mynock swarm has advantage on an attack roll against a creature if at least one ally of the mynock swarm is within 5 feet of the creature and the ally isn't incapacitated.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a small mynock. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Energy Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 17 (4d6 + 3) kinetic damage, the swarm loses 3 (1d6) hit points, and a mynock attaches to the target, and is considered a separate creature with its own statistics for the remainder of combat.
+##;
+
+Opee Sea Killer
+Gargantuan beast, unaligned
+Armor Class 17 (natural armor)
+Hit Points 139 (9d20+45)
+Speed 20 ft., swim 60 ft.
+STR DEX CON INT WIS CHA 19 (+4) 10 (+0) 20 (+5) 3 (-4) 10 (+0) 6 (-2)
+Skills Stealth +6
+Senses passive Perception 10
+Languages --
+Challenge 5 (1800 XP)
+\Rkidnapper The Sea Killer May Move At Full Speed While Grappling A Creature. 
+ACTIONS
+Tongue. Ranged Weapon Attack: +7 to hit, range 30 ft., one target. Hit: The target creature is grappled (escape DC 15), and if it is a Large or smaller creature it must immediately make a DC 15 Strength saving throw, or be pulled up to 30 feet straight toward the sea killer.\rWhile a creature is grappled by the tongue, the sea killer can't use its tongue attack on another creature.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12+4) kinetic damage.
+##;
+
+Orbalisk
+Tiny beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 21 (6d4+6)
+Speed 5 ft.
+STR DEX CON INT WIS CHA 18 (+4) 8 (-1) 13 (+1) 1 (-5) 4 (-3) 3 (-4)
+Damage Vulnerabilities lightning
+Damage Immunities all except lightning
+Senses passive Perception 10
+Languages --
+Challenge 1 (100 XP)
+Detect Dark Side. The orbalisk can sense the presence and location of any dark side aligned creature within 300 feet.
+ACTIONS
+Attach. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) kinetic damage, and the orbalisk attaches to the target. Once attached to a target, the orbalisk begins to reproduce through fragmentation. Whenever the host completes a long rest, they must make a DC 14 Wisdom saving throw.\rFor each saving throw the host fails, the size of their Hit Dice is reduced. from d12 to d10, from d10 to d8, from d8 to d6, from d6 to d4, or from d4 to d2. If the host fails a saving throw while their Hit Die is a d2, they die as the orbalisks consume them.
+##;
+
+Orbalisk Swarm
+Large swarm of tiny beasts, unaligned
+Armor Class 14 (natural armor)
+Hit Points 39 (6d10+6)
+Speed 5 ft.
+STR DEX CON INT WIS CHA 18 (+4) 8 (-1) 13 (+1) 1 (-5) 4 (-3) 3 (-4)
+Damage Vulnerabilities lightning
+Damage Immunities all except lightning
+Senses passive Perception 10
+Languages --
+Challenge 3 (700 XP)
+Detect Dark Side. The orbalisk swarm can sense the presence and location of any dark side aligned creature within 300 feet.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a tiny orbalisk. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Multiattack. The Orbalisk Swarm makes two Attach attacks while it is above half HP, and one attack while below.
+Attach. Melee Weapon Attack: +6 to hit, reach 0 ft., one creature. Hit: 13 (2d8 + 4) kinetic damage, and a small portion of the swarm attaches to the target. Once attached to a target, those orbalisks begin to reproduce through fragmentation. Whenever the host completes a long rest, they must make a DC 14 Wisdom saving throw. For each saving throw the host fails, the size of their Hit Dice is reduced. from d12 to d10, from d10 to d8, from d8 to d6, from d6 to d4, or from d4 to d2. If the host fails a saving throw while their Hit Die is a d2, they die as the orbalisks consume them.
+##;
+
+Porg
+Tiny beast, unaligned
+Armor Class 12
+Hit Points 1 (1d4-1)
+Speed 10 ft., fly 50 ft.
+STR DEX CON INT WIS CHA 2 (-4) 14 (+2) 8 (-1) 2 (-4) 12 (+1) 6 (-2)
+Skills Perception +3
+Senses passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Keen Smell. The porg has advantage on Wisdom (Perception) checks that rely on smell.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Porg Swarm
+Medium swarm of tiny beasts, unaligned
+Armor Class 12
+Hit Points 24 (7d8-7)
+Speed 10 ft., fly 50 ft.
+STR DEX CON INT WIS CHA 6 (-2) 14 (+2) 8 (-1) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +5
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 15
+Languages --
+Challenge 1/4 (50 XP)
+Keen Smell. The swarm has advantage on Wisdom (Perception) checks that rely on smell.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny porg. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage, or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Rakghoul
+Medium aberration, unaligned
+Armor Class 12 (natural armor)
+Hit Points 27 (5d8+5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 15 (+2) 12 (+1) 4 (-3) 10 (+0) 6 (-2)
+Skills Perception +2
+Senses passive Perception 12
+Languages --
+Challenge 1 (200 XP)
+Rakghoul Plague. Creatures that come in contact with the rakghoul may become afflicted with rakghoul plague, a virulent disease that transforms the creature into a rakghoul over the next 24 (7d6) hours. The plague is only effective against humanoids.
+Savage Leap. If the rakghoul moves at least 20 feet toward a creature and then hits it with a claw attack on the same turn, the target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the rakghoul can make one bite attack against it as a bonus action.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit 9 (2d6+2) Kinetic damage. If the target is a humanoid creature, it must succeed on a DC 12 Constitution saving throw or become infected with the Rakghoul Plague.
+Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4+2) Kinetic damage. If the target is a humanoid creature, it must succeed on a DC 12 Constitution saving throw or become infected with the Rakghoul Plague.
+##;
+
+Rakghoul, Hulking
+Large aberration, unaligned
+Armor Class 15 (natural armor)
+Hit Points 120 (16d10+16)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 17 (+3) 19 (+4) 14 (+2) 4 (-3) 10 (+0) 6 (-2)
+Skills Athletics +6, Perception +3
+Senses passive Perception 12
+Languages --
+Challenge 5 (1,800 XP)
+Rakghoul Plague. Creatures that come in contact with the rakghoul may become afflicted with rakghoul plague, a virulent disease that transforms the creature into a rakghoul over the next 24 (7d6) hours. The plague is only effective against humanoids.
+Savage Leap. If the rakghoul moves at least 20 feet toward a creature and then hits it with a claw attack on the same turn, the target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the rakghoul can make one bite attack against it as a bonus action.
+ACTIONS
+Multiattack. The rakghoul makes two claw attacks.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit 12 (2d8+3) Kinetic damage. If the target is a humanoid creature, it must succeed on a DC 13 Constitution saving throw or become infected with the Rakghoul Plague.
+Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) Kinetic damage. If the target is a humanoid creature, it must succeed on a DC 13 Constitution saving throw or become infected with the Rakghoul Plague.
+##;
+
+Rancor, Ancient
+Huge beast, unaligned
+Armor Class 17 (natural armor)
+Hit Points 432 (32d12+224)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 25 (+7) 11 (+0) 25 (+7) 7 (-2) 11 (+0) 6 (-2)
+Saving Throws Str +13, Dex +6, Con +13, Wis +6
+Skills Athletics +13
+Senses darkvision 120 ft., passive Perception 10
+Languages --
+Challenge 19 (22,000 XP)
+Siege Monster. The Rancor deals double damage to objects and structures.
+Legendary Resistance (3/Day). If the Rancor fails a saving throw, it can choose to succeed instead.
+ACTIONS
+Multiattack. The Rancor can use its Frightful Roar. It then makes three attacks. two with its claws, and one with its bite. It can use its swallow instead of its bite.
+Claw. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit 20 (3d8 + 7) Kinetic damage.
+Bite. Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit 27 (3d12 + 7) Kinetic damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the rancor can't bite another target.
+Throw Boulder. Ranged Weapon Attack: +13 to hit, reach 60/240 ft., one target. Hit 33 (4d12 + 7) Kinetic damage.
+Frightful Roar. Each creature of the rancor's choice within 90 feet of it must succeed a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the Rancor is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the rancor's Frightful Roar for the next 24 hours.
+Swallow. The Rancor makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the Rancor, and it takes 35 (10d6) acid damage at the start of each of the Rancor's turns.\rIf the Rancor takes 35 damage or more on a single turn from a creature inside it, the Rancor must suceed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the Rancor. If the Rancor dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 10 feet of movement, exiting prone.
+LEGENDARY ACTIONS
+Options. The rancor can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The Rancor regains spent legendary actions at the start of its turn.
+Attack. The Rancor makes one claw attack.
+Throw (Costs 2 Actions). The Rancor uses its throw boulder.
+Chomp (Costs 2 Actions). The Rancor makes one bite attack or uses its swallow.
+##;
+
+Rancor, Juvenile
+Medium beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 75 (10d8+30)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 18 (+4) 11 (+0) 16 (+3) 4 (-3) 9 (-1) 6 (-2)
+Senses darkvision 120 ft., passive Perception 10
+Languages --
+Challenge 2 (450 XP)
+ACTIONS
+Multiattack. The rancor makes two attacks. one with its claws, and one with its bite.
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit 7 (1d6+4) kinetic damage.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit 9 (1d10+4) kinetic damage.
+##;
+
+Rancor, Adolescent
+Large beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 157 (15d10+75)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 11 (+0) 21 (+5) 4 (-3) 9 (-1) 6 (-2)
+Senses darkvision 120 ft., passive Perception 10
+Languages --
+Challenge 8 (3,900 XP)
+Siege Monster. The rancor deals double damage to objects and structures.
+ACTIONS
+Multiattack. The rancor makes three attacks. two with its claws, and one with its bite.
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit 12 (2d6+5) kinetic damage.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit 16 (2d10+5) kinetic damage. 
+Throw Boulder. Ranged Weapon Attack: +8 to hit, reach 60/240 ft., one target. Hit 21 (3d10 + 5) kinetic damage.
+##;
+
+Rancor, Adult
+Huge beast, unaligned
+Armor Class 15 (natural armor)
+Hit Points 250 (20d12+120)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 23 (+6) 11 (+0) 23 (+6) 6 (-2) 11 (+0) 6 (-2)
+Saving Throws Str +10, Dex +4, Con +10, Wis +4
+Senses darkvision 120 ft., passive Perception 10
+Languages --
+Challenge 12 (8,400 XP)
+Siege Monster. The rancor deals double damage to objects and structures.
+ACTIONS
+Multiattack. The rancor makes three attacks. two with its claws, and one with its bite. It can use its swallow instead of its bite.
+Claw. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit 15 (2d8+6) kinetic damage.
+Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit 19 (2d12+6) kinetic damage. If the target is a creature, it is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the rancor can't bite another target.
+Throw Boulder. Ranged Weapon Attack: +10 to hit, reach 60/240 ft., one target. Hit 25 (3d12+6) kinetic damage.
+Swallow. The rancor makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the rancor, and it takes 21 (6d6) acid damage at the start of each of the rancor's turns.\rIf the rancor takes 25 damage or more on a single turn from a creature inside it, the Rancor must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the Rancor. If the Rancor dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 10 feet of movement, exiting prone.
+##;
+
+Reek, Adult
+Huge beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 114 (12d12+36)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 23 (+6) 8 (-1) 17 (+3) 2 (-4) 12 (+1) 6 (-2)
+Senses passive Perception 11
+Languages --
+Challenge 7 (2,900 XP)
+Charge. If the reek moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 18 (4d8) kinetic damage. If the target is a Huge or smaller, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+ACTIONS
+Gore. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 24 (4d8+6) kinetic damage.
+##;
+
+Reek, Adolescent
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 45 (6d10+12)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 21 (+5) 8 (-1) 15 (+2) 2 (-4) 12 (+1) 6 (-2)
+Senses passive Perception 11
+Languages --
+Challenge 2 (450 XP)
+Charge. If the reek moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a Large or smaller, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+ACTIONS
+Gore. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8+5) kinetic damage.
+##;
+
+Scout
+Medium humanoid (any), any alignment
+Armor Class 13 (combat suit)
+Hit Points 16 (3d8+3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 14 (+2) 12 (+1) 13 (+1) 12 (+1) 11 (+0)
+Skills Nature +3, Perception +3, Stealth +4, Survival +3
+Senses passive Perception 13
+Languages Galactic Basic and one other
+Challenge 1/2 (100 XP)
+Keen Hearing And Sight. The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+ACTIONS
+Multiattack. The scout makes two weapon attacks.
+Blaster Rifle. Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8+2) energy damage.
+Techblade. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) kinetic damage.
+##;
+
+Sergeant
+Medium humanoid (any), any alignment
+Armor Class 16 (durasteel armor)
+Hit Points 39 (6d8+12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 13 (+1) 15 (+2) 14 (+2) 10 (+0) 13 (+1) 12 (+1)
+Skills Athletics +3, Persuasion +3
+Senses passive Perception 11
+Languages Galactic Basic and one other
+Challenge 3 (700 XP)
+Martial Advantage. Once per turn, the sergeant can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the sergeant that isn't incapacitated.
+ACTIONS
+Multiattack. The sergeant makes two weapon attacks.
+Blaster Rifle. Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8+2) energy damage.
+Vibrosword. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 7 (1d12+1) kinetic damage.
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the sergeant can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the sergeant. A creature can benefit from only one Leadership die at a time. This effect ends if the sergeant is incapacitated.
+##;
+
+Soldier
+Medium humanoid (any), any alignment
+Armor Class 15 (light battle armor, light shield
+Hit Points 11 (2d8+2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 13 (+1) 12 (+1) 10 (+0) 11 (+0) 8 (-1)
+Skills Athletics +3
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 1/2 (100 XP)
+Martial Advantage. Once per turn, the soldier can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the soldier that isn't incapacitated.
+ACTIONS
+Blaster Carbine. Ranged Weapon Attack: +3 to hit, range 60/240 ft., one target. Hit: 4 (1d6+1) energy damage.
+Vibroblade. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8+1) kinetic damage, or 6 (1d10+1) kinetic damage if used with two hands.
+##;
+
+Spy
+Medium humanoid (any), any alignment
+Armor Class 12 (unarmored)
+Hit Points 27 (6d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 15 (+2) 10 (+0) 12 (+1) 14 (+2) 16 (+3)
+Skills Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+Senses passive Perception 16
+Languages Galactic Basic and one other
+Challenge 1 (200 XP)
+Cunning Action. On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.
+Sneak Attack (1/Turn). The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+ACTIONS
+Multiattack. The spy makes two weapon attacks.
+Hold-out. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) energy damage.
+Techblade. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) kinetic damage.
+##;
+
+Thug
+Medium humanoid (any), any alignment
+Armor Class 12 (heavy combat suit)
+Hit Points 11 (2d8+2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 12 (+1) 12 (+1) 10 (+0) 10 (+0) 8 (-1)
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 1/8 (25 XP)
+ACTIONS
+Shotgun. Ranged Weapon Attack: +3 to hit, range 30/120 ft., one target. Hit: 6 (2d4+1) kinetic damage.
+Vibromace. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 6 (1d10+1) kinetic damage.
+Burst. The thug sprays a 10-foot-cube area within normal range of its shotgun. Each creature in the area must make a DC 11 Dexterity saving throw, taking normal weapon damage on a failed save.
+##;
+
+Shyrack
+Small beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 2 (1d6-1)
+Speed 0 ft., fly 20 ft.
+STR DEX CON INT WIS CHA 4 (-3) 16 (+3) 9 (-1) 3 (-4) 12 (+1) 4 (-3)
+Senses blindsight 60 ft., passive Perception 11
+Languages --
+Challenge 0 (10 XP)
+Keen Hearing. The Shyrack has advantage on Wisdom (Perception) checks that rely on hearing.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 1 kinetic damage.
+##;
+
+Shyrack Swarm
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 38 (6d10+10)
+Speed 0 ft., fly 20 ft.
+STR DEX CON INT WIS CHA 6 (-2) 18 (+4) 11 (+0) 3 (-4) 12 (+1) 4 (-3)
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 60 ft., passive Perception 11
+Languages --
+Challenge 1 (200 XP)
+Keen Hearing. The Shyrack has advantage on Wisdom (Perception) checks that rely on hearing.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a small shyrack. The swarm can't regain hit points or gain temporary hit points.
+ACTIONS
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature in the swarm's space. Hit: 9 (2d8) kinetic damage, or 4 (1d8) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Sibian Hound
+Medium beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 11 (2d8+2)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +3, Stealth +4
+Senses passive Perception 13
+Languages --
+Challenge 1/4 (50 XP)
+Keen Hearing And Smell. The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The hound has advantage on attack rolls against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4+2) kinetic damage. If the target is Large or smaller, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+##;
+
+Tauntaun
+Large beast, unaligned
+Armor Class 9 (natural armor)
+Hit Points 15 (2d10+4)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 16 (+3) 8 (-1) 14 (+2) 2 (-4) 8 (-1) 5 (-3)
+Senses passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) kinetic damage.
+##;
+
+Varactyl, Adult
+Large beast, unaligned
+Armor Class 11
+Hit Points 19 (3d10+32)
+Speed 50 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 18 (+4) 12 (+1) 13 (+1) 2 (-4) 12 (+1) 7 (-2)
+Senses passive Perception 11
+Languages --
+Challenge 1/2 (100 XP)
+Trampling Charge. If the varactyl moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the varactyl can make another attack with its bite against it as a bonus action.
+ACTIONS
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) kinetic damage.
+##;
+
+Varactyl, Adolescent
+Large beast, unaligned
+Armor Class 10
+Hit Points 13 (2d10+2)
+Speed 50 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 10 (+0) 12 (+1) 2 (-4) 11 (+0) 7 (-2)
+Senses passive Perception 10
+Languages --
+Challenge 1/4 (50 XP)
+Trampling Charge. If the varactyl moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the varactyl can make another attack with its bite against it as a bonus action.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4+3) kinetic damage.
+##;
+
+Viper Probe Droid
+Large droid, unaligned
+Armor Class 14 (armor plating)
+Hit Points 37 (5d10+10)
+Speed 5 ft., fly 40 ft.
+STR DEX CON INT WIS CHA 11 (+0) 15 (+2) 12 (+1) 17 (+3) 14 (+2) 7 (-2)
+Skills Investigation +5, Perception +4
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 120 ft., passive Perception 14
+Languages --
+Challenge 1 (200 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Keen Hearing And Sight. The probe droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+ACTIONS
+Blaster Cannon. Ranged Weapon Attack: +4 to hit, range 60/240 ft., one target. Hit: 7 (1d10+2) energy damage.
+Self-Destruct. When the probe droid is reduced to half of its hit point maximum, it attempts to self-destruct.\rEach creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.
+##;
+
+Wampa, Swamp
+Large beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 76 (8d10+32)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 19 (+4) 11 (+0) 18 (+4) 5 (-3) 10 (+0) 11 (+0)
+Skills Perception +2, Stealth +2
+Senses darkvision 60 ft., passive Perception 12
+Languages --
+Challenge 4 (1,100 XP)
+Putrid Smell. The wampa has disadvantage on Dexterity (Stealth) checks. At the start of each wampas turns, each creature within 5 feet of it must succeed on a DC 14 Constitution saving throw or take 10 (4d4) poison damage.
+ACTIONS
+Multiattack. The wampa makes two attacks, one with its claw and one with its bite.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d6+4) kinetic damage.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d10+4) kinetic damage. The target is grappled (escape DC 14). Until this grapple ends, the target is restrained, and the wampa can't bite another target.
+##;
+
+Wampa, Cliff
+Large beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 96 (12d10+24)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA 21 (+5) 11 (+0) 18 (+4) 5 (-3) 13 (+1) 12 (+1)
+Skills Athletics +8, Perception +4, Stealth +3
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 5 (1,800 XP)
+Keen Smell. The wampa has advantage on Wisdom (Perception) checks that rely on smell.
+Rocky Camouflage. The wampa has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+ACTIONS
+Multiattack. The wampa makes two attacks, one with its claw and one with its bite.
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6+5) kinetic damage.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 7 (1d10+5) kinetic damage. The target is grappled (escape DC 16) Until this grapple ends, the target is restrained, and the wampa can't bite another target.
+Throw Boulder. Ranged Weapon Attack: +8 to hit, reach 5 ft., range 25/50 ft., one target. Hit: 8 (1d8+5) kinetic damage.\rIf the target is a creature, it must succeed a DC 15 Strength saving throw or be knocked prone.
+##;
+
+Wampa, Snow
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 51 (6d10 + 18)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 19 (+4) 13 (+1) 16 (+3) 5 (-3) 12 (+1) 11 (+0)
+Skills Perception +3, Stealth +3
+Damage Immunities cold
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 3 (700 XP)
+Fear Of Fire. If the wampa takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+Keen Smell. The wampa has advantage on Wisdom (Perception) checks that rely on smell.
+Snow Camouflage. The wampa has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+ACTIONS
+Multiattack. The wampa makes two attacks, one with its claw and one with its bite.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d6+5) kinetic damage.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 7 (1d10+2) kinetic damage. The target is grappled (escape DC 14) Until this grapple ends, the target is restrained, and the Snow Wampa can't bite another target.
+##;
+
+Ysalamir
+Small beast, unaligned
+Armor Class 10
+Hit Points 3 (1d6)
+Speed 15 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 2 (-4) 11 (+0) 10 (+0) 1 (-5) 8 (-1) 3 (-4)
+Senses darkvision 30 ft., passive Perception 10
+Languages --
+Challenge 0 (10 XP)
+Force Nulify. The Ysalamir create a 10ft radius bubble that neutralizes the presence of the force. The bubble doubles in radius for each Ysalamir standing inside it.
+ACTIONS
+Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Ysalamiri Swarm
+Medium swarm of tiny beasts, unaligned
+Armor Class 10
+Hit Points 28 (8d6)
+Speed 15 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 11 (+0) 10 (+0) 1 (-5) 8 (-1) 3 (-4)
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 30 ft., passive Perception 10
+Languages --
+Challenge 1/2 (100 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small ysalamiri. The swarm can't regain hit points or gain temporary hit points.
+Force Nullify. The Swarm of Ysalamiri create a 1080 ft.\rradius bubble that neutralizes the presence of the force, or a 80 ft. radius bubble if the swarm has half its hit points or fewer.
+ACTIONS
+Bites. Melee Weapon Attack: +2 to hit, reach 5 ft., one target in the swarm's space. Hit: 5 (2d4) kinetic damage, or 2 (1d4) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Tusken Raider
+Medium humanoid, chaotic dark
+Armor Class 12 (combat suit)
+Hit Points 15 (2d8+6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 15 (+2) 12 (+1) 16 (+3) 10 (+0) 11 (+0) 9 (-1)
+Skills Survival +2
+Senses passive Perception 10
+Languages Tusken
+Challenge 1/2 (100 XP)
+Agressive. As a bonus action, the tusken can move up to its speed toward a hostile creature that it can see.
+ACTIONS
+Gaffi Stick. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit 7 (1d10+2) kinetic damage.
+Cycler Rifle. Ranged Weapon Attack +3 to hit, reach 150/600 ft., one target. Hit 6 (1d10+1) kinetic damage.
+##;
+
+Tusken Brute
+Medium humanoid, chaotic dark
+Armor Class 13 (heavy combat suit)
+Hit Points 68 (8d8+32)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 12 (+1) 18 (+4) 10 (+0) 13 (+1) 9 (-1)
+Skills Survival +3
+Senses passive Perception 11
+Languages Tusken
+Challenge 2 (450 XP)
+Agressive. As a bonus action, the tusken can move up to its speed toward a hostile creature that it can see.
+ACTIONS
+Multiattack. The tusken makes two gaffi stick attacks.
+Gaffi Stick. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit 8 (1d10 + 3) Kinetic damage.
+##;
+
+Tusken Chieftain
+Medium humanoid, chaotic dark
+Armor Class 16 (durasteel armor)
+Hit Points 93 (11d8+44)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 18 (+4) 12 (+1) 18 (+4) 10 (+0) 13 (+1) 13 (+1)
+Saving Throws Str +6, Con +6, Wis +3
+Skills Intimidation +3, Perception +3, Survival +3
+Senses passive Perception 13
+Languages Tusken
+Challenge 4 (1,100 XP)
+Agressive. As a bonus action, the cheiftain can move up to its speed toward a hostile creature that it can see.
+ACTIONS
+Multiattack. The chieftain makes two gaffi stick attacks.
+Gaffi Stick. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit 9 (1d10+4) kinetic damage.\rCycler Rifle Ranged Weapon Attack +3 to hit, reach 150/600 ft., one target. Hit 6 (1d10+1) kinetic damage.
+Battle Cry (1/Day). Each creature of the chieftain's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the chieftain's next turn. The chieftain can then make one attack as a bonus action.
+##;
+
+Trooper Captain
+Medium humanoid, any alignment
+Armor Class 16 (durasteel armor)
+Hit Points 90 (10d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 13 (+1) 16 (+3) 15 (+2) 9 (-1) 11 (+0) 10 (+0)
+Saving Throws Str +4, Dex +6, Con +5
+Skills Athletics +4, Perception +2, Persuasion +4
+Senses darkvision 60 ft., passive Perception 12
+Languages Galactic Basic and one other
+Challenge 4 (1,100 XP)
+Brave. The captain has advantage on saving throws against being frightened.
+ACTIONS
+Multiattack. The captain makes two blaster rifle attacks and throws a fragmentation grenade, if available.
+Blaster Rifle. Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 8 (1d8+4) energy damage.
+Frag Grenade (3/Day). The captain throws a grenade, choosing a point within 40 ft. Each creature within 10 feet must make a DC 12 Dexterity saving throw. A creature takes 2d6 kinetic damage on a failed save, or half as much as on a successful one.
+Stock Strike. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2) kinetic damage.
+REACTIONS
+Leadership (Recharges after Short or Long Rest). The Trooper Captain can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the Trooper Captain. A creature can benefit from only one Leadership die at a time.
+##;
+
+Trooper
+Medium humanoid, any alignment
+Armor Class 15 (light battle armor)
+Hit Points 13 (2d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 13 (+1) 16 (+3) 15 (+2) 9 (-1) 11 (+0) 10 (+0)
+Senses darkvision 60 ft., passive Perception 10
+Languages Galactic Basic and one other
+Challenge 1/2 (100 XP)
+ACTIONS
+Blaster Rifle. Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 7 (1d8 + 3) energy damage.
+Stock Strike. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) kinetic damage.
+##;
+
+Trooper Squad
+Gargantuan humanoid, any alignment
+Armor Class 15 (light battle armor)
+Hit Points 156 (24d8 + 48)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 19 (+4) 16 (+3) 15 (+2) 9 (-1) 11 (+0) 10 (+0)
+Saving Throws Dex +5, Wis +3
+Skills Perception +3
+Condition Immunities charmed, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 60 ft., passive Perception 13
+Languages Galactic Basic and one other
+Challenge 5 (1800 XP)
+Squad. The squad can occupy another creature's space and vice versa, and can move through openings large enough for a Medium humanoid. The squad is immune to any power or effect that would alter its form.
+Reactive. The squad can take one reaction each turn.
+ACTIONS
+Multiattack. The squad makes four blaster rifle attacks, or two blaster rifle attacks if it has half its hit points or fewer.
+Blaster Rifle. Ranged Weapon Attack: +5 to hit, range 100/400 ft., one target. Hit: 7 (1d8+3) energy damage.
+Massed Fire. The squad fires en masse at a point within 150 ft. Each creature of the squad's choice in a 10-footradius sphere centered on that point must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 36 (8d8) piercing damage, or 18 (4d8) piercing damage if the squad has half its hit points or fewer. On a successful save, it takes half as much damage.
+##;
+
+Trooper, Scout
+Medium humanoid, any alignment
+Armor Class 15 (light battle armor)
+Hit Points 13 (2d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 15 (+2) 12 (+1) 14 (+2) 13 (+1) 9 (-1)
+Skills Nature +4, Perception +5, Stealth +6, Survival +5
+Senses darkvision 60 ft., passive Perception 15
+Languages Galactic Basic and one other
+Challenge 1/2 (100 XP)
+Keen Hearing And Sight. The scout trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+ACTIONS
+Multiattack. The scout trooper makes two weapon attacks.
+Hold-out Blaster. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit: 4 (1d4+2).
+Vibrodagger. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2)
+##;
+
+Trooper, Flame
+Medium humanoid, any alignment
+Armor Class 16 (durasteel armor)
+Hit Points 45 (6d10 + 15)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 15 (+2) 16 (+3) 16 (+3) 9 (-1) 10 (+0) 11 (+0)
+Skills Athletics +4
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 2 (450 XP)
+ACTIONS
+Flamethrower. Each creature in a 30-foot cone must make a DC 13 Dexterity saving throw. A creature takes 13 (3d8) fire damage on a failed save, or half as much on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
+Blaster Pistol. Ranged Weapon Attack: +5 to hit, range 40/160 ft., one target. Hit: 6 (1d6+3) energy damage.
+Bash. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
+##;
+
+Trooper, Demolitions
+Medium humanoid, any alignment
+Armor Class 16 (durasteel armor)
+Hit Points 16 (2d10 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 13 (+1) 14 (+2) 16 (+3) 11 (+0) 10 (+0) 9 (-1)
+Senses darkvision 60 ft., passive Perception 10
+Languages Galactic Basic and one other
+Challenge 1/2 (100 XP)
+ACTIONS
+Fragmentation Grenade (3/day). The trooper throws a grenade, choosing a point within 35 ft. Each creature within 10 feet must make a DC 12 Dexterity saving throw. A creature takes 2d6 kinetic damage on a failed save, or half as much as on a successful one.
+Set Mine (2/day). After setting this mine, a laser line imperceptible to normal vision extends up to 15 feet out. When the laser is tripped, the mine explodes, and each creature within 15 feet of it must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 3d6 kinetic damage, or half as much on a successful one.
+Breaching Charge (2/day). After spending at least 30 seconds setting the charge, the trooper may attach the charge to a surface. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator, which the trooper has. Once detonated, the breaching charge destroys an unenhanced section of wall up to 10 feet wide, 10 feet tall, and 5 feet deep. Additionally, each creature within 20 feet of the charge must make a DC 15 Dexterity saving throw. A creature takes 3d6 fire damage and 3d6 kinetic damage on a failed save, or half as much on a successful one. A construct makes this save with disadvantage. If the breaching charge is installed on the construct, it automatically fails the saving throw.
+Blaster Pistol. Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit: 5 (1d6+2) energy damage.
+##;
+
+Trooper, Heavy
+Medium humanoid, any alignment
+Armor Class 17 (powered durasteel armor)
+Hit Points 42 (5d10 + 15)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 15 (+2) 16 (+3) 17 (+3) 9 (-1) 10 (+0) 10 (+0)
+Skills Athletics +4
+Senses passive Perception 10
+Languages Galactic Basic and one other
+Challenge 3 (700 XP)
+ACTIONS
+Assault Cannon. Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 8 (1d10+3) energy damage.
+Burst. The trooper sprays a 10-foot-cube area within normal range with shots. Each creature in the area must make a DC 13 Dexterity saving throw, taking 8 (1d10+3) energy damage on a failed save, or half as much on a successful one.
+Bash. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
+##;
+
+Trooper, Headhunter
+Medium humanoid, any alignment
+Armor Class 14 (combat suit)
+Hit Points 23 (5d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 10 (+0) 12 (+1) 15 (+2) 10 (+0)
+Saving Throws Dex +5
+Skills Acrobatics +5, Perception +4, Stealth +7
+Senses passive Perception 14
+Languages Galactic Basic and one other
+Challenge 2 (450 XP)
+Cunning Action. On each of its turns, the trooper can use a bonus action to take the Dash, Disengage, or Hide action.
+Sneak Attack (1/Turn). The trooper deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the trooper that isn't incapacitated and the trooper doesn't have disadvantage on the attack roll.
+ACTIONS
+Sniper Rifle. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 9 (1d12+3) energy damage.
+Vibrodagger. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) kinetic damage.
+##;
+
+Trooper, Jetpack
+Medium humanoid, any alignment
+Armor Class 15 (light battle armor)
+Hit Points 32 (5d8 + 10)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 13 (+1) 16 (+3) 14 (+2) 11 (+0) 13 (+1) 10 (+0)
+Senses passive Perception 11
+Languages Galactic Basic and one other
+Challenge 2 (450 XP)
+Jetpack. Activating or deactivating the jetpack requires a bonus action and, while active, the trooper has a flying speed of 30 feet. The jetpack lasts for a maximum of 10 minutes.
+ACTIONS
+Multiattack. The trooper makes two attacks, one with its blaster pistol and one with its wrist launcher.
+Blaster Pistol. Ranged Weapon Attack: +5 to hit, range 40/160 ft., one target. Hit: 6 (1d6+3) energy damage.
+Wrist Launcher. Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target.* Hit:* 6 (1d6+3) kinetic damage, and each creature within 5 feet must make a DC 13 Dexterity saving throw, taking 3 (1d6) kinetic damage on a failed save, or half on a successful save.
+##;
