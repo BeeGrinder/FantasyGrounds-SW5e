@@ -14,9 +14,8 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, etc. |
-|SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement |
-|SW5e NPC Manual.mod | Released. | NPCs and some vehicles |
+|SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, etc. Requires Suplement module to be loaded also.|
+|SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement. Must be loaded with PHB module. |
 |Ruleset Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
 
 See the FG Forum post for news about current projects and module changes underway.
@@ -74,6 +73,10 @@ The *__ext-src__* dirctory is for the extension sources.
 ---
 
 __Project News__
+
+May 8, 2020
+
+The old NPC module is no longer required.  All the old NPCs, plus some new ones, are in the PHB module.
 
 Apr. 15, 2020 Update
 
