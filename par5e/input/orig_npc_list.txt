@@ -77,8 +77,8 @@ Field Medic 1 190
 --Flesh Raider Berserker 1 53
 --Flutterplume 0 54
 --Force Storm Eye 23 55
-Fyrnock 0.5 170
-Gamorrean Guard 2 72
+--Fyrnock 0.5 170
+--Gamorrean Guard 2 72
 Geejaw 0 170
 GH-7 Medical Analysis Unit 0 144
 Ghest 6 73
