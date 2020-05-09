@@ -79,26 +79,26 @@ Field Medic 1 190
 --Force Storm Eye 23 55
 --Fyrnock 0.5 170
 --Gamorrean Guard 2 72
-Geejaw 0 170
+--Geejaw 0 170
 GH-7 Medical Analysis Unit 0 144
-Ghest 6 73
-Gizka 0 74
-Gizka Swarm 0.25 74
+--Ghest 6 73
+--Gizka 0 74
+--Gizka Swarm 0.25 74
 --Gladiator 5 190
-Gonk Droid 0 116
-Gonk Droid, Weaponized 0.125 116
-Gorax 6 75
+--Gonk Droid 0 116
+--Gonk Droid, Weaponized 0.125 116
+--Gorax 6 75
 Grand Admiral 20 71
-Greysor 0.125 171
-Gundark Alpha 9 77
-Gundark Matriarch 4 77
-Gundark, Adolescent 0.5 76
-Gundark, Adult 2 77
+--Greysor 0.125 171
+--Gundark Alpha 9 77
+--Gundark Matriarch 4 77
+--Gundark, Adolescent 0.5 76
+--Gundark, Adult 2 77
 Gutkurr 4 78
 Hawk-bat 0.25 79
 Hawk-bat Swarm 2 79
 --Hidden Turret 0.25 152
-Hive Rat 0.25 171
+--Hive Rat 0.25 171
 --HK-47 Assassin Droid 8 14
 Horned Kath Hound 2 95
 Hrumph 2 172

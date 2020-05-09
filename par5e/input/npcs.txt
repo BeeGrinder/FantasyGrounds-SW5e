@@ -2621,3 +2621,233 @@ Brutal Critical. When the guards scores a critical hit with a melee weapon attac
 ACTIONS
 Vibroaxe. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 12 (1d12 + 6)
 ##;
+
+Geejaw
+Tiny beast, unaligned
+Armor Class 12
+Hit Points 1 (1d4 - 1)
+Speed 10 ft., fly 50 ft.
+STR DEX CON INT WIS CHA 2 (-4) 14 (+2) 8 (-1) 3 (-4) 12 (+1) 7 (-2)
+Skills Perception +3
+Senses passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Mimicry. The geejaw can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+ACTIONS
+Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Ghest
+Huge beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 104 (11d12 + 33)
+Speed 20 ft., swim 60 ft.
+STR DEX CON INT WIS CHA 21 (+5) 9 (-1) 17 (+3) 2 (-4) 10 (+0) 7 (-2)
+Skills Perception +3, Stealth +5
+Damage Resistances kinetic
+Senses passive Perception 13
+Languages --
+Challenge 6 (2,300 XP)
+Ambusher. In the first round of a combat, the ghest has advantage on attack rolls against any creature it surprised.
+Hold Breath. The ghest can hold its breath for 30 minutes.
+ACTIONS
+Multiattack. The ghest can make two attacks. one with its bite and one with its claws.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) kinetic damage and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the ghest can't bite another target.
+Claws. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) kinetic damage.
+Swallow. The ghest makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the ghest, and it takes 10 (3d6) acid damage at the start of each of the ghest's turns. The ghest can have only one target swallowed at a time.\rIf the ghest takes 25 damage or more on a single turn from a creature inside it, the ghest must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the swallowed creatures, which fall prone in a space within 10 feet of the ghest. If the ghest dies, the swallowed creatures are no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+##;
+
+Gizka
+Tiny beast, unaligned
+Armor Class 12
+Hit Points 1 (1d4 - 2)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 2 (-4) 14 (+2) 7 (-2) 2 (-4) 10 (+0) 5 (-3)
+Senses blindsight 120 ft. (blind beyond this radius), passive Perception 10
+Languages --
+Challenge 0 (10 XP)
+Echolocation. The gizka can't use its blindsight while deafened.
+Standing Leap. The gizka's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
+ACTIONS
+Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Gizka Swarm
+Medium swarm of tiny beasts, unaligned
+Armor Class 12
+Hit Points 22 (5d8)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 7 (-2) 14 (+2) 10 (+0) 3 (-4) 14 (+2) 5 (-3)
+Damage Resistances energy, kinetic
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 120 ft. (blind beyond this radius), passive Perception 12
+Languages
+Challenge 1/4 (50 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gizka. The swarm can't regain hit points or gain temporary hit points.
+Echolocation. The swarm can't use its blindsight while deafened.
+ACTIONS
+Bite. Melee Weapon Attack: +2 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Gonk Droid
+Small droid, unaligned
+Armor Class 13 (steel plating)
+Hit Points 5 (1d6 + 2)
+Speed 15 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 14 (+2) 9 (-1) 7 (-2) 8 (-1)
+Damage Vulnerabilities lightning, ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 10
+Languages Binary, Galactic Basic, Gonkian
+Challenge 0 (10 XP)
+Explosive Destruction. When the Gonk droid is reduced to zero hit points, it explodes. Each creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.
+ACTIONS
+Kick. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 2 (1d4 + 0)
+##;
+
+Gonk Droid, Weaponized
+Small droid, unaligned
+Armor Class 14 (reinforced steel plating)
+Hit Points 5 (1d6 + 2)
+Speed 15 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 14 (+2) 9 (-1) 7 (-2) 8 (-1)
+Damage Vulnerabilities lightning, ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 10
+Languages Binary, Galactic Basic, Gonkian
+Challenge 1/8 (25 XP)
+Explosive Destruction. When the Gonk droid is reduced to zero hit points, it explodes. Each creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.
+ACTIONS
+Kick. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 2 (1d4 + 0).
+Blaster Rifle. Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8 + 2) energy damage.
+##;
+
+Gorax
+Huge humanoid, unaligned
+Armor Class 17 (natural armor)
+Hit Points 126 (11d12+55)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 23 (+6) 15 (+2) 20 (+5) 7 (-2) 11 (+0) 6 (-2)
+Saving Throws Dex +3, Con +8, Wis +3
+Skills Athletics +9, Intimidation +1, Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages Gorax
+Challenge 6 (2,300 XP)
+Keen Hearing. The gorax has advantage on Wisdom (Perception) checks that rely on hearing.
+Stench. Any creature other than a gorax that starts its turn within 10 feet of the gorax must succeed on a DC 15 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any gorax for 1 hour.
+Sunlight Sensitivity. While in sunlight, the gorax has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+ACTIONS
+Multiattack. The gorax makes two greatclub attacks.
+Stomp. Melee Weapon Attack: +9 to hit, reach 5 ft., one Medium or smaller creature. Hit: 27 (6d6 + 5) kinetic damage and the target is grappled (escape DC 15).\rUntil this grapple ends, the target is prone. The grapple ends early if the gorax moves.
+Greatclub. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) kinetic damage.
+Rock. Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) kinetic damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+##;
+
+Greysor
+Small beast, unaligned
+Armor Class 12
+Hit Points 7 (2d6)
+Speed 40 ft., burrow 10 ft.
+STR DEX CON INT WIS CHA 8 (-1) 15 (+2) 10 (+0) 5 (-3) 13 (+1) 6 (-2)
+Senses passive Perception 11
+Languages --
+Challenge 1/8 (25 XP)
+Keen Sight And Smell. The greysor has advantage on Wisdom (Perception) checks that rely on sight and smell.
+Pack Tactics. The greysor has advantage on an attack roll against a creature if at least one of the greysor's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.
+##;
+
+Hive Rat
+Medium beast, unaligned
+Armor Class 11
+Hit Points 22 (3d8 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 12 (+1) 16 (+3) 2 (-4) 10 (+0) 4 (-3)
+Skills Perception +3, Stealth +4
+Damage Resistances acid, poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 1/4 (50 XP)
+Keen Smell. The hive rat has advantage on Wisdom (Perception) checks that rely on smell.
+Pack Tactics. The hive rat has advantage on an attack roll against a creature if at least one of the hive rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) kinetic damage, and the target is grappled (escape DC 15).
+##;
+
+Gundark, Adult
+Medium beast, east. unalign
+Armor Class 13 (natural armor)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 12 (+1) 13 (+1) 5 (-3) 15 (+2) 8 (-1)
+Skills Perception +4
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 2 (450 XP)
+Rampage. When the gundark reduces a creature to 0 hit points with a melee attack on its turn, the gundark can take a bonus action to move up to half its speed and make a claw attack.
+Keen Hearing And Smell. The gundark has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+ACTIONS
+Multiattack. The gundark can make four attacks. two with its claws and two with its gigantic claws.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 +3) kinetic damage.
+Gigantic Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 +3) kinetic damage.
+##;
+
+Gundark, Adolescent
+Medium beast, east. unalign
+Armor Class 13 (natural armor)
+Hit Points 22 (5d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 12 (+1) 11 (+0) 4 (-3) 12 (+1) 8 (-1)
+Skills Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 1/2 (100 XP)
+Rampage. When the gundark reduces a creature to 0 hit points with a melee attack on its turn, the gundark can take a bonus action to move up to half its speed and make a claw attack.
+Keen Hearing And Smell. The gundark has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+ACTIONS
+Multiattack. The gundark can make two claw attacks.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 +3) kinetic damage.
+##;
+
+Gundark Matriarch
+Large beast, east. unalign
+Armor Class 15 (natural armor)
+Hit Points 90 (12d10 + 24)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 18 (+4) 14 (+2) 15 (+2) 6 (-2) 15 (+2) 9 (-1)
+Saving Throws Dex +4, Con +4
+Skills Perception +4
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 4 (1,100 XP)
+Aura Of Blood Thirst. If the matriarch isn't incapacitated, any other gundark can make a melee attack as a bonus action while within 10 feet of the matriarch.
+Rampage. When the matriarch reduces a creature to 0 hit points with a melee attack on its turn, the matriarch can take a bonus action to move up to half its speed and make a claw attack.
+Keen Hearing And Smell. The matriarch has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+ACTIONS
+Multiattack. The matriarch can make four attacks. two with its claws and two with its gigantic claws.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) kinetic damage.
+Gigantic Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) kinetic damage.
+##;
+
+Gundark Alpha
+Large beast, unaligned
+Armor Class 14
+Hit Points 157 (15d10+75)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 20 (+5) 15 (+2) 20 (+5) 3 (-4) 9 (-1) 7 (-2)
+Skills Perception +3
+Senses darkvision 120 ft., passive Perception 13
+Languages --
+Challenge 9 (5000 XP)
+Siege Monster. The gundark deals double damage to objects and structures.
+Keen Sight And Smell. The gundark has advantage on Wisdom (Perception) checks that rely on sight or smell.
+ACTIONS
+Multiattack. The gundark makes two attacks with its claws.\rIt then makes one bite attack or one pummel attack.
+Claw. Melee Weapon Attack: +9 to hit, reach 5ft, one target, hit 12 (2d6+5) kinetic damage. The target is grappled (escape DC 15) if that claw isn't already grappling a creature. Until the grapple ends, the creature is restrained.
+Bite. Melee Weapon Attack: +9 to hit, reach 5ft, one target, hit 9 (1d8+5) kinetic damage.
+Pummel. The monster makes one claw attack against a creature it is grappling. The the attack hits, the monster takes the claw's damage.
+##;
