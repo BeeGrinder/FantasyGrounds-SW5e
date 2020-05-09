@@ -1,7 +1,7 @@
 NPCs left to add to PHB module.  "--" indicates DONE.
 
 --74-Z Speeder Bike
-AAT
+--AAT
 --Acklay, Adolescent
 --Acklay, Adult
 --Acolyte
@@ -9,8 +9,8 @@ AAT
 --Anooba 1 12
 --Apprentice 2 184
 --Aqualish Enforcer 4 187
-Aryx 0.25 168
-Assassin 8 188
+--Aryx 0.25 168
+--Assassin 8 188
 AT-AT 19 63
 AT-RT 4 64
 AT-ST 11 65
@@ -33,7 +33,7 @@ AT-TE 18 66
 --BB Series Astromech 0.125 16
 --Berserker 2 188
 --Blurrg 2 28
-Boar-Wolf 2 168
+--Boar-Wolf 2 168
 --Bogwing, Greater 1 29
 --Bogwing, Lesser 0.125 29
 --Bor Gullet 13 31
@@ -44,9 +44,9 @@ Boar-Wolf 2 168
 --C1 Series Astromech 0.125 17
 --Cantina Brawl 3 33
 --Captain 6 188
-Clodhopper 0.25 168
-Combat Engineer 4 189
-Combat Engineer, Junior 1 189
+--Clodhopper 0.25 168
+--Combat Engineer 4 189
+--Combat Engineer, Junior 1 189
 --Condor Dragon 3 34
 --Dark Aspirant 6 184
 --Dark Lord 12 185
@@ -62,21 +62,21 @@ Combat Engineer, Junior 1 189
 --DRK-1 Tracker Droid 0 143
 --DSD1 Dwarf Spider Droid 2 25
 --Energy Spider 0.5 47
-Eopie 0.125 169
-Ewok Pony 0.125 169
+--Eopie 0.125 169
+--Ewok Pony 0.125 169
 --Exogorth, Adolescent 11 49
 --Exogorth, Adult 15 49
 Explosives Expert 3 189
 --Fambaa 3 50
 --Fambaa Howdah 5 50
-Fathier 0.5 169
+--Fathier 0.5 169
 --Fexian Skullborer 3 51
 Field Medic 1 190
-Flesh Raider 0.125 52
+--Flesh Raider 0.125 52
 --Flesh Raider Apprentice 2 53
-Flesh Raider Berserker 1 53
-Flutterplume 0 54
-Force Storm Eye 23 55
+--Flesh Raider Berserker 1 53
+--Flutterplume 0 54
+--Force Storm Eye 23 55
 Fyrnock 0.5 170
 Gamorrean Guard 2 72
 Geejaw 0 170
