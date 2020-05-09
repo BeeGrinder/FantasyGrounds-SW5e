@@ -11196,7 +11196,7 @@
             </text>
           </dangersense2>
           <berserkerapproach3>
-            <name type="string">Berserker Approach</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Berserker Approach</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p>
@@ -12143,7 +12143,7 @@
             </text>
           </forceshield2>
           <consulartradition3>
-            <name type="string">Consular Tradition</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Consular Tradition</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.</p>
@@ -12724,7 +12724,7 @@
             </text>
           </toolunderstanding3>
           <engineeringdiscipline3>
-            <name type="string">Engineering Discipline</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Engineering Discipline</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.</p>
@@ -13932,7 +13932,7 @@
             </text>
           </maneuvers2>
           <fighterspeciality3>
-            <name type="string">Fighter Speciality</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Fighter Speciality</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
@@ -14871,7 +14871,7 @@
             </text>
           </guardianaura2>
           <guardianform3>
-            <name type="string">Guardian Form</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Guardian Form</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.</p>
@@ -15493,7 +15493,7 @@
             </text>
           </unarmoredmovement2>
           <monasticorder3>
-            <name type="string">Monastic Order</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Monastic Order</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
@@ -17010,7 +17010,7 @@
             </text>
           </expertise3>
           <academicpursuit3>
-            <name type="string">Academic Pursuit</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Academic Pursuit</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you dedicate your studies towards a pursuit, which is detailed at the end of the class description. The pursuit you choose grants you features at 3rd level, and again at 6th, 9th, and 17th level.</p>
@@ -17849,7 +17849,7 @@
             </text>
           </pathfinder3>
           <scouttechnique3>
-            <name type="string">Scout Technique</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Scout Technique</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
@@ -18741,7 +18741,7 @@
             <specialization type="string">Stalker Technique</specialization>
           </idealofthevigorous>
           <sentinelcalling3>
-            <name type="string">Sentinel Calling</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Sentinel Calling</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.</p>
@@ -31703,6 +31703,853 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\gamorreanguard.png@SW5e Player Book</token>
       </gamorreanguard>
+      <geejaw>
+        <locked type="number">1</locked>
+        <name type="string">Geejaw</name>
+        <type type="string">beast</type>
+        <size type="string">Tiny</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">1</hp>
+        <hd type="string">(1d4 - 1)</hd>
+        <speed type="string">10 ft., fly 50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Mimicry</name>
+            <desc type="string">The geejaw can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Beak</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\geejaw.png@SW5e Player Book</token>
+      </geejaw>
+      <ghest>
+        <locked type="number">1</locked>
+        <name type="string">Ghest</name>
+        <type type="string">beast</type>
+        <size type="string">Huge</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">104</hp>
+        <hd type="string">(11d12 + 33)</hd>
+        <speed type="string">20 ft., swim 60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3, Stealth +5</skills>
+        <damageresistances type="string">kinetic</damageresistances>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">6</cr>
+        <xp type="number">2300</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Ambusher</name>
+            <desc type="string">In the first round of a combat, the ghest has advantage on attack rolls against any creature it surprised.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Hold Breath</name>
+            <desc type="string">The ghest can hold its breath for 30 minutes.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The ghest can make two attacks. one with its bite and one with its claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) kinetic damage and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the ghest can't bite another target.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Swallow</name>
+            <desc type="string">The ghest makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the ghest, and it takes 10 (3d6) acid damage at the start of each of the ghest's turns. The ghest can have only one target swallowed at a time.\rIf the ghest takes 25 damage or more on a single turn from a creature inside it, the ghest must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the swallowed creatures, which fall prone in a space within 10 feet of the ghest. If the ghest dies, the swallowed creatures are no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\ghest.png@SW5e Player Book</token>
+      </ghest>
+      <gizka>
+        <locked type="number">1</locked>
+        <name type="string">Gizka</name>
+        <type type="string">beast</type>
+        <size type="string">Tiny</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">1</hp>
+        <hd type="string">(1d4 - 2)</hd>
+        <speed type="string">20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">blindsight 120 ft. (blind beyond this radius), passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Echolocation</name>
+            <desc type="string">The gizka can't use its blindsight while deafened.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Standing Leap</name>
+            <desc type="string">The gizka's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gizka.png@SW5e Player Book</token>
+      </gizka>
+      <gizkaswarm>
+        <locked type="number">1</locked>
+        <name type="string">Gizka Swarm</name>
+        <type type="string">swarm of tiny beasts</type>
+        <size type="string">Medium</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">22</hp>
+        <hd type="string">(5d8)</hd>
+        <speed type="string">20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">energy, kinetic</damageresistances>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">blindsight 120 ft. (blind beyond this radius), passive Perception 12</senses>
+        <alignment type="string">unaligned</alignment>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string"> Languages</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Swarm</name>
+            <desc type="string">The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gizka. The swarm can't regain hit points or gain temporary hit points.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Echolocation</name>
+            <desc type="string">The swarm can't use its blindsight while deafened.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gizkaswarm.png@SW5e Player Book</token>
+      </gizkaswarm>
+      <gonkdroid>
+        <locked type="number">1</locked>
+        <name type="string">Gonk Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Small</size>
+        <ac type="number">13</ac>
+        <actext type="string">(steel plating)</actext>
+        <hp type="number">5</hp>
+        <hd type="string">(1d6 + 2)</hd>
+        <speed type="string">15 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">lightning, ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poisoned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, Galactic Basic, Gonkian</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Explosive Destruction</name>
+            <desc type="string">When the Gonk droid is reduced to zero hit points, it explodes. Each creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Kick</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 2 (1d4 + 0)</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gonkdroid.png@SW5e Player Book</token>
+      </gonkdroid>
+      <gonkdroid_weaponized>
+        <locked type="number">1</locked>
+        <name type="string">Gonk Droid, Weaponized</name>
+        <type type="string">droid</type>
+        <size type="string">Small</size>
+        <ac type="number">14</ac>
+        <actext type="string">(reinforced steel plating)</actext>
+        <hp type="number">5</hp>
+        <hd type="string">(1d6 + 2)</hd>
+        <speed type="string">15 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">lightning, ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poisoned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, Galactic Basic, Gonkian</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Explosive Destruction</name>
+            <desc type="string">When the Gonk droid is reduced to zero hit points, it explodes. Each creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Kick</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 2 (1d4 + 0).</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8 + 2) energy damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gonkdroid_weaponized.png@SW5e Player Book</token>
+      </gonkdroid_weaponized>
+      <gorax>
+        <locked type="number">1</locked>
+        <name type="string">Gorax</name>
+        <type type="string">humanoid</type>
+        <size type="string">Huge</size>
+        <ac type="number">17</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">126</hp>
+        <hd type="string">(11d12+55)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +3, Con +8, Wis +3</savingthrows>
+        <skills type="string">Athletics +9, Intimidation +1, Perception +3</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Gorax</languages>
+        <cr type="string">6</cr>
+        <xp type="number">2300</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Hearing</name>
+            <desc type="string">The gorax has advantage on Wisdom (Perception) checks that rely on hearing.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stench</name>
+            <desc type="string">Any creature other than a gorax that starts its turn within 10 feet of the gorax must succeed on a DC 15 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any gorax for 1 hour.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Sunlight Sensitivity</name>
+            <desc type="string">While in sunlight, the gorax has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The gorax makes two greatclub attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stomp</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 5 ft., one Medium or smaller creature. Hit: 27 (6d6 + 5) kinetic damage and the target is grappled (escape DC 15).\rUntil this grapple ends, the target is prone. The grapple ends early if the gorax moves.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Greatclub</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Rock</name>
+            <desc type="string">Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) kinetic damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gorax.png@SW5e Player Book</token>
+      </gorax>
+      <greysor>
+        <locked type="number">1</locked>
+        <name type="string">Greysor</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">7</hp>
+        <hd type="string">(2d6)</hd>
+        <speed type="string">40 ft., burrow 10 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Sight And Smell</name>
+            <desc type="string">The greysor has advantage on Wisdom (Perception) checks that rely on sight and smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The greysor has advantage on an attack roll against a creature if at least one of the greysor's allies is within 5 ft. of the creature and the ally isn't incapacitated.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\greysor.png@SW5e Player Book</token>
+      </greysor>
+      <hiverat>
+        <locked type="number">1</locked>
+        <name type="string">Hive Rat</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">11</ac>
+        <actext type="string"/>
+        <hp type="number">22</hp>
+        <hd type="string">(3d8 + 9)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3, Stealth +4</skills>
+        <damageresistances type="string">acid, poison</damageresistances>
+        <conditionimmunities type="string">poisoned</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The hive rat has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The hive rat has advantage on an attack roll against a creature if at least one of the hive rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) kinetic damage, and the target is grappled (escape DC 15).</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\hiverat.png@SW5e Player Book</token>
+      </hiverat>
+      <gundark_adult>
+        <locked type="number">1</locked>
+        <name type="string">Gundark, Adult</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">44</hp>
+        <hd type="string">(8d8 + 8)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">east. unalign</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Rampage</name>
+            <desc type="string">When the gundark reduces a creature to 0 hit points with a melee attack on its turn, the gundark can take a bonus action to move up to half its speed and make a claw attack.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Hearing And Smell</name>
+            <desc type="string">The gundark has advantage on Wisdom (Perception) checks that rely on hearing or smell.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The gundark can make four attacks. two with its claws and two with its gigantic claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 +3) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Gigantic Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 +3) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gundark_adult.png@SW5e Player Book</token>
+      </gundark_adult>
+      <gundark_adolescent>
+        <locked type="number">1</locked>
+        <name type="string">Gundark, Adolescent</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">22</hp>
+        <hd type="string">(5d8)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">east. unalign</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/2</cr>
+        <xp type="number">100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Rampage</name>
+            <desc type="string">When the gundark reduces a creature to 0 hit points with a melee attack on its turn, the gundark can take a bonus action to move up to half its speed and make a claw attack.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Hearing And Smell</name>
+            <desc type="string">The gundark has advantage on Wisdom (Perception) checks that rely on hearing or smell.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The gundark can make two claw attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 +3) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gundark_adolescent.png@SW5e Player Book</token>
+      </gundark_adolescent>
+      <gundarkmatriarch>
+        <locked type="number">1</locked>
+        <name type="string">Gundark Matriarch</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">15</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">90</hp>
+        <hd type="string">(12d10 + 24)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +4, Con +4</savingthrows>
+        <skills type="string">Perception +4</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">east. unalign</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Aura Of Blood Thirst</name>
+            <desc type="string">If the matriarch isn't incapacitated, any other gundark can make a melee attack as a bonus action while within 10 feet of the matriarch.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Rampage</name>
+            <desc type="string">When the matriarch reduces a creature to 0 hit points with a melee attack on its turn, the matriarch can take a bonus action to move up to half its speed and make a claw attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Keen Hearing And Smell</name>
+            <desc type="string">The matriarch has advantage on Wisdom (Perception) checks that rely on hearing or smell.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The matriarch can make four attacks. two with its claws and two with its gigantic claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Gigantic Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gundarkmatriarch.png@SW5e Player Book</token>
+      </gundarkmatriarch>
+      <gundarkalpha>
+        <locked type="number">1</locked>
+        <name type="string">Gundark Alpha</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">14</ac>
+        <actext type="string"/>
+        <hp type="number">157</hp>
+        <hd type="string">(15d10+75)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">darkvision 120 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">9</cr>
+        <xp type="number">5000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Siege Monster</name>
+            <desc type="string">The gundark deals double damage to objects and structures.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Sight And Smell</name>
+            <desc type="string">The gundark has advantage on Wisdom (Perception) checks that rely on sight or smell.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The gundark makes two attacks with its claws.\rIt then makes one bite attack or one pummel attack.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 5ft, one target, hit 12 (2d6+5) kinetic damage. The target is grappled (escape DC 15) if that claw isn't already grappling a creature. Until the grapple ends, the creature is restrained.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 5ft, one target, hit 9 (1d8+5) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Pummel</name>
+            <desc type="string">The monster makes one claw attack against a creature it is grappling. The the attack hits, the monster takes the claw's damage.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gundarkalpha.png@SW5e Player Book</token>
+      </gundarkalpha>
     </npcdata>
     <npclists>
       <npcs>
@@ -32127,6 +32974,16 @@
                 </link>
                 <source type="number"/>
               </hidden_turret>
+              <hiverat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hiverat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hiverat>
             </index>
           </typeletterH>
           <typeletterI>
@@ -32992,6 +33849,126 @@
                 </link>
                 <source type="number"/>
               </gamorreanguard>
+              <geejaw>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.geejaw@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </geejaw>
+              <ghest>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ghest@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ghest>
+              <gizka>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gizka@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gizka>
+              <gizkaswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gizkaswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gizkaswarm>
+              <gonkdroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gonkdroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gonkdroid>
+              <gonkdroid_weaponized>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gonkdroid_weaponized@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gonkdroid_weaponized>
+              <gorax>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gorax@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gorax>
+              <greysor>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.greysor@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </greysor>
+              <gundark_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundark_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundark_adult>
+              <gundark_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundark_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundark_adolescent>
+              <gundarkmatriarch>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundarkmatriarch@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundarkmatriarch>
+              <gundarkalpha>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundarkalpha@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundarkalpha>
             </index>
           </typeletterG>
           <typeletterK>
@@ -33777,6 +34754,36 @@
                 </link>
                 <source type="number"/>
               </flutterplume>
+              <geejaw>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.geejaw@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </geejaw>
+              <gizka>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gizka@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gizka>
+              <gonkdroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gonkdroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gonkdroid>
             </index>
           </level00>
           <level02>
@@ -34002,6 +35009,16 @@
                 </link>
                 <source type="number"/>
               </gamorreanguard>
+              <gundark_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundark_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundark_adult>
             </index>
           </level02>
           <level04>
@@ -34087,6 +35104,16 @@
                 </link>
                 <source type="number"/>
               </combatengineer>
+              <gundarkmatriarch>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundarkmatriarch@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundarkmatriarch>
             </index>
           </level04>
           <level06>
@@ -34152,6 +35179,26 @@
                 </link>
                 <source type="number"/>
               </captain>
+              <ghest>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ghest@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ghest>
+              <gorax>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gorax@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gorax>
             </index>
           </level06>
           <level09>
@@ -34177,6 +35224,16 @@
                 </link>
                 <source type="number"/>
               </battlehydra>
+              <gundarkalpha>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundarkalpha@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundarkalpha>
             </index>
           </level09>
           <level10>
@@ -34337,6 +35394,26 @@
                 </link>
                 <source type="number"/>
               </ewokpony>
+              <gonkdroid_weaponized>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gonkdroid_weaponized@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gonkdroid_weaponized>
+              <greysor>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.greysor@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </greysor>
             </index>
           </level1_8>
           <level1_2>
@@ -34482,6 +35559,16 @@
                 </link>
                 <source type="number"/>
               </fyrnock>
+              <gundark_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundark_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gundark_adolescent>
             </index>
           </level1_2>
           <level07>
@@ -34592,6 +35679,26 @@
                 </link>
                 <source type="number"/>
               </clodhopper>
+              <gizkaswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gizkaswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gizkaswarm>
+              <hiverat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hiverat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hiverat>
             </index>
           </level1_4>
           <level21>
@@ -35357,6 +36464,96 @@
                 </link>
                 <source>beast</source>
               </fyrnock>
+              <geejaw>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.geejaw@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </geejaw>
+              <ghest>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ghest@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </ghest>
+              <gizka>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gizka@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </gizka>
+              <greysor>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.greysor@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </greysor>
+              <hiverat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hiverat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </hiverat>
+              <gundark_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundark_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </gundark_adult>
+              <gundark_adolescent>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundark_adolescent@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </gundark_adolescent>
+              <gundarkmatriarch>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundarkmatriarch@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </gundarkmatriarch>
+              <gundarkalpha>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gundarkalpha@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </gundarkalpha>
             </index>
           </typebeast>
           <typeplant>
@@ -35627,6 +36824,26 @@
                 </link>
                 <source>droid</source>
               </viperprobedroid>
+              <gonkdroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gonkdroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </gonkdroid>
+              <gonkdroid_weaponized>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gonkdroid_weaponized@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </gonkdroid_weaponized>
             </index>
           </typedroid>
           <typehumanoid_any_>
@@ -36117,6 +37334,16 @@
                 </link>
                 <source>humanoid</source>
               </trooper_jetpack>
+              <gorax>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gorax@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </gorax>
             </index>
           </typehumanoid>
           <typeconstruct>
@@ -36227,6 +37454,16 @@
                 </link>
                 <source>swarm of tiny beasts</source>
               </ysalamiriswarm>
+              <gizkaswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gizkaswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>swarm of tiny beasts</source>
+              </gizkaswarm>
             </index>
           </typeswarmoftinybeasts>
           <typerepeatingblasters_rangedweaponattack__10tohit_range120_240ft_>
