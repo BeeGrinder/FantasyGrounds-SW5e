@@ -76,7 +76,7 @@ __Project News__
 
 May 8, 2020
 
-The old NPC module is no longer required.  All the old NPCs, plus some new ones, are in the PHB module.
+The old NPC module is no longer required.  All the old NPCs, plus some new ones, are in the PHB module.  There are now 124 out of 276 NPCs added to the PHB module.
 
 Apr. 15, 2020 Update
 
