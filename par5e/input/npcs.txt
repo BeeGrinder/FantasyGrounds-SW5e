@@ -686,6 +686,37 @@ Lightsaber Strike. Melee Weapon Attack: +4 to hit, reach 5 ft., Hit: 5 (1d8 + 1)
 Feasting Bite (1/day). Melee Weapon Attack: +3 to hit, reach 5 ft., Hit: 3 (1d4 + 1) kinetic damage and the flesh raider apprentice takes a chunk of flesh out of its target, swallowing it whole and gaining temporary hit points equal to its constitution modifier.
 ##;
 
+Flesh Raider
+Medium aberration, unaligned
+Armor Class 12
+Hit Points 8 (1d12 + 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 10 (+0) 14 (+2) 10 (+0) 10 (+0) 10 (+0)
+Senses passive Perception 10
+Languages Rakata
+Challenge 1/8 (25 XP)
+ACTIONS
+Blade Strike. Melee Weapon Attack: +3 to hit, reach 5 ft., Hit: 4 (1d6 + 1) kinetic damage.
+Feasting Bite (1/day). Melee Weapon Attack: +3 to hit, reach 5 ft., Hit: 3 (1d4 + 1) kinetic damage and the flesh raider takes a chunk of flesh out of its target, swallowing it whole and gaining temporary hit points equal to its constitution modifier.
+##;
+
+Flesh Raider Berserker
+Medium aberration, unaligned
+Armor Class 13
+Hit Points 19 (2d12 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 10 (+0) 16 (+3) 10 (+0) 10 (+0) 10 (+0)
+Saving Throws Str +4
+Skills Athletics +4
+Senses passive Perception 10
+Languages Rakata
+Challenge 1 (200 XP)
+Rage. On it's turn, the flesh raider berserker can enter a rage as a bonus action in combat. The rage lasts for 1 minute and can be used once per day, gaining the following abilities.\r- +2 damage on all melee attacks.\r- Resistance to kinetic damage.
+ACTIONS
+Blade Strike. Melee Weapon Attack: +4 to hit, reach 5 ft., Hit: 6 (1d8 + 2) kinetic damage.
+Feasting Bite (3/day). Melee Weapon Attack: +4 to hit, reach 5 ft., Hit: 4 (1d4 + 2) kinetic damage and the flesh raider berserker takes a chunk of flesh out of its target, swallowing it whole and gaining temporary hit points equal to its constitution modifier.
+##;
+
 Jubba Bird
 Tiny beast, neutral
 Armor Class 12
@@ -2345,4 +2376,248 @@ ACTIONS
 Multiattack. The trooper makes two attacks, one with its blaster pistol and one with its wrist launcher.
 Blaster Pistol. Ranged Weapon Attack: +5 to hit, range 40/160 ft., one target. Hit: 6 (1d6+3) energy damage.
 Wrist Launcher. Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target.* Hit:* 6 (1d6+3) kinetic damage, and each creature within 5 feet must make a DC 13 Dexterity saving throw, taking 3 (1d6) kinetic damage on a failed save, or half on a successful save.
+##;
+
+Armored Assault Tank (AAT)
+Huge construct, unaligned
+Armor Class 19
+Hit Points 168 (16d12 + 64)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 22 (+6) 19 (+4) 10 (+0) 14 (+2) 7 (-2)
+Saving Throws Str +9, Con +8
+Damage Vulnerabilities lightning
+Condition Immunities blinded, charmed, frightened, incapacitated, petrified, poisoned, prone, restrained, stunned, 
+Senses passive Perception 12
+Languages --
+Challenge 13 (10,000 XP)
+Circuitry. The construct has disadvantage on saving\rthrows against effects that would deal ion or lightning damage.
+Freedom Of Movement. The AAT ignores difficult terrain and can pass through occupied hostile spaces.
+Vulnerable Interior. The AAT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects  that occur in its interior.
+Gunner. The construct requires an active gunner to operate the vehicles weaponry. Gunner controls Plasma Cannon and Medium Repeating Blasters.
+Operated. Operated by a Pilot and Gunner roll a separate initiative for both.
+Piloted. The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. Pilot Controls movement, Ram action, and Rocket launchers.
+ACTIONS
+Pilot. Pilot of the AAT can use the Ram action and make one attack utilizing the Rocket Launcher.
+Gunner. Gunner can make two attacks using the medium repeating blasters.
+Ram. Any creature within the AAT's movement path must make a DC 17 Dexterity saving throw, taking 26 (4d12) kinetic damage on a failed save and is knocked prone, or half as much damage on a successful one.
+Rocket Launchers (6/Day Reload 1 Turn). Ranged weapon range 100/400 DC 14 launches a barrage of rockets at a target and any creature within 10ft. Taking 6d6 kinetic damage on a failed save and half as much on a successful one.
+Medium Repeating Blasters. Ranged Weapon Attack: +10 to hit, range 120/240 ft., one target. Hit: 25 (4d10+6) energy damage.
+Plasma Cannon (Recharge 5-6). The AAT launches a plasma shell 150/300 ft range target must be at least 15 ft away from the AAT. Blast has a 15ft Radius. Each creature in that area must make a DC 18 Dexterity saving throw, taking 52 (8d12) fire damage on a failed save, or half as much damage on a successful one. (If shot is over 150ft targets have advantage on dex save).
+##;
+
+Aryx
+Large beast, unaligned
+Armor Class 12
+Hit Points 19 (3d10 + 3)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 14 (+2) 15 (+2) 12 (+1) 2 (-4) 10 (+0) 5 (-3)
+Senses passive Perception 10
+Languages --
+Challenge 1/4 (50 XP)
+ACTIONS
+Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage.
+Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) kinetic damage.
+##;
+
+Assassin
+Medium humanoid (any), any alignment
+Armor Class 15 (heavy combat suit)
+Hit Points 78 (12d8+24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 14 (+2) 13 (+1) 11 (+0) 10 (+0)
+Saving Throws Dex +7, Int +5
+Skills Acrobatics +7, Deception +4, Perception +4, Stealth +11
+Damage Resistances poison
+Senses passive Perception 14
+Languages Galactic Basic and one other
+Challenge 8 (3,900 XP)
+Assassinate. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
+Evasion. If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Sneak Attack (1/Turn). The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the roll.
+ACTIONS
+Multiattack. The assassin makes two weapon attacks.
+Hidden blade. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 5 (1d6+3) kinetic damage.
+Hold-out. Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 5 (1d4+3) energy damage.
+##;
+
+Boar-wolf
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 42 (5d10 + 5)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 17 (+3) 10 (+0) 16 (+3) 2 (-4) 7 (-2) 5 (-3)
+Senses darkvision 60 ft., passive Perception 10
+Languages --
+Challenge 2 (450 XP)
+Charge. If the boar-wolf moves at least 20 ft. toward a target and hits it with a tusk attack on that turn, the target takes an extra 7 (2d6) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+Keen Ears And Nose. The beast has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Relentless (Recharges After A Short Or Long Rest). If the boarwolf takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+ACTIONS
+Tusk. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.
+##;
+
+Clodhopper
+Small beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 22 (4d6 + 8)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 14 (+2) 8 (-1) 14 (+2) 1 (-5) 10 (+0) 5 (-3)
+Senses passive Perception 10
+Languages --
+Challenge 1/4 (50 XP)
+Standing Leap. The clodhopper's long jump is up to 20 ft.\rand its high jump is up to 10 ft., with or without a running start.
+ACTIONS
+Beak. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage.
+##;
+
+Combat Engineer
+Medium humanoid (any), unaligned
+Armor Class 13 (heavy combat suit)
+Hit Points 45 (7d8 + 14)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 13 (+1) 12 (+1) 14 (+2) 16 (+3) 13 (+1) 11 (+0)
+Skills Technology +5
+Senses darkvision 60 ft., passive Perception 11
+Languages Galactic Basic and one other
+Challenge 4 (1100 XP)
+Tactical Technology. When the engineer casts a tech power that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the power and to succeed on the required saving throw.
+Technological Advantage. Once per turn, the engineer can deal an extra 7 (2d6) damage to a creature it hits with a damaging tech attack if that target is within 5 feet of an ally of the engineer and that ally isn't incapacitated.
+Spellcasting. The combat engineer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The engineer has 31 tech points. The combat engineer has the following  spells prepared:\rCantrips (At will): acid splash, jet of flame, cryogenic burst, electroshock\r1st level (31 slots): smoke cloud, homing rockets, overload\r2nd level (31 slots): magnetic field, acid dart, scorching ray\r3rd level (31 slots): explosion, tactical advantage, kolto cloud\r4th level (31 slots): cryogenic storm
+ACTIONS
+Vibrostaff. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) kinetic damage if used with two hands.
+Light Pistol. Ranged Weapon Attack: +3 to hit, range 40/160 ft., one target. Hit: 4 (1d4+1) energy damage.
+##;
+
+Combat Engineer, Junior
+Medium humanoid (any), unaligned
+Armor Class 12 (combat suit)
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 12 (+1) 14 (+2) 11 (+0) 10 (+0)
+Skills Technology +4
+Senses passive Perception 10
+Languages Galactic Basic
+Challenge 1 (200 XP)
+Spellcasting. The combat engineer is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The engineer has 14 tech points. The combat engineer has the following  spells prepared:\rCantrips (At will): electro shock, encrypted message, rime shot\r1st level (14 slots): energy shield, homing rockets, repair droid, smoke cloud\r2nd level (14 slots): acid dart, magnetic field
+ACTIONS
+Blaster Carbine. Ranged Weapon Attack: +3 to hit, range 60/240 ft., one target. Hit: 4 (1d6 + 1) energy damage.
+##;
+
+Eopie
+Large beast, unaligned
+Armor Class 9
+Hit Points 13 (2d10+2)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 16 (+3) 8 (-1) 15 (+2) 2 (-4) 8 (-1) 4 (-3)
+Senses passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.
+##;
+
+Ewok Pony
+Medium beast, unaligned
+Armor Class 10
+Hit Points 11 (2d8 + 2)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 15 (+2) 10 (+0) 13 (+1) 2 (-4) 11 (+0) 7 (-2)
+Senses passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+ACTIONS
+Hooves. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.
+##;
+
+Fathier
+Large beast, unaligned
+Armor Class 11
+Hit Points 26 (4d10 + 4)
+Speed 60 ft.
+STR DEX CON INT WIS CHA 18 (+4) 12 (+1) 13 (+1) 3 (-4) 12 (+1) 8 (-1)
+Skills Athletics +6
+Senses passive Perception 11
+Languages --
+Challenge 1/2 (100 XP)
+Keen Hearing. The fathier has advantage on Wisdom (Perception) checks that rely on hearing.
+Trampling Charge. If the fathier moves at least 20 ft.\rstraight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the fathier can make another attack with its hooves against it as a bonus action.
+ACTIONS
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) kinetic damage.
+##;
+
+Flutterplume
+Medium beast, unaligned
+Armor Class 10
+Hit Points 5 (1d8 + 1)
+Speed 10 ft., fly 50 ft.
+STR DEX CON INT WIS CHA 7 (-2) 10 (+0) 13 (+1) 2 (-4) 12 (+1) 4 (-3)
+Skills Perception +3
+Senses passive Perception 13
+Languages --
+Challenge 0 (25 XP)
+Keen Sight And Smell. The flutterplume has advantage on Wisdom (Perception) checks that rely on sight or smell.
+Pack Tactics. The flutterplume has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Beak. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: (1d4) piercing damage
+##;
+
+Force Storm Eye
+Gargantuan elemental, neautral
+Armor Class 19
+Hit Points 264 (16d20 + 96)
+Speed 0 ft., fly 120 ft. (hover)
+STR DEX CON INT WIS CHA 23 (+6) 28 (+9) 23 (+6) 2 (-4) 21 (+5) 18 (+4)
+Saving Throws Wis +12, Cha +11
+Damage Resistances energy, ion, and kinetic from unenhanced weapons
+Damage Immunities lightning, poison, sonic
+Condition Immunities exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+Senses truesight 120 ft., passive Perception 15
+Languages --
+Challenge 23 (50,000 XP)
+Air Form. The eye can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+Flyby. The eye doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+Legendary Resistance (3/Day). If the eye fails a saving throw, it can choose to succeed instead.
+Siege Conditions. The eye deals double damage to objects and structures.
+ACTIONS
+Multiattack. The eye attacks twice with thunder slam.
+Thunder Slam. Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 23 (4d6+9) sonic damage.
+Lightning Storm (Recharge 6). All other creatures within 120 ft. of the eye must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
+LEGENDARY ACTIONS
+Options. The eye can take 3 legendary actions. Choosing from the options below, one option can be used at a time and only at the end of another creature's turn. The eye regains spent legendary actions at the start of its turn.
+Move. The eye moves up to its speed.
+Lightning Strike (Costs 2 Actions). The eye can cause a bolt of lightning to strike a point anywhere under its storm.\rEach creature within 5 feet of that point must make a DC 20 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much sonic damage on a successful one.
+Screaming Gale (Costs 3 Actions). The eye releases a blast of thunder and wind in a line that is 1 mile long and 20 feet wide. Objects in that area take 22 (4d10) sonic damage. Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (4d10) sonic damage and be flung up to 60 ft. in a direction away from the line. If a thown target collides with immovable object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 ft. it was thrown before impact. If the target would collide with another creature instead, that other creature must succeed on a DC19 Dexterity saving throw or take the same damage and be knocked prone.
+##;
+
+Fyrnock
+Medium beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 15 (+2) 16 (+3) 13 (+1) 3 (-4) 10 (+0) 7 (-2)
+Skills Stealth +5
+Senses darkvision 120 ft., passive Perception 10
+Languages --
+Challenge 1/2 (100 XP)
+Reckless. At the start of its turn, the fyrnock can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+Sunlight Hypersensitivity. The fyrnock takes 5 fire damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+ACTIONS
+Multiattack. The fyrnock makes two claw attacks.
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage.
+##;
+
+Gamorrean Guard
+Medium humanoid (Gamorrean), chaotic dark
+Armor Class 15 (Natural Armor)
+Hit Points 84 (9d8 + 36)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 18 (+4) 12 (+1) 18 (+4) 9 (-1) 11 (+0) 9 (-1)
+Damage Resistances Kinetic and Energy from unenhanced weapons
+Senses passive Perception 10
+Languages Gamorrese, Understands Basic
+Challenge 2 (450 XP)
+Traits Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+Brutal Critical. When the guards scores a critical hit with a melee weapon attack, roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
+ACTIONS
+Vibroaxe. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit 12 (1d12 + 6)
 ##;
