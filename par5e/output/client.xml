@@ -32550,6 +32550,747 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\gundarkalpha.png@SW5e Player Book</token>
       </gundarkalpha>
+      <at_at>
+        <locked type="number">1</locked>
+        <name type="string">AT-AT</name>
+        <type type="string">Repeaters. Ranged Weapon Attack: +8 to hit, range 240/360 ft.</type>
+        <size type="string">Medium</size>
+        <ac type="number">20</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">330</hp>
+        <hd type="string">(20d20 + 120)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">27</score>
+            <modifier type="string">+8</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +14, Con +12</savingthrows>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">psychic</damageresistances>
+        <damageimmunities type="string">necrotic, poison</damageimmunities>
+        <conditionimmunities type="string">blinded, charmed, frightened, incapacitated, petrified, poisoned, prone, restrained, stunned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">one target. Hit: 22 (4d10) energy damage.</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">19</cr>
+        <xp type="number">22000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Heavy Durasteel Armor</name>
+            <desc type="string">The outer layer of the AT-AT is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 30 points, the AT-AT takes no damage from that attack. If the AT-AT takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Towering</name>
+            <desc type="string">Creatures of Large size or smaller can stand in the AT-AT's space.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Troop Transport</name>
+            <desc type="string">The AT-AT can transport a maximum of 40 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-AT.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The AT-AT's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00006>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The AT-AT can use its Frightful Presence. It then makes three attacks. one with its laser cannon volley and two with its medium repeaters.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Laser Cannon Volley</name>
+            <desc type="string">The AT-AT chooses a point within 320 ft and lets loose a blast from each of its heavy laser cannons that explodes in a 15ft cube around that point.\rEach creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 54 (12d8) energy damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Stomp</name>
+            <desc type="string">All creatures standing within the AT-AT's space or within 5ft of it must make a DC 20 Dexterity saving throw, taking 78 (12d12) kinetic damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Frightful Presence</name>
+            <desc type="string">Each creature of the AT-AT's choice within 240 feet of the AT-AT and aware of it must succeed on a DC 16 Wisdom saving throw or become Frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-AT's Frightful Presence for 24 hours.</desc>
+          </id-00004>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The AT-AT can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The AT-AT regains spent legendary actions at the start of their turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stomp</name>
+            <desc type="string">The AT-AT makes a stomp attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Repeating Blasters</name>
+            <desc type="string">The AT-AT makes a single attack with its medium repeaters.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Deploy Troops (Costs 2 Actions)</name>
+            <desc type="string">The AT-AT mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers and 1 74-Z speeder bike. These troops appear in any unoccupied spaces within 10 ft. of the AT-AT.</desc>
+          </id-00004>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\at_at.png@SW5e Player Book</token>
+      </at_at>
+      <at_rt>
+        <locked type="number">1</locked>
+        <name type="string">AT-RT</name>
+        <type type="string">construct</type>
+        <size type="string">Large</size>
+        <ac type="number">15</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">58</hp>
+        <hd type="string">(9d10+9)</hd>
+        <speed type="string">50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +5</savingthrows>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poisoned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00002>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Redirect</name>
+            <desc type="string">If the construct's pilot takes damage from a source the pilot is aware of and can see, the construct can use its reaction to instead take that damage.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The construct makes two attacks with its repeating blaster cannon or uses its mortar launcher.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Repeating Blaster Cannon</name>
+            <desc type="string">Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 10 (2d6+3) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Mortar Launcher</name>
+            <desc type="string">The construct launches a mortar at a point it can see within 100 feet. Each creature in a 20foot radius centered on that point must make a Dexterity saving throw. A target takes 14 (4d6) damage on a failed save, or half as much on a succesful one.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\at_rt.png@SW5e Player Book</token>
+      </at_rt>
+      <at_st>
+        <locked type="number">1</locked>
+        <name type="string">AT-ST</name>
+        <type type="string">Repeating Blasters. Ranged Weapon Attack: +7 to hit, range 120/240 ft.</type>
+        <size type="string">Medium</size>
+        <ac type="number">17</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">168</hp>
+        <hd type="string">(16d12+64)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +10, Con +8</savingthrows>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">psychic</damageresistances>
+        <damageimmunities type="string">necrotic, poison</damageimmunities>
+        <conditionimmunities type="string">blinded, charmed, frightened, incapacitated, petrified, poisoned, prone, restrained, stunned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 12</senses>
+        <alignment type="string">one target. Hit: 25 (4d10+3) energy damage.</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">11</cr>
+        <xp type="number">7200</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Towering</name>
+            <desc type="string">Creatures of Medium size or smaller can stand in the AT-ST's space.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The AT-ST's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00004>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The AT-ST can use its Frightful Presence. It then makes two attacks with its medium repeating blasters or takes the Stomp action.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stomp</name>
+            <desc type="string">All creatures standing within the AT-ST's space or within 5 feet of it must make a DC 18 Dexterity saving throw, taking 39 (6d12) kinetic damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Frightful Presence</name>
+            <desc type="string">Each creature of the AT-ST's choice that is within 80 feet of the AT-ST and aware of it must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the AT-ST's Frightful Presence for the next 24 hours.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\at_st.png@SW5e Player Book</token>
+      </at_st>
+      <at_te>
+        <locked type="number">1</locked>
+        <name type="string">AT-TE</name>
+        <type type="string">Repeaters. Ranged Weapon Attack: +8 to hit, range 120/240 ft.</type>
+        <size type="string">Medium</size>
+        <ac type="number">18</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">248</hp>
+        <hd type="string">(16d20 + 80)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">25</score>
+            <modifier type="string">+7</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +12, Con +10</savingthrows>
+        <damageresistances type="string">psychic</damageresistances>
+        <damageimmunities type="string">ion, necrotic, poison</damageimmunities>
+        <conditionimmunities type="string">blinded, charmed, frightened, incapacitated, petrified, poisoned, prone, restrained, stunned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 12</senses>
+        <alignment type="string">one target. Hit: 19 (3d10+3) energy damage.</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">18</cr>
+        <xp type="number">20000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Electromagnetic Shielding</name>
+            <desc type="string">The AT-TE is Immune to Ion damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Heavy Durasteel Armor</name>
+            <desc type="string">The outer layer of the AT-TE is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the AT-TE takes no damage from that attack. If the AT-TE takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Piloted</name>
+            <desc type="string">The construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Towering</name>
+            <desc type="string">Creatures of Medium size or smaller can stand in the AT-TE's space.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Troop Transport</name>
+            <desc type="string">The AT-TE can transport a maximum of 20 stormtroopers and five speeder bikes, which it can deploy using its Deploy Troops legendary action, or which can be fought by creatures inside of the AT-TE.</desc>
+          </id-00006>
+          <id-00007>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The AT-TE's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00007>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The AT-TE makes four attacks. one with its laser cannon volley and three with its medium repeaters.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Laser Cannon Volley</name>
+            <desc type="string">The AT-TE chooses a point within 240 ft and lets loose a blast from its heavy laser cannon that explodes in a 15ft cube around that point. Each creature within the cube must succeed on a DC 16 Dexterity saving throw, taking 33 (6d10) energy damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00002>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The AT-TE can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The AT-TE regains spent legendary actions at the start of their turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Repeating Blasters</name>
+            <desc type="string">The AT-TE makes a single attack with its medium repeaters.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Deploy Troops (Costs 2 Actions)</name>
+            <desc type="string">The AT-TE mobilizes some of the soldiers traveling within it. It deploys 1d4+2 Troopers. These troops appear in any unoccupied spaces within 10 ft. of the AT-TE.</desc>
+          </id-00003>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\at_te.png@SW5e Player Book</token>
+      </at_te>
+      <explosivesspecialist>
+        <locked type="number">1</locked>
+        <name type="string">Explosives Specialist</name>
+        <type type="string">humanoid</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(battle armor)</actext>
+        <hp type="number">39</hp>
+        <hd type="string">(6d8 + 12)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Technology +5, Perception +3</skills>
+        <damageresistances type="string">fire</damageresistances>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic Basic</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The explosives specialist is a 6th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The specialist has 27 tech points. The explosives specialist has the following  spells prepared:\rCantrips (At will): combustive shot, electro shock, encrypted message\r1st level (27 slots): absorb energy, energy shield, oil slick, smoke cloud\r2nd level (27 slots): overheat, release, scorching ray\r3rd level (27 slots): explosion, sabotage charges</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8 + 2) energy damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Breaching Charge</name>
+            <desc type="string">After spending at least 30 seconds setting the charge, the engineer may attach the charge to a surface. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator, which the engineer has. Once detonated, the breaching charge destroys an unenhanced section of wall up to 10 feet wide, 10 feet tall, and 5 feet deep. Additionally, each creature within 20 feet of the charge must make a DC 13 Dexterity saving throw. A creature takes 3d6 fire damage and 3d6 kinetic damage on a failed save, or half as much on a successful one. A construct makes this save with disadvantage. If the breaching charge is installed on the construct, it automatically fails the saving throw.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\explosivesspecialist.png@SW5e Player Book</token>
+      </explosivesspecialist>
+      <fieldmedic>
+        <locked type="number">1</locked>
+        <name type="string">Field Medic</name>
+        <type type="string">humanoid</type>
+        <size type="string">Medium</size>
+        <ac type="number">14</ac>
+        <actext type="string">(heavy combat suit, light shield)</actext>
+        <hp type="number">16</hp>
+        <hd type="string">(3d8 + 3)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Medicine +3, Perception +3</skills>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic Basic</languages>
+        <cr type="string">1</cr>
+        <xp type="number">200</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Triage</name>
+            <desc type="string">Any friendly creature reduced to 0 HP within 15 feet of the field medic is automatically considered to be alive and stabilized.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The field medic is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The field medic has 14 tech points. The field medic has the following  spells prepared:\rCantrips (At will): acid splash, temporary boost, warding shot\r1st level (14 slots): element of surprise, kolto pack, poison dart\r2nd level (14 slots): paralyze humanoid, toxin purge, shared shielding</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Blaster Carbine</name>
+            <desc type="string">Ranged Weapon Attack: +3 to hit, range 60/240 ft., one target. Hit: 4 (1d6 + 1) energy damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\fieldmedic.png@SW5e Player Book</token>
+      </fieldmedic>
+      <gh_7medicalanalysisunit>
+        <locked type="number">1</locked>
+        <name type="string">GH-7 Medical Analysis Unit</name>
+        <type type="string">droid</type>
+        <size type="string">Small</size>
+        <ac type="number">11</ac>
+        <actext type="string"/>
+        <hp type="number">1</hp>
+        <hd type="string">(1d6-2)</hd>
+        <speed type="string">25 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Medicine +3</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <senses type="string">passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic Basic and one other</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Interfaced Healing Protocol</name>
+            <desc type="string">While you are interfaced with this droid via the tracker droid interface tech power, when you restore hit points to a creature that is within 5 feet of your droid, you can roll the dice twice and take either total.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Medkit (1/rest)</name>
+            <desc type="string">As an action, the droid can expend a use of a medkit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Medpac (1/day)</name>
+            <desc type="string">As an action, the droid uses a medpac to restore 2d4+2 hit points to a creature within 5 feet.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Administer Antidote (1/rest)</name>
+            <desc type="string">As an action, the droid can administer a charge of an antidote kit to cure a target of one poison affecting them or to give them advantage on saving throws against poison for 1 hour.\rIt confers no benefit to droids or constructs.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gh_7medicalanalysisunit.png@SW5e Player Book</token>
+      </gh_7medicalanalysisunit>
+      <grandadmiral>
+        <locked type="number">1</locked>
+        <name type="string">Grand Admiral</name>
+        <type type="string">humanoid</type>
+        <size type="string">Medium</size>
+        <ac type="number">19</ac>
+        <actext type="string">(heavy combat suit and medium</actext>
+        <hp type="number">255</hp>
+        <hd type="string">(30d8 + 120)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">27</score>
+            <modifier type="string">+8</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +10, Int +9, Wis +7</savingthrows>
+        <skills type="string">Athletics +8, Deception +12, Insight +20, Investigation +22, Perception +20, Persuasion +12</skills>
+        <damageresistances type="string">psychic</damageresistances>
+        <senses type="string">darkvision 120 ft., passive Perception 30</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic basic, Cheunh, and any 3 others</languages>
+        <cr type="string">20</cr>
+        <xp type="number">25000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Hardened Mind</name>
+            <desc type="string">When the Grand Admiral makes a saving throw against illusions or to resist charm and fear effects, it may add its Intelligence modifier (8) to the roll.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Leadership (1/Rest)</name>
+            <desc type="string">For 1 minute, the Grand Admiral can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the Grand Admiral. A creature can benefit from only one Leadership die at a time. This effect ends if the Grand Admiral is incapacitated.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the Grand Admiral fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Sidearm Mastery</name>
+            <desc type="string">The Grand Admiral's ranged weapon attacks ignore half cover against targets within 15 feet of the Grand Admiral. The Grand Admiral gains a +3 bonus to attack rolls made with a pistol.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Targeted Analysis</name>
+            <desc type="string">The Grand Admiral's attack rolls cannot suffer from disadvantage.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Tech Resistance</name>
+            <desc type="string">The Grand Admiral has advantage on saving throws against tech powers.</desc>
+          </id-00006>
+          <id-00007>
+            <name type="string">Innate Spellcasting</name>
+            <desc type="string">The grand admiral's innate spellcasting ability is Intelligence (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\rAt will: assess the situation, analyze, decryption program, detect enhancement, spot the weakness, detect invisibility, detect traps\r3/day each: element of surprise, explosion, tactical advantage, ballistic shield, salvo, friendly fire, greater analyze\r1/day each: contingency, find the path, tactical superiority, stun, predictive AI</desc>
+          </id-00007>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Calculated Timing</name>
+            <desc type="string">The Grand Admiral can focus a target down with the help with an ally. Once per round, whenever a creature is attacked by someone other than the Grand Admiral, the Grand Admiral can use its reaction to make one weapon attack against them.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The Grand Admiral makes three melee weapon attacks or three ranged weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Heavy Pistol</name>
+            <desc type="string">Ranged Weapon Attack: +15 to hit, range 40/160 ft., one target. Hit: 16 (1d8 + 2d6 + 5) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Techblade</name>
+            <desc type="string">Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Unarmed Strike</name>
+            <desc type="string">Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (1d4 + 2d6 + 5) kinetic damage.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">All-Out Attack (1/rest)</name>
+            <desc type="string">The Grand Admiral chooses a number of allies up to its Intelligence modifier (8) within 60 feet who can see or hear it. The chosen allies may then immediately use their reaction to make one weapon attack against a target of the Grand Admiral's choice. It may choose the target for each attack separately.</desc>
+          </id-00005>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The Grand Admiral can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The Grand Admiral regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Move</name>
+            <desc type="string">The Grand Admiral can move up to its speed without provoking opportunity attacks.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Casting</name>
+            <desc type="string">The Grand Admiral can cast an at-will power.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Attack</name>
+            <desc type="string">The Grand Admiral makes one Heavy Pistol, Techblade, or Unarmed Strike attack.</desc>
+          </id-00004>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\grandadmiral.png@SW5e Player Book</token>
+      </grandadmiral>
+      <gutkurr>
+        <locked type="number">1</locked>
+        <name type="string">Gutkurr</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">16</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">45</hp>
+        <hd type="string">(6d10 + 12)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">energy, kinetic, and ion from unenhanced weapons</damageresistances>
+        <senses type="string">darkvision 60 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Wounded Fury</name>
+            <desc type="string">While it has 10 hit points or fewer, the gutkurr has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The gutkuur can make two claw attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\gutkurr.png@SW5e Player Book</token>
+      </gutkurr>
     </npcdata>
     <npclists>
       <npcs>
@@ -32734,6 +33475,46 @@
                 </link>
                 <source type="number"/>
               </assassin>
+              <at_at>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_at@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_at>
+              <at_rt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_rt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_rt>
+              <at_st>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_st@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_st>
+              <at_te>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_te@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_te>
             </index>
           </typeletterA>
           <typeletterB>
@@ -33534,6 +34315,16 @@
                 </link>
                 <source type="number"/>
               </fyrnock>
+              <fieldmedic>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.fieldmedic@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </fieldmedic>
             </index>
           </typeletterF>
           <typeletterJ>
@@ -33824,6 +34615,16 @@
                 </link>
                 <source type="number"/>
               </ewokpony>
+              <explosivesspecialist>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.explosivesspecialist@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </explosivesspecialist>
             </index>
           </typeletterE>
           <typeletterG>
@@ -33969,6 +34770,36 @@
                 </link>
                 <source type="number"/>
               </gundarkalpha>
+              <gh_7medicalanalysisunit>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gh_7medicalanalysisunit@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gh_7medicalanalysisunit>
+              <grandadmiral>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.grandadmiral@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </grandadmiral>
+              <gutkurr>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gutkurr@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gutkurr>
             </index>
           </typeletterG>
           <typeletterK>
@@ -34534,6 +35365,16 @@
                 </link>
                 <source type="number"/>
               </trooper_heavy>
+              <explosivesspecialist>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.explosivesspecialist@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </explosivesspecialist>
             </index>
           </level03>
           <level01>
@@ -34659,6 +35500,16 @@
                 </link>
                 <source type="number"/>
               </combatengineer_junior>
+              <fieldmedic>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.fieldmedic@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </fieldmedic>
             </index>
           </level01>
           <level00>
@@ -34784,6 +35635,16 @@
                 </link>
                 <source type="number"/>
               </gonkdroid>
+              <gh_7medicalanalysisunit>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gh_7medicalanalysisunit@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gh_7medicalanalysisunit>
             </index>
           </level00>
           <level02>
@@ -35114,6 +35975,26 @@
                 </link>
                 <source type="number"/>
               </gundarkmatriarch>
+              <at_rt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_rt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_rt>
+              <gutkurr>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gutkurr@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </gutkurr>
             </index>
           </level04>
           <level06>
@@ -35864,6 +36745,16 @@
                 </link>
                 <source type="number"/>
               </exogorth_adolescent>
+              <at_st>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_st@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_st>
             </index>
           </level11>
           <level19>
@@ -35879,6 +36770,16 @@
                 </link>
                 <source type="number"/>
               </rancor_ancient>
+              <at_at>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_at@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_at>
             </index>
           </level19>
           <level23>
@@ -35896,6 +36797,36 @@
               </forcestormeye>
             </index>
           </level23>
+          <level18>
+            <description type="string">18</description>
+            <index>
+              <at_te>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_te@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </at_te>
+            </index>
+          </level18>
+          <level20>
+            <description type="string">20</description>
+            <index>
+              <grandadmiral>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.grandadmiral@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </grandadmiral>
+            </index>
+          </level20>
         </groups>
       </bylevel>
       <bytype>
@@ -36554,6 +37485,16 @@
                 </link>
                 <source>beast</source>
               </gundarkalpha>
+              <gutkurr>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gutkurr@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </gutkurr>
             </index>
           </typebeast>
           <typeplant>
@@ -36844,6 +37785,16 @@
                 </link>
                 <source>droid</source>
               </gonkdroid_weaponized>
+              <gh_7medicalanalysisunit>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.gh_7medicalanalysisunit@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </gh_7medicalanalysisunit>
             </index>
           </typedroid>
           <typehumanoid_any_>
@@ -37344,6 +38295,36 @@
                 </link>
                 <source>humanoid</source>
               </gorax>
+              <explosivesspecialist>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.explosivesspecialist@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </explosivesspecialist>
+              <fieldmedic>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.fieldmedic@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </fieldmedic>
+              <grandadmiral>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.grandadmiral@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </grandadmiral>
             </index>
           </typehumanoid>
           <typeconstruct>
@@ -37379,6 +38360,16 @@
                 </link>
                 <source>construct</source>
               </hidden_turret>
+              <at_rt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_rt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>construct</source>
+              </at_rt>
             </index>
           </typeconstruct>
           <typehumanoid_human_>
@@ -37511,6 +38502,51 @@
               </gamorreanguard>
             </index>
           </typehumanoid_gamorrean_>
+          <typerepeaters_rangedweaponattack__8tohit_range240_360ft_>
+            <description type="string">Repeaters. Ranged Weapon Attack: +8 To Hit, Range 240/360 Ft.</description>
+            <index>
+              <at_at>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_at@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Repeaters. Ranged Weapon Attack: +8 to hit, range 240/360 ft.</source>
+              </at_at>
+            </index>
+          </typerepeaters_rangedweaponattack__8tohit_range240_360ft_>
+          <typerepeatingblasters_rangedweaponattack__7tohit_range120_240ft_>
+            <description type="string">Repeating Blasters. Ranged Weapon Attack: +7 To Hit, Range 120/240 Ft.</description>
+            <index>
+              <at_st>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_st@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Repeating Blasters. Ranged Weapon Attack: +7 to hit, range 120/240 ft.</source>
+              </at_st>
+            </index>
+          </typerepeatingblasters_rangedweaponattack__7tohit_range120_240ft_>
+          <typerepeaters_rangedweaponattack__8tohit_range120_240ft_>
+            <description type="string">Repeaters. Ranged Weapon Attack: +8 To Hit, Range 120/240 Ft.</description>
+            <index>
+              <at_te>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.at_te@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>Repeaters. Ranged Weapon Attack: +8 to hit, range 120/240 ft.</source>
+              </at_te>
+            </index>
+          </typerepeaters_rangedweaponattack__8tohit_range120_240ft_>
         </groups>
       </bytype>
     </npclists>
