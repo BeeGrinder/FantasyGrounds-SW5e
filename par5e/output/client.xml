@@ -11196,7 +11196,7 @@
             </text>
           </dangersense2>
           <berserkerapproach3>
-            <name type="string">Berserker Approach</name>
+            <name type="string">Berserker Approach</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p>
@@ -12143,7 +12143,7 @@
             </text>
           </forceshield2>
           <consulartradition3>
-            <name type="string">Consular Tradition</name>
+            <name type="string">Consular Tradition</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.</p>
@@ -12724,7 +12724,7 @@
             </text>
           </toolunderstanding3>
           <engineeringdiscipline3>
-            <name type="string">Engineering Discipline</name>
+            <name type="string">Engineering Discipline</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.</p>
@@ -13932,7 +13932,7 @@
             </text>
           </maneuvers2>
           <fighterspeciality3>
-            <name type="string">Fighter Speciality</name>
+            <name type="string">Fighter Speciality</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
@@ -14871,7 +14871,7 @@
             </text>
           </guardianaura2>
           <guardianform3>
-            <name type="string">Guardian Form</name>
+            <name type="string">Guardian Form</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.</p>
@@ -15493,7 +15493,7 @@
             </text>
           </unarmoredmovement2>
           <monasticorder3>
-            <name type="string">Monastic Order</name>
+            <name type="string">Monastic Order</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
@@ -17010,7 +17010,7 @@
             </text>
           </expertise3>
           <academicpursuit3>
-            <name type="string">Academic Pursuit</name>
+            <name type="string">Academic Pursuit</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you dedicate your studies towards a pursuit, which is detailed at the end of the class description. The pursuit you choose grants you features at 3rd level, and again at 6th, 9th, and 17th level.</p>
@@ -17849,7 +17849,7 @@
             </text>
           </pathfinder3>
           <scouttechnique3>
-            <name type="string">Scout Technique</name>
+            <name type="string">Scout Technique</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
@@ -18741,7 +18741,7 @@
             <specialization type="string">Stalker Technique</specialization>
           </idealofthevigorous>
           <sentinelcalling3>
-            <name type="string">Sentinel Calling</name>
+            <name type="string">Sentinel Calling</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.</p>
@@ -33291,6 +33291,331 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\gutkurr.png@SW5e Player Book</token>
       </gutkurr>
+      <hawk_bat>
+        <locked type="number">1</locked>
+        <name type="string">Hawk-bat</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">7</hp>
+        <hd type="string">(2d6)</hd>
+        <speed type="string">10 ft., climb 10 ft., fly 60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +6</skills>
+        <senses type="string">blindsight 60 ft., passive Perception 16</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Echolocation</name>
+            <desc type="string">The hawk-bat loses blindsight when deafened.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Hearing And Sight</name>
+            <desc type="string">The hawk-bat has advantage on Wisdom (Perception) checks that rely on hearing and sight.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The hawk-bat has advantage on an attack roll against a creature if at least one of the hawk-bat's allies is within 5 ft. of the creature and the ally isn't incapacitated.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Talons</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\hawk_bat.png@SW5e Player Book</token>
+      </hawk_bat>
+      <hawk_batswarm>
+        <locked type="number">1</locked>
+        <name type="string">Hawk-bat Swarm</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">44</hp>
+        <hd type="string">(8d10)</hd>
+        <speed type="string">10 ft., climb 10 ft., fly 60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +6</skills>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">blindsight 60 ft., passive Perception 16</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Swarm</name>
+            <desc type="string">The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small hawk-bats. The swarm can't regain hit points or gain temporary hit points.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Echolocation</name>
+            <desc type="string">The swarm can't use its blindsight while deafened.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Keen Hearing And Sight</name>
+            <desc type="string">The swarm has advantage on Wisdom (Perception) checks that rely on hearing and sight.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Talons</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 11 (2d8 + 2) kinetic damage or 7 (1d8 + 2) kinetic damage if the swarm has half of its hit points or fewer.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\hawk_batswarm.png@SW5e Player Book</token>
+      </hawk_batswarm>
+      <hornedkathhound>
+        <locked type="number">1</locked>
+        <name type="string">Horned Kath Hound</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natutal armor)</actext>
+        <hp type="number">22</hp>
+        <hd type="string">(4d8 + 4)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">darkvision 30 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Hearing And Smell</name>
+            <desc type="string">The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Charge</name>
+            <desc type="string">If the hound moves at least 20 ft. straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the hound can make another attack with its tusks against it as a bonus action.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tusk</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\hornedkathhound.png@SW5e Player Book</token>
+      </hornedkathhound>
+      <hrumph>
+        <locked type="number">1</locked>
+        <name type="string">Hrumph</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">11</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">45</hp>
+        <hd type="string">(6d10 + 12)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Charge</name>
+            <desc type="string">If the hrumph moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Gore</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\hrumph.png@SW5e Player Book</token>
+      </hrumph>
+      <hssiss>
+        <locked type="number">1</locked>
+        <name type="string">Hssiss</name>
+        <type type="string">aberration</type>
+        <size type="string">Large</size>
+        <ac type="number">18</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">125</hp>
+        <hd type="string">(15d10+45)</hd>
+        <speed type="string">30 ft., swim 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +5, Con +6, Wis +3, Cha +5</savingthrows>
+        <skills type="string">Perception +6, Stealth +5</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 16</senses>
+        <alignment type="string">chaotic dark</alignment>
+        <languages type="string">Understands Sith commands but can't speak</languages>
+        <cr type="string">7</cr>
+        <xp type="number">2900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Amphibious</name>
+            <desc type="string">The dragon can breathe air and water.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Sith-born</name>
+            <desc type="string">Dark forcecasters and Sith (species) have advantage on Animal Handling checks against Hssiss.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The Hssiss makes three attacks, once with its bite and twice with its claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 14 (3d8+4) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 17) or become poisoned and take 6 (2d6) toxin damage per turn. The target is also grappled (escape DC 16). Until this grapple ends, the target is restrained, and the Hssiss can't bite another target.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 11 (3d6+4) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 15) or become poisoned and take 6 (2d6) toxin damage per turn.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Invisibility</name>
+            <desc type="string">The Hssiss magically turns Invisible until it attacks, or until its Concentration ends (as if concentrating on a power).</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\hssiss.png@SW5e Player Book</token>
+      </hssiss>
     </npcdata>
     <npclists>
       <npcs>
@@ -33765,6 +34090,56 @@
                 </link>
                 <source type="number"/>
               </hiverat>
+              <hawk_bat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hawk_bat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hawk_bat>
+              <hawk_batswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hawk_batswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hawk_batswarm>
+              <hornedkathhound>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hornedkathhound@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hornedkathhound>
+              <hrumph>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hrumph@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hrumph>
+              <hssiss>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hssiss@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hssiss>
             </index>
           </typeletterH>
           <typeletterI>
@@ -35880,6 +36255,36 @@
                 </link>
                 <source type="number"/>
               </gundark_adult>
+              <hawk_batswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hawk_batswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hawk_batswarm>
+              <hornedkathhound>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hornedkathhound@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hornedkathhound>
+              <hrumph>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hrumph@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hrumph>
             </index>
           </level02>
           <level04>
@@ -36475,6 +36880,16 @@
                 </link>
                 <source type="number"/>
               </reek_adult>
+              <hssiss>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hssiss@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hssiss>
             </index>
           </level07>
           <level1_4>
@@ -36580,6 +36995,16 @@
                 </link>
                 <source type="number"/>
               </hiverat>
+              <hawk_bat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hawk_bat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </hawk_bat>
             </index>
           </level1_4>
           <level21>
@@ -37495,6 +37920,46 @@
                 </link>
                 <source>beast</source>
               </gutkurr>
+              <hawk_bat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hawk_bat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </hawk_bat>
+              <hawk_batswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hawk_batswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </hawk_batswarm>
+              <hornedkathhound>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hornedkathhound@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </hornedkathhound>
+              <hrumph>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hrumph@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </hrumph>
             </index>
           </typebeast>
           <typeplant>
@@ -38095,6 +38560,16 @@
                 </link>
                 <source>aberration</source>
               </rakghoul_hulking>
+              <hssiss>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.hssiss@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>aberration</source>
+              </hssiss>
             </index>
           </typeaberration>
           <typeundead>
