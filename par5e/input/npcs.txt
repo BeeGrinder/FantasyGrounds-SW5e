@@ -3269,7 +3269,7 @@ Rally Troops. (recharge 5-6) The Officer rallies his troops, giving all allies w
 ##;
 
 IT-O Interrogation Unit
-Tiny , unaligned
+Tiny droid, unaligned
 Armor Class 11
 Hit Points 6 (4d4 - 4)
 Speed 0 ft., fly 40 ft. (hover)
@@ -3284,4 +3284,106 @@ Challenge 1/4 (50 XP)
 Flyby. The IT-O Unit doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 ACTIONS
 Dart Launcher. Ranged Weapon Attack: +3 to hit, range 15/60 ft., one target. Hit: 1 kinetic damage plus 7 (2d6) poison damage. On a hit, the target must succeed on a Con. saving throw (DC 12) or become stunned for one round.
+##;
+
+Jakrab
+Tiny beast, unaligned
+Armor Class 12
+Hit Points 3 (2d4 - 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 4 (-3) 15 (+2) 7 (-2) 3 (-4) 12 (+1) 8 (-1)
+Skills Perception +3
+Senses passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Keen Hearing. The jakrab has advantage on Wisdom (Perception) checks that rely on hearing.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Jawa Scrapper
+Small humanoid (jawa), neutral
+Armor Class 12
+Hit Points 13 (3d6 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 14 (+2) 12 (+1) 11 (+0) 10 (+0) 8 (-1)
+Skills Stealth +6
+Senses darkvision 60 ft., passive Perception 10
+Languages Jawaese, understands but doesn't speak Galactic Basic
+Challenge 1/2 (100 XP)
+Nimble Escape. The jawa can take the Disengage or Hide action as a bonus action on each of its turns.
+ACTIONS
+Ion Blaster. Ranged Weapon Attack: +4 to hit, range 40/160 ft., one creature. Hit 3 (1d4 + 2) ion damage.
+Ion Grenade (3/day). The jawa throws a grenade at a point it can see within 20 ft. Each creature within 10 feet must make a DC 12 Dexterity saving throw. A creature takes 2d4 ion damage on a failed save, or half as much as on a successful one. Any electronics within the blast radius are disabled until rebooted.
+##;
+
+Jawa Tinkerer
+Small humanoid (jawa), neutral
+Armor Class 12
+Hit Points 10 (3d6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 14 (+2) 10 (+0) 14 (+2) 10 (+0) 8 (-1)
+Skills Stealth +6, Technology +6
+Senses darkvision 60 ft., passive Perception 10
+Languages Jawaese, understands but doesn't speak Galactic Basic
+Challenge 1/2 (100 XP)
+Nimble Escape. The jawa can take the Disengage or Hide action as a bonus action on each of its turns.
+Spellcasting. The jawa tinkerer is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The jawa has 6 tech points. The jawa tinkerer has the following  spells prepared:\rCantrips (At will): electroshock, mending, on/off\r1st level (6 slots): oil slick, overload, repair droid
+ACTIONS
+Grovel, Cower, and Beg. The jawa cowers pathetically to distract nearby foes. Until the end of its next turn, its allies gain advantage on attack rolls against any target within 10 feet of the jawa.
+##;
+
+Jawa Shaman
+Small humanoid (jawa), neutral
+Armor Class 12
+Hit Points 27 (6d6+6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 14 (+2) 12 (+1) 10 (+0) 14 (+2) 8 (-1)
+Skills Lore +1, Stealth +6
+Senses darkvision 60 ft., passive Perception 12
+Languages Jawaese, understands but doesn't speak Galactic Basic
+Challenge 2 (450 XP)
+Nimble Escape. The jawa can take the Disengage or Hide action as a bonus action on each of its turns.
+Spellcasting. The jawa shaman is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The jawa has 18 force points. The jawa shaman has the following  spells prepared:\rCantrips (At will): affect mind, give life, spare the dying\r1st level (18 slots): beast trick, heal, heroism\r2nd level (18 slots): restoration, stun
+ACTIONS
+Vibrostaff. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit 5 (2d4) kinetic damage.
+Grovel, Cower, and Beg. The jawa cowers pathetically to distract nearby foes. Until the end of its next turn, its allies gain advantage on attack rolls against any target within 10 feet of the jawa.
+##;
+
+Junk Droid
+Medium droid, unaligned
+Armor Class 13 (armor scraps)
+Hit Points 13 (2d8+4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 14 (+2) 15 (+2) 6 (-2) 8 (-1) 5 (-3)
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 60 ft., passive Perception 10
+Languages Binary, Galactic Basic
+Challenge 1/4 (50 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+ACTIONS
+Multiattack. The junkyard droid makes two blaster carbine attacks or two vibroblade attacks.
+Blaster Carbine. Ranged Weapon Attack: +4 to hit, range 60/240 ft., one target. Hit: 5 (1d6+2) energy damage.
+Vibroblade. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 5 (1d6+2) kinetic damage.
+##;
+
+Junk Behemoth
+Huge droid, unaligned
+Armor Class 12 (armor scraps)
+Hit Points 57 (6d12+18)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 12 (+1) 17 (+3) 6 (-2) 8 (-1) 5 (-3)
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 10
+Languages Binary, Galactic Basic
+Challenge 1 (200 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+ACTIONS
+Multiattack. The junk behemoth makes two blaster cannon attacks or two slam attacks.
+Blaster Cannon. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d10+1) energy damage.
+Slam. Melee Weapon Attack: +6 to hit, reach 10ft., one target. Hit: 8 (1d10+3) kinetic damage.
 ##;
