@@ -74,19 +74,13 @@ The *__ext-src__* dirctory is for the extension sources.
 
 __Project News__
 
+May 18, 2020
+
+All NPCs from S&V PDF have been added through the letter H.  New module for download is available.
+
 May 8, 2020
 
 The old NPC module is no longer required.  All the old NPCs, plus some new ones, are in the PHB module.  There are now 124 out of 276 NPCs added to the PHB module.
-
-Apr. 15, 2020 Update
-
-Several updates were done to the Player Book module and the SW5e extension available here.  Module now has NPCs from the Scum and Villiany book.  The extension has had some FGU compatibility issues fixed, but it is still not fully tested in FGU.
-
-Apr. 6, 2020 Update
-
-Progress is slow on the NPC update.  Over 200 NPCs require coding into the PAR5e utilities special format.  And, the PAR5e utility is about as finicky as it gets.  Some of the more complex NPCs can take hours to work correctly and not destroy the other NPC's output into the module.  I may do a partial release with non-force users.
-
-The current world health crisis and lock-down has actually given me less time for this project.  My real-world programming job has gotten more demanding as the situation continues.  So, progress is not as fast as I would like.
 
 ---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
