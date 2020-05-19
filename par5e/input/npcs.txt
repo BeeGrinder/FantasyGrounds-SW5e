@@ -3152,3 +3152,136 @@ Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 14 (3d8+4)
 Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 11 (3d6+4) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 15) or become poisoned and take 6 (2d6) toxin damage per turn.
 Invisibility. The Hssiss magically turns Invisible until it attacks, or until its Concentration ends (as if concentrating on a power).
 ##;
+
+Id9 Seeker Droid
+Tiny droid, unaligned
+Armor Class 11
+Hit Points 1 (1d4-1)
+Speed 5 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 9 (-1) 11 (+0) 8 (-1) 4 (-3) 10 (+0) 10 (+0)
+Skills Perception +3
+Damage Vulnerabilities lightning
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+ACTIONS
+Shockprod. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 lightning damage.
+##;
+
+Inquisitor Knight
+Medium humanoid, lawful dark side
+Armor Class 15 (heavy combat suit)
+Hit Points 36 (8d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 16 (+3) 10 (+0) 13 (+1) 12 (+1) 16 (+3)
+Saving Throws Dex +5, Cha +5
+Skills Acrobatics +5, Intimidation +5
+Senses darkvision 60 ft., passive Perception 11
+Languages Galactic Basic, one more of your choice
+Challenge 4 (1,100 XP)
+Force Resistance. The inquisitor has advantage on saving throws against force powers.
+War Casting. When the inquisitor uses an action to cast a force power, they can use a bonus action to make a Double Saber attack.
+Spellcasting. The inquisitor knight is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). The inquisitor knight has 18 Force Points. The inquisitor knight has the following  spells prepared:\rCantrips (At will): denounce, force disarm, saber throw, slow\r1st level (18 slots): dark side tendrils, fear, force jump, force sight, hex, sense force, stun
+ACTIONS
+Spinning Double Saber. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) energy damage.
+Double Saber. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) energy damage.
+##;
+
+Inquisitor Master
+Medium humanoid, lawful dark side
+Armor Class 16 (heavy combat suit)
+Hit Points 110 (20d8 + 20)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 18 (+4) 12 (+1) 13 (+1) 12 (+1) 17 (+3)
+Saving Throws Dex +7, Cha +6
+Skills Acrobatics +7, Intimidation +6, Perception +4
+Senses darkvision 60 ft., passive Perception 14
+Languages Galactic Basic, two more of your choice
+Challenge 8 (3,900 XP)
+Force Resistance. The inquisitor has advantage on saving throws against force powers.
+War Casting. When the inquisitor uses an action to cast a force power, they can use a bonus action to make a Double Saber attack.
+Spellcasting. The inquisitor master is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The inquisitor master has 33 force points. The inquisitor master has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push, mind trick, saber throw, slow\r1st level (33 slots): animate weapon, improved dark side tendrils, choke, drain life, force sight, force suppression, horror, force jump, sense force, sever force, stun
+ACTIONS
+Spinning Double Saber. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) energy damage.
+Double Saber. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) energy damage.
+Dark Lightning. Ranged Power Attack. +6 to hit, range 120 ft., one or two targets. Hit: 14 (4d6) necrotic damage.\rThe target must succeed on a DC 16 Strength saving throw or become restrained until the end of the inquisitor's next turn.
+##;
+
+Inquisitor, Grand
+Medium humanoid, lawful dark side
+Armor Class 17 (heavy combat suit)
+Hit Points 143 (22d8 + 44)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 11 (+0) 20 (+5) 14 (+2) 13 (+1) 16 (+3) 21 (+5)
+Saving Throws Dex +10, Wis +8, Cha +10
+Skills Acrobatics +10, Intimidation +10, Perception +8, Stealth +10
+Senses darkvision 60 ft., passive Perception 18
+Languages Galactic Basic, two more of your choice
+Challenge 14 (11,500 XP)
+Detect Force. The inquisitor can sense the presence and direction of a creature who can cast force powers within 120 ft.
+Force Resistance. The inquisitor has advantage on saving throws against force powers and resistance to damage dealt by force powers.
+War Casting. When the inquisitor uses an action to cast a force power, they can use a bonus action to make a Spinning Double Saber attack.
+Spellcasting. The inquisitor, grand is a 12th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The Grand Inquisitor has 41 force points. The inquisitor, grand has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push, mind trick, saber throw, slow\r1st level (41 slots): animate weapon, dominate mind, improved dark side tendrils, choke, force suppression, horror, force jump, sense force, sever force, siphon life, stun
+ACTIONS
+Multiattack. The inquisitor makes three spinning double saber attacks.
+Spinning Double Saber. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 23 (4d8 + 5) energy damage.
+Dark Lightning. Ranged Power Attack. +10 to hit, range 120 ft., one or two targets. Hit: 28 (8d6) necrotic damage. The target must succeed on a DC 18 Strength saving throw or become restrained until the end of the inquisitor's next turn.
+##;
+
+ISB Infiltrator
+Medium humanoid (human), lawful dark side
+Armor Class 15 (heavy combat suit)
+Hit Points 36 (8d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 16 (+3) 10 (+0) 16 (+3) 12 (+1) 14 (+2)
+Saving Throws Dex +5, Int +5
+Skills Acrobatics +5, Perception +3, Stealth +5
+Senses passive Perception 13
+Languages Galactic Basic, one other of your choice
+Challenge 3 (700 XP)
+Cunning Action. On each of its turns, the infiltrator can use a bonus action to take the Dash, Disengage, or Hide action.
+Evasion. If the infiltrator is subjected to an effect that allows it to make a Dex saving throw to take only half damage, the infiltrator instead takes no damage on a success, and half damage on a fail.
+Spellcasting. The isb infiltrator is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The infiltrator has 15 tech points. The isb infiltrator has the following  spells prepared:\rCantrips (At will): electrical burst, encrypted message, on/off\r1st level (15 slots): holographic disguise, smoke cloud, tranquilizer\r2nd level (15 slots): infiltrate, scorching ray
+ACTIONS
+Blaster Carbine. Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 6 (1d6 + 3) energy damage.\rThe attack deals an extra 14 (4d6) damage when the infiltrator has advantage on the attack roll, or when the target is within 5 feet of an ally of the infiltrator and the infiltrator doesn't have disadvantage on the attack roll.
+REACTIONS
+Uncanny Dodge. The infiltrator halves the damage that it takes from an attack that hits it.
+##;
+
+ISB Officer
+Medium humanoid (human), lawful dark side
+Armor Class 16 (light combat suit, medium shield)
+Hit Points 44 (8d10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 16 (+3) 10 (+0) 15 (+2) 13 (+1) 15 (+2)
+Saving Throws Dex +5, Wis +3
+Skills Perception +3, Persuasion +4
+Senses passive Perception 13
+Languages Galactic Basic, one other of your choice
+Challenge 3 (700 XP)
+ACTIONS
+Multiattack. The Officer makes two attacks.
+Blaster Pistol. Ranged Weapon Attack: +5 to hit, range 40/160, one target. Hit: 6 (1d6+3) energy damage.
+Rally Troops. (recharge 5-6) The Officer rallies his troops, giving all allies within 60 feet advantage on their next attack roll.
+##;
+
+IT-O Interrogation Unit
+Tiny , unaligned
+Armor Class 11
+Hit Points 6 (4d4 - 4)
+Speed 0 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA 3 (-4) 10 (+0) 8 (-1) 6 (-2) 10 (+0) 12 (+1)
+Skills Insight +4, Intimidation +5
+Damage Vulnerabilities lightning, ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 10
+Languages Binary, knows Basic but can't speak it
+Challenge 1/4 (50 XP)
+Flyby. The IT-O Unit doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+ACTIONS
+Dart Launcher. Ranged Weapon Attack: +3 to hit, range 15/60 ft., one target. Hit: 1 kinetic damage plus 7 (2d6) poison damage. On a hit, the target must succeed on a Con. saving throw (DC 12) or become stunned for one round.
+##;
