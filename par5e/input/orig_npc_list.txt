@@ -114,14 +114,14 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --ISB Infiltrator 3 82
 --ISB Officer 3 82
 --IT-0 Interrog. Unit 0.25 82
-Jakrab 0 172
-Jawa Scrapper 0.5 86
-Jawa Shaman 2 87
-Jawa Tinkerer 0.5 86
+--Jakrab 0 172
+--Jawa Scrapper 0.5 86
+--Jawa Shaman 2 87
+--Jawa Tinkerer 0.5 86
 --Jubba Bird 0.25 173
 --Juggernaut 17 185
-Junk Behemoth 1 88
-Junk Droid 0.25 88
+--Junk Behemoth 1 88
+--Junk Droid 0.25 88
 K'Lor'Slug 0.25 96
 --Kaadu 0.125 173
 Katarn 2 94
