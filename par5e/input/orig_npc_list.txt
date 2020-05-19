@@ -95,14 +95,14 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Gundark, Adolescent 0.5 76
 --Gundark, Adult 2 77
 --Gutkurr 4 78
-Hawk-bat 0.25 79
-Hawk-bat Swarm 2 79
+--Hawk-bat 0.25 79
+--Hawk-bat Swarm 2 79
 --Hidden Turret 0.25 152
 --Hive Rat 0.25 171
 --HK-47 Assassin Droid 8 14
-Horned Kath Hound 2 95
-Hrumph 2 172
-Hssiss 7 80
+--Horned Kath Hound 2 95
+--Hrumph 2 172
+--Hssiss 7 80
 --Hyena-Class Bomber 6 44
 ID9 Seeker Droid 0 146
 --IG-227 Hailfire Droid 14 46

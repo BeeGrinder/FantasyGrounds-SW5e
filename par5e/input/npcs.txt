@@ -3065,3 +3065,90 @@ ACTIONS
 Multiattack. The gutkuur can make two claw attacks.
 Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.
 ##;
+
+Hawk-bat
+Small beast, unaligned
+Armor Class 12
+Hit Points 7 (2d6)
+Speed 10 ft., climb 10 ft., fly 60 ft.
+STR DEX CON INT WIS CHA 4 (-3) 14 (+2) 10 (+0) 3 (-4) 14 (+2) 5 (-3)
+Skills Perception +6
+Senses blindsight 60 ft., passive Perception 16
+Languages --
+Challenge 1/4 (50 XP)
+Echolocation. The hawk-bat loses blindsight when deafened.
+Keen Hearing And Sight. The hawk-bat has advantage on Wisdom (Perception) checks that rely on hearing and sight.
+Pack Tactics. The hawk-bat has advantage on an attack roll against a creature if at least one of the hawk-bat's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.
+##;
+
+Hawk-bat Swarm
+Large beast, unaligned
+Armor Class 12
+Hit Points 44 (8d10)
+Speed 10 ft., climb 10 ft., fly 60 ft.
+STR DEX CON INT WIS CHA 8 (-1) 14 (+2) 10 (+0) 3 (-4) 14 (+2) 5 (-3)
+Skills Perception +6
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 60 ft., passive Perception 16
+Languages --
+Challenge 2 (450 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small hawk-bats. The swarm can't regain hit points or gain temporary hit points.
+Echolocation. The swarm can't use its blindsight while deafened.
+Keen Hearing And Sight. The swarm has advantage on Wisdom (Perception) checks that rely on hearing and sight.
+ACTIONS
+Talons. Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 11 (2d8 + 2) kinetic damage or 7 (1d8 + 2) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Horned Kath Hound
+Medium beast, unaligned
+Armor Class 13 (natutal armor)
+Hit Points 22 (4d8 + 4)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 14 (+2) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +3
+Senses darkvision 30 ft., passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Keen Hearing And Smell. The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Charge. If the hound moves at least 20 ft. straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the hound can make another attack with its tusks against it as a bonus action.
+Pack Tactics. The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.
+Tusk. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) kinetic damage.
+##;
+
+Hrumph
+Large beast, unaligned
+Armor Class 11 (natural armor)
+Hit Points 45 (6d10 + 12)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 21 (+5) 8 (-1) 15 (+2) 2 (-4) 12 (+1) 6 (-2)
+Senses passive Perception 11
+Languages --
+Challenge 2 (450 XP)
+Charge. If the hrumph moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+ACTIONS
+Gore. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) kinetic damage.
+##;
+
+Hssiss
+Large aberration, chaotic dark
+Armor Class 18 (natural armor)
+Hit Points 125 (15d10+45)
+Speed 30 ft., swim 40 ft.
+STR DEX CON INT WIS CHA 19 (+4) 14 (+2) 17 (+3) 9 (-1) 12 (+1) 8 (-1)
+Saving Throws Dex +5, Con +6, Wis +3, Cha +5
+Skills Perception +6, Stealth +5
+Senses darkvision 60 ft., passive Perception 16
+Languages Understands Sith commands but can't speak
+Challenge 7 (2,900 XP)
+Amphibious. The dragon can breathe air and water.
+Sith-born. Dark forcecasters and Sith (species) have advantage on Animal Handling checks against Hssiss.
+ACTIONS
+Multiattack. The Hssiss makes three attacks, once with its bite and twice with its claws.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 14 (3d8+4) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 17) or become poisoned and take 6 (2d6) toxin damage per turn. The target is also grappled (escape DC 16). Until this grapple ends, the target is restrained, and the Hssiss can't bite another target.
+Claws. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 11 (3d6+4) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 15) or become poisoned and take 6 (2d6) toxin damage per turn.
+Invisibility. The Hssiss magically turns Invisible until it attacks, or until its Concentration ends (as if concentrating on a power).
+##;
