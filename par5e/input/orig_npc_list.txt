@@ -122,22 +122,22 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Juggernaut 17 185
 --Junk Behemoth 1 88
 --Junk Droid 0.25 88
-K'Lor'Slug 0.25 96
+--K'Lor'Slug 0.25 96
 --Kaadu 0.125 173
-Katarn 2 94
-Kath Hound 0.5 95
-Khagan, Cyborg 10 93
+--Katarn 2 94
+--Kath Hound 0.5 95
+--Khagan, Cyborg 10 93
 Knobby White Spider 5 97
 Knobby White Spiderling 1 97
-Kolkpravis Baatar 4 90
-Kolkpravis Blackarm 2 90
-Kolkpravis Khagan 9 92
-Kolkpravis Khan 6 91
-Kolkpravis Tarkhan 3 89
-Kolkpravis Warrior 1 89
-Krayt Dragon, Adult 17 100
-Krayt Dragon, Greater 23 101
-Krayt Dragon, Juvenile 9 99
+--Kolkpravis Baatar 4 90
+--Kolkpravis Blackarm 2 90
+--Kolkpravis Khagan 9 92
+--Kolkpravis Khan 6 91
+--Kolkpravis Tarkhan 3 89
+--Kolkpravis Warrior 1 89
+--Krayt Dragon, Adult 17 100
+--Krayt Dragon, Greater 23 101
+--Krayt Dragon, Juvenile 9 99
 Legendary T'Doshok Hunter 14 150
 Lylek 7 102
 --Maalraas 2 103

@@ -3387,3 +3387,353 @@ Multiattack. The junk behemoth makes two blaster cannon attacks or two slam atta
 Blaster Cannon. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d10+1) energy damage.
 Slam. Melee Weapon Attack: +6 to hit, reach 10ft., one target. Hit: 8 (1d10+3) kinetic damage.
 ##;
+
+K'lor'slug
+Small beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 4 (1d6+1)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 5 (-3) 14 (+2) 12 (+1) 1 (-5) 12 (+1) 2 (-4)
+Skills Perception +3
+Senses blindsight 30 ft., passive Perception 13
+Languages --
+Challenge 1/4 (50 XP)
+Swarm Tactics. The K'lor'slug has advantage on an attack roll against a creature if at least one of the k'lor'slug's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+##;
+
+Katarn
+Large beast, unaligned
+Armor Class 13
+Hit Points 37 (5d10 + 10)
+Speed 50 ft., climb 50 ft.
+STR DEX CON INT WIS CHA 14 (+2) 16 (+3) 14 (+2) 2 (-4) 12 (+1) 6 (-2)
+Saving Throws Dex +5
+Skills Perception +3, Stealth +7
+Senses passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Diving Ambush. If the katarn drops on a target from above and then hits it with a bite attack on the same turn, the target takes an extra 3 (1d6) kinetic damage per 10 feet fallen, up to 21 (6d6). If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. If the katarn misses, it takes half normal falling damage.
+Keen Sight And Smell. The katarn has advantage on Wisdom (Perception) checks that rely on sight and smell.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 11 (2d8 + 2) kinetic damage.
+Claws. Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 6 (1d8 + 2) kinetic damage.
+##;
+
+Kath Hound
+Small beast, unaligned
+Armor Class 12
+Hit Points 10 (3d6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 15 (+2) 11 (+0) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +3
+Senses darkvision 30 ft., passive Perception 13
+Languages --
+Challenge 1/2 (100 XP)
+Keen Hearing And Smell. The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+Pack Tactics. The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.
+##;
+
+Khagan, Cyborg
+Medium humanoid (Villainous, kaleesh), balanced, darkside
+Armor Class 17 (natural armor)
+Hit Points 77 (14d8 + 14)
+Speed 40 ft., climb 20 ft.
+STR DEX CON INT WIS CHA 20 (+5) 16 (+3) 13 (+1) 14 (+2) 10 (+0) 10 (+0)
+Saving Throws Con +5, Int +6
+Skills Athletics +9, History +6, Intimidation +4, Perception +4, Stealth +7
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 14
+Languages Galactic Basic, Huttese, Kaleesh, Nemodian
+Challenge 10 (5,900 XP)
+Villainous Hit Points. Cyborg Khagan has multiple pools of hit points, each of which is tracked separately.\rDamage and healing only applies to the currently active hit point pool. When a pool is depleted of all hit points, it becomes inactive. Only one pool can be active at any time.\rIf a hit point pool is depleted, the Cyborg Khagan immediately saves against all ongoing conditions and effects. Any abilities which can reset do so.\rIf all pools of hit points are inactive, Cyborg Khagan is killed. If Cyborg Khagan takes a long rest, it fully heals the currently active pool and fully heals one depleted pool.
+Villainous Exhaustion. Cyborg Khagan rolls initiative with advantage. Cyborg Khagan starts with a number of villainous actions equal to one less than it's villainous multiplier.\rIf a hit point pool is depleted, Cyborg Khagan also loses one villainous action.\rCyborg Khagan may use a villainous action after any other creature takes a turn. If Cyborg Khagan does so, it regains its reaction.\rA villainous action is a complete turn. They have an action, bonus action and may move up to their full speed.\rThe villainous actions refresh at the start of Cyborg Khagan's turn and any remaining actions from the previous turn are lost.
+Jedi Slayer. Cyborg Khagan has advantage on saving throws versus Force Powers used by enemies within 5 ft.\rWhen an enemy within 5 ft. uses a force power, Cyborg Khagan can make a melee attack against that character as a reaction. When Cyborg Khagan damages an enemy character, they have disadvantage on Concentration saves to maintain their Force powers.
+Rage. On Cyborg Khagan's turn, he may choose to go into a Rage as a bonus action. While in a rage, his attacks deal +3 damage, he has Advantage on strength-based skill checks and saving throws, and he has resistance to kinetic and energy damage. As part of the bonus action to go into a Rage, he can make a Lightsaber or unarmed attack. While in a Rage, all attacks against him have Advantage. The Rage lasts for 1 minute, or until Cyborg Khagan ends his rage as a Bonus action, or until Cyborg Khagan falls unconscious or loses all hitpoints in his current health pool.
+More Machine Than Man. Cyborg Khagan has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Cowardice. While Cyborg Khagan has only one health pool remaining, he has Advantage on Stealth and Acrobatics checks, and he can take the Dash or Disengage actions as a Bonus action.
+ACTIONS
+Multiattack. On each of his turns, Cyborg Khagan can use one of Crush Them!, Frightful Presence, or Whirling Advance and then make one Unarmed Slam, Lightsaber, or Blaster attack; or he may make two attacks.
+Lightsaber. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 1d6+5 energy damage.
+Unarmed Slam. Melee Weapon Attack.+9 to hit, reach 5 ft., one target. Hit: 1d6+5 kinetic damage Heavy Blaster Pistol. Ranged Weapon Attack. +7 to hit, range 40/160, one target. Hit: 1d8+3 energy damage.
+Crush Them!. Choose an ally within 30'. That ally can use their reaction to make an attack. If that attack hits, it deals an additional 1d8 damage.
+Frightful Presence. Choose any number of characters within 80'. Each of those characters who fails a Wisdom saving throw (DC 14) becomes frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the Cyborg Khagan's Frightful Presence for the next 24 hours.
+Whirling Advance. Whirling his blades, Cyborg Khagan advances with a shield of sparks and light. Choose a character within 30' to make a Dexterity Save (DC 19). On a fail, the target is pushed 10 feet, Cyborg Khagan moves into their current square ignoring opportunity attacks, and he has Advantage on his next attack against them this combat. On a success, Cyborg Khagan moves into a square adjacent to the target and Opportunity Attacks against Cyborg Khagan have Disadvantage during that move.
+REACTIONS
+Parry. When Cyborg Khagan is attacked and hit by an adjacent character while he is holding one or more Lightsabers, he may use his reaction to reduce the damage taken by 1d10+15. If the damage is reduced to 0, he may use this reaction to make a Lightsaber attack against the attacker.
+##;
+
+Kolkpravis Blackarm
+Medium humanoid (kaleesh), lawful balanced
+Armor Class 15 (light battle armor)
+Hit Points 49 (9d8 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 14 (+2) 13 (+1) 11 (+0) 11 (+0) 15 (+2)
+Skills Athletics +5, Perception +4, Stealth +4
+Senses darkvision 60 ft., passive Perception 14
+Languages Kaleesh, Galactic Basic
+Challenge 2 (450 XP)
+Rampage. When the Blackarm reduces a creature to 0 Hit Points with a melee Attack on its turn, the Kolkpravis Blackarm can take a Bonus Action to move up to half its speed and make a bite Attack.
+Keen Smell. The Blackarm has advantage on Wisdom (Perception) checks that rely on smell.
+ACTIONS
+Multiattack. The Blackarm makes two attacks, either with its Greater Shoni Spear or its Outland Rifle, and uses Incite Rampage if it can.
+Lig Sword. Melee Weapon Attack: +5 to hit, reach 5ft, one target. Hit 6 (1d8 + 2) kinetic damage.
+Greater Shoni Spear. Melee or Ranged Weapon Attack: +5 to hit, reach 10ft., one target. Hit 8 (1d10 + 3) kinetic damage.
+Outland Rifle. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit 5 (1d6 + 2) kinetic damage.
+Incite Rampage (Recharge 5-6). One creature the Kolkpravis' Blackarm can see within 30 feet of it can use its reaction to make a melee attack if it can hear the Kolkpravis Blackarm and has the Rampage trait.
+##;
+
+Kolkpravis Khagan
+Medium humanoid (kaleesh), lawful balanced
+Armor Class 18 (powered battle armor)
+Hit Points 113 (15d8 + 53)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 16 (+3) 18 (+4) 11 (+0) 13 (+1) 19 (+4)
+Saving Throws Str +9, Con +8, Cha +8
+Skills Athletics +9, Intimidation +8
+Senses darkvision 60 ft., passive Perception 11
+Languages Kaleesh, Galactic Basic
+Challenge 9 (5,000 XP)
+Keen Smell. The Kolkpravis Khan has advantage on Wisdom (Perception) checks that rely on smell.
+Aura Of Rage. If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.
+Shurpak's Fury. The Khagan deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).
+ACTIONS
+Multiattack. The Kolkpravis Khagan makes three melee attacks once with Blade of Plague and twice with Blade of Pain.
+Blade of Plague. Melee Weapon Attack: +9 to hit, reach 5ft, one target. Hit 13 (1d8 + 5 plus 1d8) kinetic damage and the target must succed on a DC 16 Constitution saving throw or become Poisoned.
+Blade of Pain. Melee Weapon Attack: +9 to hit, reach 5ft. or range 20/60, one target. Hit 13 (1d8 + 5 plus 1d8) kinetic damage plus 20 (4d10) lightining damage.
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the Khan can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the Khan. A creature can benefit from only one Leadership die at a time. This effect ends if the Khan is incapacitated.
+REACTIONS
+Parry. The Khan adds 3 to his AC against one melee attack that would hit him. To do so, the Royal Guard must see the attacker and bewielding a melee weapon.
+##;
+
+Kolkpravis Khan
+Medium humanoid (kaleesh), lawful balanced
+Armor Class 18 (powered battle armor)
+Hit Points 82 (11d8 + 38)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 19 (+4) 16 (+3) 18 (+4) 11 (+0) 11 (+0) 17 (+3)
+Saving Throws Str +7, Con +7, Cha +6
+Skills Athletics +7, Intimidation +6
+Senses darkvision 60 ft., passive Perception 10
+Languages Kaleesh, Galactic Basic
+Challenge 6 (1,100 XP)
+Keen Smell. The Kolkpravis Khan has advantage on Wisdom (Perception) checks that rely on smell.
+Rampage. When the Kolkpravis Khan reduces a creature to 0 Hit Points with a melee Attack on its turn, the Kolkpravis Warrior can take a Bonus Action to move up to half its speed and make a bite Attack.
+Shurpak's Fury. The Khan deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks).
+ACTIONS
+Multiattack. The Kolkpravis Khan makes three melee attacks with its Lig Sword or its Greater Shoni Spear.
+Lig Sword. Melee Weapon Attack: +7 to hit, reach 5ft, one target. Hit 12 (1d8 + 4 plus 1d8) kinetic damage.
+Greater Shoni Spear. Melee or Ranged Weapon Attack: +7 to hit, reach 5ft. or range 20/60, one target. Hit 13 (1d10 + 4 plus 1d8) kinetic damage.
+Outland Rifle. Ranged Weapon Attack: +6 to hit, range 30/120, one target. Hit 5 (1d6 + 3) kinetic damage.
+Leadership (Recharges after a Short or Long Rest). For 1 minute, the Khan can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the Khan. A creature can benefit from only one Leadership die at a time. This effect ends if the Khan is incapacitated.
+REACTIONS
+Parry. The Khan adds 3 to his AC against one melee attack that would hit him. To do so, the Royal Guard must see the attacker and bewielding a melee weapon.
+##;
+
+Kolkpravis Tarkhan
+Medium humanoid (kaleesh), lawful balanced
+Armor Class 16 (battle armor)
+Hit Points 55 (10d8 + 15)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 15 (+2) 14 (+2) 14 (+2) 12 (+1) 10 (+0) 16 (+3)
+Saving Throws Dex +4
+Skills Perception +2, Stealth +4
+Senses darkvision 60 ft., passive Perception 10
+Languages Kaleesh, Galactic Basic
+Challenge 3 (700 XP)
+Keen Smell. The Tarkhan has advantage on Wisdom (Perception) checks that rely on smell.
+Rampage. When the Tarkhan reduces a creature to 0 Hit Points with a melee Attack on its turn, the Kolkpravis Tarkhan can take a Bonus Action to move up to half its speed and make a bite Attack.
+ACTIONS
+Multiattack. The Tarkhan makes two meelee attacks with its Greater Shoni Spear.
+Lig Sword. Melee Weapon Attack: +5 to hit, reach 5ft, one target. Hit 6 (1d8 + 3) kinetic damage.
+Greater Shoni Spear.  Melee or Ranged Weapon Attack: +5 to hit, reach 10ft., one target. Hit 8 (1d10 + 3) kinetic damage.
+Outland Rifle. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit 5 (1d6 + 2) kinetic damage.
+Battle Cry (1/Day). Each creature of the Tarkhan's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the Tarkhan's next turn. The war chief can then make one attack as a bonus action.
+##;
+
+Kolkpravis Warrior
+Medium humanoid (kaleesh), lawful balanced
+Armor Class 14 (heavy combat suit)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 14 (+2) 12 (+1) 11 (+0) 10 (+0) 14 (+2)
+Saving Throws Dex +4
+Skills Perception +2, Stealth +4
+Senses darkvision 60 ft., passive Perception 12
+Languages Kaleesh, Galactic Basic
+Challenge 1 (200 XP)
+Keen Smell. The Kolkpravis Warrior has advantage on Wisdom (Perception) checks that rely on smell.
+Rampage. When the Kolkpravis Warrior reduces a creature to 0 Hit Points with a melee Attack on its turn, the Kolkpravis Warrior can take a Bonus Action to move up to half its speed and make a bite Attack.
+ACTIONS
+Multiattack. The Kolkpravis Warrior makes two meelee attacks with its Shoni Spear or two ranged attack with its slugthrower.
+Lig Sword. Melee Weapon Attack: 34 to hit, reach 5ft, one target. Hit 5 (1d8 + 1) kinetic damage.
+Shoni Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5ft. or range 20/60, one target. Hit 4 (1d6 + 1) kinetic damage.
+Sudden Rush. Until the end of the turn, the Kolkpravis Warrior's speed increases by 60 feet and it doesn't provoke opportunity attacks.
+##;
+
+Krayt Dragon, Adult
+Huge beast, unaligned
+Armor Class 19 (natural armor)
+Hit Points 262 (21d12 + 126)
+Speed 40 ft., burrow 40 ft.
+STR DEX CON INT WIS CHA 25 (+7) 10 (+0) 22 (+6) 6 (-2) 14 (+2) 17 (+3)
+Saving Throws Str +12, Con +11, Wis +7
+Skills Perception +7, Stealth +5
+Damage Resistances energy, ion, kinetic from nonmagical weapons
+Damage Immunities poison
+Condition Immunities poisoned
+Senses blindsight 60 ft., darkvision 60 ft., passive Perception 18
+Languages --
+Challenge 17 (18,000 XP)
+Legendary Resistance. (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+Tunneler. The dragon can burrow through solid rock at half it burrowing speed and leaves a 15-foot-diameter tunnel in its wake.
+ACTIONS
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks. one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) kinetic damage plus 7 (2d6) poison damage.
+Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) kinetic damage.
+Tail Stinger. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) kinetic damage. The target must make a DC 15 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+Frightful Presence. Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Venom Spray (Recharge 5-6). The dragon spits poison in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage damage on a failed save, or half as much damage on a successful one.
+LEGENDARY ACTIONS
+Options. Krayt Dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Krayt Dragon regains spent legendary actions at the start of their turn.
+Detect. The dragon makes a Wisdom (Perception) check.
+Swat Away. The dragon makes a claw attack. If the attack hits, the target must succeed on a DC 18 Strength saving throw or be pushed 15 feet in a straight line away from the dragon. If the saving throw fails by 5 or more, the target falls prone.
+Tail Attack. The dragon makes a tail stinger attack.
+##;
+
+Krayt Dragon, Greater
+Gargantuan beast, unaligned
+Armor Class 22 (natural armor)
+Hit Points 487 (25d20+225)
+Speed 40 ft., burrow 80 ft.
+STR DEX CON INT WIS CHA 30 (+10) 10 (+0) 29 (+9) 5 (-3) 15 (+2) 7 (-2)
+Saving Throws Dex +7, Con +20
+Senses darkvision 120 ft., passive Perception 12
+Languages --
+Challenge 23 (50,000 XP)
+Legendary Resistance (3/Day). If the dragon fails a saving throw, it can choose to succeed instead.
+ACTIONS
+Multiattack. The dragon can use its Frightful Presence. It then makes three attacks. one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) kinetic damage plus 7 (3d4) toxin damage. The target must then succeed on a Constitution saving throw (DC 19) or become poisoned.
+Claw. Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) kinetic damage. plus 7 (3d4) toxin damage.
+Tail. Melee Weapon Attack: +17 to hit, reach 20 ft., one target. Hit: 19 (2d8 + 10) kinetic damage.
+Frightful Presence. Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+Poisonous Saliva (Recharge 5-6). The dragon spits its poisonous saliva in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) toxin damage on a failed save, or half as much damage on a successful one.
+LEGENDARY ACTIONS
+Options. The greater krayt dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The greater krayt dragon regains spent legendary actions at the start of its turn.
+Detect. The dragon makes a Wisdom (Perception) check.
+Tail Attack. The dragon makes a tail attack.
+Sand Swimmer (Costs 2 Actions). The greater krayt dragon dives into the ground, sand blasting all creatures around it. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) kinetic damage and be knocked prone. The greater krayt dragon is now burrowed.
+##;
+
+Krayt Dragon, Juvenile
+Large beast, unaligned
+Armor Class 18 (natural armor)
+Hit Points 168 (16d10+80)
+Speed 40 ft., burrow 80 ft.
+STR DEX CON INT WIS CHA 23 (+6) 10 (+0) 21 (+5) 5 (-3) 11 (+0) 7 (-2)
+Saving Throws Dex +4, Con +9
+Skills Perception +8, Stealth +4
+Senses darkvision 120 ft., passive Perception 18
+Languages --
+Challenge 9 (5000 XP)
+ACTIONS
+Multiattack. The dragon makes three attacks. one with its bite and two with its claws.
+Bite. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) kinetic damage plus 4 (2d4) toxin damage. The target must then succeed on a Constitution saving throw (DC 15) or become poisoned.
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) kineric damage plus 4 (2d4) toxin damage.
+Poisonous Saliva (Recharge 5-6). The dragon spits its poisonous saliva in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) tocin damage on a failed save, or half as much damage on a successful one.
+##;
+
+Knobby White Spider
+Large plant, unaligned
+Armor Class 15 (natural armor)
+Hit Points 112 (15d10 + 30)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 18 (+4) 8 (-1) 15 (+2) 2 (-4) 10 (+0) 5 (-3)
+Skills Stealth +2
+Damage Vulnerabilities fire
+Condition Immunities blinded, deafened, exhaustion
+Senses blindsight 60 ft. (blind beyond this radius), passive Perception 10
+Languages --
+Challenge 5 (1,800 XP)
+Distress Spores. When the spider takes damage, all other spiders within 240 feet of it can sense its pain.
+False Appearance. While the spider remains motionless, it is indistinguishable from a normal gnarltree.
+ACTIONS
+Multiattack. The spider makes two slam attacks.
+Slam. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) kinetic damage.
+Pacifying Spores (3/Day). The spider ejects spores in 15foot cone. All creatures in the area must succeed on a DC 14 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Stinger. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) kinetic damage, and the target must make a DC 15 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+##;
+
+Knobby White Spiderling
+Tiny plant, unaligned
+Armor Class 11
+Hit Points 10 (4d4)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 11 (+0) 12 (+1) 11 (+0) 2 (-4) 10 (+0) 5 (-3)
+Skills Stealth +3
+Damage Vulnerabilities fire
+Senses darkvision 60 ft., passive Perception 10
+Languages --
+Challenge 1 (200 XP)
+Distress Spores. When the spider takes damage, all other spiders within 240 feet of it can sense its pain.
+ACTIONS
+Slam. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.
+Stinger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) kinetic damage, and the target must make a DC 14 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+##;
+
+Legendary T'doshok Hunter
+Medium humanoid (trandoshan), lawful dark
+Armor Class 17 (natural armor)
+Hit Points 144 (17d8 + 68)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 23 (+6) 18 (+4) 19 (+4) 13 (+1) 16 (+3) 13 (+1)
+Saving Throws Str +11, Con +9, Wis +8
+Skills Piloting +6, Athletics +11, Intimidation +7, Perception +8, Technology +6, Stealth +14
+Senses darkvision 60 ft., passive Perception 18
+Languages
+Challenge 14 (11,450 XP)
+Commando. As a bonus action, the trandoshan can take the Dash and Hide actions on each of his turns.
+Infrared Vision. The trandoshan has advantage on Wisdom (Perception) checks that rely on sight.
+Legendary Resistance (3/Day). If the trandoshan fails a saving throw, it can choose to succeed instead.
+Mortar Gun. As a bonus action, the trandoshan can switch the firing mode of his mortar gun between a blaster and a grenade launcher.
+Precision Shot (2/Day). The trandoshan can roll his next ranged attack with advantage.
+Regeneration. The trandoshan regains 15 hit points at the start of its turn if it has at least 1 hit point.
+Sharpshooting Mastery. The trandoshan's ranged attacks ignore half-cover and three-quarters cover, and attacking at long range doesn't impose disadvantage on his ranged weapon attack rolls.
+ACTIONS
+Multiattack. The trandoshan makes three claw attacks.\rAlternatively, it can make two ranged attacks with its mortar gun (blaster form only).
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) kinetic damage.
+Mortar Gun (Blaster Form). Ranged Weapon Attack: +9 to hit, range 100/400 ft., one target. Hit: 14 (1d12 + 8) energy damage.
+Mortar Gun (Grenade Launcher Form). Ranged Weapon Attack.\r+9 to hit, range 30/60 ft., one target. Hit: 13 (1d10 + 8) kinetic damage. Hit or miss, the target and everycreature within 5 feet of it must succeed on a DC 17 Dexterity saving throw or take 14 (4d6) kinetic damage.
+Dioxus Grenade (Recharge 5-6). The trandoshan throws a dioxus grenade, choosing a point within 45 ft., exploding in a 15 ft. sphere. The fog lasts 1 round and the area is heavily obscured. When a creature enters the poison's area or starts its turn there, that creature must make a DC 17 Constitution saving throw. On a failure, the creature takes 22 (4d10) poison damage and is poisoned for 1 minute. On a success, the creature takes half the damage and isn't poisoned.
+REACTIONS
+Dioxus Escape. As a reaction when the trandoshan takes at least 20 damage from a melee attack, it can move up to its speed without provoking opportunity attacks.\rAdditionally, if it's Dioxus Grenade ability is available the trandoshan can choose to drop a grenade where it was before its movement. The dioxus grenade detonates after the trandoshan has completed his movement.
+LEGENDARY ACTIONS
+Options. The trandoshan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The trandoshan regains spent legendary actions at the start of his turn.
+Dioxus Grenade (Costs 2 Actions). The trandoshan uses its Dioxus Grenade action. If it is unavailable, the trandoshan can roll to try and recharge it, using the grenade upon a successful recharge.
+Heavy Fire. The trandoshan makes one mortar gun attack.
+Move. The trandoshan can move up to its speed without provoking opportunity attacks.
+##;
+
+Lylek
+Large beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 85 (10d10 + 30)
+Speed 30 ft., burrow 30 ft.
+STR DEX CON INT WIS CHA 17 (+3) 13 (+1) 16 (+3) 2 (-4) 16 (+3) 5 (-3)
+Skills Perception +6
+Damage Resistances energy, ion, kinetic from nonmagical weapons
+Senses darkvision 60 ft., passive Perception 16
+Languages --
+Challenge 7 (2,900 XP)
+Tunneler. The lylek can burrow through solid rock at half it burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
+ACTIONS
+Multiattack. The lylek can make three attacks. two with its legs or tentacles and one with its tail stinger.
+Leg Spear. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.
+Tail Stinger. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) kinetic damage, and the target must succeed on a DC 15 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+Tentacle. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) kinetic damage. If the target is Medium or smaller, it is grappled (escape DC 15). The lylek can have up to two creatures grappled at the same time.
+##;
