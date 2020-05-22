@@ -127,8 +127,8 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Katarn 2 94
 --Kath Hound 0.5 95
 --Khagan, Cyborg 10 93
-Knobby White Spider 5 97
-Knobby White Spiderling 1 97
+--Knobby White Spider 5 97
+--Knobby White Spiderling 1 97
 --Kolkpravis Baatar 4 90
 --Kolkpravis Blackarm 2 90
 --Kolkpravis Khagan 9 92
@@ -138,25 +138,25 @@ Knobby White Spiderling 1 97
 --Krayt Dragon, Adult 17 100
 --Krayt Dragon, Greater 23 101
 --Krayt Dragon, Juvenile 9 99
-Legendary T'Doshok Hunter 14 150
-Lylek 7 102
+--Legendary T'Doshok Hunter 14 150
+--Lylek 7 102
 --Maalraas 2 103
 --Magnaguard Sentinel 4 26
 --Manifestation of Abeloth 26 9
 --Marksman-H Remote 0 143
-Massiff 1 104
-Mistryl Apprentice 3 105
+--Massiff 1 104
+--Mistryl Apprentice 3 105
 --Mob 5 36
-Mole Serpent, Adult 10 107
+--Mole Serpent, Adult 10 107
 --Monkey-Lizard 0 98
 --Monkey-Lizard Swarm 0.5 98
-Moof 2 174
-Mott 2 174
-Mucous Salamander 2 108
+--Moof 2 174
+--Mott 2 174
+--Mucous Salamander 2 108
 --Mynock 0.125 109
 --Mynock Swarm 2 109
-Mystryl Master 5 106
-Mystryl Prime 8 106
+--Mystryl Master 5 106
+--Mystryl Prime 8 106
 Narglatch 3 110
 Navy Pilot 0.25 70
 Navy Trooper 0.5 70
