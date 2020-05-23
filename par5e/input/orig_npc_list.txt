@@ -187,13 +187,13 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Rancor, Adult 12 123
 --Rancor, Ancient 19 124
 --Rancor, Juvenile 2 123
-Rathar 9 126
-Rathtar, Dwarf 5 126
+--Rathar 9 126
+--Rathtar, Dwarf 5 126
 --Reek, Adolescent 2 127
 --Reek, Adult 7 127
 --Riot 10 36
-Rock Wart 0.125 176
-Ronto 4 129
+--Rock Wart 0.125 176
+--Ronto 4 129
 --Sage 6 186
 Sando Aqua Monster 25 131
 Sarlacc, Adult 21 133

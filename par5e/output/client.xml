@@ -37279,6 +37279,265 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\protocoldroid_lomseries.png@SW5e Player Book</token>
       </protocoldroid_lomseries>
+      <rathtar>
+        <locked type="number">1</locked>
+        <name type="string">Rathtar</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">16</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">153</hp>
+        <hd type="string">(18d10 + 54)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Con +7</savingthrows>
+        <skills type="string">Stealth +4</skills>
+        <damageresistances type="string">poison, energy, ion, kinetic from nonmagical weapons</damageresistances>
+        <conditionimmunities type="string">poisoned, prone</conditionimmunities>
+        <senses type="string">blindsight 60 ft., passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">9</cr>
+        <xp type="number">5000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Unhindered Movement</name>
+            <desc type="string">The rathar's movement speed is not reduced while moving with a grappled creature.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The rathtar can use its Consume and then make four flailing arm attacks. Alternatively, the rathtar can make four attacks. two with its grasping tentacles and then two with its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) kinetic damage, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks other effects outside the rathtar, and takes 14 (4d6) acid damage at the start of each of the rathtar's turns.\rThe rathtar's gullet can hold only one Large creature or up to two Medium or smaller creatures inside it at a time. If the rathtar takes 20 damage or more on a single turn from a creature inside it, the rathtar must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate the swallowed creatures, which fall prone in a space within 10 feet of the rathtar. If the rathtar dies, the swallowed creatures are no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Flailing Arms</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) kinetic damage, and the target is grappled (escape DC 16) if it is Medium or smaller.\rUntil the grapple ends, the rathar can't use this arm on another target. The rathtar has ten arms and can have up to four creatures grappled at a time.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Consume</name>
+            <desc type="string">The rathtar moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. The first time the rathar enters a creature's space, the rathtar can make bite attack against that creature. If the attack misses, the creature is pushed 5 feet back or to the side of the rathtar, takes 9 (2d8) kinetic damage, and is knocked prone.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Grasping Tentacles</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 12 (2d6 + 5) kinetic damage. If the target is a Medium or smaller creature, it must also make a DC 17 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the rathtar. The rathtar has two grasping tentacles.</desc>
+          </id-00005>
+        </actions>
+        <token type="token">tokens\SW5e Player Bookrathtar.png@SW5e Player Book</token>
+      </rathtar>
+      <rathtar_dwarf>
+        <locked type="number">1</locked>
+        <name type="string">Rathtar, Dwarf</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">15</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">114</hp>
+        <hd type="string">(12d10 + 48)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Con +7</savingthrows>
+        <skills type="string">Stealth +6</skills>
+        <damageresistances type="string">poison</damageresistances>
+        <conditionimmunities type="string">poisoned, prone</conditionimmunities>
+        <senses type="string">blindsight 60 ft., passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">5</cr>
+        <xp type="number">1800</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Spider Climb</name>
+            <desc type="string">The rathtar can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Grasping Arms</name>
+            <desc type="string">The rathtar can have up to eight arms at a time. Each arm can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying an arm deals no damage to the rathtar, which can extrude a replacement arm on its next turn. An arm can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The rathtar makes four flailing arm attacks, uses Reel, and makes one attack with its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Flailing Arms</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 6 (1d4 + 4) kinetic damage, and the target is grappled (escape DC 15) if it is Medium or smaller.\rUntil the grapple ends, the rathar can't use this arm on another target. The rathtar has eight arms and can have up to four creatures grappled at a time.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Reel</name>
+            <desc type="string">The rathtar pulls each creature grapples by it up to 15 feet straight toward it.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Bookrathtar_dwarf.png@SW5e Player Book</token>
+      </rathtar_dwarf>
+      <rockwart>
+        <locked type="number">1</locked>
+        <name type="string">Rock Wart</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">12</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">13</hp>
+        <hd type="string">(3d8)</hd>
+        <speed type="string">30 ft., climb 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">1</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Stealth +4</skills>
+        <senses type="string">blindsight 30 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, Reach 5 ft., one target. Hit: 1 (1d3-1) kinetic damage, and the target must make a Constitution saving throw (DC 14). On a success, the creature is unaffected by the venom. On a failure, the creature loses 1d6 Strength, then must attempt another save 1 minute (10 rounds) later. If the second save fails, the creature loses an additional 1d6 Strength. If this reduces the creature's Strength to 0 or lower, it dies.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Bookrockwart.png@SW5e Player Book</token>
+      </rockwart>
+      <ronto>
+        <locked type="number">1</locked>
+        <name type="string">Ronto</name>
+        <type type="string">beast</type>
+        <size type="string">Huge</size>
+        <ac type="number">12</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">76</hp>
+        <hd type="string">(8d12+24)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">22</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">darkvision 30 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">4</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Trampling Charge</name>
+            <desc type="string">If the Ronto moves at least 20 ft.\rstraight toward a creature and then hits it with a Ram attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the Ronto can make one stomp attack against it as a bonus action.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Slam</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) kinetic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stomp</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Bookronto.png@SW5e Player Book</token>
+      </ronto>
     </npcdata>
     <npclists>
       <npcs>
@@ -38828,6 +39087,46 @@
                 </link>
                 <source type="number"/>
               </reek_adolescent>
+              <rathtar>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rathtar@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </rathtar>
+              <rathtar_dwarf>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rathtar_dwarf@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </rathtar_dwarf>
+              <rockwart>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rockwart@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </rockwart>
+              <ronto>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ronto@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ronto>
             </index>
           </typeletterR>
           <typeletterU>
@@ -39783,6 +40082,16 @@
                 </link>
                 <source type="number"/>
               </nexu>
+              <rathtar_dwarf>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rathtar_dwarf@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </rathtar_dwarf>
             </index>
           </level05>
           <level08>
@@ -40933,6 +41242,16 @@
                 </link>
                 <source type="number"/>
               </inquisitorknight>
+              <ronto>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ronto@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </ronto>
             </index>
           </level04>
           <level06>
@@ -41083,6 +41402,16 @@
                 </link>
                 <source type="number"/>
               </kraytdragon_juvenile>
+              <rathtar>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rathtar@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </rathtar>
             </index>
           </level09>
           <level10>
@@ -41293,6 +41622,16 @@
                 </link>
                 <source type="number"/>
               </navypilot>
+              <rockwart>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rockwart@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </rockwart>
             </index>
           </level1_8>
           <level1_2>
@@ -42873,6 +43212,46 @@
                 </link>
                 <source>beast</source>
               </pelkobug>
+              <rathtar>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rathtar@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </rathtar>
+              <rathtar_dwarf>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rathtar_dwarf@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </rathtar_dwarf>
+              <rockwart>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.rockwart@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </rockwart>
+              <ronto>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.ronto@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </ronto>
             </index>
           </typebeast>
           <typeplant>
