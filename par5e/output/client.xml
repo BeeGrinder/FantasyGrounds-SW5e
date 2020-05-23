@@ -30468,10 +30468,10 @@
             <modifier type="string">0</modifier>
           </charisma>
         </abilities>
-        <skills type="string">Nature +4, Perception +5, Stealth +6, Survival +5</skills>
+        <skills type="string">Nature +4, Perception +5, Piloting +4, Stealth +6, Survival +5</skills>
         <senses type="string">darkvision 60 ft., passive Perception 15</senses>
         <alignment type="string">any alignment</alignment>
-        <languages type="string">Galactic Basic and one other</languages>
+        <languages type="string">Galactic Basic, one other</languages>
         <cr type="string">1/2</cr>
         <xp type="number">100</xp>
         <traits>
@@ -38615,6 +38615,1091 @@
         </legendaryactions>
         <token type="token">tokens\SW5e Player Book\supertacticaldroid.png@SW5e Player Book</token>
       </supertacticaldroid>
+      <t_seriestacticaldroid>
+        <locked type="number">1</locked>
+        <name type="string">T-series Tactical Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string"/>
+        <hp type="number">50</hp>
+        <hd type="string">(9d8+10)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Int +6, Wis +5</savingthrows>
+        <skills type="string">Deception +2, Insight +5, Investigation +6, Lore +6, Technology +6</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poisoned, diseased</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">lawful evil</alignment>
+        <languages type="string">Galactic Basic, Binary, and two others</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Preditctive Ai</name>
+            <desc type="string">The tactical droid can enter a state of higher programming as an action. While concentrating, the droid can't be surprised and has advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against the target. This lasts for 1 hour.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Innate Spellcasting</name>
+            <desc type="string">The t-series tactical droid's innate spellcasting ability is Intelligence (spell save DC 14, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\rAt will: Assess the Situation, Encrypted Message, On/Off, Alarm, Element of Surprise\r3/day each: Repair Droid, Stack the Deck</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Blaster pistol</name>
+            <desc type="string">Ranged Weapon Attack: +4 to hit, Ammunition (range40/160), one target. Hit 5 (1d6 + 2) energy damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\t_seriestacticaldroid.png@SW5e Player Book</token>
+      </t_seriestacticaldroid>
+      <t3_seriesutilitydroid>
+        <locked type="number">1</locked>
+        <name type="string">T3-series Utility Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Small</size>
+        <ac type="number">10</ac>
+        <actext type="string"/>
+        <hp type="number">9</hp>
+        <hd type="string">(2d8)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Piloting +4, Technology +4</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poisoned, diseased</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Binary, understands Galactic Basic</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The t3-series utility droid is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The droid has 10 tech points. The t3-series utility droid has the following  spells prepared:\rCantrips (At will): electroshock, encrypted message, mending, on/off\r1st level (10 slots): decryption program, energy shield, holographic disguise, repair droid, tracer bolt</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Hold-Out</name>
+            <desc type="string">Ranged Weapon Attack: +2 to hit, range 30/120 ft., one target. Hit: 2 (1d4) energy damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\t3_seriesutilitydroid.png@SW5e Player Book</token>
+      </t3_seriesutilitydroid>
+      <terentatek>
+        <locked type="number">1</locked>
+        <name type="string">Terentatek</name>
+        <type type="string">aberration</type>
+        <size type="string">Large</size>
+        <ac type="number">16</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">173</hp>
+        <hd type="string">(10d20+73)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +6, Perception +3</skills>
+        <damageresistances type="string">kinetic, energy, ion</damageresistances>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">chaotic dark</alignment>
+        <languages type="string">Can't speak but understands commands in Sith</languages>
+        <cr type="string">9</cr>
+        <xp type="number">5000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Force Resistance</name>
+            <desc type="string">The terentatek has advantage on saving throws against force powers and resistance to damage dealt by force powers.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Sith-born</name>
+            <desc type="string">Dark forcecasters and Sith (species) have advantage on Animal Handling checks on Terentatek.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The Terentatek makes three attacks, once with its tusks and twice with its claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tusks</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 22 (5d8+3) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 15) or become poisoned and take 2 (1d4) toxin damage per turn.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 18 (5d6+3) kinetic damage. The creature must then succeed on a Constitution saving throw (DC 15) or become poisoned and take 2 (1d4) toxin damage per turn.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Rock</name>
+            <desc type="string">Ranged Weapon Attack: +3 to hit, range 30/70 ft., one creature. Hit: 15 (4d6+3) kinetic damage.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\terentatek.png@SW5e Player Book</token>
+      </terentatek>
+      <trandoshanhuntmaster>
+        <locked type="number">1</locked>
+        <name type="string">Trandoshan Huntmaster</name>
+        <type type="string">humanoid (trandoshan)</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(heavy combat suit, shield)</actext>
+        <hp type="number">127</hp>
+        <hd type="string">(17d8 + 51)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +7, Wis +6</savingthrows>
+        <skills type="string">Athletics +7, Intimidation +5, Perception +6, Persuasion +5, Stealth +6, Survival +6</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 16</senses>
+        <alignment type="string">any dark</alignment>
+        <languages type="string">Galactic Basic, Dosh</languages>
+        <cr type="string">7</cr>
+        <xp type="number">2900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Infrared Vision</name>
+            <desc type="string">The trandoshan has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Regeneration</name>
+            <desc type="string">The trandoshan regains 10 hit points at the start of its turn if it has at least 1 hit point.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Martial Advantage</name>
+            <desc type="string">Once per turn, the trandoshan can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the trandoshan that isn't incapacitated.</desc>
+          </id-00003>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Parry</name>
+            <desc type="string">The trandoshan adds 3 to its AC against one melee attack that would hit it. To do so, the trandoshan must see the attacker and be wielding a melee weapon.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trandoshan makes three melee weapon attacks. Alternatively, it can make two ranged attacks with its javelin.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Trandoshan Sword</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) kinetic damage, or 9 (1d10 + 4) kinetic damage if used with two hands.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Javelin</name>
+            <desc type="string">Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Shield Bash</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4) kinetic damage. If the target is Large or smaller, it must succeed on a DC 15 Strength saving throw or be knocked prone.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Leadership (Recharges after a Short or Long Rest)</name>
+            <desc type="string">For 1 minute, the trandoshan can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the trandoshan. A creature can benefit from only one Leadership die at a time.\rThis effect ends if the warlord is incapacitated.</desc>
+          </id-00005>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trandoshanhuntmaster.png@SW5e Player Book</token>
+      </trandoshanhuntmaster>
+      <trandoshanwarrior>
+        <locked type="number">1</locked>
+        <name type="string">Trandoshan Warrior</name>
+        <type type="string">humanoid (trandoshan)</type>
+        <size type="string">Medium</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">60</hp>
+        <hd type="string">(11d8 + 11)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +5, Wis +3</savingthrows>
+        <skills type="string">Athletics +5, Perception +3, Survival +3</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">any dark</alignment>
+        <languages type="string">Galactic Basic, Dosh</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Infrared Vision</name>
+            <desc type="string">The trandoshan has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Regeneration</name>
+            <desc type="string">The trandoshan regains 10 hit points at the start of its turn if it has at least 1 hit point.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Double Weapon</name>
+            <desc type="string">When the trandoshan attacks uses its multiattack, it can use a bonus action to make another attack. The trandoshans doesn't add its ability modifier to the damage of this attack.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trandoshan makes two weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Trandoshan Double-Sword</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Trandoshan Double-Sword (Bonus Action Attack)</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d8) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trandoshanwarrior.png@SW5e Player Book</token>
+      </trandoshanwarrior>
+      <trandoshanhunter>
+        <locked type="number">1</locked>
+        <name type="string">Trandoshan Hunter</name>
+        <type type="string">humanoid (trandoshan)</type>
+        <size type="string">Medium</size>
+        <ac type="number">15</ac>
+        <actext type="string">(combat suit)</actext>
+        <hp type="number">77</hp>
+        <hd type="string">(14d8 + 14)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +5, Wis +4</savingthrows>
+        <skills type="string">Athletics +5, Perception +4, Survival +4</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">any dark</alignment>
+        <languages type="string">Galactic Basic, Dosh</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Trandoshan Double-Sword (Bonus Action Attack)</name>
+            <desc type="string"> Hunter's Eye (3/Day). As a bonus, the tradoshan can add 1d10 to its next attack or damage roll with a blaster weapon.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Infrared Vision</name>
+            <desc type="string">The trandoshan has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Regeneration</name>
+            <desc type="string">The trandoshan regains 10 hit points at the start of its turn if it has at least 1 hit point.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trandoshan makes two ranged weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 8 (1d8 + 4) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Trandoshan Shortsword</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trandoshanhunter.png@SW5e Player Book</token>
+      </trandoshanhunter>
+      <trandoshanelitewarrior>
+        <locked type="number">1</locked>
+        <name type="string">Trandoshan Elite Warrior</name>
+        <type type="string">humanoid (trandoshan)</type>
+        <size type="string">Medium</size>
+        <ac type="number">15</ac>
+        <actext type="string">(heavy combat suit)</actext>
+        <hp type="number">127</hp>
+        <hd type="string">(15d8 + 60)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +7, Wis +5</savingthrows>
+        <skills type="string">Athletics +7, Intimidation +5, Perception +5, Survival +5</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 15</senses>
+        <alignment type="string">any dark</alignment>
+        <languages type="string">Galactic Basic, Dosh</languages>
+        <cr type="string">6</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Brute</name>
+            <desc type="string">The trandoshan deals an extra 3 (1d6) damage when it hits with a melee weapon attack (included in the attacks).</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Frenzy</name>
+            <desc type="string">When the trandoshan reduces a creature to 0 hit points with a melee attack on its turn, it can immediately move up to half its speed and make a vibrosword attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Infrared Vision</name>
+            <desc type="string">The trandoshan has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Regeneration</name>
+            <desc type="string">The trandoshan regains 10 hit points at the start of its turn if it has at least 1 hit point.</desc>
+          </id-00004>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Parry</name>
+            <desc type="string">The trandoshan adds 3 to his AC against one melee attack that would hit him. To do so, the trandoshan must see the attacker and be wielding a melee weapon.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trandoshan makes three attacks with its sword or slugthrower.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Trandoshan Greatsword</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 4) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Slugthrower</name>
+            <desc type="string">Ranged Weapon Attack: +6 to hit, range 100/400., one target. Hit: 7 (1d8 + 3) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Burst</name>
+            <desc type="string">The trandoshan sprays a 10-foot-cube area within normal range with shots. Each creature in the area must make a DC 14 Dexterity saving throw, taking 7 (1d8 + 3) kinetic damage on a failed save, or half as much on a successful one.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trandoshanelitewarrior.png@SW5e Player Book</token>
+      </trandoshanelitewarrior>
+      <trooper_mounted>
+        <locked type="number">1</locked>
+        <name type="string">Trooper, Mounted</name>
+        <type type="string">humanoid (Large when mounted)</type>
+        <size type="string">Medium</size>
+        <ac type="number">19</ac>
+        <actext type="string"/>
+        <hp type="number">75</hp>
+        <hd type="string">(10d8 + 30)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +4</skills>
+        <damageresistances type="string">fire</damageresistances>
+        <conditionimmunities type="string">exhaustion</conditionimmunities>
+        <senses type="string">passive Perception 12</senses>
+        <alignment type="string">any alignment</alignment>
+        <languages type="string">Galactic Basic, one other of your choice</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Charge</name>
+            <desc type="string">If the mounted trooper moves at least 20 feet straight toward a creature while mounted and then hits with a vibrolance attack on the same turn, it can make a trample attack against the creature as a bonus action.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Locked Saddle</name>
+            <desc type="string">The trooper cannot be knocked prone, dismounted, or moved against it's will while mounted.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Mounted Warrior</name>
+            <desc type="string">While the trooper is mounted, the mount cannot be charmed or frightened.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Vibrolance</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 8 (1d12 + 2) kinetic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Assault Cannon</name>
+            <desc type="string">Ranged Weapon Attack. +3 to hit, range 80/320 ft., one target. Hit: 6 (1d10 + 1) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Trample (Mounted Only)</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) kinetic damage and the target must succeed on a DC 13 Strength saving throw or be knocked prone.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Flamethrower (Recharges after a Short or Long Rest)</name>
+            <desc type="string">The trooper unleashes a torrent of flame in a 15-ft. cone. All creatures in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trooper_mounted.png@SW5e Player Book</token>
+      </trooper_mounted>
+      <trooper_purge>
+        <locked type="number">1</locked>
+        <name type="string">Trooper, Purge</name>
+        <type type="string">humanoid (human)</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(battle armor)</actext>
+        <hp type="number">77</hp>
+        <hd type="string">(14d8 + 14)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Dex +5, Wis +5</savingthrows>
+        <skills type="string">Perception +5, Stealth +5, Survival +3</skills>
+        <senses type="string">passive Perception 15</senses>
+        <alignment type="string">lawful dark side</alignment>
+        <languages type="string">Galactic Basic, one other of your choice</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Jedi Hunter</name>
+            <desc type="string">The trooper has advantage on Wisdome (survival) checks to track humanoids that can cast force powers and on Intelligence (lore) checks to recall information about Jedi and the Force.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Force Combat Training</name>
+            <desc type="string">The trooper has advantage on saving throws against Force powers.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Surprise Attack</name>
+            <desc type="string">If the trooper surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trooper makes two melee or three ranged attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 8 (1d8 + 4) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Electrostaff</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Volley (Recharge 6)</name>
+            <desc type="string">The trooper makes one ranged attack against every enemy within 10 feet of a point it can see.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trooper_purge.png@SW5e Player Book</token>
+      </trooper_purge>
+      <trooper_shore>
+        <locked type="number">1</locked>
+        <name type="string">Trooper, Shore</name>
+        <type type="string">humanoid</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(battle armor)</actext>
+        <hp type="number">26</hp>
+        <hd type="string">(4d8 + 8)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +3, Perception +2, Persuasion +3</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 12</senses>
+        <alignment type="string">any alignment</alignment>
+        <languages type="string">Galatic Basic, two others</languages>
+        <cr type="string">1</cr>
+        <xp type="number">200</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The trooper makes two blaster rifle or stock strike attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Blaster Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 7 (1d6 + 3) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Stock Strike</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Thermal Grenade (1/Day)</name>
+            <desc type="string">The captain throws a grenade, choosing a point within 40 ft. Each creature within 10 feet must make a DC 14 Dexterity saving throw. A creature takes 2d6 fire and 2d6 kinetic damage on a failed save, or half as much as on a successful one.\rAdditionally, on a failed save, the creature is knocked prone.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trooper_shore.png@SW5e Player Book</token>
+      </trooper_shore>
+      <trooper_sniper>
+        <locked type="number">1</locked>
+        <name type="string">Trooper, Sniper</name>
+        <type type="string">humanoid</type>
+        <size type="string">Medium</size>
+        <ac type="number">15</ac>
+        <actext type="string">(light battle armor)</actext>
+        <hp type="number">13</hp>
+        <hd type="string">(2d8 + 4)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Nature +4, Perception +5, Piloting +4, Stealth +6, Survival +5</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 15</senses>
+        <alignment type="string">any alignment</alignment>
+        <languages type="string">Galactic Basic, one other</languages>
+        <cr type="string">1/2</cr>
+        <xp type="number">100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Hearing And Sight</name>
+            <desc type="string">The scout trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Sniper Rifle</name>
+            <desc type="string">Ranged Weapon Attack: +4 to hit, range 150/600, one target. Hit: 8 (1d12+2).</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Vibrodagger</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2)</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\trooper_sniper.png@SW5e Player Book</token>
+      </trooper_sniper>
+      <tuk_ata>
+        <locked type="number">1</locked>
+        <name type="string">Tuk'ata</name>
+        <type type="string">aberration</type>
+        <size type="string">Large</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">52</hp>
+        <hd type="string">(7d8+21)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +2</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 12</senses>
+        <alignment type="string">lawful dark</alignment>
+        <languages type="string">Sith (telepathically)</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Senses</name>
+            <desc type="string">The Tuk'ata has advantage on Wisdom (Perception) checks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Sith-born</name>
+            <desc type="string">Dark forcecasters and Sith (species) have advantage on Animal Handling checks against Tuk'ata.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Telepathy</name>
+            <desc type="string">Tuk'ata can communicate telepathically with other creature within it's line of sight.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The Tuk'ata makes two attacks, once with its bite and once with its claws or poisonous stingers.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 7 (1d8+3) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6+3) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Poisonous Stingers</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4+3) kinetic damage.\rThe creature must then succeed on a Constitution saving throw (DC 13) or become poisoned.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\tuk_ata.png@SW5e Player Book</token>
+      </tuk_ata>
+      <tuskcat>
+        <locked type="number">1</locked>
+        <name type="string">Tusk Cat</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">13</ac>
+        <actext type="string"/>
+        <hp type="number">32</hp>
+        <hd type="string">(5d10 + 5)</hd>
+        <speed type="string">60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Sight And Smell</name>
+            <desc type="string">The tusk cat has advantage on Wisdom (Perception) checks that rely on sight and smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Trampling Charge</name>
+            <desc type="string">If the tusk cat moves at least 20 ft.\rstraight toward a creature and then hits it with a tusk attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the tusk cat can make one hooves attack against it as a bonus action.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Hooves</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) kinetic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tusks</name>
+            <desc type="string">Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\tuskcat.png@SW5e Player Book</token>
+      </tuskcat>
+      <twirrl>
+        <locked type="number">1</locked>
+        <name type="string">Twirrl</name>
+        <type type="string">beast</type>
+        <size type="string">Tiny</size>
+        <ac type="number">13</ac>
+        <actext type="string"/>
+        <hp type="number">3</hp>
+        <hd type="string">(2d4 - 2)</hd>
+        <speed type="string">10 ft., fly 60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4</skills>
+        <senses type="string">passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/2</cr>
+        <xp type="number">100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Dive Attack</name>
+            <desc type="string">If the twirrl is flying and dives at least 30 ft.\rstraight toward a target and then hits it with a talon attack, the attack deals an extra 2 (1d4) damage to the target.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Sight</name>
+            <desc type="string">The twirrl has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Talons</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\twirrl.png@SW5e Player Book</token>
+      </twirrl>
+      <tx_225aoccupiertank>
+        <locked type="number">1</locked>
+        <name type="string">TX-225A Occupier Tank</name>
+        <type type="string">construct</type>
+        <size type="string">Huge</size>
+        <ac type="number">16</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">85</hp>
+        <hd type="string">(9d8 + 45)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +9, Con +7</savingthrows>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">psychic</damageresistances>
+        <damageimmunities type="string">necrotic, poison</damageimmunities>
+        <conditionimmunities type="string">blinded, charmed, frightened, incapacitated, petrified, poisoned, diseased, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">6</cr>
+        <xp type="number">2300</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The tank has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Heavy Durasteel Armor</name>
+            <desc type="string">The outer layer of the tank is covered in heavy armor, making it difficult for smaller arms to damage it. Unless the damage from a single attack or effect exceeds 15 points, the tank takes no damage from that attack. If the tank takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, it takes damage as normal.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Piloted</name>
+            <desc type="string">The tank requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The pilot may take their own action or one of the actions granted by the construct.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Vulnerable Interior</name>
+            <desc type="string">The tank's interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.</desc>
+          </id-00004>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The tank makes two laser cannon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Laser Cannon</name>
+            <desc type="string">Ranged Weapon Attack +7 to hit, 100/400, one target. Hit 15 (2d10 + 4) energy damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Blaster Cannon Volley (Recharge 5-6)</name>
+            <desc type="string">the tank launches a barrage of cannon fire at a point within 120 feet. Each creature within 20 feet of that point must make a DC 15 Dexterity saving throw, taking 17 (5d6) energy damage on a failed save, or half as much damage on a successful one.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Frightful Presence</name>
+            <desc type="string">Each creature of the tank's choice that is within 80 feet of the tank and aware of it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tank's Frightful Presence for the next 24 hours.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\tx_225aoccupiertank.png@SW5e Player Book</token>
+      </tx_225aoccupiertank>
     </npcdata>
     <npclists>
       <npcs>
@@ -41009,6 +42094,156 @@
                 </link>
                 <source type="number"/>
               </trooper_jetpack>
+              <t_seriestacticaldroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.t_seriestacticaldroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </t_seriestacticaldroid>
+              <t3_seriesutilitydroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.t3_seriesutilitydroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </t3_seriesutilitydroid>
+              <terentatek>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.terentatek@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </terentatek>
+              <trandoshanhuntmaster>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanhuntmaster@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanhuntmaster>
+              <trandoshanwarrior>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanwarrior@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanwarrior>
+              <trandoshanhunter>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanhunter@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanhunter>
+              <trandoshanelitewarrior>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanelitewarrior@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanelitewarrior>
+              <trooper_mounted>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_mounted@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_mounted>
+              <trooper_purge>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_purge@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_purge>
+              <trooper_shore>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_shore@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_shore>
+              <trooper_sniper>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_sniper@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_sniper>
+              <tuk_ata>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tuk_ata@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </tuk_ata>
+              <tuskcat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tuskcat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </tuskcat>
+              <twirrl>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.twirrl@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </twirrl>
+              <tx_225aoccupiertank>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tx_225aoccupiertank@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </tx_225aoccupiertank>
             </index>
           </typeletterT>
           <typeletterW>
@@ -41609,6 +42844,26 @@
                 </link>
                 <source type="number"/>
               </pelkobugswarm>
+              <trandoshanhunter>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanhunter@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanhunter>
+              <trooper_purge>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_purge@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_purge>
             </index>
           </level03>
           <level01>
@@ -41794,6 +43049,16 @@
                 </link>
                 <source type="number"/>
               </probedroid_viper>
+              <trooper_shore>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_shore@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_shore>
             </index>
           </level01>
           <level00>
@@ -42374,6 +43639,56 @@
                 </link>
                 <source type="number"/>
               </steep>
+              <t_seriestacticaldroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.t_seriestacticaldroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </t_seriestacticaldroid>
+              <trandoshanwarrior>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanwarrior@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanwarrior>
+              <trooper_mounted>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_mounted@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_mounted>
+              <tuk_ata>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tuk_ata@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </tuk_ata>
+              <tuskcat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tuskcat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </tuskcat>
             </index>
           </level02>
           <level04>
@@ -42604,6 +43919,26 @@
                 </link>
                 <source type="number"/>
               </kolkpraviskhan>
+              <trandoshanelitewarrior>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanelitewarrior@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanelitewarrior>
+              <tx_225aoccupiertank>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tx_225aoccupiertank@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </tx_225aoccupiertank>
             </index>
           </level06>
           <level09>
@@ -42679,6 +44014,16 @@
                 </link>
                 <source type="number"/>
               </securitydroid_jk_13>
+              <terentatek>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.terentatek@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </terentatek>
             </index>
           </level09>
           <level10>
@@ -42919,6 +44264,16 @@
                 </link>
                 <source type="number"/>
               </steelpecker>
+              <t3_seriesutilitydroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.t3_seriesutilitydroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </t3_seriesutilitydroid>
             </index>
           </level1_8>
           <level1_2>
@@ -43134,6 +44489,26 @@
                 </link>
                 <source type="number"/>
               </securityofficer>
+              <trooper_sniper>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_sniper@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trooper_sniper>
+              <twirrl>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.twirrl@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </twirrl>
             </index>
           </level1_2>
           <level07>
@@ -43189,6 +44564,16 @@
                 </link>
                 <source type="number"/>
               </scrange>
+              <trandoshanhuntmaster>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanhuntmaster@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </trandoshanhuntmaster>
             </index>
           </level07>
           <level1_4>
@@ -44734,6 +46119,26 @@
                 </link>
                 <source>beast</source>
               </swampslug>
+              <tuskcat>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tuskcat@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </tuskcat>
+              <twirrl>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.twirrl@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </twirrl>
             </index>
           </typebeast>
           <typeplant>
@@ -45184,6 +46589,26 @@
                 </link>
                 <source>droid</source>
               </supertacticaldroid>
+              <t_seriestacticaldroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.t_seriestacticaldroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </t_seriestacticaldroid>
+              <t3_seriesutilitydroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.t3_seriesutilitydroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </t3_seriesutilitydroid>
             </index>
           </typedroid>
           <typehumanoid_any_>
@@ -45494,6 +46919,26 @@
                 </link>
                 <source>aberration</source>
               </hssiss>
+              <terentatek>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.terentatek@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>aberration</source>
+              </terentatek>
+              <tuk_ata>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tuk_ata@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>aberration</source>
+              </tuk_ata>
             </index>
           </typeaberration>
           <typeundead>
@@ -45824,6 +47269,26 @@
                 </link>
                 <source>humanoid</source>
               </securityofficer>
+              <trooper_shore>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_shore@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </trooper_shore>
+              <trooper_sniper>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_sniper@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </trooper_sniper>
             </index>
           </typehumanoid>
           <typeconstruct>
@@ -45869,6 +47334,16 @@
                 </link>
                 <source>construct</source>
               </at_rt>
+              <tx_225aoccupiertank>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.tx_225aoccupiertank@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>construct</source>
+              </tx_225aoccupiertank>
             </index>
           </typeconstruct>
           <typehumanoid_human_>
@@ -45914,6 +47389,16 @@
                 </link>
                 <source>humanoid (human)</source>
               </navypilot>
+              <trooper_purge>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_purge@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (human)</source>
+              </trooper_purge>
             </index>
           </typehumanoid_human_>
           <typelasercannon_rangedweaponattack_9tohit_100_400>
@@ -46214,8 +47699,63 @@
                 </link>
                 <source>humanoid (trandoshan)</source>
               </legendaryt_doshokhunter>
+              <trandoshanhuntmaster>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanhuntmaster@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (trandoshan)</source>
+              </trandoshanhuntmaster>
+              <trandoshanwarrior>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanwarrior@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (trandoshan)</source>
+              </trandoshanwarrior>
+              <trandoshanhunter>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanhunter@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (trandoshan)</source>
+              </trandoshanhunter>
+              <trandoshanelitewarrior>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trandoshanelitewarrior@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (trandoshan)</source>
+              </trandoshanelitewarrior>
             </index>
           </typehumanoid_trandoshan_>
+          <typehumanoid_largewhenmounted_>
+            <description type="string">Humanoid (large When Mounted)</description>
+            <index>
+              <trooper_mounted>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.trooper_mounted@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (Large when mounted)</source>
+              </trooper_mounted>
+            </index>
+          </typehumanoid_largewhenmounted_>
         </groups>
       </bytype>
     </npclists>

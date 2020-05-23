@@ -220,15 +220,15 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Stintaril Swarm 0.25 179
 --Super Tactical Droid 15 141
 --Swamp Slug 14 139
-T-Series Tactical Droid 2 140
-T3-Series Utility Droid 0.125 128
+--T-Series Tactical Droid 2 140
+--T3-Series Utility Droid 0.125 128
 --Tauntaun 0.125 180
-Terentatek 9 142
-Thug 0.125 193
-Trandoshan Elite Warrior 6 149
-Trandoshan Hunter 3 148
-Trandoshan Huntmaster 7 147
-Trandoshan Warrior 2 148
+--Terentatek 9 142
+--Thug 0.125 193
+--Trandoshan Elite Warrior 6 149
+--Trandoshan Hunter 3 148
+--Trandoshan Huntmaster 7 147
+--Trandoshan Warrior 2 148
 --Trooper 0.5 57
 --Trooper Captain 4 57
 --Trooper, Demolitions 0.5 58
@@ -236,13 +236,13 @@ Trandoshan Warrior 2 148
 --Trooper, Headhunter 2 58
 --Trooper, Heavy 3 59
 --Trooper, Jetpack 2 59
-Trooper, Mounted 2 61
-Trooper, Purge 3 85
-Trooper, Scout 0.5 60
-Trooper, Shore 1 60
-Trooper, Sniper 0.5 60
-Tuk'ata 2 151
-Tusk Cat 2 180
+--Trooper, Mounted 2 61
+--Trooper, Purge 3 85
+--Trooper, Scout 0.5 60
+--Trooper, Shore 1 60
+--Trooper, Sniper 0.5 60
+--Tuk'ata 2 151
+--Tusk Cat 2 180
 --Tusken Brute 2 154
 --Tusken Chieftain 4 153
 --Tusken Raider 0.5 154
