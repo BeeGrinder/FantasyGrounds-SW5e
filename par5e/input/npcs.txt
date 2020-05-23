@@ -4886,4 +4886,93 @@ Blaster Cannon Volley (Recharge 5-6). the tank launches a barrage of cannon fire
 Frightful Presence. Each creature of the tank's choice that is within 80 feet of the tank and aware of it must succeed on a DC 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tank's Frightful Presence for the next 24 hours.
 ##;
 
+Veermok
+Large beast, unaligned
+Armor Class 12
+Hit Points 30 (4d10 + 8)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA 16 (+3) 14 (+2) 14 (+2) 6 (-2) 12 (+1) 5 (-3)
+Skills Athletics +5, Perception +3, Stealth +5
+Damage Resistances energy, ion, kinetic from nonmagical weapons
+Senses passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+ACTIONS
+Multiattack The veermok makes three attacks. one with its bite and two with its fists.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.
+Rock. Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.
+##;
+
+Vesuvague Tree
+Large plant, unaligned
+Armor Class 12
+Hit Points 172 (15d12 + 80)
+Speed 10 ft.
+STR DEX CON INT WIS CHA 20 (+5) 6 (-2) 20 (+5) 3 (-4) 6 (-2) 4 (-3)
+Damage Vulnerabilities fire
+Damage Resistances kinetic
+Condition Immunities blinded, deafened, exhaustion, frightened
+Senses blindsight 90 ft., passive Perception 10
+Languages Basic, any one other of your choice
+Challenge 7 (2,900 XP)
+ACTIONS
+Multiattack. The vesuvague tree may make two constrict attacks per turn.
+Constrict. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit 11 (1d8 + 5) bludgeoning damage, and a Large or smaller target is grappled (escape DC 16).
+##;
+
+Vornskr
+Small beast, unaligned
+Armor Class 12
+Hit Points 14 (4d6)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 13 (+1) 15 (+2) 10 (+0) 3 (-4) 15 (+2) 7 (-2)
+Skills Perception +4, Stealth +6
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 1 (200 XP)
+Force Tracking. The vornskr can sense the presence of force creatures and objects up to 1 mile away. It knows the general direction they're in but not their exact locations.
+Keen Smell. The vornskr has advantage on Wisdom (Perception) checks that rely on smell.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.
+Tail. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage plus 7 (2d6) poison damage. If the target is a creature it must also make DC 13 Constitution saving throw. On a failure, a creature is paralyzed for 1 minute. The creature can repeat this saving throw at end of each of its turns, ending the effect on itself.
+##;
+
+Voxyn
+Large beast, chaotic neutral
+Armor Class 17
+Hit Points 180 (15d12)
+Speed 50 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 20 (+5) 16 (+3) 16 (+3) 10 (+0) 18 (+4) 7 (-2)
+Skills Athletics +9, Perception +12, Stealth +11
+Damage Resistances acid, poison, energy
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 22
+Languages Yuuzhan Vong
+Challenge 15 (13,000 XP)
+Vacuum Cocoon. The Voxyn are able to create Cocoon’s\rthat will allow them to survive the vacuum of space
+Keen Smell. The Voxyn has advantage on Wisdom\r(Perception) checks that rely on smell.
+Force Tracking. The Voxyn can sense the presence of force\rcreatures and objects up to 1 mile away. It knows the\rgeneral direction they're in but not their exact locations.
+Unstable Clone Biology. The Voxyn’s cells rapidly deteriorate\rafter creation, the Voxyn lifespan usually only last a few\rmonths after creation
+ACTIONS
+Multiattack. Voxyn can make two bite attacks and one tail attack.
+Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (3d8 + 5) kinetic damage & 12 (2d12) acid damage If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+Tail. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 17 (4d6 + 5) kinetic damage plus 18 (6d6) poison damage. If the target is a creature it must also make DC 16 Constitution saving throw. On a failure, a creature is paralyzed for 1 minute. The creature can repeat this saving throw at end of each of its turns, ending the effect on itself.
+Sonic Blast (Recharge 5-6). The Voxyn emits a sonic howl from its snout. Creatures within 30 feet of it must succeed on a DC 16 Constitution saving throw or take 32 (5d10 + 5) Sonic damage, be stunned for 1 minute, and is deafened. Takes half damage on a successful save. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+##;
+
+Vulptex
+Small beast, unaligned
+Armor Class 12
+Hit Points 10 (3d6)
+Speed 30 ft., burrow 10 ft.
+STR DEX CON INT WIS CHA 10 (+0) 15 (+2) 11 (+0) 4 (-3) 14 (+2) 7 (-2)
+Skills Perception +6, Stealth +4
+Senses darkvision 60 ft., passive Perception 16
+Languages --
+Challenge 1/8 (25 XP)
+Keen Sight And Smell. The vulptex has advantage on Wisdom (Perception) checks that rely on sight or smell.
+ACTIONS
+Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.
+##;
 
