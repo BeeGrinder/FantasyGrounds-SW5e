@@ -169,17 +169,17 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Orbalisk 1 113
 --Orbalisk Swarm 3 113
 --Padawan 2 186
-Pelko Bug 0 114
-Pelko Bugs Swarm 3 114
-Pistoeka Sabotage Droid 0 144
-Pit Droid 0 145
+--Pelko Bug 0 114
+--Pelko Bugs Swarm 3 114
+--Pistoeka Sabotage Droid 0 144
+--Pit Droid 0 145
 --Porg 0 115
 --Porg Swarm 0.25 115
-Probe Droid, Sith 0 117
-Probe Droid, Viper 1 118
-Protocol Droid, 0-0-0 Series 2 120
+--Probe Droid, Sith 0 117
+--Probe Droid, Viper 1 118
+--Protocol Droid, 0-0-0 Series 2 120
 --Protocol Droid, 3P0 Series 0 119
-Protocol Droid, LOM Series 2 120
+--Protocol Droid, LOM Series 2 120
 --R2 Series Astromech 0.125 17
 --Rakghoul 1 121
 --Rakghoul, Hulking 5 122
