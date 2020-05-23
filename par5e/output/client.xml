@@ -39700,6 +39700,327 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\tx_225aoccupiertank.png@SW5e Player Book</token>
       </tx_225aoccupiertank>
+      <veermok>
+        <locked type="number">1</locked>
+        <name type="string">Veermok</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">30</hp>
+        <hd type="string">(4d10 + 8)</hd>
+        <speed type="string">40 ft., climb 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +5, Perception +3, Stealth +5</skills>
+        <damageresistances type="string">energy, ion, kinetic from nonmagical weapons</damageresistances>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack The veermok makes three attacks</name>
+            <desc type="string">one with its bite and two with its fists.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Rock</name>
+            <desc type="string">Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\veermok.png@SW5e Player Book</token>
+      </veermok>
+      <vesuvaguetree>
+        <locked type="number">1</locked>
+        <name type="string">Vesuvague Tree</name>
+        <type type="string">plant</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">172</hp>
+        <hd type="string">(15d12 + 80)</hd>
+        <speed type="string">10 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <damagevulnerabilities type="string">fire</damagevulnerabilities>
+        <damageresistances type="string">kinetic</damageresistances>
+        <conditionimmunities type="string">blinded, deafened, exhaustion, frightened</conditionimmunities>
+        <senses type="string">blindsight 90 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Basic, any one other of your choice</languages>
+        <cr type="string">7</cr>
+        <xp type="number">2900</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The vesuvague tree may make two constrict attacks per turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Constrict</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit 11 (1d8 + 5) bludgeoning damage, and a Large or smaller target is grappled (escape DC 16).</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\vesuvaguetree.png@SW5e Player Book</token>
+      </vesuvaguetree>
+      <vornskr>
+        <locked type="number">1</locked>
+        <name type="string">Vornskr</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">14</hp>
+        <hd type="string">(4d6)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4, Stealth +6</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1</cr>
+        <xp type="number">200</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Force Tracking</name>
+            <desc type="string">The vornskr can sense the presence of force creatures and objects up to 1 mile away. It knows the general direction they're in but not their exact locations.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The vornskr has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tail</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage plus 7 (2d6) poison damage. If the target is a creature it must also make DC 13 Constitution saving throw. On a failure, a creature is paralyzed for 1 minute. The creature can repeat this saving throw at end of each of its turns, ending the effect on itself.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\vornskr.png@SW5e Player Book</token>
+      </vornskr>
+      <voxyn>
+        <locked type="number">1</locked>
+        <name type="string">Voxyn</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">17</ac>
+        <actext type="string"/>
+        <hp type="number">180</hp>
+        <hd type="string">(15d12)</hd>
+        <speed type="string">50 ft., climb 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">20</score>
+            <modifier type="string">+5</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +9, Perception +12, Stealth +11</skills>
+        <damageresistances type="string">acid, poison, energy</damageresistances>
+        <conditionimmunities type="string">poisoned</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 22</senses>
+        <alignment type="string">chaotic neutral</alignment>
+        <languages type="string">Yuuzhan Vong</languages>
+        <cr type="string">15</cr>
+        <xp type="number">13000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Vacuum Cocoon</name>
+            <desc type="string">The Voxyn are able to create Cocoon's\rthat will allow them to survive the vacuum of space</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The Voxyn has advantage on Wisdom\r(Perception) checks that rely on smell.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Force Tracking</name>
+            <desc type="string">The Voxyn can sense the presence of force\rcreatures and objects up to 1 mile away. It knows the\rgeneral direction they're in but not their exact locations.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Unstable Clone Biology</name>
+            <desc type="string">The Voxyn's cells rapidly deteriorate\rafter creation, the Voxyn lifespan usually only last a few\rmonths after creation</desc>
+          </id-00004>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">Voxyn can make two bite attacks and one tail attack.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 15 (3d8 + 5) kinetic damage &amp; 12 (2d12) acid damage If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Tail</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 17 (4d6 + 5) kinetic damage plus 18 (6d6) poison damage. If the target is a creature it must also make DC 16 Constitution saving throw. On a failure, a creature is paralyzed for 1 minute. The creature can repeat this saving throw at end of each of its turns, ending the effect on itself.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Sonic Blast (Recharge 5-6)</name>
+            <desc type="string">The Voxyn emits a sonic howl from its snout. Creatures within 30 feet of it must succeed on a DC 16 Constitution saving throw or take 32 (5d10 + 5) Sonic damage, be stunned for 1 minute, and is deafened. Takes half damage on a successful save. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\voxyn.png@SW5e Player Book</token>
+      </voxyn>
+      <vulptex>
+        <locked type="number">1</locked>
+        <name type="string">Vulptex</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">12</ac>
+        <actext type="string"/>
+        <hp type="number">10</hp>
+        <hd type="string">(3d6)</hd>
+        <speed type="string">30 ft., burrow 10 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +6, Stealth +4</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 16</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Sight And Smell</name>
+            <desc type="string">The vulptex has advantage on Wisdom (Perception) checks that rely on sight or smell.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\vulptex.png@SW5e Player Book</token>
+      </vulptex>
     </npcdata>
     <npclists>
       <npcs>
@@ -41499,6 +41820,56 @@
                 </link>
                 <source type="number"/>
               </viperprobedroid>
+              <veermok>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.veermok@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </veermok>
+              <vesuvaguetree>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vesuvaguetree@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </vesuvaguetree>
+              <vornskr>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vornskr@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </vornskr>
+              <voxyn>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.voxyn@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </voxyn>
+              <vulptex>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vulptex@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </vulptex>
             </index>
           </typeletterV>
           <typeletterE>
@@ -43059,6 +43430,16 @@
                 </link>
                 <source type="number"/>
               </trooper_shore>
+              <vornskr>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vornskr@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </vornskr>
             </index>
           </level01>
           <level00>
@@ -43689,6 +44070,16 @@
                 </link>
                 <source type="number"/>
               </tuskcat>
+              <veermok>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.veermok@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </veermok>
             </index>
           </level02>
           <level04>
@@ -44274,6 +44665,16 @@
                 </link>
                 <source type="number"/>
               </t3_seriesutilitydroid>
+              <vulptex>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vulptex@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </vulptex>
             </index>
           </level1_8>
           <level1_2>
@@ -44574,6 +44975,16 @@
                 </link>
                 <source type="number"/>
               </trandoshanhuntmaster>
+              <vesuvaguetree>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vesuvaguetree@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </vesuvaguetree>
             </index>
           </level07>
           <level1_4>
@@ -44924,6 +45335,16 @@
                 </link>
                 <source type="number"/>
               </supertacticaldroid>
+              <voxyn>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.voxyn@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </voxyn>
             </index>
           </level15>
           <level14>
@@ -46139,6 +46560,46 @@
                 </link>
                 <source>beast</source>
               </twirrl>
+              <veermok>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.veermok@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </veermok>
+              <vornskr>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vornskr@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </vornskr>
+              <voxyn>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.voxyn@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </voxyn>
+              <vulptex>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vulptex@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </vulptex>
             </index>
           </typebeast>
           <typeplant>
@@ -46214,6 +46675,16 @@
                 </link>
                 <source>plant</source>
               </sarlacc_adult>
+              <vesuvaguetree>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.vesuvaguetree@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>plant</source>
+              </vesuvaguetree>
             </index>
           </typeplant>
           <typedroid>

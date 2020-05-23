@@ -246,16 +246,16 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Tusken Brute 2 154
 --Tusken Chieftain 4 153
 --Tusken Raider 0.5 154
-Twirrl 0.5 181
-TX-225A Occupier Tank 6 68
+--Twirrl 0.5 181
+--TX-225A Occupier Tank 6 68
 --Uprising 15 36
 --Varactyl, Adolescent 0.25 155
 --Varactyl, Adult 0.5 155
-Veermok 2 181
-Vesuvague Tree 7 156
-Vornskr 1 157
-Voxyn 15 158
-Vulptex 0.125 182
+--Veermok 2 181
+--Vesuvague Tree 7 156
+--Vornskr 1 157
+--Voxyn 15 158
+--Vulptex 0.125 182
 --Vulture-Class Droid 3 45
 --Wampa, Cliff 5 159
 --Wampa, Snow 3 159
