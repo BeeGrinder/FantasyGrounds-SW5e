@@ -4023,3 +4023,159 @@ Rally Allies. The officer targets up to three allies within 120 feet that can he
 REACTIONS
 Human Shield. When the officer is targeted by a ranged attack while an ally is within 5 ft of it, the officer can use its reaction to cause that ally to be targeted by the attack instead.
 ##;
+
+Pelko Bug
+Tiny beast, unaligned
+Armor Class 18 (natural armor)
+Hit Points 1 (1d4-1)
+Speed 20 ft., burrow 20 ft., climb 20 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 2 (-4) 14 (+2) 8 (-1) 1 (-5) 10 (+0) 2 (-4)
+Skills Stealth +4
+Damage Vulnerabilities cold, fire, lightning, energy
+Senses darkvision 30 ft., passive Perception 10
+Languages --
+Challenge 0 (10 XP)
+Bug Climb. The Pelko Bug can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Due to being tiny, the Pelko Bug can occupy the same spot as another creature. To attack the Pelko Bug must be climbing on the target.
+Penetrating Spikes. The Pelko Bug's microscopic barbs can penetrate even through the toughest armor. The Pelko Bug gains +5 to hit (Incorporated to attack).
+ACTIONS
+Barbs. Melee Weapon Attack: +9 to hit, reach 0 ft., one creature. Hit: 1 (2d4-1) kinetic damage, and the target must succeed on a DC 12 Constitution saving throw or take 2 poison damage and become paralyzed.
+##;
+
+Pelko Bug Swarm
+Large swarm of tiny beasts, unaligned
+Armor Class 12 (natural armor)
+Hit Points 63 (6d10+33)
+Speed 20 ft., burrow 20 ft., climb 20 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 18 (+4) 13 (+1) 3 (-4) 12 (+1) 4 (-3)
+Damage Vulnerabilities cold, fire, lightning, energy
+Damage Resistances kinetic
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 30 ft., passive Perception 11
+Languages --
+Challenge 3 (700 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a tiny bug. The swarm can't regain hit points or gain temporary hit points.
+Penetrating Spikes. The Pelko Bug's microscopic barbs can penetrate even through the toughest armor. The Pelko Bug gains +5 to hit (Incorporated to attack).
+ACTIONS
+Barbs (swarm has more than half HP). Melee Weapon Attack: +9 to hit, reach 0 ft., one creature. Hit: 15 (4d4-1) kinetic damage, and the target must succeed on a DC 12 Constitution saving throw or take 2 poison damage and become paralyzed.
+Barbs (swarm has half HP or less). Melee Weapon Attack: +9 to hit, reach 0 ft., one creature. Hit: 7 (2d4-1) kinetic damage, and the target must succeed on a DC 12 Constitution saving throw or take 2 poison damage and become paralyzed.
+##;
+
+Pistoeka Sabotage Droid
+Tiny droid, unaligned
+Armor Class 12
+Hit Points 1 (1d4-1)
+Speed 20 ft., climb 20 ft.
+STR DEX CON INT WIS CHA 2 (-4) 14 (+2) 8 (-1) 2 (-4) 10 (+0) 2 (-4)
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 10
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Magnetic Lock. The droid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Interfaced Damage Protocol. While you are interfaced with this droid via the tracker droid interface tech power, when you roll a 1 or 2 on a damage die for a tech power while your droid is within 5 feet of you, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+Pack Tactics. The droid has advantage on attack rolls against a creature if at least one of the buzz droid's allies is within 5 feet of the creature and the ally isn't incapacitated.
+ACTIONS
+Miniature Plasma Cutter. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 ion damage.
+##;
+
+Pit Droid
+Tiny droid, unaligned
+Armor Class 11 (armor plating)
+Hit Points 3 (1d6)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 9 (-1) 10 (+0) 10 (+0) 12 (+1) 12 (+1) 11 (+0)
+Skills Technology +3, Investigation +3, Repair Kit +3
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses passive Perception 11
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Crafter Protocol. The droid comes with proficiency in three tools, chosen when it is crafted.
+Interfaced Crafting Protocol. While you are interfaced with this droid via the tracker droid interface tech power, whenever you make an ability check using tools with which the droid is also proficient, you have advantage on the check. If you already have advantage, you can instead reroll one of the dice once.
+Powerful Build. The droid counts as one size larger when determining carrying capacity and the weight it can push, drag, or lift.
+Turtle (1/Rest). The first time the droid would drop to zero hit points, the droid can instead remain at one hit point and temporarily deactivate and fold up into a tougher, immobile form. While turtled, the droid has an AC of 14, and is considered paralyzed. The creature interfaced with this droid can use a bonus action to restore this droid to it's unturtled condition.
+ACTIONS
+Kick. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+Repair (1/day). As an action, the droid can expend one use of a repair kit to restore 2d4+2 hit points to a droid or construct within 5 feet.
+##;
+
+Probe Droid, Sith
+Tiny droid, unaligned
+Armor Class 11 (armor plating)
+Hit Points 1 (1d4-1)
+Speed 5 ft., fly 60 ft.
+STR DEX CON INT WIS CHA 3 (-4) 13 (+1) 8 (-1) 2 (-4) 12 (+1) 7 (-2)
+Skills Perception +3, Stealth +3, Survival +3
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 120 ft., passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Flyby. The droid doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+Keen Hearing And Sight. The droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+ACTIONS
+Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.
+##;
+
+Probe Droid, Viper
+Large droid, unaligned
+Armor Class 14 (armor plating)
+Hit Points 37 (5d10+10)
+Speed 5 ft., fly 40 ft.
+STR DEX CON INT WIS CHA 11 (+0) 15 (+2) 12 (+1) 17 (+3) 14 (+2) 7 (-2)
+Skills Investigation +5, Perception +4
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 120 ft., passive Perception 14
+Languages --
+Challenge 1 (200 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Keen Hearing And Sight. The probe droid has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+ACTIONS
+Blaster Cannon. Ranged Weapon Attack: +4 to hit, range 60/240 ft., one target. Hit: 7 (1d10+2) energy damage.
+Self-Destruct. When the probe droid is reduced to half of its hit point maximum, it attempts to self-destruct.\rEach creature within 20 feet of it must make a DC 13 Dexterity saving throw, taking 6d6 fire damage on a failed save, or half as much on a successful one.
+##;
+
+Protocol Droid, 000 Series
+Medium droid, unaligned
+Armor Class 11 (armor plating)
+Hit Points 27 (5d8+5)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 10 (+0) 10 (+0) 12 (+1) 14 (+2) 12 (+1) 14 (+2)
+Skills Insight +4, Intimidation +5, Lore +5
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased 
+Senses darkvision 60 ft., passive Perception 11
+Languages All registered languages
+Challenge 2 (450 XP)
+Spellcasting. The protocol droid, 000 series is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The droid has 22 tech points. The protocol droid, 000 series has the following  spells prepared:\rCantrips (At will): assess the situation, electroshock, venomous strike\r1st level (22 slots): poison dart, spot the weakness, toxin scan, tranquilizer\r2nd level (22 slots): paralyze humanoid, toxin purge, truth serum\r3rd level (22 slots): tactical advantage
+ACTIONS
+Tortuous Strike. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage and, if the target is a creature, the creature is shocked until the end of its next turn.
+##;
+
+Protocol Droid, LOM Series
+Medium droid, unaligned
+Armor Class 12 (armor plating)
+Hit Points 27 (5d8 + 5)
+Speed 25 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 12 (+1) 14 (+2) 12 (+1) 9 (-1)
+Skills Religion +4, Survival +4
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 60 ft., passive Perception 11
+Languages All registered languages
+Challenge 2 (450 XP)
+Legendary Resistance (1/Day). If the droid fails a saving throw, he can choose to succeed instead.
+ACTIONS
+Multiattack. The droid makes two blaster rifle attacks.
+Blaster Rifle. Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 5 (1d8+1) energy damage.
+##;
