@@ -40021,6 +40021,949 @@
         </actions>
         <token type="token">tokens\SW5e Player Book\vulptex.png@SW5e Player Book</token>
       </vulptex>
+      <warwyrm>
+        <locked type="number">1</locked>
+        <name type="string">War Wyrm</name>
+        <type type="string">aberration</type>
+        <size type="string">Gargantuan</size>
+        <ac type="number">19</ac>
+        <actext type="string"/>
+        <hp type="number">261</hp>
+        <hd type="string">(18d20+72)</hd>
+        <speed type="string">50 ft., burrow 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">24</score>
+            <modifier type="string">+7</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Con +10, Wis +6</savingthrows>
+        <skills type="string">Athletics +13</skills>
+        <senses type="string">blindsight 30 ft., darkvision 60 ft., tremorsense 60 ft., passive Perception 12</senses>
+        <alignment type="string">chaotic dark</alignment>
+        <languages type="string">Can't speak but understands commands in Sith</languages>
+        <cr type="string">20</cr>
+        <xp type="number">25000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Tunneler</name>
+            <desc type="string">The wyrm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the wyrm fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Gargantuan Strength</name>
+            <desc type="string">The wyrm's melee weapon attacks are considered enhanced.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Siege Monster</name>
+            <desc type="string">The wyrm deals double damage to objects and structures.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Sith-born</name>
+            <desc type="string">Dark forcecasters and Sith (species) have advantage on Animal Handling checks against war wyrms.</desc>
+          </id-00005>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The wyrm makes two attacks. one with its bite and one with its tail.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8+7) kinetic damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed by the wyrm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the wyrm, and it takes 21 (6d6) acid damage at the start of each of the wyrm's turns.\rIf the wyrm takes 30 damage or more on a single turn from a creature inside it, the wyrm must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the wyrm. If the wyrm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Tail</name>
+            <desc type="string">Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 17 (3d6+7) kinetic damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone.</desc>
+          </id-00003>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The wyrm can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The wyrm regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Cloud of Dust</name>
+            <desc type="string">The wyrm lashes out and scatters a dusty wake. Each creature within 10 feet of the wyrm, including around a corner, must succeed on a DC 15 Constitution saving throw or be blinded until the end of the wyrm's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the wyrm's next turn.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Tail Attack (Costs 2 Actions)</name>
+            <desc type="string">The wyrm makes one tail attack.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Move</name>
+            <desc type="string">The wyrm moves up to its speed.</desc>
+          </id-00004>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\warwyrm.png@SW5e Player Book</token>
+      </warwyrm>
+      <whisperbird>
+        <locked type="number">1</locked>
+        <name type="string">Whisper Bird</name>
+        <type type="string">beast</type>
+        <size type="string">Tiny</size>
+        <ac type="number">11</ac>
+        <actext type="string"/>
+        <hp type="number">1</hp>
+        <hd type="string">(1d4 - 1)</hd>
+        <speed type="string">5 ft., fly 60 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Stealth +5</skills>
+        <senses type="string">passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Flyby</name>
+            <desc type="string">The whisper bird doesn't provoke opportunity attacks when it flies out of an enemy's reach.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Sight</name>
+            <desc type="string">The whisper bird has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Talons</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\whisperbird.png@SW5e Player Book</token>
+      </whisperbird>
+      <womprat_beggar_scanyon>
+        <locked type="number">1</locked>
+        <name type="string">Womp Rat, Beggar's Canyon</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">11</hp>
+        <hd type="string">(2d8 + 2)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3, Stealth +4</skills>
+        <senses type="string">passive Perception 13</senses>
+        <alignment type="string">neutral</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Hearing And Smell</name>
+            <desc type="string">The rat has advantage on on Wisdom (Perception) checks that rely on hearing and smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The rat has advantage on an attack roll against a creature if it is grappled by at least one of the rat's allies.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2d4 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be grappled.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\womprat_beggar_scanyon.png@SW5e Player Book</token>
+      </womprat_beggar_scanyon>
+      <womprat_jundlandwastes>
+        <locked type="number">1</locked>
+        <name type="string">Womp Rat, Jundland Wastes</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">26</hp>
+        <hd type="string">(4d10 + 4)</hd>
+        <speed type="string">50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4</skills>
+        <senses type="string">passive Perception 14</senses>
+        <alignment type="string">neutral</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/2</cr>
+        <xp type="number">100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Hearing And Smell</name>
+            <desc type="string">The rat has advantage on on Wisdom (Perception) checks that rely on hearing and smell.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\womprat_jundlandwastes.png@SW5e Player Book</token>
+      </womprat_jundlandwastes>
+      <woodoo>
+        <locked type="number">1</locked>
+        <name type="string">Woodoo</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">68</hp>
+        <hd type="string">(8d10 + 24)</hd>
+        <speed type="string">20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">poison, sonic</damageresistances>
+        <conditionimmunities type="string">deafened, poisoned</conditionimmunities>
+        <senses type="string">passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">3</cr>
+        <xp type="number">700</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Charge</name>
+            <desc type="string">If the woodoo moves at least 20 ft. straight toward a target and then hits it with a beak attack on the same turn, the target takes an extra 11 (2d10) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The woodoo can make two attacks. one with its beak and one with its talons.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Beak</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Talons</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 4) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Shriek (Recharge 6)</name>
+            <desc type="string">The woodoo lets out a deafening shriek in a 60-foot cone. All creatures that can hear it must make a DC 13 Constitution saving throw. On a failure, a creature takes 17 (5d6) sonic damage and is deafened for 1 minute. The creature can repeat this saving throw at end of each of its turns, ending the effect on itself. On a success, a creature takes half damage and is not deafened.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\woodoo.png@SW5e Player Book</token>
+      </woodoo>
+      <worrt>
+        <locked type="number">1</locked>
+        <name type="string">Worrt</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">22</hp>
+        <hd type="string">(4d8 + 4)</hd>
+        <speed type="string">20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3, Stealth +3</skills>
+        <damageimmunities type="string">poison</damageimmunities>
+        <conditionimmunities type="string">poisoned</conditionimmunities>
+        <senses type="string">darkvision 30 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Stone Camouflage</name>
+            <desc type="string">The worrt has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the worrt can't bite another target. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a success.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tongue</name>
+            <desc type="string">The worrt targets one Small or smaller creature that it can see within 15 feet of it. The target must make a DC 12 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the worrt, and the worrt can make a bite attack against it as a bonus action.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\worrt.png@SW5e Player Book</token>
+      </worrt>
+      <worrt_giant>
+        <locked type="number">1</locked>
+        <name type="string">Worrt, Giant</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">45</hp>
+        <hd type="string">(6d10 + 12)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4, Stealth +3</skills>
+        <damageimmunities type="string">poison</damageimmunities>
+        <conditionimmunities type="string">poisoned</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Stone Camouflage</name>
+            <desc type="string">The worrt has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the worrt can't bite another target. The target must make a DC 10 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a success.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Swallow</name>
+            <desc type="string">The worrt makes a bite attack against a Medium or smaller target it is grappling. On a hit, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the worrt, and it takes 14 (4d6) acid damage at the start of each of the worrt's turns. The worrt can have only one target swallowed at a time.\rIf the worrt dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\worrt_giant.png@SW5e Player Book</token>
+      </worrt_giant>
+      <wraid>
+        <locked type="number">1</locked>
+        <name type="string">Wraid</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">16</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">63</hp>
+        <hd type="string">(6d10+33)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +5</skills>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Charge</name>
+            <desc type="string">If the Wraid moves at least 20 ft. straight toward a target and then hits it with a ram Attack on the same turn, the target takes an extra 4 (2d8) kinetic damage.\rIf the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The Wraid makes two attacks, once with its ram and one with its claws.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Ram</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 11 (3d6 + 3) bludgeoning damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claws</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 7 (2d4+3) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\wraid.png@SW5e Player Book</token>
+      </wraid>
+      <wyyyschokk>
+        <locked type="number">1</locked>
+        <name type="string">Wyyyschokk</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">78</hp>
+        <hd type="string">(12d8 + 24)</hd>
+        <speed type="string">40 ft., climb 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Stealth +9</skills>
+        <senses type="string">blindsight 10 ft., darkvision 60 ft., passive Perception 11</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The wyyyschokk has advantage on an attack roll against a creature if at least one of the wyyyschokk's allies is within 5 ft. of the creature and the ally isn't incapacitated.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Spider Climb</name>
+            <desc type="string">The wyyyschokk can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Web Walker</name>
+            <desc type="string">The wyyyschokk ignores movement restrictions caused by webbing.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage, and the target must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Web (Recharge 5-6)</name>
+            <desc type="string">Ranged Weapon Attack: +6 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\wyyyschokk.png@SW5e Player Book</token>
+      </wyyyschokk>
+      <zalaaca>
+        <locked type="number">1</locked>
+        <name type="string">Zalaaca</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">12</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">45</hp>
+        <hd type="string">(6d10 + 12)</hd>
+        <speed type="string">50 ft., swim 50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Aggressive</name>
+            <desc type="string">As a bonus action, the zalaaca can move up to its speed toward a hostile creature that it can see.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Sight</name>
+            <desc type="string">The zalaaca has advantage on Wisdom (Perception) checks that rely on sight.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The zalaaca can make two bite attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\zalaaca.png@SW5e Player Book</token>
+      </zalaaca>
+      <z_58seriessecuritydroid>
+        <locked type="number">1</locked>
+        <name type="string">Z-58 Series Security Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Tiny</size>
+        <ac type="number">11</ac>
+        <actext type="string"/>
+        <hp type="number">2</hp>
+        <hd type="string">(1d4)</hd>
+        <speed type="string">40 ft., fly 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, poison, psychic</damageresistances>
+        <conditionimmunities type="string">poisoned, diseased</conditionimmunities>
+        <senses type="string">darkvision 120 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Security Protocol</name>
+            <desc type="string">The droid comes with proficiency in security and slicer tools.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Interfaced Assistance Protocol</name>
+            <desc type="string">While you are interfaced with this droid via the tracker droid interface tech power, whenever you have advantage on an ability check or attack roll granted by the droid taking the Help action you can reroll one of the dice once.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Shockprod</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Sentry (1/day)</name>
+            <desc type="string">The Security Droid may enter a sentry state, granting the benefits of the alarm tech power to a target creature within 10 feet of the droid at the time of entering the sentry state. The Security Droid must remain within 60 feet of the warded location or the ability ends.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\z_58seriessecuritydroid.png@SW5e Player Book</token>
+      </z_58seriessecuritydroid>
+      <wookieehunter>
+        <locked type="number">1</locked>
+        <name type="string">Wookiee Hunter</name>
+        <type type="string">humanoid (wookie)</type>
+        <size type="string">Medium</size>
+        <ac type="number">17</ac>
+        <actext type="string">(hide)</actext>
+        <hp type="number">117</hp>
+        <hd type="string">(18d8 + 36)</hd>
+        <speed type="string">30 ft., climb 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +7, Perception +5, Stealth +10, Survival +8</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 15</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Shyriiwook, understands Galactic Basic</languages>
+        <cr type="string">6</cr>
+        <xp type="number">2300</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Brute</name>
+            <desc type="string">A melee weapon does one extra die of damage when the wookiee hits with it (included in the attack).</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Precise Attacker</name>
+            <desc type="string">The wookiee's weapon attacks score a critical hit on a roll of 18-20. When the wookiee scores a critical hit, it rolls the damage dice three times, instead of twice.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Surprise Attack</name>
+            <desc type="string">If the wookiee surprises a creature during the first round of combat, the wookiee has advantage on the first attack roll against that creature.\rIf the attack hits, it is considered a critical hit.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The wookiee makes two melee or two ranged weapon attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Vibroblade</name>
+            <desc type="string">Melee Weapon Attack: +7 to hit, one target. Hit.\r13 (2d8 + 4) kinetic damage or 15 (2d10 + 4) kinetic damage if wielded with two hands.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Bowcaster</name>
+            <desc type="string">Ranged Weapon Attack: +7 to hit, range 40/160 ft., one target. Hit: 9 (1d10 + 4) energy damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Bowcaster Burst</name>
+            <desc type="string">(Recharge 5-6) The wookiee sprays a 10foot-cube area within 40 ft. Each creature in the area must make a DC 15 Dexterity saving throw, taking 9 (1d10 + 4) energy damage on a failed save.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\wookieehunter.png@SW5e Player Book</token>
+      </wookieehunter>
+      <wookieeberserker>
+        <locked type="number">1</locked>
+        <name type="string">Wookiee Berserker</name>
+        <type type="string">humanoid (wookie)</type>
+        <size type="string">Medium</size>
+        <ac type="number">14</ac>
+        <actext type="string">(hide)</actext>
+        <hp type="number">30</hp>
+        <hd type="string">(4d8 + 12)</hd>
+        <speed type="string">30 ft., climb 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +5, Intimidation +5</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Shyriiwook, understands Galactic Basic</languages>
+        <cr type="string">1</cr>
+        <xp type="number">200</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Aggressive</name>
+            <desc type="string">As a bonus action, the wookiee can move up to its speed toward a hostile creature that it can see.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Reckless</name>
+            <desc type="string">At the start of its turn, the wookiee can can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Blood Rage</name>
+            <desc type="string">When a creature within 5 feet of the wookiee hits it with an attack, the wookiee may use its reaction to immediately make a melee weapon attack with advantage against that creature.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Vibroaxe</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, one target. Hit: 9 (1d12 + 3) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\wookieeberserker.png@SW5e Player Book</token>
+      </wookieeberserker>
+      <wookieeengineer>
+        <locked type="number">1</locked>
+        <name type="string">Wookiee Engineer</name>
+        <type type="string">humanoid (wookie)</type>
+        <size type="string">Medium</size>
+        <ac type="number">15</ac>
+        <actext type="string">(hide)</actext>
+        <hp type="number">60</hp>
+        <hd type="string">(8d8 + 24)</hd>
+        <speed type="string">30 ft., climb 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4, Technology +6, Stealth +5</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Shyriiwook, understands Galactic Basic</languages>
+        <cr type="string">4</cr>
+        <xp type="number">1100</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Brute</name>
+            <desc type="string">A melee weapon does one extra die of damage when the wookiee hits with it (included in the attack).</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Berserk Charge</name>
+            <desc type="string">If the wookiee surprises a creature and hits it with an attack during the first round of combat, the target takes an extar 7 (2d6) damage from the attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The wookiee engineer is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The wookiee has 23 tech points. The wookiee engineer has the following  spells prepared:\rCantrips (At will): electrical burst, mending, on/off\r1st level (23 slots): element of surprise, kolto pack, repair droid\r2nd level (23 slots): hold droid, overheat\r3rd level (23 slots): enhance weapon, fabricate trap</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The wookiee engineer makes two melee attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Vibromace</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, one target. Hit: 12 (2d10 + 3) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\wookieeengineer.png@SW5e Player Book</token>
+      </wookieeengineer>
     </npcdata>
     <npclists>
       <npcs>
@@ -42650,6 +43593,126 @@
                 </link>
                 <source type="number"/>
               </wampa_snow>
+              <warwyrm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.warwyrm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </warwyrm>
+              <whisperbird>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.whisperbird@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </whisperbird>
+              <womprat_beggar_scanyon>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.womprat_beggar_scanyon@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </womprat_beggar_scanyon>
+              <womprat_jundlandwastes>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.womprat_jundlandwastes@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </womprat_jundlandwastes>
+              <woodoo>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.woodoo@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </woodoo>
+              <worrt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.worrt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </worrt>
+              <worrt_giant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.worrt_giant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </worrt_giant>
+              <wraid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wraid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wraid>
+              <wyyyschokk>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wyyyschokk@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wyyyschokk>
+              <wookieehunter>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieehunter@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wookieehunter>
+              <wookieeberserker>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieeberserker@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wookieeberserker>
+              <wookieeengineer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieeengineer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wookieeengineer>
             </index>
           </typeletterW>
           <typeletterY>
@@ -42767,6 +43830,31 @@
               </nexu>
             </index>
           </typeletterN>
+          <typeletterZ>
+            <description type="string">Z</description>
+            <index>
+              <zalaaca>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.zalaaca@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </zalaaca>
+              <z_58seriessecuritydroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.z_58seriessecuritydroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </z_58seriessecuritydroid>
+            </index>
+          </typeletterZ>
         </groups>
       </byletter>
       <bylevel>
@@ -43235,6 +44323,16 @@
                 </link>
                 <source type="number"/>
               </trooper_purge>
+              <woodoo>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.woodoo@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </woodoo>
             </index>
           </level03>
           <level01>
@@ -43440,6 +44538,16 @@
                 </link>
                 <source type="number"/>
               </vornskr>
+              <wookieeberserker>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieeberserker@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wookieeberserker>
             </index>
           </level01>
           <level00>
@@ -43645,6 +44753,26 @@
                 </link>
                 <source type="number"/>
               </stintaril>
+              <whisperbird>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.whisperbird@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </whisperbird>
+              <z_58seriessecuritydroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.z_58seriessecuritydroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </z_58seriessecuritydroid>
             </index>
           </level00>
           <level02>
@@ -44080,6 +45208,36 @@
                 </link>
                 <source type="number"/>
               </veermok>
+              <worrt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.worrt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </worrt>
+              <wraid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wraid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wraid>
+              <zalaaca>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.zalaaca@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </zalaaca>
             </index>
           </level02>
           <level04>
@@ -44215,6 +45373,36 @@
                 </link>
                 <source type="number"/>
               </ronto>
+              <worrt_giant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.worrt_giant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </worrt_giant>
+              <wyyyschokk>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wyyyschokk@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wyyyschokk>
+              <wookieeengineer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieeengineer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wookieeengineer>
             </index>
           </level04>
           <level06>
@@ -44330,6 +45518,16 @@
                 </link>
                 <source type="number"/>
               </tx_225aoccupiertank>
+              <wookieehunter>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieehunter@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </wookieehunter>
             </index>
           </level06>
           <level09>
@@ -44910,6 +46108,16 @@
                 </link>
                 <source type="number"/>
               </twirrl>
+              <womprat_jundlandwastes>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.womprat_jundlandwastes@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </womprat_jundlandwastes>
             </index>
           </level1_2>
           <level07>
@@ -45170,6 +46378,16 @@
                 </link>
                 <source type="number"/>
               </stintarilswarm>
+              <womprat_beggar_scanyon>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.womprat_beggar_scanyon@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </womprat_beggar_scanyon>
             </index>
           </level1_4>
           <level21>
@@ -45495,6 +46713,16 @@
                 </link>
                 <source type="number"/>
               </grandadmiral>
+              <warwyrm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.warwyrm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </warwyrm>
             </index>
           </level20>
           <level25>
@@ -46600,6 +47828,96 @@
                 </link>
                 <source>beast</source>
               </vulptex>
+              <whisperbird>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.whisperbird@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </whisperbird>
+              <womprat_beggar_scanyon>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.womprat_beggar_scanyon@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </womprat_beggar_scanyon>
+              <womprat_jundlandwastes>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.womprat_jundlandwastes@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </womprat_jundlandwastes>
+              <woodoo>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.woodoo@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </woodoo>
+              <worrt>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.worrt@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </worrt>
+              <worrt_giant>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.worrt_giant@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </worrt_giant>
+              <wraid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wraid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </wraid>
+              <wyyyschokk>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wyyyschokk@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </wyyyschokk>
+              <zalaaca>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.zalaaca@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </zalaaca>
             </index>
           </typebeast>
           <typeplant>
@@ -47080,6 +48398,16 @@
                 </link>
                 <source>droid</source>
               </t3_seriesutilitydroid>
+              <z_58seriessecuritydroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.z_58seriessecuritydroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </z_58seriessecuritydroid>
             </index>
           </typedroid>
           <typehumanoid_any_>
@@ -47410,6 +48738,16 @@
                 </link>
                 <source>aberration</source>
               </tuk_ata>
+              <warwyrm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.warwyrm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>aberration</source>
+              </warwyrm>
             </index>
           </typeaberration>
           <typeundead>
@@ -48227,6 +49565,41 @@
               </trooper_mounted>
             </index>
           </typehumanoid_largewhenmounted_>
+          <typehumanoid_wookie_>
+            <description type="string">Humanoid (wookie)</description>
+            <index>
+              <wookieehunter>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieehunter@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (wookie)</source>
+              </wookieehunter>
+              <wookieeberserker>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieeberserker@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (wookie)</source>
+              </wookieeberserker>
+              <wookieeengineer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.wookieeengineer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid (wookie)</source>
+              </wookieeengineer>
+            </index>
+          </typehumanoid_wookie_>
         </groups>
       </bytype>
     </npclists>

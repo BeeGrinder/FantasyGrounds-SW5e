@@ -4976,3 +4976,259 @@ ACTIONS
 Claws. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.
 ##;
 
+War Wyrm
+Gargantuan aberration, chaotic dark
+Armor Class 19
+Hit Points 261 (18d20+72)
+Speed 50 ft., burrow 30 ft.
+STR DEX CON INT WIS CHA 24 (+7) 16 (+3) 18 (+4) 5 (-3) 10 (+0) 8 (-1)
+Saving Throws Con +10, Wis +6
+Skills Athletics +13
+Senses blindsight 30 ft., darkvision 60 ft., tremorsense 60 ft., passive Perception 12
+Languages Can't speak but understands commands in Sith
+Challenge 20 (25,000 XP)
+Tunneler. The wyrm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
+Legendary Resistance (3/Day). If the wyrm fails a saving throw, it can choose to succeed instead.
+Gargantuan Strength. The wyrm's melee weapon attacks are considered enhanced.
+Siege Monster. The wyrm deals double damage to objects and structures.
+Sith-born. Dark forcecasters and Sith (species) have advantage on Animal Handling checks against war wyrms.
+ACTIONS
+Multiattack. The wyrm makes two attacks. one with its bite and one with its tail.
+Bite. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 20 (3d8+7) kinetic damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Dexterity saving throw or be swallowed by the wyrm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the wyrm, and it takes 21 (6d6) acid damage at the start of each of the wyrm's turns.\rIf the wyrm takes 30 damage or more on a single turn from a creature inside it, the wyrm must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the wyrm. If the wyrm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+Tail. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 17 (3d6+7) kinetic damage. If the target is a creature, it must succeed on a DC 19 Strength saving throw or be knocked prone.
+LEGENDARY ACTIONS
+Options. The wyrm can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The wyrm regains spent legendary actions at the start of its turn.
+Cloud of Dust. The wyrm lashes out and scatters a dusty wake. Each creature within 10 feet of the wyrm, including around a corner, must succeed on a DC 15 Constitution saving throw or be blinded until the end of the wyrm's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the wyrm's next turn.
+Tail Attack (Costs 2 Actions). The wyrm makes one tail attack.
+Move. The wyrm moves up to its speed.
+##;
+
+Whisper Bird
+Tiny beast, unaligned
+Armor Class 11
+Hit Points 1 (1d4 - 1)
+Speed 5 ft., fly 60 ft.
+STR DEX CON INT WIS CHA 3 (-4) 13 (+1) 8 (-1) 2 (-4) 12 (+1) 7 (-2)
+Skills Stealth +5
+Senses passive Perception 11
+Languages --
+Challenge 0 (10 XP)
+Flyby. The whisper bird doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+Keen Sight. The whisper bird has advantage on Wisdom (Perception) checks that rely on sight.
+ACTIONS
+Talons. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 kinetic damage.
+##;
+
+Womp Rat, Beggar's Canyon
+Medium beast, neutral
+Armor Class 13 (natural armor)
+Hit Points 11 (2d8 + 2)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 12 (+1) 15 (+2) 12 (+1) 3 (-4) 12 (+1) 6 (-2)
+Skills Perception +3, Stealth +4
+Senses passive Perception 13
+Languages --
+Challenge 1/4 (50 XP)
+Keen Hearing And Smell. The rat has advantage on on Wisdom (Perception) checks that rely on hearing and smell.
+Pack Tactics. The rat has advantage on an attack roll against a creature if it is grappled by at least one of the rat's allies.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 2d4 + 2) kinetic damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be grappled.
+##;
+
+Womp Rat, Jundland Wastes
+Large beast, neutral
+Armor Class 13 (natural armor)
+Hit Points 26 (4d10 + 4)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 16 (+3) 14 (+2) 13 (+1) 7 (-2) 11 (+0) 8 (-1)
+Skills Perception +4
+Senses passive Perception 14
+Languages --
+Challenge 1/2 (100 XP)
+Keen Hearing And Smell. The rat has advantage on on Wisdom (Perception) checks that rely on hearing and smell.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+##;
+
+Woodoo
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 68 (8d10 + 24)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 19 (+4) 13 (+1) 17 (+3) 2 (-4) 12 (+1) 5 (-3)
+Damage Resistances poison, sonic
+Condition Immunities deafened, poisoned
+Senses passive Perception 11
+Languages --
+Challenge 3 (700 XP)
+Charge. If the woodoo moves at least 20 ft. straight toward a target and then hits it with a beak attack on the same turn, the target takes an extra 11 (2d10) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+ACTIONS
+Multiattack. The woodoo can make two attacks. one with its beak and one with its talons.
+Beak. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) kinetic damage.
+Talons. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 4) kinetic damage.
+Shriek (Recharge 6). The woodoo lets out a deafening shriek in a 60-foot cone. All creatures that can hear it must make a DC 13 Constitution saving throw. On a failure, a creature takes 17 (5d6) sonic damage and is deafened for 1 minute. The creature can repeat this saving throw at end of each of its turns, ending the effect on itself. On a success, a creature takes half damage and is not deafened.
+##;
+
+Worrt
+Medium beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 22 (4d8 + 4)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 14 (+2) 13 (+1) 12 (+1) 2 (-4) 13 (+1) 3 (-4)
+Skills Perception +3, Stealth +3
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 30 ft., passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Stone Camouflage. The worrt has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) kinetic damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the worrt can't bite another target. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a success.
+Tongue. The worrt targets one Small or smaller creature that it can see within 15 feet of it. The target must make a DC 12 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the worrt, and the worrt can make a bite attack against it as a bonus action.
+##;
+
+Worrt, Giant
+Large beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 45 (6d10 + 12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 13 (+1) 15 (+2) 3 (-4) 14 (+2) 3 (-4)
+Skills Perception +4, Stealth +3
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 4 (1,100 XP)
+Stone Camouflage. The worrt has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the worrt can't bite another target. The target must make a DC 10 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a success.
+Swallow. The worrt makes a bite attack against a Medium or smaller target it is grappling. On a hit, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the worrt, and it takes 14 (4d6) acid damage at the start of each of the worrt's turns. The worrt can have only one target swallowed at a time.\rIf the worrt dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+##;
+
+Wraid
+Medium beast, unaligned
+Armor Class 16 (natural armor)
+Hit Points 63 (6d10+33)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 8 (-1) 17 (+3) 4 (-3) 10 (+0) 8 (-1)
+Skills Athletics +5
+Senses passive Perception 10
+Languages --
+Challenge 2 (450 XP)
+Charge. If the Wraid moves at least 20 ft. straight toward a target and then hits it with a ram Attack on the same turn, the target takes an extra 4 (2d8) kinetic damage.\rIf the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.
+ACTIONS
+Multiattack. The Wraid makes two attacks, once with its ram and one with its claws.
+Ram. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 11 (3d6 + 3) bludgeoning damage.
+Claws. Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 7 (2d4+3) kinetic damage.
+##;
+
+Wyyyschokk
+Medium beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 78 (12d8 + 24)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA 14 (+2) 17 (+3) 14 (+2) 5 (-3) 13 (+1) 4 (-3)
+Skills Stealth +9
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 11
+Languages --
+Challenge 4 (1,100 XP)
+Pack Tactics. The wyyyschokk has advantage on an attack roll against a creature if at least one of the wyyyschokk's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+Spider Climb. The wyyyschokk can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Web Walker. The wyyyschokk ignores movement restrictions caused by webbing.
+ACTIONS
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) kinetic damage, and the target must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+Web (Recharge 5-6). Ranged Weapon Attack: +6 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+##;
+
+Zalaaca
+Large beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 45 (6d10 + 12)
+Speed 50 ft., swim 50 ft.
+STR DEX CON INT WIS CHA 18 (+4) 12 (+1) 15 (+2) 3 (-4) 12 (+1) 7 (-2)
+Skills Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Aggressive. As a bonus action, the zalaaca can move up to its speed toward a hostile creature that it can see.
+Keen Sight. The zalaaca has advantage on Wisdom (Perception) checks that rely on sight.
+ACTIONS
+Multiattack. The zalaaca can make two bite attacks.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) kinetic damage.
+##;
+
+Z-58 Series Security Droid
+Tiny droid, unaligned
+Armor Class 11
+Hit Points 2 (1d4)
+Speed 40 ft., fly 40 ft.
+STR DEX CON INT WIS CHA 3 (-4) 13 (+1) 10 (+0) 8 (-1) 12 (+1) 7 (-2)
+Skills Perception +3
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities poisoned, diseased
+Senses darkvision 120 ft., passive Perception 13
+Languages --
+Challenge 0 (10 XP)
+Circuitry. The droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Security Protocol. The droid comes with proficiency in security and slicer tools.
+Interfaced Assistance Protocol. While you are interfaced with this droid via the tracker droid interface tech power, whenever you have advantage on an ability check or attack roll granted by the droid taking the Help action you can reroll one of the dice once.
+ACTIONS
+Shockprod. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 lightning damage.
+Sentry (1/day). The Security Droid may enter a sentry state, granting the benefits of the alarm tech power to a target creature within 10 feet of the droid at the time of entering the sentry state. The Security Droid must remain within 60 feet of the warded location or the ability ends.
+##;
+
+Wookiee Hunter
+Medium humanoid (wookie), unaligned
+Armor Class 17 (hide)
+Hit Points 117 (18d8 + 36)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 19 (+4) 18 (+4) 14 (+2) 11 (+0) 15 (+2) 10 (+0)
+Skills Athletics +7, Perception +5, Stealth +10, Survival +8
+Senses darkvision 60 ft., passive Perception 15
+Languages Shyriiwook, understands Galactic Basic
+Challenge 6 (2,300 XP)
+Brute. A melee weapon does one extra die of damage when the wookiee hits with it (included in the attack).
+Precise Attacker. The wookiee's weapon attacks score a critical hit on a roll of 18-20. When the wookiee scores a critical hit, it rolls the damage dice three times, instead of twice.
+Surprise Attack. If the wookiee surprises a creature during the first round of combat, the wookiee has advantage on the first attack roll against that creature.\rIf the attack hits, it is considered a critical hit.
+ACTIONS
+Multiattack. The wookiee makes two melee or two ranged weapon attacks.
+Vibroblade. Melee Weapon Attack: +7 to hit, one target. Hit.\r13 (2d8 + 4) kinetic damage or 15 (2d10 + 4) kinetic damage if wielded with two hands.
+Bowcaster. Ranged Weapon Attack: +7 to hit, range 40/160 ft., one target. Hit: 9 (1d10 + 4) energy damage.
+Bowcaster Burst. (Recharge 5-6) The wookiee sprays a 10foot-cube area within 40 ft. Each creature in the area must make a DC 15 Dexterity saving throw, taking 9 (1d10 + 4) energy damage on a failed save.
+##;
+
+Wookiee Berserker
+Medium humanoid (wookie), unaligned
+Armor Class 14 (hide)
+Hit Points 30 (4d8 + 12)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 12 (+1) 17 (+3) 7 (-2) 11 (+0) 10 (+0)
+Skills Athletics +5, Intimidation +5
+Senses darkvision 60 ft., passive Perception 10
+Languages Shyriiwook, understands Galactic Basic
+Challenge 1 (200 XP)
+Aggressive. As a bonus action, the wookiee can move up to its speed toward a hostile creature that it can see.
+Reckless. At the start of its turn, the wookiee can can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+Blood Rage. When a creature within 5 feet of the wookiee hits it with an attack, the wookiee may use its reaction to immediately make a melee weapon attack with advantage against that creature.
+ACTIONS
+Vibroaxe. Melee Weapon Attack: +5 to hit, one target. Hit: 9 (1d12 + 3) kinetic damage.
+##;
+
+Wookiee Engineer
+Medium humanoid (wookie), unaligned
+Armor Class 15 (hide)
+Hit Points 60 (8d8 + 24)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 14 (+2) 16 (+3) 16 (+3) 12 (+1) 9 (-1)
+Skills Perception +4, Technology +6, Stealth +5
+Senses darkvision 60 ft., passive Perception 14
+Languages Shyriiwook, understands Galactic Basic
+Challenge 4 (1,100 XP)
+Brute. A melee weapon does one extra die of damage when the wookiee hits with it (included in the attack).
+Berserk Charge. If the wookiee surprises a creature and hits it with an attack during the first round of combat, the target takes an extar 7 (2d6) damage from the attack.
+Spellcasting. The wookiee engineer is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The wookiee has 23 tech points. The wookiee engineer has the following  spells prepared:\rCantrips (At will): electrical burst, mending, on/off\r1st level (23 slots): element of surprise, kolto pack, repair droid\r2nd level (23 slots): hold droid, overheat\r3rd level (23 slots): enhance weapon, fabricate trap
+ACTIONS
+Multiattack. The wookiee engineer makes two melee attacks.
+Vibromace. Melee Weapon Attack: +5 to hit, one target. Hit: 12 (2d10 + 3) kinetic damage.
+##;
