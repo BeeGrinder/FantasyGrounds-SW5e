@@ -195,31 +195,31 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Rock Wart 0.125 176
 --Ronto 4 129
 --Sage 6 186
-Sando Aqua Monster 25 131
-Sarlacc, Adult 21 133
+--Sando Aqua Monster 25 131
+--Sarlacc, Adult 21 133
 --Scout 0.5 191
-Scrange 7 134
-Scurrier 0.25 176
-Security Droid, JK-13 9 135
-Security Officer 0.5 192
+--Scrange 7 134
+--Scurrier 0.25 176
+--Security Droid, JK-13 9 135
+--Security Officer 0.5 192
 --Seer 3 186
 --Sergeant 3 192
-Shaak 0.125 177
+--Shaak 0.125 177
 --Shyrack 0 136
 --Shyrack Swarm 1 136
 --Sibian Hound 0.25 177
-Sketto 0.25 178
+--Sketto 0.25 178
 --Soldier 0.5 192
-Spotlight Sloth 2 178
+--Spotlight Sloth 2 178
 --Spy 1 193
 --Squad of Troopers 5 57
 --Starweird 4 137
-Steelpecker 0.125 179
-Steep 2 138
-Stintaril 0 179
-Stintaril Swarm 0.25 179
-Super Tactical Droid 15 141
-Swamp Slug 14 139
+--Steelpecker 0.125 179
+--Steep 2 138
+--Stintaril 0 179
+--Stintaril Swarm 0.25 179
+--Super Tactical Droid 15 141
+--Swamp Slug 14 139
 T-Series Tactical Droid 2 140
 T3-Series Utility Droid 0.125 128
 --Tauntaun 0.125 180
