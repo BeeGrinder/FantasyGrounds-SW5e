@@ -260,22 +260,22 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Wampa, Cliff 5 159
 --Wampa, Snow 3 159
 --Wampa, Swamp 4 159
-War Wyrm 20 160
-Whisper Bird 0 182
-Womp Rat, Beggar's Canyon 0.25 161
-Womp Rat, Jundland Wastes 0.5 161
-Woodoo 3 183
-Wookie Berserker 1 163
-Wookie Engineer 4 162
-Wookie Hunter 6 163
-Worrt 2 164
-Worrt, Giant 4 164
-Wraid 2 165
-Wyyyschokk 4 166
+--War Wyrm 20 160
+--Whisper Bird 0 182
+--Womp Rat, Beggar's Canyon 0.25 161
+--Womp Rat, Jundland Wastes 0.5 161
+--Woodoo 3 183
+--Wookie Berserker 1 163
+--Wookie Engineer 4 162
+--Wookie Hunter 6 163
+--Worrt 2 164
+--Worrt, Giant 4 164
+--Wraid 2 165
+--Wyyyschokk 4 166
 --Ysalamir 0 167
 --Ysalamiri Swarm 0.5 167
-Z-58 Security Droid 0 146
-Zalaaca 2 183
+--Z-58 Security Droid 0 146
+--Zalaaca 2 183
 
 ################## TEMP SAVE AREA ##############################
 
