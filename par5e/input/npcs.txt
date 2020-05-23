@@ -3886,3 +3886,140 @@ ACTIONS
 Ram. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) kinetic damage.
 ##;
 
+Narglatch
+Large beast, unaligned
+Armor Class 14
+Hit Points 60 (8d10 + 16)
+Speed 60 ft., climb 50 ft.
+STR DEX CON INT WIS CHA 15 (+2) 18 (+4) 13 (+1) 3 (-4) 15 (+2) 6 (-2)
+Saving Throws Dex +7
+Skills Perception +5, Stealth +10
+Damage Vulnerabilities energy
+Damage Resistances ion, kinetic from nonmagical weapons
+Senses darkvision 60 ft., passive Perception 15
+Languages
+Challenge 3 (700 XP)
+Shadow Stealth. While lightly or heavily obscured, the narglatch can take the Hide action as a bonus action.
+Sure-footed. The narglatch has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+ACTIONS
+Pounce. If the narglatch moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the narglatch can make one bite attack against it as a bonus action.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d10 + 2) kinetic damage.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 2) kinetic damage.
+##;
+
+Navy Pilot
+Medium humanoid (human), lawful balanced
+Armor Class 13 (combat suit)
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 8 (-1) 14 (+2) 10 (+0) 14 (+2) 12 (+1) 11 (+0)
+Saving Throws Dex +4, Int +4
+Skills Perception +3, Piloting +4
+Senses passive Perception 13
+Languages Galactic Basic
+Challenge 1/8 (25 XP)
+ACTIONS
+Light Pistol. Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit: 4 (1d4 + 2) energy damage.
+##;
+
+Navy Trooper
+Medium humanoid, unaligned
+Armor Class 14 (combat suit)
+Hit Points 13 (3d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 14 (+2) 10 (+0) 11 (+0) 11 (+0) 10 (+0)
+Skills Athletics +2, Perception +2
+Senses passive Perception 12
+Languages Galactic Basic
+Challenge 1/2 (100 XP)
+ACTIONS
+Multiattack. The Navy Trooper makes two blaster carbine attacks.
+Blaster Carbine. Ranged Weapon Attack: +4 to hit, range 60/240 ft., one target. Hit: 5 (1d6 + 2) energy damage.
+##;
+
+Nerf
+Large beast, unaligned
+Armor Class 11 (natural armor)
+Hit Points 30 (4d10 + 8)
+Speed 50 ft.
+STR DEX CON INT WIS CHA 18 (+4) 10 (+0) 15 (+2) 3 (-4) 12 (+1) 5 (-3)
+Skills Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Charge. If the nerf moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) kinetic damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+ACTIONS
+Gore. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) kinetic damage.
+Spit. Ranged Weapon Attack: +2 to hit, range 15/30 ft., one target. Hit: 2 (1d4) acid damage.
+##;
+
+Nuna
+Tiny beast, unaligned
+Armor Class 11
+Hit Points 5 (2d4)
+Speed 20 ft.
+STR DEX CON INT WIS CHA 7 (-2) 12 (+1) 10 (+0) 2 (-4) 13 (+1) 5 (-3)
+Senses passive Perception 11
+Languages --
+Challenge 1/4 (50 XP)
+Inflate (Recharges After A Short Or Long Rest). As a bonus action, the nuna increases in size for 1 minute.\rAnything it is wearing or carrying does not increase in size. While inflated, the nuna is Small, doubles its damage dice on attacks (included in the attacks), and makes Charisma (Intimidation) checks with advantage.\rIf the nuna lacks the room to become Small, it attains the maximum size possible in the space available.
+ACTIONS
+Talons. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) kinetic damage or 6 (2d4 +1) kinetic damage while inflated.
+##;
+
+Nexu
+Medium beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 58 (13d8)
+Speed 50 ft., climb 40 ft.
+STR DEX CON INT WIS CHA 18 (+4) 19 (+4) 10 (+0) 3 (-4) 12 (+1) 8 (-1)
+Saving Throws Dex +8
+Skills Perception +5, Stealth +8
+Senses darkvision 60 ft., truesight 60 ft., passive Perception 15
+Languages --
+Challenge 5 (1,800 XP)
+Avoidance. If the nexu is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails .
+Keen Sight And Smell. The nexu has advantage on Wisdom (Perception) checks that rely on sight and smell.
+Pounce. If the nexu moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the nexu can make one bite attack against it as a bonus action.
+ACTIONS
+Multiattack. The nexu can make two claw attacks.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) kinetic damage.
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) kinetic damage.
+##;
+
+Officer, Junior
+Medium humanoid, unaligned
+Armor Class 12 (combat suit)
+Hit Points 13 (3d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 10 (+0) 14 (+2) 11 (+0) 12 (+1)
+Skills Intimidation +3, Perception +2
+Senses passive Perception 12
+Languages Galactic Basic
+Challenge 1/2 (100 XP)
+Aura Of Command. Friendly creatures that it can see and hear the junior officer within 30 feet of it add a +1 bonus to their attack and damage rolls. This effect ends if the officer is incapacitated.
+ACTIONS
+Blaster Carbine. Ranged Weapon Attack: +3 to hit, range 60/240 ft., one target. Hit: 4 (1d6 + 1) energy damage.
+Command Ally. The junior officer targets one ally within 30 feet of it. If the target can hear the officer, the target can make one weapon attack as a reaction and gains advantage on the attack roll.
+REACTIONS
+Human Shield. When the officer is targeted by a ranged attack while an ally is within 5 ft of it, the officer can use its reaction to cause that ally to be targeted by the attack instead.
+##;
+
+Officer, Senior
+Medium humanoid, unaligned
+Armor Class 15 (battle armor)
+Hit Points 38 (7d8+7)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 10 (+0) 12 (+1) 12 (+1) 16 (+3) 11 (+0) 13 (+1)
+Skills Intimidation +3, Perception +2
+Senses passive Perception 12
+Languages Galactic Basic
+Challenge 3 (700 XP)
+Superior Aura Of Command. Friendly creatures that it can see and hear the junior officer within 30 feet of it add a +2 bonus to their attack and damage rolls. This effect ends if the officer is incapacitated.
+ACTIONS
+Blaster Carbine. Ranged Weapon Attack: +3 to hit, range 60/240 ft., one target. Hit: 4 (1d6 + 1) energy damage.
+Call to Attack. Up to three allies within 120 feet of this officer that can hear it can each use their reaction to make one weapon attack.
+Rally Allies. The officer targets up to three allies within 120 feet that can hear it and are currently suffering from a fear or charm effect. The fear or charm effect is removed.
+REACTIONS
+Human Shield. When the officer is targeted by a ranged attack while an ally is within 5 ft of it, the officer can use its reaction to cause that ally to be targeted by the attack instead.
+##;

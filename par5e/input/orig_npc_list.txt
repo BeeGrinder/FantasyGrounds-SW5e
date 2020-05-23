@@ -157,14 +157,14 @@ NPCs left to add to PHB module.  "--" indicates DONE.
 --Mynock Swarm 2 109
 --Mystryl Master 5 106
 --Mystryl Prime 8 106
-Narglatch 3 110
-Navy Pilot 0.25 70
-Navy Trooper 0.5 70
-Nerf 2 175
-Nexu, Adult Forest 5 111
-Nuna 0.25 175
-Officer, Junior 0.5 69
-Officer, Senior 3 70
+--Narglatch 3 110
+--Navy Pilot 0.25 70
+--Navy Trooper 0.5 70
+--Nerf 2 175
+--Nexu, Adult Forest 5 111
+--Nuna 0.25 175
+--Officer, Junior 0.5 69
+--Officer, Senior 3 70
 --Opee Sea Killer 5 112
 --Orbalisk 1 113
 --Orbalisk Swarm 3 113
