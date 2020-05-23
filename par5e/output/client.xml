@@ -37538,6 +37538,1083 @@
         </actions>
         <token type="token">tokens\SW5e Player Bookronto.png@SW5e Player Book</token>
       </ronto>
+      <sandoaquamonster>
+        <locked type="number">1</locked>
+        <name type="string">Sando Aqua Monster</name>
+        <type type="string">beast</type>
+        <size type="string">Gargantuan</size>
+        <ac type="number">23</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">546</hp>
+        <hd type="string">(28d20 + 252)</hd>
+        <speed type="string">20 ft., swim 50 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">30</score>
+            <modifier type="string">+10</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">28</score>
+            <modifier type="string">+9</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">18</score>
+            <modifier type="string">+4</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +18, Dex +10, Con +17, Int +7, Wis +12</savingthrows>
+        <skills type="string">Insight +12, Intimidation +12, Perception +12, Stealth +10</skills>
+        <damageimmunities type="string">cold, lightning, kinetic, ion, energy from nonmagical weapons</damageimmunities>
+        <conditionimmunities type="string">frightened, paralyzed, restrained</conditionimmunities>
+        <senses type="string">blindsight 120 ft., darkvision 120 ft., passive Perception 22</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">25</cr>
+        <xp type="number">75000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Amphibious</name>
+            <desc type="string">The monster can breathe air and water.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Freedom Of Movement</name>
+            <desc type="string">The monster ignores difficult terrain, and effects can't reduce its speed. It can spend 5 feet of movement to escape from being grappled.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the monster fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Gargantan Strength</name>
+            <desc type="string">The monster's weapon attacks are considered enhanced.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Siege Monster</name>
+            <desc type="string">The monster does double damage on objects and structures.</desc>
+          </id-00005>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The monster uses its Frightful Presence. It then makes three attacks. one with its bite and two with its claws. It can use its Swallow instead of its bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) piercing damage. If the target is a creature it is grappled (escape DC 20). Until the grapple ends, the target is restrained, and the monster can't bite another target.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Claw</name>
+            <desc type="string">Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 17 (2d6 + 10) slashing damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Tail</name>
+            <desc type="string">Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Frightful Presence</name>
+            <desc type="string">Each creature of the monster's choice within 120 feet of the monster and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each turn, ending the effect on itself on a success. If a creature's saving throw is successful or the effects ends for it, the creature is immune to the monster's Frightful Presence for 24 hours.</desc>
+          </id-00005>
+          <id-00006>
+            <name type="string">Water Torrent (Recharge 5-6)</name>
+            <desc type="string">the monster exhales a torrent of water in a 120 foot cone. Each creature in the area must make a DC 24 Dexterity saving throw, taking 42 (12d6) kinetic damage and 42 (12d6) cold damage on a failed save, or half as much on a successful one.</desc>
+          </id-00006>
+          <id-00007>
+            <name type="string">Swallow</name>
+            <desc type="string">The monster makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the monster, and it takes 42 (12d6) acid damage at the start of each of the monster's turns.\rIf the monster takes 50 damage or more on a single turn from a creature inside it, the monster must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the monster. If the monster dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.</desc>
+          </id-00007>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The monster can take 3 legendary actions, choosing form the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The monster regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Detect</name>
+            <desc type="string">The monster makes a Wisdom (Perception) check.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Tail Attack</name>
+            <desc type="string">The monster makes a tail attack.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Whirlpool (Costs 2 Actions)</name>
+            <desc type="string">The monster creates a whirlpool in the water at a point within 30 ft. that it can see. The whirlwind is a 10-foot-radius, 30-foot-deep cylinder centered on that point. On subsequent turns, the monster can use the Whirlpool legendary action to maintain and move the whirlpool up to 30 feet in any direction along the surface of the water. The whirlpool sucks up any medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.\rA creature must make a DC 21 Dexterity saving throw the first time on a turn that it enters the whirlpool or that the whirlpool enters its space, including when the whirlpool first appears. A creature takes 6d8 kinetic damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a DC 21 Strength saving throw or become restrained in the whirlpool until the power ends. When a creature starts its turn restrained by the whirlpool, the creature is pulled 5 feet deeper inside it, unless the creature is at the bottom. A restrained creature moves with the whirlpool and is submerged when the effect ends, unless the creature has some means to stay afloat.\rA restrained creature can use an action to make a DC 21 Strength or Dexterity check. If successful, the creature is no longer restrained by the whirlpool and is hurled 3d6x10 feet away from it in a random direction.\rThe whirlpool ends at the beginning of the monster's turn unless the monster used the Whirlpool legendary action to maintain the whirlpool.</desc>
+          </id-00004>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\sandoaquamonster.png@SW5e Player Book</token>
+      </sandoaquamonster>
+      <sarlacc_adult>
+        <locked type="number">1</locked>
+        <name type="string">Sarlacc, Adult</name>
+        <type type="string">plant</type>
+        <size type="string">Gargantuan</size>
+        <ac type="number">18</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">464</hp>
+        <hd type="string">(32d12 + 256)</hd>
+        <speed type="string">0 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">27</score>
+            <modifier type="string">+8</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">27</score>
+            <modifier type="string">+8</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +14, Dex +6, Con +14, Wis +6</savingthrows>
+        <skills type="string">Perception +6, Stealth +6</skills>
+        <damageresistances type="string">sonic, energy, ion, kinetic from nonmagical weapons</damageresistances>
+        <conditionimmunities type="string">exhaustion, frightened, grappled, paralyzed, petrified, prone</conditionimmunities>
+        <senses type="string">tremorsense 300 ft., passive Perception 16</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">21</cr>
+        <xp type="number">22000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the Sarlacc fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Gargantuan Strength</name>
+            <desc type="string">The sarlacc's weapon attacks are considered enhanced.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Burried</name>
+            <desc type="string">The sarlacc is resistant to damage from sources beyond 60 feet and immune to damage from sources beyond 120 feet.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Grasping Tentacles</name>
+            <desc type="string">The sarlacc can have up to eight tentacles at a time. Each tentacle can be attacked (AC 18; 40 hit points; immunity to psychic damage). A tentacle can also be broken if a creature takes an action and succeeds on a DC 22 Strength check against it.\rDestroying a tentacle in either way deals no damage to the sarlacc, which can extrude a replacement tentacle on its next turn, but it causes the sarlacc to spend a legendary action for no effect. If the sarlacc has no legendary actions remaining this turn to spend, the sarlacc regains one fewer spent legendary actions at the start of its next turn than it would otherwise regain. The sarlacc can be forced to spend no more than two legendary actions in this way.</desc>
+          </id-00004>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The sarlacc makes three tentacle attacks, each of which it can replace with one use of Bite.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Tentacle</name>
+            <desc type="string">Melee Weapon Attack: +14 to hit, reach 60 ft., one target. Hit: 26 (4d8 + 8) kinetic damage. The target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The sarlacc has eight tentacles, each of which can grapple one target.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit 30 (4d10 + 8) Kinetic damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the sarlacc can't bite another target.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Swallow</name>
+            <desc type="string">The sarlacc makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the sarlacc, and it takes 35 (10d6) psychic damage at the start of each of the sarlacc's turns. A creature reduced to zero hit points this way stops taking the psychic damage and becomes stable.\rIf the sarlacc takes 40 damage or more on a single turn from a creature inside it, the sarlacc must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the sarlacc. If the sarlacc dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 10 feet of movement, exiting prone.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Pheromones (Recharge 5-6)</name>
+            <desc type="string">The sarlacc releases pheromones in a 300 ft. radius. Each creature in that area must make a DC 22 Constitution saving throw. On a failed save the creature is charmed by the sarlacc for 1 minute. While charmed this way, the target tries to get as close to the sarlacc as possible, using its actions to Dash until it is within 5 feet of the sarlacc. A charmed target can repeat the saving throw at the end of each of its turns and whenever it takes damage, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage on saving throws against the sarlacc's Pheromones for 24 hours.</desc>
+          </id-00005>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The sarlacc can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The sarlacc regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Earth-Shaking Movement</name>
+            <desc type="string">The sarlacc sends a shockwave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 round.\rEach creature on the ground in the area must succeed on a DC 22 Constitution saving throw. A creature takes 41 (6d10 + 8) sonic damage and is knocked prone on a failed save, or half as much damage and is not knocked prone on a successful one. A creature that fails the save by 5 or more is pulled 15 feet downwards and towards the sarlacc.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Reel</name>
+            <desc type="string">The sarlacc pulls each creature grappled by it up to 30 feet straight towards it.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Tentacle</name>
+            <desc type="string">The sarlacc makes one tentacle attack.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Chomp (Costs 2 Actions)</name>
+            <desc type="string">The sarlacc makes one bite attack or uses its swallow.</desc>
+          </id-00005>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\sarlacc_adult.png@SW5e Player Book</token>
+      </sarlacc_adult>
+      <scrange>
+        <locked type="number">1</locked>
+        <name type="string">Scrange</name>
+        <type type="string">beast</type>
+        <size type="string">Huge</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">126</hp>
+        <hd type="string">(12d12+48)</hd>
+        <speed type="string">40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +4, Stealth +7</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 14</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">7</cr>
+        <xp type="number">2900</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Ambusher</name>
+            <desc type="string">In the first round of a combat, the scrange has advantage on attack rolls against any creature it surprised.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bioluminescent</name>
+            <desc type="string">The scrange either emits dim light in a 10foot radius, or bright light in a 10-foot radius and dim light for an additional 10 ft.. It can switch between the options as a bonus action.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Mud Camouflage</name>
+            <desc type="string">The scrange has advantage on Dexterity (Stealth) checks made to hide in muddy terrain.</desc>
+          </id-00003>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The scrange makes two attacks. one with its bite and one with its tail. It can't make both attacks against the same target.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 6) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Tail</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 24 (4d10 + 6) kinetic damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\scrange.png@SW5e Player Book</token>
+      </scrange>
+      <scurrier>
+        <locked type="number">1</locked>
+        <name type="string">Scurrier</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">11</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">7</hp>
+        <hd type="string">(2d6)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">darkvision 60 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The scurrier has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The scurrier has advantage on an attack roll against a creature if at least one of the scurrier's allies is within 5 feet of the creature and the ally isn't incapacitated.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Ram</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 2) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\scurrier.png@SW5e Player Book</token>
+      </scurrier>
+      <securitydroid_jk_13>
+        <locked type="number">1</locked>
+        <name type="string">Security Droid, Jk-13</name>
+        <type type="string">droid</type>
+        <size type="string">Large</size>
+        <ac type="number">18</ac>
+        <actext type="string">(armor plating)</actext>
+        <hp type="number">150</hp>
+        <hd type="string">(20d10 + 40)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">19</score>
+            <modifier type="string">+4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Str +10, Con +7, Int +5</savingthrows>
+        <skills type="string">Intimidation +3, Perception +6</skills>
+        <damagevulnerabilities type="string">ion, lightning</damagevulnerabilities>
+        <damageresistances type="string">energy from nonmagical weapons</damageresistances>
+        <senses type="string">darkvision 60 ft., passive Perception 16</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic Basic, Binary</languages>
+        <cr type="string">9</cr>
+        <xp type="number">5000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Circuitry</name>
+            <desc type="string">The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Droid Encasement</name>
+            <desc type="string">The Dashta Eel within the machine is a somewhat shapeless mass. When the JK-13 Security Droid is reduced to 0 hp, the droid armor breaks and the Dashta Eel exits it. Once out of its armor, the creature's pulpy mass no longer receives the benefits of the listed Damage Resistances.\rWithout its armor, the Dashta Eel has the following statistics. AC 12, hp 19 (3d8 + 6), Strength 8 (-1), and its speed becomes 15 feet. In addition, it has no attack actions.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Jedi Slayer</name>
+            <desc type="string">JK-13 Security Droid has advantage on saving throws versus force powers used by creatures within 5 feet of it. When an enemy within 5 feet uses a force power, JK-13 Security Droid can make a melee attack against that character as a reaction. When JK-13 Security Droid damages an enemy, they have disadvantage on concentration saving throws to maintain their force powers.</desc>
+          </id-00003>
+        </traits>
+        <reactions>
+          <id-00001>
+            <name type="string">Deflector Shield</name>
+            <desc type="string">The JK-13 Security Droid adds 3 to its AC against one attack that would hit it. To do so, the droid must see the attacker.</desc>
+          </id-00001>
+        </reactions>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The JK-13 Security Droid makes any combination of three Slicing Tentacle attacks and Stunning Tentacle attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Stunning Tentacle</name>
+            <desc type="string">Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (3d4 +4) kinetic damage and the target must succeed on a Constitution save (DC 17) or be stunned until the end of its next turn.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Slicing Tentacle</name>
+            <desc type="string">Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 18 (3d8 +5) kinetic damage.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\securitydroid_jk_13.png@SW5e Player Book</token>
+      </securitydroid_jk_13>
+      <securityofficer>
+        <locked type="number">1</locked>
+        <name type="string">Security Officer</name>
+        <type type="string">humanoid</type>
+        <size type="string">Medium</size>
+        <ac type="number">14</ac>
+        <actext type="string">(battle armor)</actext>
+        <hp type="number">13</hp>
+        <hd type="string">(2d8+4)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Intimidation +3</skills>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">neutral dark side</alignment>
+        <languages type="string">Basic, Huttese</languages>
+        <cr type="string">1/2</cr>
+        <xp type="number">100</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Heavy Pistol</name>
+            <desc type="string">Ranged Weapon Attack: +4, range 40/160, one target. Hit: 6 (1d8+2) energy damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Vibrobaton</name>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit 6 (2d4+2) kinetic damage.</desc>
+          </id-00002>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\securityofficer.png@SW5e Player Book</token>
+      </securityofficer>
+      <shaak>
+        <locked type="number">1</locked>
+        <name type="string">Shaak</name>
+        <type type="string">beast</type>
+        <size type="string">Large</size>
+        <ac type="number">10</ac>
+        <actext type="string"/>
+        <hp type="number">25</hp>
+        <hd type="string">(3d10 + 9)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">kinetic from nonmagical weapons</damageresistances>
+        <senses type="string">passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Ram</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\shaak.png@SW5e Player Book</token>
+      </shaak>
+      <sketto>
+        <locked type="number">1</locked>
+        <name type="string">Sketto</name>
+        <type type="string">beast</type>
+        <size type="string">Small</size>
+        <ac type="number">13</ac>
+        <actext type="string"/>
+        <hp type="number">3</hp>
+        <hd type="string">(1d6)</hd>
+        <speed type="string">10 ft., fly 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">5</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">darkvision 60 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <actions>
+          <id-00001>
+            <name type="string">Blood Drain</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) kinetic damage, and the sketto attaches to the target. While attached, the sketto doesn't attack. Instead, at the start of each of the sketto's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. Droids and constructs are immune to this effect.\rThe sketto can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the sketto.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\sketto.png@SW5e Player Book</token>
+      </sketto>
+      <spotlightsloth>
+        <locked type="number">1</locked>
+        <name type="string">Spotlight Sloth</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">11</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">26</hp>
+        <hd type="string">(4d8 + 8)</hd>
+        <speed type="string">20 ft., climb 20 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">8</score>
+            <modifier type="string">-1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">6</score>
+            <modifier type="string">-2</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">darkvision 60 ft., passive Perception 12</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Bioluminescent</name>
+            <desc type="string">The sloth emits bright light in a 5-foot radius and dim light for an additional 10 ft..</desc>
+          </id-00001>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The sloth makes two fist attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Fist</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Fling Mud</name>
+            <desc type="string">Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) kinetic damage. If the target is a Large or smaller creature, it is must also make a DC 13 Dexterity saving throw. On a failure, it is also blinded until the end of its next turn.</desc>
+          </id-00003>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\spotlightsloth.png@SW5e Player Book</token>
+      </spotlightsloth>
+      <steelpecker>
+        <locked type="number">1</locked>
+        <name type="string">Steelpecker</name>
+        <type type="string">beast</type>
+        <size type="string">Tiny</size>
+        <ac type="number">11</ac>
+        <actext type="string"/>
+        <hp type="number">9</hp>
+        <hd type="string">(2d4 + 4)</hd>
+        <speed type="string">10 ft., fly 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Perception +3</skills>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/8</cr>
+        <xp type="number">25</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Iron Scent</name>
+            <desc type="string">The steelpecker can pinpoint, by scent, the location of metal within 30 feet of it.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Sight And Smell</name>
+            <desc type="string">The steelpecker has advantage on Wisdom (Perception) checks that rely on sight or smell.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Beak</name>
+            <desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) kinetic damage. The steelpecker devours any unenhanced metal object it attacks. If the object isn't being worn or carried, the attack destroys a 1-inch cube of it.\rIf the object attacked is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object attacked is a held metal weapon, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\steelpecker.png@SW5e Player Book</token>
+      </steelpecker>
+      <stintaril>
+        <locked type="number">1</locked>
+        <name type="string">Stintaril</name>
+        <type type="string">beast</type>
+        <size type="string">Tiny</size>
+        <ac type="number">10</ac>
+        <actext type="string"/>
+        <hp type="number">1</hp>
+        <hd type="string">(1d4 - 1)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <senses type="string">darkvision 30 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">0</cr>
+        <xp type="number">10</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The stintaril has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Pack Tactics</name>
+            <desc type="string">The stintaril has advantage on an attack roll against a creature if at least one of the stintaril's allies is within 5 ft. of the creature and the ally isn't incapacitated.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\stintaril.png@SW5e Player Book</token>
+      </stintaril>
+      <stintarilswarm>
+        <locked type="number">1</locked>
+        <name type="string">Stintaril Swarm</name>
+        <type type="string">swarm of tiny beasts</type>
+        <size type="string">Medium</size>
+        <ac type="number">10</ac>
+        <actext type="string"/>
+        <hp type="number">24</hp>
+        <hd type="string">(7d8 - 7)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">11</score>
+            <modifier type="string">0</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">9</score>
+            <modifier type="string">0</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">2</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">4</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <damageresistances type="string">energy, kinetic</damageresistances>
+        <conditionimmunities type="string">charmed, frightened, paralyzed, petrified, prone, restrained, stunned</conditionimmunities>
+        <senses type="string">darkvision 30 ft., passive Perception 10</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">1/4</cr>
+        <xp type="number">50</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Swarm</name>
+            <desc type="string">The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny stintarils. The swarm can't regain hit points or gain temporary hit points.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Keen Smell</name>
+            <desc type="string">The swarm has advantage on Wisdom (Perception) checks that rely on sight and smell.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bites</name>
+            <desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage, or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\stintarilswarm.png@SW5e Player Book</token>
+      </stintarilswarm>
+      <steep>
+        <locked type="number">1</locked>
+        <name type="string">Steep</name>
+        <type type="string">beast</type>
+        <size type="string">Medium</size>
+        <ac type="number">13</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">55</hp>
+        <hd type="string">(10d8 + 10)</hd>
+        <speed type="string">30 ft., swim 30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">1</score>
+            <modifier type="string">-4</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">10</score>
+            <modifier type="string">0</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Stealth +4</skills>
+        <damageresistances type="string">energy, ion, kinetic from nonmagical weapons</damageresistances>
+        <senses type="string">darkvision 60 ft., passive Perception 13</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">2</cr>
+        <xp type="number">450</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Amphibious</name>
+            <desc type="string">The steep can breathe air and water.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Reckless</name>
+            <desc type="string">At the start of its turn, the steep can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 2) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the steep can't bite another target.</desc>
+          </id-00001>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\steep.png@SW5e Player Book</token>
+      </steep>
+      <swampslug>
+        <locked type="number">1</locked>
+        <name type="string">Swamp Slug</name>
+        <type type="string">beast</type>
+        <size type="string">Huge</size>
+        <ac type="number">14</ac>
+        <actext type="string">(natural armor)</actext>
+        <hp type="number">175</hp>
+        <hd type="string">(14d12 + 84)</hd>
+        <speed type="string">20 ft., swim 40 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">22</score>
+            <modifier type="string">+6</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">12</score>
+            <modifier type="string">+1</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">23</score>
+            <modifier type="string">+6</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">3</score>
+            <modifier type="string">-3</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">13</score>
+            <modifier type="string">+1</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">7</score>
+            <modifier type="string">-1</modifier>
+          </charisma>
+        </abilities>
+        <savingthrows type="string">Con +11</savingthrows>
+        <skills type="string">Perception +6</skills>
+        <damageresistances type="string">energy, ion, kinetic from nonmagical weapons</damageresistances>
+        <damageimmunities type="string">poison</damageimmunities>
+        <conditionimmunities type="string">poisoned, prone</conditionimmunities>
+        <senses type="string">blindsight 30 ft., darkvision 60 ft., passive Perception 16</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">--</languages>
+        <cr type="string">14</cr>
+        <xp type="number">11500</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Vile Stench</name>
+            <desc type="string">Any creature that starts its turn within 10 feet of the slug must succeed on a DC 15 Constitution saving throw or take 9 (2d8) poison damage.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Hold Breath</name>
+            <desc type="string">The slug can hold its breath for 1 hour.</desc>
+          </id-00002>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The slug makes one bite attack and one slam attack.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Bite</name>
+            <desc type="string">Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) kinetic damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the slug can't bite another target.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Slam</name>
+            <desc type="string">Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) kinetic damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Swallow</name>
+            <desc type="string">The slug makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the slug, and it takes 7 (2d6) kinetic damage plus 7 (2d6) acid damage at the start of each of the slug's turns. The slug can have only one target swallowed at a time.\rIf the slug dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</desc>
+          </id-00004>
+        </actions>
+        <token type="token">tokens\SW5e Player Book\swampslug.png@SW5e Player Book</token>
+      </swampslug>
+      <supertacticaldroid>
+        <locked type="number">1</locked>
+        <name type="string">Super Tactical Droid</name>
+        <type type="string">droid</type>
+        <size type="string">Medium</size>
+        <ac type="number">17</ac>
+        <actext type="string">(powered battle armor)</actext>
+        <hp type="number">105</hp>
+        <hd type="string">(14d8+42)</hd>
+        <speed type="string">30 ft.</speed>
+        <abilities>
+          <strength>
+            <score type="number">14</score>
+            <modifier type="string">+2</modifier>
+          </strength>
+          <dexterity>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </dexterity>
+          <constitution>
+            <score type="number">17</score>
+            <modifier type="string">+3</modifier>
+          </constitution>
+          <intelligence>
+            <score type="number">21</score>
+            <modifier type="string">+5</modifier>
+          </intelligence>
+          <wisdom>
+            <score type="number">16</score>
+            <modifier type="string">+3</modifier>
+          </wisdom>
+          <charisma>
+            <score type="number">15</score>
+            <modifier type="string">+2</modifier>
+          </charisma>
+        </abilities>
+        <skills type="string">Athletics +7, Perception +13, Lore +10, Stealth +8</skills>
+        <damagevulnerabilities type="string">ion</damagevulnerabilities>
+        <damageresistances type="string">necrotic, psychic, nonmagical kinetic</damageresistances>
+        <damageimmunities type="string">poison</damageimmunities>
+        <conditionimmunities type="string">blinded, charmed, deafened, exhaustion, frightened, poisoned</conditionimmunities>
+        <senses type="string">darkvision 60 ft., passive Perception 23</senses>
+        <alignment type="string">unaligned</alignment>
+        <languages type="string">Galactic Basic, Binary</languages>
+        <cr type="string">15</cr>
+        <xp type="number">13000</xp>
+        <traits>
+          <id-00001>
+            <name type="string">Legendary Resistance (3/Day)</name>
+            <desc type="string">If the tactical droid fails a saving throw, it can choose to succeed instead.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Master Of The Droid</name>
+            <desc type="string">While within 30 feet of the tactical droid, any droid ally of the tactical droid makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">Circuitry</name>
+            <desc type="string">The tactical droid has disadvantage on saving throws against effects that would deal ion or lightning damage.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Tactical Technology</name>
+            <desc type="string">When the tactical droid casts a tech power that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the power and to succeed on the required saving throw.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Spellcasting</name>
+            <desc type="string">The super tactical droid is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The droid has 57 tech points. The super tactical droid has the following  spells prepared:\rCantrips (At will): assess the situation, encrypted message, electroshock, poison spray, cryogenic burst, combustive shot\r1st level (57 slots): homing rockets, expeditious retreat, repair droid\r2nd level (57 slots): mirror image, charge power cell\r3rd level (57 slots): explosion, tactical advantage\r4th level (57 slots): sensor probe, synchronicity\r5th level (57 slots): mass repair droid, toxic cloud\r6th level (57 slots): security protocols\r7th level (57 slots): tactical superiority</desc>
+          </id-00005>
+        </traits>
+        <actions>
+          <id-00001>
+            <name type="string">Multiattack</name>
+            <desc type="string">The tactical droid makes three biopistol attacks.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Biopistol</name>
+            <desc type="string">Melee Weapon Ateack. +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) kinetic damage plus 14 (4d6) poison damage.</desc>
+          </id-00002>
+        </actions>
+        <legendaryactions>
+          <id-00001>
+            <name type="string">Options</name>
+            <desc type="string">The tactical droid can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tactical droid regains spent legendary actions at the start of its turn.</desc>
+          </id-00001>
+          <id-00002>
+            <name type="string">Biopistol</name>
+            <desc type="string">The tactical droid makes a biopistol attack.</desc>
+          </id-00002>
+          <id-00003>
+            <name type="string">At-Will</name>
+            <desc type="string">The tactical droid casts an at-will tech power.</desc>
+          </id-00003>
+          <id-00004>
+            <name type="string">Move</name>
+            <desc type="string">The tactical droid moves up to its speed without provoking opportunity attacks.</desc>
+          </id-00004>
+          <id-00005>
+            <name type="string">Construct Droid (Costs 3 Actions)</name>
+            <desc type="string">Up to five junk droids appear in unoccupied spaces within 30 feet of the tactical droid and remain until destroyed. Droids summoned in this way roll initiative and act in the next available turn. The tactical droid can have up to five droids summoned by this ability at a time.</desc>
+          </id-00005>
+        </legendaryactions>
+        <token type="token">tokens\SW5e Player Book\supertacticaldroid.png@SW5e Player Book</token>
+      </supertacticaldroid>
     </npcdata>
     <npclists>
       <npcs>
@@ -38657,6 +39734,156 @@
                 </link>
                 <source type="number"/>
               </sibianhound>
+              <sandoaquamonster>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sandoaquamonster@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </sandoaquamonster>
+              <sarlacc_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sarlacc_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </sarlacc_adult>
+              <scrange>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.scrange@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </scrange>
+              <scurrier>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.scurrier@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </scurrier>
+              <securitydroid_jk_13>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.securitydroid_jk_13@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </securitydroid_jk_13>
+              <securityofficer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.securityofficer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </securityofficer>
+              <shaak>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.shaak@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </shaak>
+              <sketto>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sketto@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </sketto>
+              <spotlightsloth>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.spotlightsloth@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </spotlightsloth>
+              <steelpecker>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.steelpecker@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </steelpecker>
+              <stintaril>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.stintaril@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </stintaril>
+              <stintarilswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.stintarilswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </stintarilswarm>
+              <steep>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.steep@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </steep>
+              <swampslug>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.swampslug@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </swampslug>
+              <supertacticaldroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.supertacticaldroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </supertacticaldroid>
             </index>
           </typeletterS>
           <typeletterF>
@@ -40762,6 +41989,16 @@
                 </link>
                 <source type="number"/>
               </probedroid_sith>
+              <stintaril>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.stintaril@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </stintaril>
             </index>
           </level00>
           <level02>
@@ -41117,6 +42354,26 @@
                 </link>
                 <source type="number"/>
               </protocoldroid_lomseries>
+              <spotlightsloth>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.spotlightsloth@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </spotlightsloth>
+              <steep>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.steep@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </steep>
             </index>
           </level02>
           <level04>
@@ -41412,6 +42669,16 @@
                 </link>
                 <source type="number"/>
               </rathtar>
+              <securitydroid_jk_13>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.securitydroid_jk_13@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </securitydroid_jk_13>
             </index>
           </level09>
           <level10>
@@ -41632,6 +42899,26 @@
                 </link>
                 <source type="number"/>
               </rockwart>
+              <shaak>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.shaak@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </shaak>
+              <steelpecker>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.steelpecker@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </steelpecker>
             </index>
           </level1_8>
           <level1_2>
@@ -41837,6 +43124,16 @@
                 </link>
                 <source type="number"/>
               </officer_junior>
+              <securityofficer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.securityofficer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </securityofficer>
             </index>
           </level1_2>
           <level07>
@@ -41882,6 +43179,16 @@
                 </link>
                 <source type="number"/>
               </lylek>
+              <scrange>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.scrange@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </scrange>
             </index>
           </level07>
           <level1_4>
@@ -42037,6 +43344,36 @@
                 </link>
                 <source type="number"/>
               </nuna>
+              <scurrier>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.scurrier@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </scurrier>
+              <sketto>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sketto@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </sketto>
+              <stintarilswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.stintarilswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </stintarilswarm>
             </index>
           </level1_4>
           <level21>
@@ -42052,6 +43389,16 @@
                 </link>
                 <source type="number"/>
               </avatarofabeloth>
+              <sarlacc_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sarlacc_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </sarlacc_adult>
             </index>
           </level21>
           <level24>
@@ -42182,6 +43529,16 @@
                 </link>
                 <source type="number"/>
               </exogorth_adult>
+              <supertacticaldroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.supertacticaldroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </supertacticaldroid>
             </index>
           </level15>
           <level14>
@@ -42217,6 +43574,16 @@
                 </link>
                 <source type="number"/>
               </legendaryt_doshokhunter>
+              <swampslug>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.swampslug@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </swampslug>
             </index>
           </level14>
           <level11>
@@ -42324,6 +43691,21 @@
               </grandadmiral>
             </index>
           </level20>
+          <level25>
+            <description type="string">25</description>
+            <index>
+              <sandoaquamonster>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sandoaquamonster@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source type="number"/>
+              </sandoaquamonster>
+            </index>
+          </level25>
         </groups>
       </bylevel>
       <bytype>
@@ -43252,6 +44634,106 @@
                 </link>
                 <source>beast</source>
               </ronto>
+              <sandoaquamonster>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sandoaquamonster@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </sandoaquamonster>
+              <scrange>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.scrange@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </scrange>
+              <scurrier>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.scurrier@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </scurrier>
+              <shaak>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.shaak@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </shaak>
+              <sketto>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sketto@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </sketto>
+              <spotlightsloth>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.spotlightsloth@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </spotlightsloth>
+              <steelpecker>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.steelpecker@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </steelpecker>
+              <stintaril>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.stintaril@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </stintaril>
+              <steep>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.steep@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </steep>
+              <swampslug>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.swampslug@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>beast</source>
+              </swampslug>
             </index>
           </typebeast>
           <typeplant>
@@ -43317,6 +44799,16 @@
                 </link>
                 <source>plant</source>
               </knobbywhitespiderling>
+              <sarlacc_adult>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.sarlacc_adult@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>plant</source>
+              </sarlacc_adult>
             </index>
           </typeplant>
           <typedroid>
@@ -43672,6 +45164,26 @@
                 </link>
                 <source>droid</source>
               </protocoldroid_lomseries>
+              <securitydroid_jk_13>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.securitydroid_jk_13@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </securitydroid_jk_13>
+              <supertacticaldroid>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.supertacticaldroid@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>droid</source>
+              </supertacticaldroid>
             </index>
           </typedroid>
           <typehumanoid_any_>
@@ -44302,6 +45814,16 @@
                 </link>
                 <source>humanoid</source>
               </officer_senior>
+              <securityofficer>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.securityofficer@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>humanoid</source>
+              </securityofficer>
             </index>
           </typehumanoid>
           <typeconstruct>
@@ -44472,6 +45994,16 @@
                 </link>
                 <source>swarm of tiny beasts</source>
               </pelkobugswarm>
+              <stintarilswarm>
+                <link type="windowreference">
+                  <class>npc</class>
+                  <recordname>reference.npcdata.stintarilswarm@SW5e Player Book</recordname>
+                  <description>
+                    <field>name</field>
+                  </description>
+                </link>
+                <source>swarm of tiny beasts</source>
+              </stintarilswarm>
             </index>
           </typeswarmoftinybeasts>
           <typerepeatingblasters_rangedweaponattack__10tohit_range120_240ft_>

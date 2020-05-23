@@ -4253,3 +4253,302 @@ Slam. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6)
 Stomp. Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) kinetic damage.
 ##;
 
+Sando Aqua Monster
+Gargantuan beast, unaligned
+Armor Class 23 (natural armor)
+Hit Points 546 (28d20 + 252)
+Speed 20 ft., swim 50 ft.
+STR DEX CON INT WIS CHA 30 (+10) 21 (+5) 28 (+9) 8 (-1) 18 (+4) 18 (+4)
+Saving Throws Str +18, Dex +10, Con +17, Int +7, Wis +12
+Skills Insight +12, Intimidation +12, Perception +12, Stealth +10
+Damage Immunities cold, lightning, kinetic, ion, energy from nonmagical weapons
+Condition Immunities frightened, paralyzed, restrained
+Senses blindsight 120 ft., darkvision 120 ft., passive Perception 22
+Languages --
+Challenge 25 (75,000 XP)
+Amphibious. The monster can breathe air and water.
+Freedom Of Movement. The monster ignores difficult terrain, and effects can't reduce its speed. It can spend 5 feet of movement to escape from being grappled.
+Legendary Resistance (3/Day). If the monster fails a saving throw, it can choose to succeed instead.
+Gargantan Strength. The monster's weapon attacks are considered enhanced.
+Siege Monster. The monster does double damage on objects and structures.
+ACTIONS
+Multiattack. The monster uses its Frightful Presence. It then makes three attacks. one with its bite and two with its claws. It can use its Swallow instead of its bite.
+Bite. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) piercing damage. If the target is a creature it is grappled (escape DC 20). Until the grapple ends, the target is restrained, and the monster can't bite another target.
+Claw. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 17 (2d6 + 10) slashing damage.
+Tail. Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage.
+Frightful Presence. Each creature of the monster's choice within 120 feet of the monster and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each turn, ending the effect on itself on a success. If a creature's saving throw is successful or the effects ends for it, the creature is immune to the monster's Frightful Presence for 24 hours.
+Water Torrent (Recharge 5-6). the monster exhales a torrent of water in a 120 foot cone. Each creature in the area must make a DC 24 Dexterity saving throw, taking 42 (12d6) kinetic damage and 42 (12d6) cold damage on a failed save, or half as much on a successful one.
+Swallow. The monster makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the monster, and it takes 42 (12d6) acid damage at the start of each of the monster's turns.\rIf the monster takes 50 damage or more on a single turn from a creature inside it, the monster must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the monster. If the monster dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+LEGENDARY ACTIONS
+Options. The monster can take 3 legendary actions, choosing form the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The monster regains spent legendary actions at the start of its turn.
+Detect. The monster makes a Wisdom (Perception) check.
+Tail Attack. The monster makes a tail attack.
+Whirlpool (Costs 2 Actions). The monster creates a whirlpool in the water at a point within 30 ft. that it can see. The whirlwind is a 10-foot-radius, 30-foot-deep cylinder centered on that point. On subsequent turns, the monster can use the Whirlpool legendary action to maintain and move the whirlpool up to 30 feet in any direction along the surface of the water. The whirlpool sucks up any medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.\rA creature must make a DC 21 Dexterity saving throw the first time on a turn that it enters the whirlpool or that the whirlpool enters its space, including when the whirlpool first appears. A creature takes 6d8 kinetic damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a DC 21 Strength saving throw or become restrained in the whirlpool until the power ends. When a creature starts its turn restrained by the whirlpool, the creature is pulled 5 feet deeper inside it, unless the creature is at the bottom. A restrained creature moves with the whirlpool and is submerged when the effect ends, unless the creature has some means to stay afloat.\rA restrained creature can use an action to make a DC 21 Strength or Dexterity check. If successful, the creature is no longer restrained by the whirlpool and is hurled 3d6x10 feet away from it in a random direction.\rThe whirlpool ends at the beginning of the monster's turn unless the monster used the Whirlpool legendary action to maintain the whirlpool.
+##;
+
+Sarlacc, Adult
+Gargantuan plant, unaligned
+Armor Class 18 (natural armor)
+Hit Points 464 (32d12 + 256)
+Speed 0 ft.
+STR DEX CON INT WIS CHA 27 (+8) 11 (+0) 27 (+8) 3 (-4) 11 (+0) 6 (-2)
+Saving Throws Str +14, Dex +6, Con +14, Wis +6
+Skills Perception +6, Stealth +6
+Damage Resistances sonic, energy, ion, kinetic from nonmagical weapons
+Condition Immunities exhaustion, frightened, grappled, paralyzed, petrified, prone
+Senses tremorsense 300 ft., passive Perception 16
+Languages --
+Challenge 21 (22,000 XP)
+Legendary Resistance (3/Day). If the Sarlacc fails a saving throw, it can choose to succeed instead.
+Gargantuan Strength. The sarlacc's weapon attacks are considered enhanced.
+Burried. The sarlacc is resistant to damage from sources beyond 60 feet and immune to damage from sources beyond 120 feet.
+Grasping Tentacles. The sarlacc can have up to eight tentacles at a time. Each tentacle can be attacked (AC 18; 40 hit points; immunity to psychic damage). A tentacle can also be broken if a creature takes an action and succeeds on a DC 22 Strength check against it.\rDestroying a tentacle in either way deals no damage to the sarlacc, which can extrude a replacement tentacle on its next turn, but it causes the sarlacc to spend a legendary action for no effect. If the sarlacc has no legendary actions remaining this turn to spend, the sarlacc regains one fewer spent legendary actions at the start of its next turn than it would otherwise regain. The sarlacc can be forced to spend no more than two legendary actions in this way.
+ACTIONS
+Multiattack. The sarlacc makes three tentacle attacks, each of which it can replace with one use of Bite.
+Tentacle. Melee Weapon Attack: +14 to hit, reach 60 ft., one target. Hit: 26 (4d8 + 8) kinetic damage. The target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The sarlacc has eight tentacles, each of which can grapple one target.
+Bite. Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit 30 (4d10 + 8) Kinetic damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the sarlacc can't bite another target.
+Swallow. The sarlacc makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the sarlacc, and it takes 35 (10d6) psychic damage at the start of each of the sarlacc's turns. A creature reduced to zero hit points this way stops taking the psychic damage and becomes stable.\rIf the sarlacc takes 40 damage or more on a single turn from a creature inside it, the sarlacc must succeed on a DC 23 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the sarlacc. If the sarlacc dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 10 feet of movement, exiting prone.
+Pheromones (Recharge 5-6). The sarlacc releases pheromones in a 300 ft. radius. Each creature in that area must make a DC 22 Constitution saving throw. On a failed save the creature is charmed by the sarlacc for 1 minute. While charmed this way, the target tries to get as close to the sarlacc as possible, using its actions to Dash until it is within 5 feet of the sarlacc. A charmed target can repeat the saving throw at the end of each of its turns and whenever it takes damage, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage on saving throws against the sarlacc's Pheromones for 24 hours.
+LEGENDARY ACTIONS
+Options. The sarlacc can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. The sarlacc regains spent legendary actions at the start of its turn.
+Earth-Shaking Movement. The sarlacc sends a shockwave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 round.\rEach creature on the ground in the area must succeed on a DC 22 Constitution saving throw. A creature takes 41 (6d10 + 8) sonic damage and is knocked prone on a failed save, or half as much damage and is not knocked prone on a successful one. A creature that fails the save by 5 or more is pulled 15 feet downwards and towards the sarlacc.
+Reel. The sarlacc pulls each creature grappled by it up to 30 feet straight towards it.
+Tentacle. The sarlacc makes one tentacle attack.
+Chomp (Costs 2 Actions). The sarlacc makes one bite attack or uses its swallow.
+##;
+
+Scrange
+Huge beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 126 (12d12+48)
+Speed 40 ft.
+STR DEX CON INT WIS CHA 23 (+6) 12 (+1) 19 (+4) 2 (-4) 12 (+1) 7 (-2)
+Skills Perception +4, Stealth +7
+Senses darkvision 60 ft., passive Perception 14
+Languages --
+Challenge 7 (2,900 XP)
+Ambusher. In the first round of a combat, the scrange has advantage on attack rolls against any creature it surprised.
+Bioluminescent. The scrange either emits dim light in a 10foot radius, or bright light in a 10-foot radius and dim light for an additional 10 ft.. It can switch between the options as a bonus action.
+Mud Camouflage. The scrange has advantage on Dexterity (Stealth) checks made to hide in muddy terrain.
+ACTIONS
+Multiattack. The scrange makes two attacks. one with its bite and one with its tail. It can't make both attacks against the same target.
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 6) kinetic damage.
+Tail. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 24 (4d10 + 6) kinetic damage, and the target must succeed on a DC 16 Strength saving throw or be knocked prone.
+##;
+
+Scurrier
+Small beast, unaligned
+Armor Class 11 (natural armor)
+Hit Points 7 (2d6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 7 (-2) 15 (+2) 11 (+0) 2 (-4) 10 (+0) 4 (-3)
+Senses darkvision 60 ft., passive Perception 10
+Languages --
+Challenge 1/4 (50 XP)
+Keen Smell. The scurrier has advantage on Wisdom (Perception) checks that rely on smell.
+Pack Tactics. The scurrier has advantage on an attack roll against a creature if at least one of the scurrier's allies is within 5 feet of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) kinetic damage.
+Ram. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 2) kinetic damage.
+##;
+
+Security Droid, Jk-13
+Large droid, unaligned
+Armor Class 18 (armor plating)
+Hit Points 150 (20d10 + 40)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 19 (+4) 21 (+5) 15 (+2) 10 (+0) 13 (+1) 7 (-2)
+Saving Throws Str +10, Con +7, Int +5
+Skills Intimidation +3, Perception +6
+Damage Vulnerabilities ion, lightning
+Damage Resistances energy from nonmagical weapons
+Senses darkvision 60 ft., passive Perception 16
+Languages Galactic Basic, Binary
+Challenge 9 (5,000 XP)
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Droid Encasement. The Dashta Eel within the machine is a somewhat shapeless mass. When the JK-13 Security Droid is reduced to 0 hp, the droid armor breaks and the Dashta Eel exits it. Once out of its armor, the creature's pulpy mass no longer receives the benefits of the listed Damage Resistances.\rWithout its armor, the Dashta Eel has the following statistics. AC 12, hp 19 (3d8 + 6), Strength 8 (-1), and its speed becomes 15 feet. In addition, it has no attack actions.
+Jedi Slayer. JK-13 Security Droid has advantage on saving throws versus force powers used by creatures within 5 feet of it. When an enemy within 5 feet uses a force power, JK-13 Security Droid can make a melee attack against that character as a reaction. When JK-13 Security Droid damages an enemy, they have disadvantage on concentration saving throws to maintain their force powers.
+ACTIONS
+Multiattack. The JK-13 Security Droid makes any combination of three Slicing Tentacle attacks and Stunning Tentacle attacks.
+Stunning Tentacle. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 11 (3d4 +4) kinetic damage and the target must succeed on a Constitution save (DC 17) or be stunned until the end of its next turn.
+Slicing Tentacle. Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 18 (3d8 +5) kinetic damage.
+REACTIONS
+Deflector Shield. The JK-13 Security Droid adds 3 to its AC against one attack that would hit it. To do so, the droid must see the attacker.
+##;
+
+Security Officer
+Medium humanoid, neutral dark side
+Armor Class 14 (battle armor)
+Hit Points 13 (2d8+4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 12 (+1) 11 (+0) 13 (+1) 10 (+0) 9 (-1) 12 (+1)
+Skills Intimidation +3
+Senses passive Perception 10
+Languages Basic, Huttese
+Challenge 1/2 (100 XP)
+ACTIONS
+Heavy Pistol. Ranged Weapon Attack: +4, range 40/160, one target. Hit: 6 (1d8+2) energy damage.
+Vibrobaton. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit 6 (2d4+2) kinetic damage.
+##;
+
+Shaak
+Large beast, unaligned
+Armor Class 10
+Hit Points 25 (3d10 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 16 (+3) 10 (+0) 16 (+3) 2 (-4) 10 (+0) 5 (-3)
+Damage Resistances kinetic from nonmagical weapons
+Senses passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+ACTIONS
+Ram. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.
+##;
+
+Sketto
+Small beast, unaligned
+Armor Class 13
+Hit Points 3 (1d6)
+Speed 10 ft., fly 40 ft.
+STR DEX CON INT WIS CHA 4 (-3) 16 (+3) 11 (+0) 2 (-4) 8 (-1) 5 (-3)
+Senses darkvision 60 ft., passive Perception 10
+Languages --
+Challenge 1/4 (50 XP)
+ACTIONS
+Blood Drain. Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) kinetic damage, and the sketto attaches to the target. While attached, the sketto doesn't attack. Instead, at the start of each of the sketto's turns, the target loses 5 (1d4 + 3) hit points due to blood loss. Droids and constructs are immune to this effect.\rThe sketto can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the sketto.
+##;
+
+Spotlight Sloth
+Medium beast, unaligned
+Armor Class 11 (natural armor)
+Hit Points 26 (4d8 + 8)
+Speed 20 ft., climb 20 ft.
+STR DEX CON INT WIS CHA 16 (+3) 8 (-1) 15 (+2) 6 (-2) 14 (+2) 6 (-2)
+Senses darkvision 60 ft., passive Perception 12
+Languages --
+Challenge 2 (450 XP)
+Bioluminescent. The sloth emits bright light in a 5-foot radius and dim light for an additional 10 ft..
+ACTIONS
+Multiattack. The sloth makes two fist attacks.
+Fist. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) kinetic damage.
+Fling Mud. Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) kinetic damage. If the target is a Large or smaller creature, it is must also make a DC 13 Dexterity saving throw. On a failure, it is also blinded until the end of its next turn.
+##;
+
+Steelpecker
+Tiny beast, unaligned
+Armor Class 11
+Hit Points 9 (2d4 + 4)
+Speed 10 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 4 (-3) 12 (+1) 15 (+2) 2 (-4) 13 (+1) 4 (-3)
+Skills Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 1/8 (25 XP)
+Iron Scent. The steelpecker can pinpoint, by scent, the location of metal within 30 feet of it.
+Keen Sight And Smell. The steelpecker has advantage on Wisdom (Perception) checks that rely on sight or smell.
+ACTIONS
+Beak. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) kinetic damage. The steelpecker devours any unenhanced metal object it attacks. If the object isn't being worn or carried, the attack destroys a 1-inch cube of it.\rIf the object attacked is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object attacked is a held metal weapon, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed.
+##;
+
+Stintaril
+Tiny beast, unaligned
+Armor Class 10
+Hit Points 1 (1d4 - 1)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 2 (-4) 11 (+0) 9 (-1) 2 (-4) 10 (+0) 4 (-3)
+Senses darkvision 30 ft., passive Perception 10
+Languages --
+Challenge 0 (10 XP)
+Keen Smell. The stintaril has advantage on Wisdom (Perception) checks that rely on smell.
+Pack Tactics. The stintaril has advantage on an attack roll against a creature if at least one of the stintaril's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+ACTIONS
+Bite. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 2 (1d4) kinetic damage.
+##;
+
+Stintaril Swarm
+Medium swarm of tiny beasts, unaligned
+Armor Class 10
+Hit Points 24 (7d8 - 7)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 4 (-3) 11 (+0) 9 (-1) 2 (-4) 10 (+0) 4 (-3)
+Damage Resistances energy, kinetic
+Condition Immunities charmed, frightened, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 30 ft., passive Perception 10
+Languages --
+Challenge 1/4 (50 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny stintarils. The swarm can't regain hit points or gain temporary hit points.
+Keen Smell. The swarm has advantage on Wisdom (Perception) checks that rely on sight and smell.
+ACTIONS
+Bites. Melee Weapon Attack: +2 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) kinetic damage, or 3 (1d6) kinetic damage if the swarm has half of its hit points or fewer.
+##;
+
+Steep
+Medium beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft., swim 30 ft.
+STR DEX CON INT WIS CHA 15 (+2) 13 (+1) 13 (+1) 1 (-5) 10 (+0) 3 (-4)
+Skills Stealth +4
+Damage Resistances energy, ion, kinetic from nonmagical weapons
+Senses darkvision 60 ft., passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Amphibious. The steep can breathe air and water.
+Reckless. At the start of its turn, the steep can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+ACTIONS
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (1d8 + 2) kinetic damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the steep can't bite another target.
+##;
+
+Swamp Slug
+Huge beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 175 (14d12 + 84)
+Speed 20 ft., swim 40 ft.
+STR DEX CON INT WIS CHA 22 (+6) 12 (+1) 23 (+6) 3 (-4) 13 (+1) 7 (-2)
+Saving Throws Con +11
+Skills Perception +6
+Damage Resistances energy, ion, kinetic from nonmagical weapons
+Damage Immunities poison
+Condition Immunities poisoned, prone
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 16
+Languages --
+Challenge 14 (11,500 XP)
+Vile Stench. Any creature that starts its turn within 10 feet of the slug must succeed on a DC 15 Constitution saving throw or take 9 (2d8) poison damage.
+Hold Breath. The slug can hold its breath for 1 hour.
+ACTIONS
+Multiattack. The slug makes one bite attack and one slam attack.
+Bite. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) kinetic damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the slug can't bite another target.
+Slam. Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) kinetic damage.
+Swallow. The slug makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the slug, and it takes 7 (2d6) kinetic damage plus 7 (2d6) acid damage at the start of each of the slug's turns. The slug can have only one target swallowed at a time.\rIf the slug dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+##;
+
+Super Tactical Droid
+Medium droid, unaligned
+Armor Class 17 (powered battle armor)
+Hit Points 105 (14d8+42)
+Speed 30 ft.
+STR DEX CON INT WIS CHA 14 (+2) 16 (+3) 17 (+3) 21 (+5) 16 (+3) 15 (+2)
+Skills Athletics +7, Perception +13, Lore +10, Stealth +8
+Damage Vulnerabilities ion
+Damage Resistances necrotic, psychic, nonmagical kinetic
+Damage Immunities poison
+Condition Immunities blinded, charmed, deafened, exhaustion, frightened, poisoned
+Senses darkvision 60 ft., passive Perception 23
+Languages Galactic Basic, Binary
+Challenge 15 (13,000 XP)
+Legendary Resistance (3/Day). If the tactical droid fails a saving throw, it can choose to succeed instead.
+Master Of The Droid. While within 30 feet of the tactical droid, any droid ally of the tactical droid makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.
+Circuitry. The tactical droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+Tactical Technology. When the tactical droid casts a tech power that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the power and to succeed on the required saving throw.
+Spellcasting. The super tactical droid is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The droid has 57 tech points. The super tactical droid has the following  spells prepared:\rCantrips (At will): assess the situation, encrypted message, electroshock, poison spray, cryogenic burst, combustive shot\r1st level (57 slots): homing rockets, expeditious retreat, repair droid\r2nd level (57 slots): mirror image, charge power cell\r3rd level (57 slots): explosion, tactical advantage\r4th level (57 slots): sensor probe, synchronicity\r5th level (57 slots): mass repair droid, toxic cloud\r6th level (57 slots): security protocols\r7th level (57 slots): tactical superiority
+ACTIONS
+Multiattack. The tactical droid makes three biopistol attacks.
+Biopistol. Melee Weapon Ateack. +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) kinetic damage plus 14 (4d6) poison damage.
+LEGENDARY ACTIONS
+Options. The tactical droid can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tactical droid regains spent legendary actions at the start of its turn.
+Biopistol. The tactical droid makes a biopistol attack.
+At-Will. The tactical droid casts an at-will tech power.
+Move. The tactical droid moves up to its speed without provoking opportunity attacks.
+Construct Droid (Costs 3 Actions). Up to five junk droids appear in unoccupied spaces within 30 feet of the tactical droid and remain until destroyed. Droids summoned in this way roll initiative and act in the next available turn. The tactical droid can have up to five droids summoned by this ability at a time.
+##;
+
