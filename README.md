@@ -14,7 +14,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 |Sub-Project | Status | Notes |
 | --- | --- | -- |
-|SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, etc. Requires Suplement module to be loaded also.|
+|SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, NPCs, etc. Requires Suplement module to also be loaded.|
 |SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement. Must be loaded with PHB module. |
 |Ruleset Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
 
@@ -22,7 +22,7 @@ See the FG Forum post for news about current projects and module changes underwa
 
 ---
 
-__Fantasy Grounds Unity(FGU)__ : Please note this is not tested in FGU.  Use at your own risk.  Some recent updates should help with compatibility issues.
+__Fantasy Grounds Unity(FGU)__ : Please note this has not been extensively tested in FGU.  Some recent updates should help with compatibility issues.  At this time I have found no compatibility issues. If you find an issue, please let me know.
 
 ---
 
@@ -44,35 +44,30 @@ __Fantasy Grounds Unity(FGU)__ : Please note this is not tested in FGU.  Use at 
 #### Creating your sw5e campaign
 
 * When creating your new campaign in FG for SW5e, select the 5e rule-set (All the SW5e content is dependent on the base 5e rule-set).
-* Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select it.
+* Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select the SW5e extension.
 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Supplement__*, and *__SW5e NPC Manual__*.
 
 __New Starship Rules__
 
-These new rules basically has ships as complex as a player character with character sheets. I would suggest providing your players with their ship's sheet and using the FG interface for a star map, token movement, and dice rolling. But, at this time I don't know of a way to implement the starship combat of SW5e into the FG system.
+At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.
 
 ### Developer Information
 
 The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
 
-The *__NPCEngineer__* directory is for the text files that are parsed into the *__NPC Book__* module and the "source" of the module content. [NPC Engineer website](http://www.masq.net/)
-
 The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML.
 
 The *__ext-src__* dirctory is for the extension sources.
 
-#### Goals for next release
-* Next Release (V1.1 mid-2020?)
-   * Updates to "final" core manual changes (as of Jan. 2020).
-   * Marking additional races already done as "Expanded Content".  No other expanded content will be included.
-   * Remake NPC list from the Scum and Villainy book.  Attempt to integrate with main PHB module.
-   * Powers will still be called spells in the FG interface.  This may be permanent as long as it is based on the core 5e ruleset.
-
 ---
 
 __Project News__
+
+May 23, 2020
+
+All NPCs from the Scum and Villainy PDF have been added to the PHB module.
 
 May 18, 2020
 
