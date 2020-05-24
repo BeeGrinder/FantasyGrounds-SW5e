@@ -11,6 +11,6 @@ cat client_preedit.xml |\
  sed 's/<name type="string">Scout Technique<\/name>/<name type="string">Scout Technique<\/name><specializationchoice type="number">1<\/specializationchoice>/g' |\
  sed 's/<name type="string">Sentinel Calling<\/name>/<name type="string">Sentinel Calling<\/name><specializationchoice type="number">1<\/specializationchoice>/g' \
  > client.xml
-/c/Program\ Files/7-Zip/7z.exe a "SW5e Player Book.zip" client.xml definition.xml thumbnail.png images tokens
+/c/Program\ Files/7-Zip/7z.exe a -mx9 "SW5e Player Book.zip" client.xml definition.xml thumbnail.png images tokens
 mv "SW5e Player Book.zip" "SW5e Player Book.mod"
 mv "SW5e Player Book.mod" "/d/games/SmiteWorks/FGUData/modules"
