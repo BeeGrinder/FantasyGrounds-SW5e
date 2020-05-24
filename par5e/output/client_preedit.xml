@@ -11196,7 +11196,7 @@
             </text>
           </dangersense2>
           <berserkerapproach3>
-            <name type="string">Berserker Approach</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Berserker Approach</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p>
@@ -12143,7 +12143,7 @@
             </text>
           </forceshield2>
           <consulartradition3>
-            <name type="string">Consular Tradition</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Consular Tradition</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.</p>
@@ -12724,7 +12724,7 @@
             </text>
           </toolunderstanding3>
           <engineeringdiscipline3>
-            <name type="string">Engineering Discipline</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Engineering Discipline</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.</p>
@@ -13932,7 +13932,7 @@
             </text>
           </maneuvers2>
           <fighterspeciality3>
-            <name type="string">Fighter Speciality</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Fighter Speciality</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
@@ -14871,7 +14871,7 @@
             </text>
           </guardianaura2>
           <guardianform3>
-            <name type="string">Guardian Form</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Guardian Form</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.</p>
@@ -15493,7 +15493,7 @@
             </text>
           </unarmoredmovement2>
           <monasticorder3>
-            <name type="string">Monastic Order</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Monastic Order</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
@@ -17010,7 +17010,7 @@
             </text>
           </expertise3>
           <academicpursuit3>
-            <name type="string">Academic Pursuit</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Academic Pursuit</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you dedicate your studies towards a pursuit, which is detailed at the end of the class description. The pursuit you choose grants you features at 3rd level, and again at 6th, 9th, and 17th level.</p>
@@ -17849,7 +17849,7 @@
             </text>
           </pathfinder3>
           <scouttechnique3>
-            <name type="string">Scout Technique</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Scout Technique</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
@@ -18741,7 +18741,7 @@
             <specialization type="string">Stalker Technique</specialization>
           </idealofthevigorous>
           <sentinelcalling3>
-            <name type="string">Sentinel Calling</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Sentinel Calling</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.</p>
