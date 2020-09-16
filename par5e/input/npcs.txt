@@ -2292,8 +2292,8 @@ Challenge 1/2 (100 XP)
 Keen Hearing And Sight. The scout trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 ACTIONS
 Multiattack. The scout trooper makes two weapon attacks.
-Hold-out Blaster. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit: 4 (1d4+2).
-Vibrodagger. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2)
+Hold-out Blaster. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit: 4 (1d4+2) energy damage.
+Vibrodagger. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2) kinetic damage.
 ##;
 
 Trooper, Flame
