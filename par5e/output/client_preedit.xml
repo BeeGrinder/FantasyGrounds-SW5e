@@ -30468,10 +30468,10 @@
             <modifier type="string">0</modifier>
           </charisma>
         </abilities>
-        <skills type="string">Nature +4, Perception +5, Piloting +4, Stealth +6, Survival +5</skills>
+        <skills type="string">Nature +4, Perception +5, Stealth +6, Survival +5</skills>
         <senses type="string">darkvision 60 ft., passive Perception 15</senses>
         <alignment type="string">any alignment</alignment>
-        <languages type="string">Galactic Basic, one other</languages>
+        <languages type="string">Galactic Basic and one other</languages>
         <cr type="string">1/2</cr>
         <xp type="number">100</xp>
         <traits>
@@ -30487,11 +30487,11 @@
           </id-00001>
           <id-00002>
             <name type="string">Hold-out Blaster</name>
-            <desc type="string">Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit: 4 (1d4+2).</desc>
+            <desc type="string">Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) energy damage.</desc>
           </id-00002>
           <id-00003>
             <name type="string">Vibrodagger</name>
-            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2)</desc>
+            <desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.</desc>
           </id-00003>
         </actions>
         <token type="token">tokens\SW5e Player Book\trooper_scout.png@SW5e Player Book</token>
