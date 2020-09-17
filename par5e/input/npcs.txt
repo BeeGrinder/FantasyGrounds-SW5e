@@ -2292,8 +2292,8 @@ Challenge 1/2 (100 XP)
 Keen Hearing And Sight. The scout trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 ACTIONS
 Multiattack. The scout trooper makes two weapon attacks.
-Hold-out Blaster. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit: 4 (1d4+2) energy damage.
-Vibrodagger. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2) kinetic damage.
+Hold-out Blaster. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) energy damage.
+Vibrodagger. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
 ##;
 
 Trooper, Flame
@@ -4756,23 +4756,6 @@ Multiattack. The trooper makes two melee or three ranged attacks.
 Blaster Rifle. Ranged Weapon Attack: +6 to hit, range 100/400 ft., one target. Hit: 8 (1d8 + 4) energy damage.
 Electrostaff. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) kinetic damage.
 Volley (Recharge 6). The trooper makes one ranged attack against every enemy within 10 feet of a point it can see.
-##;
-
-Trooper, Scout
-Medium humanoid, any alignment
-Armor Class 15 (light battle armor)
-Hit Points 13 (2d8 + 4)
-Speed 30 ft.
-STR DEX CON INT WIS CHA 11 (+0) 15 (+2) 12 (+1) 14 (+2) 13 (+1) 9 (-1)
-Skills Nature +4, Perception +5, Piloting +4, Stealth +6, Survival +5
-Senses darkvision 60 ft., passive Perception 15
-Languages Galactic Basic, one other
-Challenge 1/2 (100 XP)
-Keen Hearing And Sight. The scout trooper has advantage on Wisdom (Perception) checks that rely on hearing or sight.
-ACTIONS
-Multiattack. The scout trooper makes two weapon attacks.
-Hold-out Blaster. Ranged Weapon Attack: +4 to hit, range 30/120, one target. Hit: 4 (1d4+2).
-Vibrodagger. Melee Weapon Attack: +4 to hit, reach 5ft., one target. Hit: 4 (1d4+2)
 ##;
 
 Trooper, Shore
