@@ -3203,7 +3203,7 @@ Languages Galactic Basic, two more of your choice
 Challenge 8 (3,900 XP)
 Force Resistance. The inquisitor has advantage on saving throws against force powers.
 War Casting. When the inquisitor uses an action to cast a force power, they can use a bonus action to make a Double Saber attack.
-Spellcasting. The inquisitor master is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The inquisitor master has 33 force points. The inquisitor master has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push, mind trick, saber throw, slow\r1st level (33 slots): animate weapon, improved dark side tendrils, choke, drain life, force sight, force suppression, horror, force jump, sense force, sever force, stun
+Spellcasting. The inquisitor master is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The inquisitor master has 33 force points. The inquisitor master has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push/pull, mind trick, saber throw, slow\r1st level (33 slots): animate weapon, improved dark side tendrils, choke, drain life, force sight, force suppression, horror, force jump, sense force, sever force, stun
 ACTIONS
 Spinning Double Saber. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) energy damage.
 Double Saber. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) energy damage.
@@ -3224,7 +3224,7 @@ Challenge 14 (11,500 XP)
 Detect Force. The inquisitor can sense the presence and direction of a creature who can cast force powers within 120 ft.
 Force Resistance. The inquisitor has advantage on saving throws against force powers and resistance to damage dealt by force powers.
 War Casting. When the inquisitor uses an action to cast a force power, they can use a bonus action to make a Spinning Double Saber attack.
-Spellcasting. The inquisitor, grand is a 12th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The Grand Inquisitor has 41 force points. The inquisitor, grand has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push, mind trick, saber throw, slow\r1st level (41 slots): animate weapon, dominate mind, improved dark side tendrils, choke, force suppression, horror, force jump, sense force, sever force, siphon life, stun
+Spellcasting. The inquisitor, grand is a 12th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The Grand Inquisitor has 41 force points. The inquisitor, grand has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push/pull, mind trick, saber throw, slow\r1st level (41 slots): animate weapon, dominate mind, improved dark side tendrils, choke, force suppression, horror, force jump, sense force, sever force, siphon life, stun
 ACTIONS
 Multiattack. The inquisitor makes three spinning double saber attacks.
 Spinning Double Saber. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 23 (4d8 + 5) energy damage.
