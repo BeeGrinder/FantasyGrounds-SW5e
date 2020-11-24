@@ -78,6 +78,9 @@ May 8, 2020
 The old NPC module is no longer required.  All the old NPCs, plus some new ones, are in the PHB module.  There are now 124 out of 276 NPCs added to the PHB module.
 
 ---
+If you like my work, you can [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">](https://www.buymeacoffee.com/BeeGrinder)
+
+---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
 ![Creative Commons Logo](https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png)
 
