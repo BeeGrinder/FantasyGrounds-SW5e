@@ -65,6 +65,10 @@ The *__ext-src__* dirctory is for the extension sources.
 
 __Project News__
 
+Nov 28, 2020
+
+Fixes for NPC spell actions and Operative Practice choice at level 3 have been posted as module updates.
+
 May 23, 2020
 
 All NPCs from the Scum and Villainy PDF have been added to the PHB module.
