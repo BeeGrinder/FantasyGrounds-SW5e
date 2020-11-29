@@ -16058,7 +16058,7 @@
             </text>
           </cunningaction2>
           <operativepractice3>
-            <name type="string">Operative Practice</name>
+            <name type="string">Operative Practice</name><specializationchoice type="number">1</specializationchoice>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
@@ -33798,7 +33798,7 @@
           </id-00002>
           <id-00003>
             <name type="string">Spellcasting</name>
-            <desc type="string">The inquisitor master is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The inquisitor master has 33 force points. The inquisitor master has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push, mind trick, saber throw, slow\r1st level (33 slots): animate weapon, improved dark side tendrils, choke, drain life, force sight, force suppression, horror, force jump, sense force, sever force, stun</desc>
+            <desc type="string">The inquisitor master is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The inquisitor master has 33 force points. The inquisitor master has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push/pull, mind trick, saber throw, slow\r1st level (33 slots): animate weapon, improved dark side tendrils, choke, drain life, force sight, force suppression, horror, force jump, sense force, sever force, stun</desc>
           </id-00003>
         </traits>
         <actions>
@@ -33875,7 +33875,7 @@
           </id-00003>
           <id-00004>
             <name type="string">Spellcasting</name>
-            <desc type="string">The inquisitor, grand is a 12th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The Grand Inquisitor has 41 force points. The inquisitor, grand has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push, mind trick, saber throw, slow\r1st level (41 slots): animate weapon, dominate mind, improved dark side tendrils, choke, force suppression, horror, force jump, sense force, sever force, siphon life, stun</desc>
+            <desc type="string">The inquisitor, grand is a 12th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The Grand Inquisitor has 41 force points. The inquisitor, grand has the following  spells prepared:\rCantrips (At will): denounce, force disarm, force push/pull, mind trick, saber throw, slow\r1st level (41 slots): animate weapon, dominate mind, improved dark side tendrils, choke, force suppression, horror, force jump, sense force, sever force, siphon life, stun</desc>
           </id-00004>
         </traits>
         <actions>
