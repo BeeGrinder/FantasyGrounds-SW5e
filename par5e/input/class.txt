@@ -1,44 +1,45 @@
 ##;Berserker
 #h;Berserker
 A massive wookiee hunter prowls through the forest, hefting his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin.
-A gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals. 
+A gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals.
 Frothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.
 These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 #h;Primal Instinct
-People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't. 
-Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
+People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't.
+Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually suficient to defeat whatever threats arise.
 #h;A Life of Danger
-Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.
-Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
+Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled 􀃕ghter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.
+Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually 􀃕nd them replaced by the bonds formed among the members of their adventuring parties.
 #h;CREATING A BERSERKER
-When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?
-What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to 'civilized' lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
+When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your GM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-andtumble frontier where berserkers are common?
+What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to "civilized" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
 #h;QUICK BUILD
-You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the barbarian background.
+You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the mercenary background.
 #h;The Berserker
 #ts;
-#th;Level;Proficiency Bonus;Features;Rage Count;Rage Damage Bonus;
-#tr;1;+2;Rage, Unarmored Defense;2;2;
-#tr;2;+2;Reckless Attack, Danger Sense;2;2;
-#tr;3;+2;Berserker Approach;3;2;
-#tr;4;+2;Ability Score Improvement;3;2;
-#tr;5;+3;Extra Attack, Fast Movement;3;2;
-#tr;6;+3;Path Feature;4;2;
-#tr;7;+3;Feral Instinct;4;2;
-#tr;8;+3;Ability Score Improvement;4;2;
-#tr;9;+4;Brutal Critical(1 die);4;3;
-#tr;10;+4;Path Feature;4;3;
-#tr;11;+4;Relentless Rage;4;3;
-#tr;12;+4;Ability Score Improvement;4;3;
-#tr;13;+5;Brutal Critical(2 dice);5;3;
-#tr;14;+5;Path Feature;5;3;
-#tr;15;+5;Persistent Rage;5;3;
-#tr;16;+5;Ability Score Improvement;5;4;
-#tr;17;+6;Brutal Critical(3 dice);6;4;
-#tr;18;+6;Indomitable Might;6;4;
-#tr;19;+6;Ability Score Improvement;6;4;
-#tr;20;+6;Primal Champion;Unlimited;4;
+#th;Level;Proficiency Bonus;Features;Rages;Rage Damage;Berserker Instincts;
+#tr;1;+2;Rage, Unarmored Defense;2;2;;
+#tr;2;+2;Reckless Attack, Berserker Instincts;2;2;2;
+#tr;3;+2;Danger Sense, Berserker Approach;3;2;2;
+#tr;4;+2;Ability Score Improvement;3;2;2;
+#tr;5;+3;Extra Attack;3;2;2;
+#tr;6;+3;Path Feature;4;2;2;
+#tr;7;+3;Feral Impulse;4;2;2;
+#tr;8;+3;Ability Score Improvement;4;2;3;
+#tr;9;+4;Brutal Critical(one die);4;3;3;
+#tr;10;+4;Path Feature;4;3;3;
+#tr;11;+4;Relentless Rage;4;3;3;
+#tr;12;+4;Ability Score Improvement;4;3;3;
+#tr;13;+5;Brutal Critical(two dice);5;3;4;
+#tr;14;+5;Path Feature;5;3;4;
+#tr;15;+5;Persistent Rage;5;3;4;
+#tr;16;+5;Ability Score Improvement;5;4;4;
+#tr;17;+6;Brutal Critical(three dice);6;4;5;
+#tr;18;+6;Indomitable Might;6;4;5;
+#tr;19;+6;Ability Score Improvement;6;4;5;
+#tr;20;+6;Primal Champion;Unlimited;4;5;
 #te;
+
 #h;Class Features
 As a berserker, you gain the following class features.
 Hit Points
@@ -54,15 +55,15 @@ Skills: Choose two from Animal Handling, Athletics, Intimidation, Nature, Percep
 Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 #ls;
-#li;(a) a martial vibroweapon and a light or medium shield generator or (b) two martial vibroweapons
+#li;(a) a martial vibroweapon and a light or medium shield or (b) two martial vibroweapons
 #li;(a) two techaxes or (b) two vibrospears
 #li;An explorer's pack
 #le;
 VARIANT: STARTING WEALTH
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (2d4 x 100) cr.
+In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using (5d4 x 100) cr.
 #fe;Rage;1
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
-While raging, you gain the following benefits if you aren't wearing heavy armor:
+Beginning at 1st level, in battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action if you aren't wearing heavy armor.
+While raging, you gain the following benefits:
 - You have advantage on Strength checks and Strength saving throws
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a berserker, as shown in the Rage Damage column of the Berserker table.
 - You have resistance to kinetic and energy damage.
@@ -70,11 +71,57 @@ If you are able to cast powers, you can't cast them or concentrate on them while
 Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 Once you have raged the number of times shown for your berserker level in the Rages column of the Berserker table, you must finish a long rest before you can rage again.
 #fe;Unarmored Defense;1
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+Also at 1st level, while you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
 #fe;Reckless Attack;2
 Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
-#fe;Danger Sense;2
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
+#fe;Berserker Instincts;2
+Also at 2nd level, you've honed two instincts. You hone an additional instinct at 7th, 13th, and 17th level.
+The instincts are presented in alphabetical order. If an
+instinct has prerequisites, you must meet them to learn it. You can learn an instinct at the same time you meet its prerequisites.
+#bp;ACKLAY'S INSTINCT
+While raging, you have advantage on Constitution saving throws.
+#bp;BANTHA'S INSTINCT
+Prerequisite: 7th level
+Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, you have advantage on Strength checks made to push, pull, lift, or break objects.
+#bp;BLURRG'S INSTINCT
+Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated.
+#bp;BOGGDO'S INSTINCT
+Prerequisite: 13th level
+While raging you have a flying speed equal to your current walking speed, though you fall if you end your turn in the air and nothing else is holding you aloft.
+#bp;CHIRODACTYL'S INSTINCT
+Prerequisite: 7th level
+While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren't deafened.
+#bp;DEWBACK'S INSTINCT
+Choose three damage types. While raging, you have resistance to the chosen damage types.
+#bp;FIGHTER'S INSTINCT
+You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
+#bp;FYRNOCK'S INSTINCT
+While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you complete a long rest.
+#bp;HAWK'S INSTINCT
+Prerequisite: 7th level
+You can see up to 1 mile away with no dificulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
+#bp;KATARN'S INSTINCT
+You gain a climbing speed equal to your movement speed.
+#bp;LOTH-CAT'S INSTINCT
+While you're raging, other creatures have disadvantage on opportunity attack rolls against you, and you can take the Dash action as a bonus action on your turn.
+#bp;PREDATOR'S INSTINCT
+Your speed increases by 10 feet.
+#bp;RANCOR'S INSTINCT
+Prerequisite: 13th level
+While you're raging any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
+#bp;TACTICIAN'S INSTINCT
+When you use your Reckless Attack feature, you can choose to not have advantage on your attack rolls this turn. If you do so, friendly creatures within 5 feet of a hostile creature that is within 5 feet of you have advantage on attack rolls against that creature.
+#bp;TRACKER'S INSTINCT
+Prerequisite: 7th level
+You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
+#bp;TERENTATEK'S INSTINCT
+Prerequisite: 13th level
+When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power's caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
+#bp;VARACTYL'S INSTINCT
+Prerequisite: 13th level
+While raging, you have advantage Dexterity checks, your attack rolls can't suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.
+#fe;Danger Sense;3
+At 3rd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can't be blinded, deafened, or incapacitated.
 #fe;Berserker Approach;3
 At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
@@ -82,9 +129,7 @@ At 3rd level, you choose an approach that shapes the nature of your rage which i
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-#fe;Fast Movement;5
-Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
-#fe;Feral Instinct;7
+#fe;Feral Impulse;7
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 Additionally, if you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 #fe;Brutal Critical;9
@@ -98,66 +143,28 @@ Beginning at 15th level, your rage is so fierce that it ends early only if you f
 #fe;Indomitable Might;18
 Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 #fe;Primal Champion;20
-At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+At 20th level, you embody the power of the wilds. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores increases by 2.
+Additionally, you can enter rage an unlimited number of times, and entering rage no longer requires your bonus action.
+
 #abh;Berserker Approaches
-#ab;Augmented Approach
-The Augmented Approach is for those who seek to increase their prowess through cybernetic enhancement. Some who take this path go so far they are left with little more than the memory of the body they once owned, all to achieve in combat what they cannot with a body made of flesh and bone
-#abf;Basic Cybernetics;3
-When you choose this approach at 3rd level, you learn the mending and analyse tech powers and can cast them without the use of a wristpad or spending tech points. You can cast analyse this way a number of times equal to your Constitution modier (minimum of one). You regain all expended uses when you complete a long rest.
-#abf;More Machine Than Man;10
-Starting at 10th level, your cybernetics allow you to become immune to poison and disease. Additionally, you ignore unenhanced difficult terrain.
-#abf;Overdrive Enhancement;3
-Also at 3rd level, you gain a cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person procient in biotech's tools that incorporates this enhancement into your body. This surgery costs 100 credits and takes 8 hours.
-#zls;
-#zl;berserker_feature;Dermal Armor
-#zl;berserker_feature;Morbid Protrusions
-#zl;berserker_feature;Pressurised Limbs
-#zl;berserker_feature;Twitchlock Actuators
-#zle;
-#abf;Dermal Armor;
-While raging you have resistance to all damage except psychic damage.
-#abf;Morbid Protrusions;
-While raging, your unarmed strike deals 1d4 + Strength modier kinetic damage and when you take the Attack action and attack with a melee weapon or unarmed strike, you can use a bonus action to make an unarmed attack.
-This unarmed attack die increases to 1d6 at 5th level, 1d8 at 11th level, and 1d10 at 17th level.
-#abf;Pressurised Limbs;
-While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Consitution modier (minimum of one). You regain all expended uses when you complete a long rest.
-#abf;Twitchlock Actuators;
-While you're raging, other creatures have disadvantage on opportunity attack rolls against you, you can also use the Dash action as a bonus action on your turn.
-#abf;Support Enhancement;6
-At 6th level you gain an additional cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person procient in biotech's tools that incorporates this enhancement into your body. This surgery costs 600 credits and takes 8 hours.
-#zls;
-#zl;berserker_feature;Body Sculpting
-#zl;berserker_feature;Holdout Cavity
-#zl;berserker_feature;Krykna Anchorss
-#zl;berserker_feature;Panspectral Optics
-#zl;berserker_feature;Support Structure
-#zle;
-#abf;Body Sculpting;
-You gain prociency in two skills of your choice from Athletics, Acrobatics, Stealth, and Sleight of Hand.
-#abf;Holdout Cavity;
-You have a shielded compartment built into your body that can be used to store and hide a light weapon or item of similar size. 
-#abf;Krykna Anchors;
-You gain a climbing speed equal to your movement speed.
-#abf;Panspectral Optics;
-You can see up to 1 mile away with no diculty. You are able to discern even ne details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
-#abf;Support Structure;
-Your carrying capacity (including maximum load and maximum lift) is doubled and you have advantage on Strength checks made to push, pull, lift, or break objects.
-#abf;Final Enhancement;14
-At 14th level you gain a nal cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person procient in biotech's tools that incorporates this enhancement into your body. This surgery costs 2000 credits and takes 8 hours
-#zls;
-#zl;berserker_feature;Holoskin Emitters
-#zl;berserker_feature;Hydraulic Overdrives
-#zl;berserker_feature;Integrated Boosters
-#zl;berserker_feature;Ysalamir Capacitor Mesh
-#zle;
-#abf;Holoskin Emitters;
-While you're raging any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this eect if it can't see or hear you or if it can't be frightened.
-#abf;Hydraulic Overdrives;
-While you're raging you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
-#abf;Integrated Boosters;
-While raging you have a ying speed equal to your current walking speed. This benet works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
-#abf;Ysalamir Capacitor Mesh;
-When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power's caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
+#ab;Ballistic Approach
+For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn't a last resort; it's the primary plan. Leading with a blaster and pure, unbridled rage, the berserker never lets an empty gun diminish their fury.
+#abf;Firestorm;3
+When you choose this approach at 3rd level, you gain proficiency in martial blasters with the burst or rapid property. Additionally, you've learned to use ranged weapons with untold fury. While wielding a blaster with which you are proficient, you gain the following benefits:
+#ls;
+#li;When making a ranged weapon attack while within 30 feet of your target, you use your choice of Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+#li;When you use a blaster as an improvised weapon, you are considered proficient with it.
+#le;
+#abf;Explosive;3
+Also at 3rd level, while raging, you gain the following benefits:
+When you roll a 1 or 2 on a damage die for an attack made with a blaster weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+You add your rage damage to damage rolls from ranged weapon attacks using Strength. You may only apply your rage damage to one target when you use the burst property.
+#abf;Rampage;6
+At 6th level, while raging, when you deal damage with a blaster with which you are proficient, and you added your Strength modifier to the damage roll, you can use a bonus action to move up to half your speed towards your target. You must end this movement closer to your target than you started. If you end this movement within 5 feet of your target, you can make one melee weapon attack with your blaster as a part of this bonus action.
+#abf;Down, not out;10
+Starting at 10th level, when you are hit with an attack by a creature within 30 feet of you, you can use your reaction to make a single attack against that creature with a blaster with which you are proficient.
+#abf;Brawn;14
+At 14th level, when you use the burst property of a blaster with which are you proficient, you can apply your rage damage bonus to every target that takes damage, instead of just one. Additionally, when a creature fails the saving throw against your burst or rapid property, it is knocked prone.
 #ab;Marauder Approach
 Few things are more terrifying than being in the path of a Berserker who has learned the ways of the Force. Those who follow this path unlock something deep within them, a well of untamed power from the depths of their fury. When a marauder unleashes their rage, they channel their brute strength into primal might, and uses it to devastate his foes in a hail of re, blades, and blood. Due to the uncontrolled nature of their powers, marauders have a dangerous predilection for the strength and raw power oered by the dark side, and many fall into it's clutches. Even those who do not are always temped by the voices of fury barely contained within.
 #abf;Forcecasting;3
@@ -165,23 +172,23 @@ When you choose this approach at 3rd level, you have derived powers from your pr
 #ts;
 #th;Level;Force Powers Known;Force Points;Max Power Level;
 #tr;3rd;4;3;1st;
-#tr;4th;5;4;1st;
-#tr;5th;6;5;1st;
-#tr;6th;7;6;1st;
-#tr;7th;8;7;2nd;
-#tr;8th;9;8;2nd;
-#tr;9th;10;9;2nd;
-#tr;10th;11;10;2nd;
-#tr;11th;12;11;2nd;
-#tr;12th;13;12;2nd;
-#tr;13th;14;13;3rd;
-#tr;14th;15;14;3rd;
-#tr;15th;16;15;3rd;
-#tr;16th;17;16;3rd;
-#tr;17th;18;17;3rd;
-#tr;18th;18;18;3rd;
-#tr;19th;18;19;4th;
-#tr;20th;18;20;4th;
+#tr;4th;6;4;1st;
+#tr;5th;7;5;1st;
+#tr;6th;8;6;1st;
+#tr;7th;10;7;2nd;
+#tr;8th;11;8;2nd;
+#tr;9th;12;9;2nd;
+#tr;10th;13;10;2nd;
+#tr;11th;14;11;2nd;
+#tr;12th;15;12;2nd;
+#tr;13th;17;13;3rd;
+#tr;14th;18;14;3rd;
+#tr;15th;19;15;3rd;
+#tr;16th;20;16;3rd;
+#tr;17th;22;17;3rd;
+#tr;18th;23;18;3rd;
+#tr;19th;24;19;4th;
+#tr;20th;25;20;4th;
 #te;
 #h;Force Powers Known
 You learn 4 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the Marauder Approach Forcecasting table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
@@ -205,7 +212,19 @@ At 6th level, weapons and the force are equally an extension of your rage. While
 Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Select up to ten other creatures of your choice within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.
 Once you've used this feature, you can't use it again until you nish a long rest.
 #abf;Force Storm;14
-At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. When you end your rage early as an action, all creatures within 15 feet of you must make a Dexterity saving throw. On a failed save, a creature takes 1d12 force damage for each round you've spent in rage, or half as much on a successful save.
+At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. As an action, you can end your rage early, forcing each creature within 15 feet of you to make a Dexterity saving throw against your universal force save DC. On a failed save, a creature takes 1d12 force damage for each round you've spent in rage, or half as much on a successful one.
+#ab;Precision Approach
+Some berserkers have learned to channel their rage into a method of increasing their focus and precision to supernatural levels. Those berserkers who choose the Precision Approach hone their rage to a fine point, becoming agile warriors who ruthlessly dispatch their foes.
+#abf;Careful Steps;3
+When you choose this approach at 3rd level, you gain skills that represent your precise movement. You gain proficiency your choice of Acrobatics or Stealth. While raging, you have advantage on checks you make with the chosen skill.
+#abf;Focused Rage;3
+Also at 3rd level, you hone your rage to a razor sharp focus. While raging, when you make a melee weapon attack using Dexterity, you add your rage damage to the damage roll. Additionally, you can use your Reckless Attack feature to give you advantage on melee weapon attacks using Dexterity during your turn.
+#abf;Battle Anticipation;6
+At 6th level, while raging, your critical hit range with melee weapon attacks using Dexterity increases by 1.
+#abf;Improved Danger Sense;10
+Starting at 10th level, while raging, when you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage against effects that you can see, such as traps and powers, you are treated as proficient in the save, and you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
+#abf;Calm Within The Storm;14
+At 14th level, the precision with which you act during your rage causes you to become a storm of reactive lethality. When you use your Reckless Attack feature, you can make a number of opportunity attacks equal to your proficiency bonus without using your reaction, and when a creature within 5 feet of you misses you with an attack, you can use your reaction to make a melee weapon attack using Dexterity against that creature. You can only take one reaction per turn.
 #ab;Warchief Approach
 For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battleeld and how best to direct and control it. You guide your allies' strikes, and your presence is enough to wash away their fatigue.
 #abf;Savage Diplomat;3
@@ -221,6 +240,7 @@ Starting at 10th level, you learn to are up your allies' drive for combat, urgin
 By 14th level you have memorized the litanies, songs, and chants of your people and their dedication to war. When you enter a rage you can take a commanding stance. If you do so, for the duration of your rage you have a special reaction you can take on a number of allies' turns equal to your Charisma modier (minimum of one). You can only use this special reaction to use your Commanding Rage feature.
 Additionally, during this rage, when an enemy within 10 feet of you makes an attack roll against an ally, you can use your reaction to reduce that roll by an amount equal to your Charisma modier.
 Once you've used this feature, you must complete a long rest before you can use it again.
+
 ##;Consular
 #h;Consular
 A twi'lek in black robes steps on a terrified rodian, who scampers away on the ground. Lightning sparks from his fingers, illuminating his red and black tattoos. The rodian's pleas for mercy fall on deaf ears as the Sith channels his lightning into his failed apprentice, leaving nothing but a charred husk behind.
