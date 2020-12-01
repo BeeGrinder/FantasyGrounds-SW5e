@@ -22,7 +22,7 @@ See the FG Forum post for news about current projects and module changes underwa
 
 ---
 
-__Fantasy Grounds Unity(FGU)__ : Please note this has not been extensively tested in FGU.  Some recent updates should help with compatibility issues.  At this time I have found no compatibility issues. If you find an issue, please let me know.
+__Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU.  When reporting a problem, be sure to specify if you are using FGU or Classic.
 
 ---
 
