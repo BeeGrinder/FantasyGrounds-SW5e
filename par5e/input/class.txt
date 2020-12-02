@@ -5,14 +5,13 @@ A gamorrean snarls at the latest challenger to his authority over their savage t
 Frothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.
 These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
 #h;Primal Instinct
-People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't.
-Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually suficient to defeat whatever threats arise.
+People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one’s own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't.
+Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
 #h;A Life of Danger
-Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled 􀃕ghter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.
-Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually 􀃕nd them replaced by the bonds formed among the members of their adventuring parties.
+Not every person deemed “berserkers” by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don’t have to.
+Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
 #h;CREATING A BERSERKER
-When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your GM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-andtumble frontier where berserkers are common?
-What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to "civilized" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
+When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your GM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common? What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to "civilized" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
 #h;QUICK BUILD
 You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the mercenary background.
 #h;The Berserker
@@ -62,10 +61,10 @@ You start with the following equipment, in addition to the equipment granted by 
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using (5d4 x 100) cr.
 #fe;Rage;1
-Beginning at 1st level, in battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action if you aren't wearing heavy armor.
+Beginning at 1st level, in battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action if you aren’t wearing heavy armor.
 While raging, you gain the following benefits:
-- You have advantage on Strength checks and Strength saving throws
-- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a berserker, as shown in the Rage Damage column of the Berserker table.
+- You have advantage on Strength checks and Strength saving throws.
+- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a berserker, as shown in the Rage Damage column of the berserker table.
 - You have resistance to kinetic and energy damage.
 If you are able to cast powers, you can't cast them or concentrate on them while raging.
 Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
@@ -84,31 +83,31 @@ While raging, you have advantage on Constitution saving throws.
 Prerequisite: 7th level
 Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, you have advantage on Strength checks made to push, pull, lift, or break objects.
 #bp;BLURRG'S INSTINCT
-Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not incapacitated.
+Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated.
 #bp;BOGGDO'S INSTINCT
 Prerequisite: 13th level
 While raging you have a flying speed equal to your current walking speed, though you fall if you end your turn in the air and nothing else is holding you aloft.
 #bp;CHIRODACTYL'S INSTINCT
 Prerequisite: 7th level
-While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren't deafened.
+While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren’t deafened.
 #bp;DEWBACK'S INSTINCT
 Choose three damage types. While raging, you have resistance to the chosen damage types.
 #bp;FIGHTER'S INSTINCT
-You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
+You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can’t take a Fighting Style option more than once, even if you later get to choose again.
 #bp;FYRNOCK'S INSTINCT
 While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you complete a long rest.
 #bp;HAWK'S INSTINCT
 Prerequisite: 7th level
-You can see up to 1 mile away with no dificulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
+You can see up to 1 mile away with no difficulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn’t impose disadvantage on your Wisdom (Perception) checks.
 #bp;KATARN'S INSTINCT
 You gain a climbing speed equal to your movement speed.
 #bp;LOTH-CAT'S INSTINCT
-While you're raging, other creatures have disadvantage on opportunity attack rolls against you, and you can take the Dash action as a bonus action on your turn.
+While you’re raging, other creatures have disadvantage on opportunity attack rolls against you, and you can take the Dash action as a bonus action on your turn.
 #bp;PREDATOR'S INSTINCT
 Your speed increases by 10 feet.
 #bp;RANCOR'S INSTINCT
 Prerequisite: 13th level
-While you're raging any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
+While you’re raging any creature within 5 feet of you that’s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you or if it can’t be frightened.
 #bp;TACTICIAN'S INSTINCT
 When you use your Reckless Attack feature, you can choose to not have advantage on your attack rolls this turn. If you do so, friendly creatures within 5 feet of a hostile creature that is within 5 feet of you have advantage on attack rolls against that creature.
 #bp;TRACKER'S INSTINCT
@@ -116,27 +115,27 @@ Prerequisite: 7th level
 You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
 #bp;TERENTATEK'S INSTINCT
 Prerequisite: 13th level
-When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power's caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
+When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power’s caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
 #bp;VARACTYL'S INSTINCT
 Prerequisite: 13th level
-While raging, you have advantage Dexterity checks, your attack rolls can't suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.
+While raging, you have advantage Dexterity checks, your attack rolls can’t suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.
 #fe;Danger Sense;3
-At 3rd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+At 3rd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 #fe;Berserker Approach;3
-At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+Also at 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 #fe;Ability Score Improvement;
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 #fe;Feral Impulse;7
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
-Additionally, if you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the start of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 #fe;Brutal Critical;9
 Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
 This increases to two additional dice at 13th level and three additional dice at 17th level.
 #fe;Relentless Rage;11
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
 #fe;Persistent Rage;15
 Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
@@ -148,17 +147,19 @@ Additionally, you can enter rage an unlimited number of times, and entering rage
 
 #abh;Berserker Approaches
 #ab;Ballistic Approach
-For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn't a last resort; it's the primary plan. Leading with a blaster and pure, unbridled rage, the berserker never lets an empty gun diminish their fury.
+For many, rushing an opponent with guns blazing is a last resort. For Berserkers of the Ballistic Approach, this isn’t a last resort, it’s the primary plan. Leading with a blaster and pure, unbridled rage, the berserker never lets an empty gun diminish their fury.
 #abf;Firestorm;3
-When you choose this approach at 3rd level, you gain proficiency in martial blasters with the burst or rapid property. Additionally, you've learned to use ranged weapons with untold fury. While wielding a blaster with which you are proficient, you gain the following benefits:
+When you choose this approach at 3rd level, you gain proficiency in martial blasters with the burst or rapid property. Additionally, you’ve learned to use ranged weapons with untold fury. While wielding a blaster with which you are proficient, you gain the following benefits:
 #ls;
 #li;When making a ranged weapon attack while within 30 feet of your target, you use your choice of Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 #li;When you use a blaster as an improvised weapon, you are considered proficient with it.
 #le;
 #abf;Explosive;3
 Also at 3rd level, while raging, you gain the following benefits:
-When you roll a 1 or 2 on a damage die for an attack made with a blaster weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
-You add your rage damage to damage rolls from ranged weapon attacks using Strength. You may only apply your rage damage to one target when you use the burst property.
+#ls;
+#li;When you roll a 1 or 2 on a damage die for an attack made with a blaster weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+#li;You add your rage damage to damage rolls from ranged weapon attacks using Strength. You may only apply your rage damage to one target when you use the burst property.
+#le;
 #abf;Rampage;6
 At 6th level, while raging, when you deal damage with a blaster with which you are proficient, and you added your Strength modifier to the damage roll, you can use a bonus action to move up to half your speed towards your target. You must end this movement closer to your target than you started. If you end this movement within 5 feet of your target, you can make one melee weapon attack with your blaster as a part of this bonus action.
 #abf;Down, not out;10
@@ -166,9 +167,9 @@ Starting at 10th level, when you are hit with an attack by a creature within 30 
 #abf;Brawn;14
 At 14th level, when you use the burst property of a blaster with which are you proficient, you can apply your rage damage bonus to every target that takes damage, instead of just one. Additionally, when a creature fails the saving throw against your burst or rapid property, it is knocked prone.
 #ab;Marauder Approach
-Few things are more terrifying than being in the path of a Berserker who has learned the ways of the Force. Those who follow this path unlock something deep within them, a well of untamed power from the depths of their fury. When a marauder unleashes their rage, they channel their brute strength into primal might, and uses it to devastate his foes in a hail of re, blades, and blood. Due to the uncontrolled nature of their powers, marauders have a dangerous predilection for the strength and raw power oered by the dark side, and many fall into it's clutches. Even those who do not are always temped by the voices of fury barely contained within.
+Few things are more terrifying than being in the path of a Berserker who has learned the ways of the Force. Those who follow this path unlock something deep within them, a well of untamed power from the depths of their fury. When a marauder unleashes their rage, they channel their brute strength into primal might, and uses it to devastate his foes in a hail of fire, blades, and blood. Due to the uncontrolled nature of their powers, marauders have a dangerous predilection for the strength and raw power offered by the dark side, and many fall into it’s clutches. Even those who do not are always temped by the voices of fury barely contained within.
 #abf;Forcecasting;3
-When you choose this approach at 3rd level, you have derived powers from your primal connection to the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list. 
+When you choose this approach at 3rd level, you have derived powers from your primal connection to the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
 #ts;
 #th;Level;Force Powers Known;Force Points;Max Power Level;
 #tr;3rd;4;3;1st;
@@ -193,26 +194,26 @@ When you choose this approach at 3rd level, you have derived powers from your pr
 #h;Force Powers Known
 You learn 4 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the Marauder Approach Forcecasting table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
 #h;Force Points
-You have a number of Force points equal to your Berserker level, and you earn more at higher levels, as shown in the Force Points column of the Marauder Approach Forcecasting table. You use these force points to cast force powers. You regain all expended force points when you nish a long rest. 
+You have a number of force points equal to your berserker level, as shown in the Force Points column of the Marauder Approach Forcecasting table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers. You regain all expended force points when you finish a long rest.
 #h;Max Power Level
-Many force powers can be overpowered, consuming more force points to create a greater eect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Marauder Approach Forcecasting table.
-You may only cast force powers at 4th-level once. You regain the ability to do so after a short or long rest.
+Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Marauder Approach Forcecasting table.
+You may only cast force powers at 4th-level once. You regain the ability to do so after a long rest.
 #h;Forcecasting Ability
-Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modier whenever a power refers to your forcecasting ability. In addition, you use this ability score modier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
+Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. Additionally, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
 #bp;Force save DC
 8 + your proficiency bonus + your forcecasting ability modifier
 #bp;Force attack modifier
 your proficiency bonus + your forcecasting ability modifier
 #abf;Furious Force;3
-Also at 3rd level, you can cast force powers while raging as long as the power's casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor or wielding a medium or heavy shield. While raging, you add your rage damage to damage rolls from force powers you cast. If a force power damages more than one target, you may only apply your rage damage to one of the targets.
-Casting force powers during rage counts as attacking for the purposes of maintaining rage.
+Also at 3rd level, you can cast force powers while raging as long as the power’s casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor or wielding a medium or heavy shield. While raging, you add your rage damage to damage rolls from force powers you cast. If a force power damages more than one target, you may only apply your rage damage to one of the targets.
+Casting force powers during rage counts as attacking for the purposes of maintaining rage, and you can use your Reckless Attack feature to gain advantage when casting a force power that requires an attack roll.
 #abf;Reckless Power;6
 At 6th level, weapons and the force are equally an extension of your rage. While you are raging and you use your action to cast a force power, you can make a single melee weapon attack as a bonus action.
 #abf;Powerful Presence;10
-Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Select up to ten other creatures of your choice within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.
-Once you've used this feature, you can't use it again until you nish a long rest.
+Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Choose up to ten other creatures of within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.
+Once you’ve used this feature, you can’t use it again until you finish a long rest.
 #abf;Force Storm;14
-At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. As an action, you can end your rage early, forcing each creature within 15 feet of you to make a Dexterity saving throw against your universal force save DC. On a failed save, a creature takes 1d12 force damage for each round you've spent in rage, or half as much on a successful one.
+At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. As an action, you can end your rage early, forcing each creature within 15 feet of you to make a Dexterity saving throw against your universal force save DC. On a failed save, a creature takes 1d12 force damage for each round you’ve spent in rage, or half as much on a successful one.
 #ab;Precision Approach
 Some berserkers have learned to channel their rage into a method of increasing their focus and precision to supernatural levels. Those berserkers who choose the Precision Approach hone their rage to a fine point, becoming agile warriors who ruthlessly dispatch their foes.
 #abf;Careful Steps;3
@@ -226,20 +227,20 @@ Starting at 10th level, while raging, when you are subjected to an effect that a
 #abf;Calm Within The Storm;14
 At 14th level, the precision with which you act during your rage causes you to become a storm of reactive lethality. When you use your Reckless Attack feature, you can make a number of opportunity attacks equal to your proficiency bonus without using your reaction, and when a creature within 5 feet of you misses you with an attack, you can use your reaction to make a melee weapon attack using Dexterity against that creature. You can only take one reaction per turn.
 #ab;Warchief Approach
-For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battleeld and how best to direct and control it. You guide your allies' strikes, and your presence is enough to wash away their fatigue.
+For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battlefield and how best to direct and control it. You guide your allies’ strikes, and your presence is enough to wash away their fatigue.
 #abf;Savage Diplomat;3
 Your path necessitates that you build relationships with others, for the betterment of your tribe or yourself.
-When you choose this approach at 3rd level, you gain prociency in one of the following skills of your choice: Persuasion or Intimidation. You can choose to learn one language in place of the skill prociency.
+When you choose this approach at 3rd level, you gain proficiency in one of the following skills of your choice: Persuasion or Intimidation. You can choose to learn one language in place of the skill proficiency.
 #abf;Commanding Rage;3
-Also at 3rd level, when in your rage, you become more aware of your allies, and their intent when ghting at your side. While you are raging, when an ally within 10 ft of you makes an attack roll against an enemy, you can use your reaction to grant advantage to that attack and add your rage damage bonus to the damage roll, if the attack hits. 
+Also at 3rd level, when in your rage, you become more aware of your allies, and their intent when fighting at your side. While you are raging, when an ally within 10 feet of you makes an attack roll against an enemy, you can use your reaction to grant advantage to that attack and add your rage damage bonus to the damage roll, if the attack hits.
 #abf;Inspiring Presence;6
-At 6th level your mere presence on the battleeld rallies your allies. When you rage, choose up to 3 allies that you can see within 30 feet of you. Each creature gains temporary hit points equal to half your berserker level (rounded down) + your Charisma modier (minimum of one).
+At 6th level your mere presence on the battlefield rallies your allies. When you rage, choose up to 3 allies that you can see within 30 feet of you. Each creature gains temporary hit points equal to half your berserker level (rounded down) + your Charisma modifier (minimum of one).
 #abf;Raid Planning;10
-Starting at 10th level, you learn to are up your allies' drive for combat, urging them to follow you into the fray. During a long rest, you tell sagas, sing battle songs, and give inspiring speeches. At the end of the long rest choose up to 5 creatures that can hear and understand you (which can include yourself) to add your Charisma modier (minimum of one) to their next initiative roll, and a 10 foot bonus to their speed on their rst turn of combat.
+Starting at 10th level, you learn to flare up your allies’ drive for combat, urging them to follow you into the fray. During a long rest, you tell sagas, sing battle songs, and give inspiring speeches. At the end of the long rest choose up to 5 creatures that can hear and understand you (which can include yourself) to add your Charisma modifier (minimum of one) to their next initiative roll, and a 10 foot bonus to their speed on their first turn of combat.
 #abf;War Chant;14
-By 14th level you have memorized the litanies, songs, and chants of your people and their dedication to war. When you enter a rage you can take a commanding stance. If you do so, for the duration of your rage you have a special reaction you can take on a number of allies' turns equal to your Charisma modier (minimum of one). You can only use this special reaction to use your Commanding Rage feature.
-Additionally, during this rage, when an enemy within 10 feet of you makes an attack roll against an ally, you can use your reaction to reduce that roll by an amount equal to your Charisma modier.
-Once you've used this feature, you must complete a long rest before you can use it again.
+By 14th level you have memorized the litanies, songs, and chants of your people and their dedication to war. When you enter a rage you can take a commanding stance. If you do so, for the duration of your rage you have a special reaction you can take on a number of allies’ turns equal to your Charisma modifier (minimum of one). You can only use this special reaction to use your Commanding Rage feature.
+Additionally, during this rage, when an enemy within 10 feet of you makes an attack roll against an ally, you can use your reaction to reduce that roll by an amount equal to your Charisma modifier.
+Once you’ve used this feature, you must complete a long rest before you can use it again.
 
 ##;Consular
 #h;Consular
@@ -677,8 +678,8 @@ If an upgrade has prerequisites, you must meet them to install it. You can insta
 ##;Fighter
 #h;Fighter
 A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.
-With his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodthirsty crowd. He turns back to his arena opponent just in time to see the Besalisk take a swing. He ducks, punching the four-armed fighter in the gut. Two wild haymakers later, and he stands alone as the gladiatorial champion. 
-Taking a deep breath, a Republic soldier looks out onto the war zone waging across the frozen surface of Ilum. He grips his blaster rifle tightly then, with a nod to the dozen squad-mates beside him, he charges onto the battlefield. 
+With his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodthirsty crowd. He turns back to his arena opponent just in time to see the Besalisk take a swing. He ducks, punching the four-armed fighter in the gut. Two wild haymakers later, and he stands alone as the gladiatorial champion.
+Taking a deep breath, a Republic soldier looks out onto the war zone waging across the frozen surface of Ilum. He grips his blaster rifle tightly then, with a nod to the dozen squad-mates beside him, he charges onto the battlefield.
 Fighters combine discipline with martial skills to become the best pure warriors in the galaxy. Fighters can be stalwart defenders of those in need, cruel marauders, or brave advent-urers. They fight for glory, honor, to right wrongs, to gain power, to acquire wealth, or simple for the thrill of battle.
 #h;All in a Day's Work
 Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs. Some want to defend those who can't defend themselves while others seek to use their muscle to carve their own place of importance in the galaxy. Fighters can take the form of guards, champions, bounty hunters, enforcers, mercenaries, freedom fighters, or simply armed explorers.
@@ -811,7 +812,7 @@ Each time you learn new maneuvers, you can also replace one maneuver you know wi
 #h;Superiority Dice
 You have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice column of the Fighter class table. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
 #h;Maneuver Saving Throws
-Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: 
+Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 #bp;Maneuver save DC
 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 #bp;Maneuver Table
@@ -1053,7 +1054,7 @@ You may only cast force powers at 5th-level once. You regain the ability to do s
 #h;Forcecasting Ability
 Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
 #bp;Force save DC
-8 + your proficiency bonus +your forcecasting ability modifier 
+8 + your proficiency bonus +your forcecasting ability modifier
 #bp;Force attack modifier
 your proficiency bonus +your forcecasting ability modifier
 #fe;Channel the Force;1
@@ -1082,7 +1083,7 @@ The auras are presented in alphabetical order. If multiple guardians grant the s
 #tr;Aura of Warding;You and friendly creatures within 5 feet of you have resistance to damage from force powers.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
 #te;
 #fe;Guardian Form;3
-When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level. 
+When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.
 #zls;
 #zl;guardian_ability;formi_shii_cho;Form I: Shii Cho
 #zl;guardian_ability;formii_makashi;Form II: Makashi
@@ -1126,7 +1127,7 @@ At 20th level, the erratic fluidity of your movement confounds even the most det
 #li;When you use your Sarlaac Sweep feature, you have advantage on the attack roll, and you can apply the bonus damage to every creature within 5 feet of you.
 #le;
 This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
-#ab;Form II: Makashi 
+#ab;Form II: Makashi
 Form II, also known as Contention Form, encourages precision and efficiency over power, using jabs, parries and light cuts over slashes, blocks and chops. Those guardians who focus on Makashi Form utilize calculated blade manipulation, intense focus, and expert timing to confuse and trap their opponents.
 #abf;Fighting Style;3
 When you choose this form as your focus at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Dueling, Equilibrium, or Sentinel Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
@@ -1149,8 +1150,8 @@ Starting at 7th level, if you spend at least 1 minute observing or interacting w
 #li;Wisdom score
 #li;Charisma score
 #li;Armor Class
-#li;Current hit points 
-#li;Total class levels (if any) 
+#li;Current hit points
+#li;Total class levels (if any)
 #li;Total Forcecaster levels (if any)
 #le;
 #abf;Glancing Blow;15
@@ -1180,7 +1181,7 @@ Lastly at 3rd level, you gain the following Channel the Force option.
 #h;Advancing Defender
 When you cast the *saber reflect* power, you can expend a use of your Channel the Force to move up to 10 feet as a part of that same reaction. This movement does not provoke opportunity attacks.
 #abf;Circle Of Shelter;7
-At 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can use your reaction to ward the creature if you're wielding a melee weapon or a shield. Roll 1d8 and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage. 
+At 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can use your reaction to ward the creature if you're wielding a melee weapon or a shield. Roll 1d8 and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
 #abf;Stand Against The Tide;15
 Beginning at 15th level, when a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
@@ -1203,7 +1204,7 @@ Monks make careful study of a mystical energy that most monastic orders call foc
 #h;Training and Asceticism
 Most monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other power.
 The majority of monks don't shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or brigands.
-For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth. 
+For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth.
 #h;Creating An MonK
 As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?
 Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?
@@ -1338,7 +1339,7 @@ When you hit a target with a Echani weapon, you can spend 1 focus point to cause
 #abf;Sharpen The Blade;11
 Starting at 11th level, you gain the ability to augment your weapons further with your focus. As a bonus action, you can expend up to 3 focus points to grant one Echani weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect on an enhanced weapon that already has a bonus to attack and damage rolls.
 #abf;Unerring Accuracy;17
-At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns. 
+At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
 #ab;Nightsister Order
 Monks of the Nightsister Order utilize an innate Force-sensitivity to commune with death. They learn to channel this power to drain the life of their foes to prolong their own existence. Males who join this order are called Nightbrothers.
 #abf;Ichor Lightning;3
@@ -1362,7 +1363,7 @@ Beginning when you choose this order at 3rd level, you can manipulate your enemy
 #li;It can't take reactions until the end of your next turn.
 #le;
 #abf;Wholeness Of Body;6
-At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level. 
+At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level.
 You must finish a long rest before you can use this feature again.
 #abf;Tranquility;11
 Starting at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* force power that lasts until the start of your next long rest (the power can end early as normal). The saving throw DC for the power equals 8 + your Wisdom modifier + your proficiency bonus.
@@ -1373,8 +1374,8 @@ You can have only one creature under the effect of this feature at a time. You c
 ##;Operative
 #h;Operative
 A Bothan spy takes a moment to adjust her infrared goggles. Nimbly sidestepping the laser grid in the room, she slips to the computer at the far end. Counting down the seconds in her head, she slices the mainframe. Twenty seconds. Ten seconds. A handful of soldiers bursts into the room, but she is already gone - with the data in hand.
-With a wary eye on the door, a scruffy-looking Duros plays pazaak in a seedy cantina. When two city guards appear at the exit, he smiles and reaches under the table. Before they can move in, the smuggler flips the table and opens fire. The crowd scatters in panic, giving him just enough cover to escape. 
-A gorgeous young human dances before an intoxicated senator in his parlor. She winks enticingly through her golden blonde hair as she sways closer. Leaning in for a kiss, the senator is instead surprised by the barrel of a hold-out blaster pistol shoved into his mouth. He has no time to shout before the assassin pulls the trigger. 
+With a wary eye on the door, a scruffy-looking Duros plays pazaak in a seedy cantina. When two city guards appear at the exit, he smiles and reaches under the table. Before they can move in, the smuggler flips the table and opens fire. The crowd scatters in panic, giving him just enough cover to escape.
+A gorgeous young human dances before an intoxicated senator in his parlor. She winks enticingly through her golden blonde hair as she sways closer. Leaning in for a kiss, the senator is instead surprised by the barrel of a hold-out blaster pistol shoved into his mouth. He has no time to shout before the assassin pulls the trigger.
 Operatives, whether good, bad, or neutral, are those who focus on a specific practice and utilize it to get the upper hand. They can come from any world or region in the galaxy, with origins from the lowliest scoundrel to the once social elite.
 #h;Evading Danger
 Operatives have a knack for getting out of trouble. They have an instinct for self-preservation that keeps them alive, but it's usually tempered with a need to experience the thrills that their profession has to offer, and many adventurous operatives are also saddled with a sense of honor that sometimes makes them go against their natural inclinations. No matter what their immediate concerns may be, survival is the name of the game.
@@ -1637,7 +1638,7 @@ Each time you learn new maneuvers, you can also replace one maneuver you know wi
 You have two superiority dice, which are d6s, and you earn more at higher levels, as shown in the Superiority Dice column of the Scholar class table. This die changes as you gain Scholar levels, as shown in the Academic Superiority column of the Scholar table. A superiority die is expended when you use it.
 You regain all of your expended superiority dice when you finish a short or long rest.
 #h;Saving Throws
-Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows: 
+Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 #bp;Maneuver save DC**
 8 + your proficiency bonus + your Intelligence modifier
 #h;Scholar Maneuvers
@@ -1704,7 +1705,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 #fe;Multitasker;5
 Starting at 5th level, you can take a second reaction each round. You can only take one reaction per turn.
 #fe;Calm and Collected;14
-Beginning at 14th level, when you make a saving throw from an effect you can see, you may gain a bonus to the saving throw equal to your Intelligence modifier. 
+Beginning at 14th level, when you make a saving throw from an effect you can see, you may gain a bonus to the saving throw equal to your Intelligence modifier.
 Once you have used this feature, you must wait until a short or long rest before using it again.
 #fe;Adaptable Intellectual;18
 At 18th level, you are able to effectively prepare for any mission on hand. At the end of a long rest, you may choose one of the discoveries you know and replace it with another discover that you could learn at that level.
@@ -1777,7 +1778,7 @@ As a bonus action on your turn, you can expend one superiority die to spurn your
 #h;ENCOURAGING SPEECH
 You can expend a superiority die to give an encouraging speech, spending the next minute rallying your allies. You grant a number of creature up to your Intelligence modifier temporary hit points equal to the amount rolled on the superiority die.
 #h;INCITE
-On your turn, you can use an action and expend one superiority die to bolster the resolve of one of an ally. When you do so, choose an ally who can see or hear you within 30 feet of you. The ally can add your Intelligence modifier to every damage roll they make until the start of your next turn. 
+On your turn, you can use an action and expend one superiority die to bolster the resolve of one of an ally. When you do so, choose an ally who can see or hear you within 30 feet of you. The ally can add your Intelligence modifier to every damage roll they make until the start of your next turn.
 #h;OVERWHELMING PRESENCE
 As an action, you can make a Charisma (Persuasion) or Charisma (Intimidation) skill check and expend one superiority die to attempt to charm or frightened a humanoid creature who can see or hear you within 60 feet. Add the superiority die to the roll. The target makes a contested Wisdom (Insight) check. If your check succeeds, the target is charmed by you if you used Persuasion, or frightened of you if you used Intimidation, until the end of your next turn.
 #h;SELF-PRESERVATION
@@ -1871,7 +1872,7 @@ Scouts acquire the ability to cast tech powers through utilization of a wristpad
 #h;Independent Adventurers
 Though a scout might make a living as a bounty hunter, a guide, or a tracker, a scout's true calling is to defend civilization from the ravages of monsters and humanoid hordes that press in. In some places, scouts gather in secretive orders, though many scouts are independent almost to a fault, knowing that, when a rancor or a band of pirates attacks, a scout might be the first-and possibly the last-line of defense. This fierce independence makes scouts well suited to adventuring, since they are accustomed to life far from the comforts of a dry bed and a hot bath. Faced with city-bred adventurers who grouse and whine about the hardships of the wild, scouts respond with some mixture of amusement, frustration, and compassion. But they quickly learn that other adventurers who can carry their own weight in a fight against civilization's foes are worth any extra burden. Coddled city folk might not know how to feed themselves or find fresh water in the wild, but they make up for it in other ways.
 #h;Creating A Scout
-As you create your scout character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, tracking together until you mastered the scout's ways? Did you leave your apprenticeship, or was your mentor slain-perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of mercenaries. 
+As you create your scout character, consider the nature of the training that gave you your particular capabilities. Did you train with a single mentor, tracking together until you mastered the scout's ways? Did you leave your apprenticeship, or was your mentor slain-perhaps by the same kind of monster that became your favored enemy? Or perhaps you learned your skills as part of a band of mercenaries.
 What's the source of your particular hatred of a certain kind of enemy? Did a monster kill someone you loved or destroy your home village? Or did you see too much of the destruction these monsters cause and commit yourself to reining in their depredations? Is your adventuring career a continuation of your work, or a significant change?
 What made you join up with a band of adventurers? Do you find it challenging to teach new allies the ways of the wild, or do you welcome the relief from solitude that they offer?
 #h;Quick Build
@@ -1927,7 +1928,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 Beginning at 1st level, you learn to react with swift and decisive action in combat. You gain the following benefits:
 #ls;
 #li;You ignore difficult terrain
-#li;You have advantage on initiative rolls. 
+#li;You have advantage on initiative rolls.
 #li;On your first turn during combat, you have advantage on attack rolls against creatures that have not yet acted.
 #le;
 #fe;Rangers Quarry;1
@@ -1963,11 +1964,11 @@ You use a wristpad (found in chapter 5) as a techcasting focus for your tech pow
 #fe;Pathfinder;3
 Beginning at 3rd level, you are skilled at navigating the untamed wilds. You gain the following benefits when traveling for an hour or more:
 #ls;
-#li;Difficult terrain doesn't slow your group's travel. 
+#li;Difficult terrain doesn't slow your group's travel.
 #li;You can't become lost by unenhanced means.
 #li;Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
 #li;If you are traveling alone, you can move stealthily at a normal pace.
-#li;When you forage, you find twice as much food as you normally would. 
+#li;When you forage, you find twice as much food as you normally would.
 #li;When you make a Wisdom (Survival) check, you gain a bonus to the check equal to your Intelligence modifier.
 #le;
 #fe;Scout Technique;3
@@ -2057,7 +2058,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 #h;RETURN FIRE
 When a creature misses you with a ranged attack, you can use your reaction and expend one superiority die to make a ranged weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 #h;SUPPRESSING FIRE
-When you hit a creature with a ranged weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you. 
+When you hit a creature with a ranged weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack's damage roll, and you choose a friendly creature who can see or hear you.
 That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 #abf;Mark Of The Deadeye;3
 Also at 3rd level, the range of your Ranger's Quarry feature doubles. Additionally, when making ranged weapon attacks against the target of your Ranger's Quarry, the normal and long range of your ranged weapons double.
@@ -2073,7 +2074,7 @@ If your attack hits, either impose disadvantage on the enemy creature's opportun
 #ab;Hunter Technique
 Some scouts seek to master weapons to better protect civilization from the terrors of their enemies. Followers of the Hunter Technique learn specialized fighting techniques for use against the most dire threats, from an onslaught of soldiers to towering walkers.
 #abf;Hunter's Prey;3
-When you choose this technique at 3rd level, you gain one of the following features of your choice. 
+When you choose this technique at 3rd level, you gain one of the following features of your choice.
 #h;Colossus Slayer
 Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn, and this damage is the same type as the weapon's damage.
 #h;Giant Killer
@@ -2083,7 +2084,7 @@ Once on each of your turns when you make a weapon attack, you can make another a
 #abf;Mark Of The Hunter;3
 Also at 3rd level, when you use your Ranger's Quarry feature, the first time you make a tech or weapon attack against the target of your Ranger's Quarry each round, roll your Ranger's Quarry Damage Die and add it to the roll.
 #abf;Defensive Tactics;7
-Beginning at 7th level, you gain one of the following features of your choice. 
+Beginning at 7th level, you gain one of the following features of your choice.
 #h;Escape The Horde
 Opportunity attacks against you are made with disadvantage.
 #h;Multiattack Defense
@@ -2091,13 +2092,13 @@ When a creature hits you with an attack, you gain a +4 bonus to AC against all s
 #h;Steel Will
 You have advantage on saving throws against being frightened.
 #abf;Multiattack;11
-Starting at 11th level, you gain one of the following features of your choice. 
+Starting at 11th level, you gain one of the following features of your choice.
 #h;Volley
 You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 #h;Whirlwind Attack
 You can use your action to make melee attacks against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 #abf;Superior Hunter's Defense;15
-At 15th level, you gain one of the following features of your choice. 
+At 15th level, you gain one of the following features of your choice.
 #h;Evasion
 When you are subjected to an effect, such as a consular's force storm or an engineer's explosion, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
 #h;Stand Against The Tide
@@ -2165,7 +2166,7 @@ Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per sentine
 Proficiencies
 Armor: Light Armor
 Weapons: Simple Vibroweapons, Simple Lightsabers, Chakram, Doublesaber, Doublesword, Hidden Blade, Lightfoil, Light Ring, Saberwhip, Vibrorapier, Vibrowhip
-Tools: Your choice of demolitions kit, security kit, or slicer's kit 
+Tools: Your choice of demolitions kit, security kit, or slicer's kit
 
 Saving Throws: Dexterity, Charisma
 Skills: Choose two from Acrobatics, Animal Handling, Insight, Intimidation, Perception, Persuasion, Piloting, Stealth, and Technology
