@@ -362,7 +362,7 @@ Multiattack. The super battle droid makes two weapon attacks with its strike or 
 Strike. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) kinetic damage.
 Wrist Blaster. Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 6 (1d6+3) energy damage.
 Wrist Blaster Volley (Recharge 5-6). The super battle droid sprays a 10-foot-cube area within normal range with shots. Each creature in the area must make a DC 13 Dexterity saving throw, taking normal weapon damage on a failed save.
-Rocket Launcher (1/Day). Each creature in a 20-foot-radius sphere centered on a point that you can see within 150 feet must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
+Rocket Launcher (1/Day). Each creature in a 20-foot-radius sphere centered on a point that you can see within 150 feet must make a DC 13 Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 ##;
 
 BX Commando Droid
@@ -799,7 +799,7 @@ Innate Spellcasting. The manifestation of abeloth's innate spellcasting ability 
 ACTIONS
 Multiattack. Abeloth makes two tentacle attacks.
 Tentacles. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 28 (3d12+9) kinetic damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. If the target's hit point maximum is reduced to 0, they die and their essence is absorbed into Abeloth.
-Will. Abeloth turns her will upon one creature she can see within 120 feet. That target must make a DC 23 Wisdome saving throw. Unless the target is incapacitated, it can avert it's attention to automatically succeed on the save. If the target does so, it can't see Abeloth until the start of its next turn. If the target again focuses on Abeloth in the meantime, it must immediately make the save.\rIf the target fails the save, the target suffers one of the following effects of Abeloth's choice or at random.
+Will. Abeloth turns her will upon one creature she can see within 120 feet. That target must make a DC 23 Wisdom saving throw. Unless the target is incapacitated, it can avert it's attention to automatically succeed on the save. If the target does so, it can't see Abeloth until the start of its next turn. If the target again focuses on Abeloth in the meantime, it must immediately make the save.\rIf the target fails the save, the target suffers one of the following effects of Abeloth's choice or at random.
 1. Beguiling Will. The target is stunned until the start of Abeloth's next turn.
 2. Hypnotic Will. The target is charmed by Abeloth until the start of Abeloth's next turn. Abeloth chooses how the charmed target uses its actions, reactions, and movement. Because this effect requires Abeloth's strong effort, she can't use her Maddening Will legendary action until the start of her next turn.
 3. Insane Will. The target suffers the effect of the confusion power without making a saving throw. The effect lasts until the start of Abeloth's next turn. Abeloth doesn't need to concentrate on the power.
@@ -4748,7 +4748,7 @@ Skills Perception +5, Stealth +5, Survival +3
 Senses passive Perception 15
 Languages Galactic Basic, one other of your choice
 Challenge 3 (700 XP)
-Jedi Hunter. The trooper has advantage on Wisdome (survival) checks to track humanoids that can cast force powers and on Intelligence (lore) checks to recall information about Jedi and the Force.
+Jedi Hunter. The trooper has advantage on Wisdom (survival) checks to track humanoids that can cast force powers and on Intelligence (lore) checks to recall information about Jedi and the Force.
 Force Combat Training. The trooper has advantage on saving throws against Force powers.
 Surprise Attack. If the trooper surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 ACTIONS
