@@ -993,36 +993,36 @@ With his muscular arms held wide, a grizzled-looking Wookiee grins to his bloodt
 Taking a deep breath, a Republic soldier looks out onto the war zone waging across the frozen surface of Ilum. He grips his blaster rifle tightly then, with a nod to the dozen squad-mates beside him, he charges onto the battlefield.
 Fighters combine discipline with martial skills to become the best pure warriors in the galaxy. Fighters can be stalwart defenders of those in need, cruel marauders, or brave advent-urers. They fight for glory, honor, to right wrongs, to gain power, to acquire wealth, or simple for the thrill of battle.
 #h;All in a Day's Work
-Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs. Some want to defend those who can't defend themselves while others seek to use their muscle to carve their own place of importance in the galaxy. Fighters can take the form of guards, champions, bounty hunters, enforcers, mercenaries, freedom fighters, or simply armed explorers.
+Many fighters see adventures, raids on enemy strongholds, and dangerous missions as their jobs. Some want to defend those who can’t defend themselves while others seek to use their muscle to carve their own place of importance in the galaxy. Fighters can take the form of guards, champions, bounty hunters, enforcers, mercenaries, freedom fighters, or simply armed explorers.
 #h;Code Red
 Most fighters come to the profession after receiving at least some amount of formal training from a military organization. Some attend formal academies; others are self-taught and well tested. A fighter may have taken up his weapon to escape a mundane life while another may be following a proud family tradition. Whatever their origins, most fighters share an unshakeable loyalty. Fighters follow orders with little hesitation, as failure can often mean death.
 #h;CREATING AN FIGHTER
-While creating your fighter character, consider where your loyalties lie. You could be part of a formal military, one of countless troopers fighting for your enterprise. Perhaps you are a gun-for-hire, traveling the galaxy in search of your next gig. What weapons do you prefer and specialize in? Who or what do you fight for? Do you have aspirations of a life beyond the battlefield, or have you been at war so long you know of nothing else?
+While creating your fighter character, consider where your loyalties lie. You could be part of a formal military, one of countless troopers fighting for your enterprise. Perhaps you are a gun-for-hire, traveling the galaxy in search of your next gig. What weapons do you prefer and specialize in? Who or what do you fight for? Do you have aspirations of a life beyond the battlefield, or have you been at war so long you know of nothing else? 
 #h;QUICK BUILD
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability modifier, depending on whether you want to focus on melee combat or on ranged weapons (or finesse weapons). Your next-highest score should be Constitution. Second, choose the soldier background.
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability modifier, depending on whether you want to focus on melee combat or on ranged weapons (or finesse weapons). Your next-highest score should be Constitution. Second, choose the soldier background. 
 #h;The Fighter
 #ts;
-#th;Level;Proficiency Bonus;Features;Superiority Dice;Maneuvers Known;
-#tr;1;+2;Fighting Style, Second Wind;0;0;
-#tr;2;+2;Action Surge, Combat Superiority;2;2;
-#tr;3;+2;Fighter Speciality;2;2;
-#tr;4;+2;Ability Score Improvement;2;2;
-#tr;5;+3;Extra Attack;2;2;
-#tr;6;+3;Ability Score Improvement;2;2;
-#tr;7;+3;Fighter Speciality;3;3;
-#tr;8;+3;Ability Score Improvement;3;3;
-#tr;9;+4;Indomitable;3;3;
-#tr;10;+4;Fighter Speciality;3;3;
-#tr;11;+4;Greater Extra Attack;3;4;
-#tr;12;+4;Ability Score Improvement;3;4;
-#tr;13;+5;Indomitable;3;4;
-#tr;14;+5;Ability Score Improvement;3;4;
-#tr;15;+5;Fighter Speciality;4;5;
-#tr;16;+5;Ability Score Improvement;4;5;
-#tr;17;+6;Action Surge, Indomitable;4;5;
-#tr;18;+6;Fighter Speciality;4;5;
-#tr;19;+6;Ability Score Improvement;4;5;
-#tr;20;+6;Master of Combat;4;5;
+#th;Level;Proficiency Bonus;Features;Martial Superiority;Superiority Dice;Maneuvers Known;
+#tr;1;+2;Fighting Style, Second Wind;-;-;-;
+#tr;2;+2;Action Surge(one use), Combat Superiority;d4;2;2;
+#tr;3;+2;Fighting Mastery, Fighter Speciality;d4;2;2;
+#tr;4;+2;Ability Score Improvement;d4;2;2;
+#tr;5;+3;Extra Attack;d6;2;2;
+#tr;6;+3;Ability Score Improvement;d6;2;2;
+#tr;7;+3;Fighter Speciality feature;d6;3;3;
+#tr;8;+3;Ability Score Improvement;d6;3;3;
+#tr;9;+4;Indomitable(one use);d8;3;3;
+#tr;10;+4;Fighter Speciality;d8;3;3;
+#tr;11;+4;Greater Extra Attack;d8;4;4;
+#tr;12;+4;Ability Score Improvement;d8;4;4;
+#tr;13;+5;Indomitable(two uses);d10;4;4;
+#tr;14;+5;Ability Score Improvement;d10;4;4;
+#tr;15;+5;Fighter Speciality feature;d10;5;5;
+#tr;16;+5;Ability Score Improvement;d10;5;5;
+#tr;17;+6;Action Surge(two uses), Indomitable(three uses);d12;5;5;
+#tr;18;+6;Fighter Speciality feature;d12;5;5;
+#tr;19;+6;Ability Score Improvement;d12;5;5;
+#tr;20;+6;Master of Combat;d12;5;5;
 #te;
 #h;Class Features
 As an fighter, you gain the following class features.
@@ -1031,248 +1031,186 @@ Hit Dice: 1d10 per fighter level.
 Hit Points at 1st Level: 10 + your Constitution modifier.
 Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per fighter level after 1st.
 Proficiencies
-Armor: Light Armor, Medium Armor, Heavy Armor
-Weapons: Simple Blasters, Martial Blasters, Simple Vibroweapons, Martial Vibroweapons
+Armor: all armor.
+Weapons: all blasters, all vibroweapons.
 Tools: None
 Saving Throws: Strength, Constitution
 Skills: Choose two from Acrobatics, Animal Handling, Athletics, Insight, Intimidation, Lore, Perception, and Survival
 Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 #ls;
-#li;(a) light battle armor or (b) combat suit, blaster rifle, and two power cells
-#li;(a) a martial vibroweapon and a light or medium shield generator or (b) two martial vibroweapons
+#li;(a) mesh armor or (b) combat suit, blaster rifle, and two power cells
+#li;(a) a martial vibroweapon and a light or medium physical shield or (b) two martial vibroweapons
 #li;(a) a hold-out and a power cell or (b) two vibrodaggers
-#li;(a) a dungeoneer's pack or (b) an explorer's pack
+#li;(a) a dungeoneer’s pack or (b) an explorer’s pack
 #le;
 VARIANT: STARTING WEALTH
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (5d4 x 100) cr.
+In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 8d4 x 100 cr.
 #fe;Fighting Style;1
-Beginning at 1st level, you adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
-#bp;BRAWLING
-You are skilled at using your weight to your advantage. As long as you are not wearing heavy armor or using a medium or heavy shield, you gain the following benefits:
-#ls;
-#li;You are proficient with improvised weapons.
-#li;Your unarmed strikes use a d4 for damage.
-#li;When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
-#le;
-#bp;CLOSE QUARTERS SHOOTING
-You are skilled at getting up close and personal with ranged weapons. While you are wielding a ranged weapon with which you are proficient, you gain the following benefits:
-#ls;
-#li;When making a ranged weapon attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll.
-#li;Your ranged weapon attacks ignore half cover against targets within 15 feet of you.
-#li;You gain a +1 bonus to attack rolls you make with ranged weapons.
-#le;
-#bp;DEFENSE
-You are skilled at the art of defending yourself. While you are wearing armor with which you are proficient, you gain the following benefits:
-#ls;
-#li;You gain a +1 bonus to AC.
-#li;You have advantage on ability checks and saving throws to avoid being moved.
-#le;
-#bp;DUELING
-You are skilled in the art of fighting with a single melee weapon. While you are wielding a melee weapon in one hand with which you are proficient and no other weapons, you gain a +2 bonus to damage rolls.
-#bp;GREAT WEAPON FIGHTING
-You are skilled at putting the weight of a weapon to your advantage. While you are wielding a melee weapon in two hands with which you are proficient, when you roll a 1 or 2 on a damage die for an attack, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
-#bp;EQUILIBRIUM
-You are skilled at fighting while minimally armored. While you are wearing no armor and not wielding a medium or heavy shield, you gain the following benefits:
-#ls;
-#li;You gain a +1 bonus to AC.
-#li;You gain a +1 bonus to attack rolls you make with unarmed strikes and weapon attacks.
-#le;
-#bp;SENTINEL
-You are skilled at techniques that take advantage of every drop in any enemy's guard. While you are wielding a melee weapon with which you are proficient, you gain the following benefit:
-#ls;
-#li;As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make a number of opportunity attacks equal to your proficiency bonus without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
-#le;
-#bp;SHARPSHOOTING
-You are skilled with ranged weapons and can make shots that others find dificult. While you are wielding a ranged weapon with which you are proficient, gain a +2 bonus to attack rolls you make with ranged weapons.
-#bp;SHIELDING
-You are skilled at using your shield to defend your allies as well as yourself. While you are wielding a medium or heavy shield with which you are proficient, you gain the following benefits:
-#ls;
-#li;When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.
-#li;If you are wielding a heavy shield, you are no longer required to wield a weapon with the light property in the other hand.
-#le;
-#bp;THROWING
-You are skilled with the techniques of throwing weapons. While you are wielding a weapon with the thrown property with which you are proficient, you gain the following benefits:
-#ls;
-#li;You gain a +1 bonus to ranged attack and damage rolls.
-#li;Whenever you make a ranged attack with a thrown weapon, you can immediately draw another weapon as part of the attack.
-#le;
-#bp;TWO-WEAPON FIGHTING
-You are skilled at fighting with two weapons. While you are wielding separate weapons in each hand with which you are proficient, you gain the following benefits:
-#ls;
-#li;When you engage in two-weapon fighting, you can add your ability modifier to the damage of your two-weapon fighting attack.
-#li;When you make an opportunity attack, you can attack with both of your weapons.
-#le;
-#bp;VERSATILE FIGHTING
-You are skilled at using weapons in different ways. While you are wielding a melee weapon with the versatile property with which you are proficient and no other weapons, you gain the following benefits:
-#ls;
-#li;You gain a +1 bonus to attack rolls while wielding a weapon in one hand.
-#li;You gain a +1 bonus to damage rolls while wielding a weapon in two hands.
-#le;
+Beginning at 1st level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
 #fe;Second Wind;1
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d 10 + your fighter level.
-Once you've used this feature, you must finish a short or long rest before you can use it again.
+Also at 1st level, you have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
+Once you’ve used this feature, you must finish a short or long rest before you can use it again.
 #fe;Action Surge;2
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.
-Once you've used this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+Once you’ve used this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
 #fe;Combat Superiority;2
-At your 2nd level, you learn maneuvers that are fueled by special dice called superiority dice.
-#fe;Maneuvers;2
-You learn two maneuvers of your choice, which are detailed under "Maneuvers" below, and you earn more at higher levels, as shown in the Maneuvers Known column of the Fighter class table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.
+Also at 2nd level, you learn maneuvers that are fueled by special dice called superiority dice.
+#h;Maneuvers
+You learn two maneuvers of your choice, which are detailed under "Maneuvers" below, and you earn more at higher levels, as shown in the Maneuvers Known column of the fighter table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver once per turn.
 Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 #h;Superiority Dice
-You have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice column of the Fighter class table. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
-#h;Maneuver Saving Throws
-Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+You have two superiority dice, which are d4s, and you earn more at higher levels, as shown in the Superiority Dice column of the fighter table. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+#h;Saving Throws
+Some of your maneuvers require your target to make a saving throw to resist the maneuver’s effects. The saving throw DC is calculated as follows:
 #bp;Maneuver save DC
 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
-#bp;Maneuver Table
+#fe;Maneuvers;2
+The maneuvers are presented in alphabetical order.
 #ts;
 #th;Name;Description;
-#tr;COMMANDER’S STRIKE;When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack’s damage roll.;
-#tr;DISARMING ATTACK;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.;
-#tr;DISTRACTING STRIKE;When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack’s damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.;
-#tr;EVASIVE FOOTWORK;When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.;
-#tr;FEINTING ATTACK;You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack’s damage roll.;
-#tr;GOADING ATTACK;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.;
-#tr;LUNGING ATTACK;When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack’s damage roll.;
-#tr;MANEUVERING ATTACK;When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack’s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.;
-#tr;MENACING ATTACK;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.;
-#tr;PARRY;When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.;
-#tr;PRECISION ATTACK;When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.;
-#tr;PUSHING ATTACK;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.;
-#tr;RALLY;On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.;
-#tr;RIPOSTE;When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.;
-#tr;SWEEPING ATTACK;When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.;
-#tr;TRIP ATTACK;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack’s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.;
+#tr;Commander’s Strike;When you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack’s damage roll.;
+#tr;Disarming Attack;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.;
+#tr;Distracting Strike;When you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack’s damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.;
+#tr;Evasive Footwork;When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.;
+#tr;Feinting Attack;You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack’s damage roll.;
+#tr;Goading Attack;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.;
+#tr;Lunging Attack;When you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack’s damage roll.;
+#tr;Maneuvering Attack;When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack’s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.;
+#tr;Menacing Attack;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack’s damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.;
+#tr;Parry;When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.;
+#tr;Precision Attack;When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.;
+#tr;Pushing Attack;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack’s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.;
+#tr;Rally;On your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your Charisma modifier.;
+#tr;Riposte;When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack’s damage roll.;
+#tr;Sweeping Attack;When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.;
+#tr;Trip Attack;When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack’s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.;
 #te;
+#fe;Fighter Mastery;3
+At 3rd level, you’ve mastered a particular style of fighting. Choose one of the Fighting Mastery options, detailed in Chapter 6. You can’t take a Fighting Mastery option more than once, even if you later get to choose again.
 #fe;Fighter Speciality;3
-At 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+Also at 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 #zls;
 #zl;fighter_ability;Assault Specialist
+#zl;fighter_ability;Heavy Weapons Specialist
 #zl;fighter_ability;Shield Specialist
 #zl;fighter_ability;Tactical Specialist
 #zle;
 #fe;Ability Score Improvement;
-When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 #fe;Indomitable;9
-Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
 You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
 #fe;Greater Extra Attack;11
 Beginning at 11th level, you can attack three times, instead of once, whenever you take the Attack action on your turn.
-Additionally, when you use a bonus action to engage in two-weapon fighting, you can make two attacks instead of one.
+Additionally, when you use a bonus action to engage in Double- or Two-Weapon Fighting, you can make two attacks, instead of one.
 #fe;Master of Combat;20
-At 20th level, you are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores is now 22.
+At 20th level, you are the master of combat. Your Strength or Dexterity score increases by 2, and your Constitution score increases by 2. Your maximum for those scores increases by 2.
 Additionally, you can attack four times, instead of once, whenever you take the Attack action on your turn.
+
 #abh;Fighter Specialties
 #ab;Assault Specialist
 Those fighters who choose to become Assault Specialists focus on the development of raw physical power honed to deadly perfection. Assault Specialists combine rigorous training with physical excellence to deal devastating blows.
 #abf;Brute Force;3
-When you choose this specialty at 3rd level, whenever you hit with a weapon that you're procient with and deal damage, the weapon's damage increases by an amount based on your level in this class, as shown on the Assault Bonus Damage table.
-#ts;
-#th;Level;Bonus;
-#tr;3rd;1d4;
-#tr;10th;1d6;
-#tr;16th;1d8;
-#tr;20th;1d10;
-#te;
+When you choose this specialty at 3rd level, once per turn, when you deal damage with a weapon, you can deal an additional 1d4 damage of the same type as the weapon’s damage. If this damage would affect multiple creatures, you can only apply this damage bonus to one of them.
+This damage increases to 1d6 at 5th level, 1d8 at 9th level, 1d10 and 13th level, and 1d12 at 17th level.
+#abf;Remarkable Athlete;3
+Also at 3rd level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn’t already use your proficiency bonus.
 #abf;Brutish Durability;7
-Beginning at 7th level, whenever you make a saving throw, roll 1d6 and add the die to your saving throw total. If applying this bonus to a death saving throw increases the total to 20 or higher, you gain the benets of rolling a 20 on the d20.
+Beginning at 7th level, once per round, roll 1d6 and add the die to your saving throw total. If applying this bonus to a death saving throw increases the total to 20 or higher, you gain the benefits of rolling a 20 on the d20. You can choose to use this feature before or after you make a saving throw, but you must decide before the GM says whether the save succeeds or fails.
 #abf;Additional Fighting Style;10
-At 10th level, you can choose a second Fighting Style option.
+At 10th level, you can choose a second fighting style option.
 #zls;
 #zl;fighter_feature;fightingstyle1;Fighting Styles
 #zle;
 #abf;Devastating Critical;15
-Starting at 15th level, when you score a critical hit with a weapon attack, you gain a bonus to that weapon's damage roll equal to your ghter level.
+Starting at 15th level, when you score a critical hit with a weapon attack, you gain a bonus to that weapon’s damage roll equal to your fighter level.
 #abf;Survivor;18
-At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modier if you have no more than half of your hit points left. You don't gain this benet if you have 0 hit points.
+At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half your hit points left. You don’t gain this benefit if you have 0 hit points.
+
+#ab;Heavy Weapons Specialist
+Some manned instruments of war require their user to have superior physical prowess to overcome their weight and encumbrance. Those fighters who choose to become Heavy Weapons Specialists use their powerful bodies, and powerful armaments, to overwhelm their foes.
+#abf;Rock Steady;3
+When you choose this specialty at 3rd level, you have learned to use the heft of your weapon to root yourself in place. At the end of each of your turns, if you move less than half your speed while wielding a weapon with the heavy or strength properties, you have advantage on saving throws to avoid being restrained, moved, or knocked prone. This advantage lasts until the end of your next turn.
+#abf;My Little Friend Says Hello There;3
+Also at 3rd level, you know how to use the sheer size of your weapon to strike fear in those around you. You can add your Strength modifier to any Charisma (Intimidation) check you make while wielding a weapon with the heavy or strength properties that doesn’t already include that modifier.
+#abf;Maximum Output;7
+Beginning at 7th level, when you take the Attack action while wielding a weapon with the heavy or strength properties, you can forgo one or more attacks. If you do so, you deal additional damage the first time you hit with an attack roll before the end of your next turn. For each attack you forgo in this fashion, you deal extra damage equal to 1d12 + half your fighter level (rounded down). If you miss with the first attack roll you make before the end of your next turn, you instead deal normal weapon damage.
+#abf;Straight Through;10
+At 10th level, when you score a critical hit on your turn while wielding a weapon with the heavy or strength properties, you can make one weapon attack against a creature within 5 feet of the target using your reaction.
+#abf;Overwhelm;15
+Starting at 15th level, when you use your Second Wind while wielding a weapon with the heavy or strength properties, if you hit with the first attack roll you make before the end of your next turn, you treat the hit as a critical hit. If you miss with the first attack roll you make before the end of your next turn, you instead treat the miss as a hit.
+#abf;Pure Performance;18
+At 18th level, attack rolls you make while wielding a weapon with the heavy or strength properties can’t suffer from disadvantage.
+
 #ab;Shield Specialist
 Those fighters who choose to become Shield Specialists train to bolster those around them. They can inspire their allies with renewed vigor, lifting them to new heights, while simultaneously protecting them from harm.
 #abf;Techcasting;3
-When you choose this specialty at 3rd level, you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 11 for the tech powers list
+When you choose this specialty at 3rd level, you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
 #bp;SHIELD SPECIALIST TECHCASTING
 #ts;
 #th;Level;Tech Powers Known;Tech Points;Max Power Level;
-#tr;3rd;4;2;1st;
+#tr;3rd;3;2;1st;
 #tr;4th;4;2;1st;
 #tr;5th;5;3;1st;
-#tr;6th;5;3;1st;
-#tr;7th;6;4;2nd;
-#tr;8th;6;4;2nd;
-#tr;9th;7;5;2nd;
-#tr;10th;7;5;2nd;
-#tr;11th;8;6;2nd;
-#tr;12th;8;6;2nd;
-#tr;13th;9;7;3rd;
-#tr;14th;9;7;3rd;
-#tr;15th;10;8;3rd;
-#tr;16th;10;8;3rd;
-#tr;17th;11;9;3rd;
-#tr;18th;11;9;3rd;
-#tr;19th;12;10;4th;
-#tr;20th;12;10;4th;
+#tr;6th;6;3;1st;
+#tr;7th;7;4;2nd;
+#tr;8th;8;4;2nd;
+#tr;9th;9;5;2nd;
+#tr;10th;10;5;2nd;
+#tr;11th;11;6;2nd;
+#tr;12th;12;6;2nd;
+#tr;13th;13;7;3rd;
+#tr;14th;14;7;3rd;
+#tr;15th;15;8;3rd;
+#tr;16th;16;8;3rd;
+#tr;17th;17;9;4th;
+#tr;18th;18;9;4th;
+#tr;19th;19;10;4th;
+#tr;20th;20;10;4th;
 #te;
 #h;Tech Powers Known
-You learn 4 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Shield Specialist Techcasting table. You may not learn a tech power of a level higher than your Max Power Level.
+You learn 3 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the Shield Specialist Techcasting table. You may not learn a tech power of a level higher than your Max Power Level.
 #h;Tech Points
-You have a number of tech points points equal to half of your ghter level (rounded up), and you earn more at higher levels, as shown in the Tech Points column of the Shield Specialist Techcasting table. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
+You have a number of tech points equal to half your fighter level (rounded up), as shown in the Tech Points column of the Shield Specialist Techcasting table, + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
 #h;Max Power Level
-Many tech powers can be overcharged, consuming more tech points to create a greater eect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Shield Specialist Techcasting table.
-You may only cast tech powers at 4th-level once. You regain the ability to do so after a short or long rest
+Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Shield Specialist Techcasting table.
+You may only cast tech powers at 4th-level once. You regain the ability to do so after a long rest.
 #h;Techcasting Ability
-Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
+Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. Additionally, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
 #bp;Tech Save DC
 8 + your prociency bonus + your Intelligence modifier
 #bp;Tech Attack Modifier
 your proficiency bonus + your Intelligence modifier
 #h;Techcasting Focus
 You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
+#abf;Stay in Formation;3
+Also at 3rd level, you can take the Guard action as a bonus action on your turn.
 #abf;Rallying Cry;7
-Beginning at 7th level, you learn how to inspire your allies to ght on past their injuries. When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your ghter level, provided that the creature can see or hear you.
+Beginning at 7th level, when you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.
 #abf;Inspiring Surge;10
 At 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
 #abf;Bulwark;15
-Starting at 15th level, you can extend the benet of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same eect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
+Starting at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren’t incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
 #abf;Greater Inspiring Surge;18
 At 18th level, you can choose two allies within 60 feet of you, rather than one, when you using your Inspiring Surge feature.
+
 #ab;Tactical Specialist
-Those fighters who choose to become Tactical Specialists employ martial techniques passed down through generations. To a Tactical Specialist, combat is an academic eld, sometimes including subjects beyond battle such as armstech or armormech. Not every ghter absorbs the lessons of history, theory, and artistry that are reected in the Tactical Specialty, but those who do are well-rounded fighters of great skill and knowledge.
-#bp;TACTICAL SPECIALIST COMBAT SUPERIORITY
-#ts;
-#th;Level;Combat Superiority;Superiority Dice;Maneuvers Known;
-#tr;3rd;d6;2;2;
-#tr;4th;d6;2;2;
-#tr;5th;d6;2;2;
-#tr;6th;d6;2;2;
-#tr;7th;d8;3;3;
-#tr;8th;d8;3;3;
-#tr;9th;d8;3;3;
-#tr;10th;d8;3;3;
-#tr;11th;d10;3;4;
-#tr;12th;d10;3;4;
-#tr;13th;d10;3;4;
-#tr;14th;d10;3;4;
-#tr;15th;d12;4;5;
-#tr;16th;d12;4;5;
-#tr;17th;d12;4;5;
-#tr;18th;d12;4;5;
-#tr;19th;d12;4;5;
-#tr;20th;d12;4;5;
-#te;
-#h;Improved Combat Superiority
+Those fighters who choose to become Tactical Specialists employ martial techniques passed down through generations. To a Tactical Specialist, combat is an academic field, sometimes including subjects beyond battle such as armstech or armormech. Not every fighter absorbs the lessons of history, theory, and artistry that are reflected in the Tactical Specialty, but those who do are well-rounded fighters of great skill and knowledge.
+#abf;Bonus Proficiencies;3
+You gain proficiency with one type of artisan’s implements of your choice.
+#abf;Improved Combat Superiority;3
 When you choose this specialty at 3rd level, your tactical skill in combat improves, granting bonuses to your Combat Superiority.
-#h;Additional Maneuvers
-You learn two additional maneuvers of your choice, and you earn more at higher levels, as shown in the Maneuvers Known column of the Tactical Specialist Combat Superiority table.
-#h;Additional Superiority Dice
-You have two additional superiority dice, and you earn more at higher levels, as shown in the Superiority Dice column of the Tactical Specialist Combat Superiority table.
-Additionally, your superiority dice become d6s. This die changes as you gain Fighter levels, as shown in the Combat Superiority column of the Tactical Specialist Combat Superiority table.
-#abf;Student Of War;3
-Also at 3rd level, you gain prociency with one type of artisan's tools of your choice.
+#h;Improved Maneuvers
+You know four maneuvers of your choice, instead of two, and you earn more at higher levels, as shown in the Maneuvers Known column of the Tactical Specialist Combat Superiority table.
+#h;Improved Superiority Dice
+You have four superiority dice, instead of two, and you earn more at higher levels, as shown in the Superiority Dice column of the Tactical Specialist Combat Superiority table.
+#abf;Signature Maneuver;3
+Also at 3rd level, you choose a maneuver you know from this class as your signature maneuver. Whenever you use that maneuver, you can use it without expending a Superiority Dice. You may only use this feature once per round.
 #abf;Know Your Enemy;7
-Beginning at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice
+Beginning at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The GM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 #ls;
 #li;Strength Score
 #li;Dexterity Score
@@ -1280,17 +1218,37 @@ Beginning at 7th level, if you spend at least 1 minute observing or interacting 
 #li;Armor Class
 #li;Current Hit Points
 #li;Total class levels (if any)
-#li;Figure class levels (if any)
+#li;Fighter class levels (if any)
 #le;
-#abf;Signature Maneuver;10
-At 10th level, you choose a maneuver as your signature maneuver. Whenever you use that maneuver, you can roll a d4 and use it instead of expending a Superiority Dice. You may only use this feature once per turn.
-#zls;
-#zl;fighter_feature;maneuvers2;Maneuvers
-#zle;
+#abf;Greater Signature Maneuver;10
+At 10th level, you can choose a second signature maneuver.
 #abf;Relentless;15
-Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
-#abf;Greater Signature Maneuver;18
-At 18th level, you can choose a second signature maneuver. Additionally, when you use your signature maneuver, you can roll a d6 instead of a d4.
+Starting at 15th level, when you roll initiative and have no Superiority Dice remaining, you regain 1 Superiority Die.
+#abf;Maneuver Mastery;18
+At 18th level, once per round, when you would roll a Superiority Die, you can instead choose the maximum.
+#bp;The Tactical Specialist
+#ts;
+#th;Level;Superiority Dice;Maneuvers Known;
+#tr;3rd;4;4;
+#tr;4th;4;4;
+#tr;5th;4;4;
+#tr;6th;4;4;
+#tr;7th;6;6;
+#tr;8th;6;6;
+#tr;9th;6;6;
+#tr;10th;6;6;
+#tr;11th;8;8;
+#tr;12th;8;8;
+#tr;13th;8;8;
+#tr;14th;8;8;
+#tr;15th;10;10;
+#tr;16th;10;10;
+#tr;17th;10;10;
+#tr;18th;10;10;
+#tr;19th;10;10;
+#tr;20th;10;10;
+#te;
+#bp;Fighter Maneuvers
 #zls;
 #zl;fighter_feature;maneuvers2;Maneuvers
 #zle;
