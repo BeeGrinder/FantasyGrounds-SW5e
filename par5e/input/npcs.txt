@@ -784,7 +784,7 @@ Hit Points 406 (28d12 + 224)
 Speed 30 ft.
 STR DEX CON INT WIS CHA 29 (+9) 21 (+5) 26 (+8) 20 (+5) 17 (+3) 25 (+7)
 Saving Throws Dex +13, Con +16, Wis +11, Cha +15
-Skills Deception +15, Insight +11, Perception +19
+Skills Deception +15, Perception +19
 Damage Resistances cold, fire, lightning
 Damage Immunities poison, kinetic, ion and energy from unenhanced weapons
 Condition Immunities charmed, exhaustion, frightened, poisoned
@@ -793,16 +793,16 @@ Languages All, telepathy 120 ft.
 Challenge 26 (90,000 XP)
 Legendary Resistance (3/Day). If Abeloth fails a saving throw, she can choose to succeed instead.
 Force Resistance. Abeloth has advantage on saving throws against force powers and effects.
+Enhanced Being. Abeloth's weapon attacks are enhanced.
 One With The Force. Abeloth has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
-Magic Weapons. Magic Weapons. Abeloth's weapon attacks are magical. (enhanced)
-Innate Spellcasting. The manifestation of abeloth's innate spellcasting ability is Charisma (spell save DC 23). It can innately cast the following spells, requiring no material components:\rAt will: coerce mind, sense force\r3/day each: fear, force suppression, telekinesis\r1/day each: telekinetic wave, force lightning cone
+Innate Spellcasting. The manifestation of abeloth's innate spellcasting ability is Charisma (spell save DC 23). It can innately cast the following spells, requiring no components:\rAt will: coerce mind, sense force\r3/day each: fear, force suppression, telekinesis\r1/day each: telekinetic wave, force lightning cone
 ACTIONS
 Multiattack. Abeloth makes two tentacle attacks.
-Tentacles. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 28 (3d12+9) kinetic damage. If the target is a creature, it must succeed on a DC 23 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. If the target's hit point maximum is reduced to 0, they die and their essence is absorbed into Abeloth.
-Will. Abeloth turns her will upon one creature she can see within 120 feet. That target must make a DC 23 Wisdom saving throw. Unless the target is incapacitated, it can avert it's attention to automatically succeed on the save. If the target does so, it can't see Abeloth until the start of its next turn. If the target again focuses on Abeloth in the meantime, it must immediately make the save.\rIf the target fails the save, the target suffers one of the following effects of Abeloth's choice or at random.
-1. Beguiling Will. The target is stunned until the start of Abeloth's next turn.
-2. Hypnotic Will. The target is charmed by Abeloth until the start of Abeloth's next turn. Abeloth chooses how the charmed target uses its actions, reactions, and movement. Because this effect requires Abeloth's strong effort, she can't use her Maddening Will legendary action until the start of her next turn.
-3. Insane Will. The target suffers the effect of the confusion power without making a saving throw. The effect lasts until the start of Abeloth's next turn. Abeloth doesn't need to concentrate on the power.
+Tentacles. Melee Weapon Attack: +17 to hit, reach 5 ft., one target. Hit: 28 (3d12 + 9) kinetic damage.If the target is a creature, it must succeed on a DC 23 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. If the target's hit point maximum is reduced to 0, they die and their essence is absorbed into Abeloth.
+Will. Abeloth turns her will upon one creature she can see within 120 feet. That target must make a DC 23 Wisdom saving throw. Unless the target is incapacitated, it can avert it's attention to automatically succeed on the save. If the target does so, it can't see Abeloth until the start of its next turn. If the target again focuses on Abeloth in the meantime, it must immediately make the save. If the target fails the save, the target suffers one of the following effects of Abeloth's choice or at random:
+1-Beguiling Will. The target is stunned until the start of Abeloth's next turn.
+2-Hypnotic Will. The target is charmed by Abeloth until the start of Abeloth's next turn. Abeloth chooses how the charmed target uses its actions, reactions, and movement. Because this effect requires Abeloth's strong effort, she can't use her Maddening Will legendary action until the start of her next turn.
+3-Insane Will. The target suffers the effect of the force confusion power without making a saving throw. The effect lasts until the start of Abeloth's next turn. Abeloth doesn't need to concentrate on the power.
 LEGENDARY ACTIONS
 Options. Abeloth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Abeloth regains spent legendary actions at the start of her turn.
 Draining Lightning. Ranged Power Attack. +17 to hit, range 15 ft., one target. Hit: 20 (2d10+9) lightning damage plus 11 (2d10) necrotic damage.
