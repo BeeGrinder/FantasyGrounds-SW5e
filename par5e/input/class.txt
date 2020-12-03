@@ -1527,43 +1527,41 @@ This effect ends early if you are incapacitated or die. Once you’ve used this 
 #h;Monk
 Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
 Taking a deep breath, a zabrak covered in tattoos settles into a battle stance. As the first charging mercenaries reach him, he exhales and a blast of negative energy courses from his hands, engulfing his foes.
-Moving with the silence of the night, a black-clad mirialan steps into a shadow beneath an arch and nimbly climbs to the balcony a stone's throw above her. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the warlord, so vulnerable in the grip of sleep.
+Moving with the silence of the night, a black-clad mirialan steps into a shadow beneath an arch and nimbly climbs to the balcony a stone’s throw above her. She slides her blade free of its cloth-wrapped scabbard and peers through the open window at the warlord, so vulnerable in the grip of sleep.
 Whatever their discipline, monks are united in their ability to harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.
 #h;The Power of Focus
-Monks make careful study of a mystical energy that most monastic orders call focus. This energy is an element of the power that suffuses the galaxy-specifically, the element that flows through living bodies. Monks harness this energy within themselves to create powerful effects and exceed their bodies' physical capabilities, and some of their special attacks can hinder the flow of focus in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of focus gives them more power over their bodies and the bodies of their foes.
+Monks make careful study of a mystical energy that most monastic orders call focus. This energy is an element of the power that suffuses the galaxy�specifically, the element that flows through living bodies. Monks harness this energy within themselves to create powerful effects and exceed their bodies’ physical capabilities, and some of their special attacks can hinder the flow of focus in their opponents. Using this energy, monks channel uncanny speed and strength into their unarmed strikes. As they gain experience, their martial training and their mastery of focus gives them more power over their bodies and the bodies of their foes.
 #h;Training and Asceticism
 Most monks live entirely apart from the surrounding population, secluded from anything that might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies or assassins at the command of their leader, a noble patron, or some other power.
-The majority of monks don't shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or brigands.
-For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don't undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth.
-#h;Creating An MonK
-As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself?
-Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home?
-As a result of the structured life of a monastic community and the discipline required to harness focus, monks are typically lawful in alignment.
+The majority of monks don’t shun their neighbors, making frequent visits to nearby towns or villages and exchanging their service for food and other goods. As versatile warriors, monks often end up protecting their neighbors from monsters or brigands.
+For a monk, becoming an adventurer means leaving a structured, communal lifestyle to become a wanderer. This can be a harsh transition, and monks don’t undertake it lightly. Those who leave their cloisters take their work seriously, approaching their adventures as personal tests of their physical and spiritual growth.
+#h;Creating An Monk
+As you make your monk character, think about your connection to the monastery where you learned your skills and spent your formative years. Were you an orphan or a child left on the monastery's threshold? Did your parents promise you to the monastery in gratitude for a service performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or did you choose the monastic life for yourself? Consider why you left. Did the head of your monastery choose you for a particularly important mission beyond the cloister? Perhaps you were cast out because of some violation of the community's rules. Did you dread leaving, or were you happy to go? Is there something you hope to accomplish outside the monastery? Are you eager to return to your home? As a result of the structured life of a monastic community and the discipline required to harness focus, monks are typically lawful in alignment. 
 #h;Quick Build
-You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the hermit background.
+You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the agent background.
 #h;The Monk
 #ts;
-#th;Level;Proficiency Bonus;Features;Martial Arts Damage Die;Focus Points;Unarmored Movement;
-#tr;1;+2;Unarmored Defense, Martial Arts;4;0;+10 ft.;
-#tr;2;+2;Focus, Unarmored Movement;4;2;+10 ft.;
-#tr;3;+2;Monastic Order, Deflect Missles;4;3;+10 ft.;
-#tr;4;+2;Ability Score Improvement, Slow Fall;4;4;+10 ft.;
-#tr;5;+3;Extra Attack, Stunning Strike;6;5;+10 ft.;
-#tr;6;+3;Focused Strikes, Monastic Order;6;6;+15 ft.;
-#tr;7;+3;Evasion, Stillness of Mind;6;7;+15 ft.;
-#tr;8;+3;Ability Score Improvement;6;8;+15 ft.;
-#tr;9;+4;Unarmored Movement Improvement;6;9;+15 ft.;
-#tr;10;+4;Purity of Body;6;10;+20 ft.;
-#tr;11;+4;Monastic Order;8;11;+20 ft.;
-#tr;12;+4;Ability Score Improvement;8;12;+20 ft.;
-#tr;13;+5;Tongue of the Sun and Moon;8;13;+20 ft.;
-#tr;14;+5;Diamond Soul;8;14;+25 ft.;
-#tr;15;+5;Timeless Body;8;15;+25 ft.;
-#tr;16;+5;Ability Score Improvement;8;16;+25 ft.;
-#tr;17;+6;Monastic Order;10;17;+25 ft.;
-#tr;18;+6;Empty Body;10;18;+30 ft.;
-#tr;19;+6;Ability Score Improvement;10;19;+30 ft.;
-#tr;20;+6;Perfect Self;10;20;+30 ft.;
+#th;Level;Proficiency Bonus;Features;Martial Arts;Focus Points;Monastic Vows;Unarmored Movement;
+#tr;1st;+2;Martial Arts, Unarmored Defense;d4;-;-;-;
+#tr;2nd;+2;Focus, Monastic Vows;d4;2;2;-;
+#tr;3rd;+2;Unarmored Movement, Deflect Missiles, Monastic Order;d4;3;2;+10 ft.;
+#tr;4th;+2;Ability Score Improvement, Slow Fall;d4;4;2;+10 ft.;
+#tr;5th;+3;Extra Attack, Stunning Strike;d6;5;2;+15 ft.;
+#tr;6th;+3;Enhanced Strikes, Monastic Order feature;d6;6;2;+15 ft.;
+#tr;7th;+3;Evasion, Stillness of Mind;d6;7;3;+15 ft.;
+#tr;8th;+3;Ability Score Improvement;d6;8;3;+15 ft.;
+#tr;9th;+4;Unarmored Movement Improvement;d8;9;3;+20 ft.;
+#tr;10th;+4;Ability Score Improvement;d8;10;3;+20 ft.;
+#tr;11th;+4;Monastic Order feature;d8;11;3;+20 ft.;
+#tr;12th;+4;Ability Score Improvement;d8;12;3;+20 ft.;
+#tr;13th;+5;Purity of Body;d10;13;4;+25 ft.;
+#tr;14th;+5;Diamond Soul;d10;14;4;+25 ft.;
+#tr;15th;+5;Timeless Vessel;d10;15;4;+25 ft.;
+#tr;16th;+5;Ability Score Improvement;d10;16;4;+25 ft.;
+#tr;17th;+6;Monastic Order feature;d12;17;5;+30 ft.;
+#tr;18th;+6;Empty Body;d12;18;5;+30 ft.;
+#tr;19th;+6;Ability Score Improvement;d12;19;5;+30 ft.;
+#tr;20th;+6;Perfect Self;d12;20;5;+30 ft.;
 #te;
 #h;Class Features
 As an monk, you gain the following class features.
@@ -1573,133 +1571,203 @@ Hit Points at 1st Level: 8 + your Constitution modifier.
 Hit Points at Higher Levels: 1d8 (or 5) + your Constitution modifier per monk level after 1st.
 Proficiencies
 Armor: None
-Weapons: Simple Vibroweapons, Simple Blasters, Chakrams, Techblades
+Weapons: Simple blasters, simple vibroweapons, chakrams, techblades
 Tools: None
 Saving Throws: Strength, Dexterity
 Skills: Choose two from Acrobatics, Athletics, Insight, Lore, Perception, and Stealth
 Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment, in addition to the equipment granted by your background
 #ls;
-#li;(a) a chakram, (b) a techblade, (c) a simple vibroweapon, or (d) a simple blaster and a power cell
-#li;(a) a dungeoneer's pack or (b) an explorer's pack
+#li;(a) a chakram, (b) a techblade, © a simple vibroweapon, or (d) a simple blaster and a power cell
+#li;(a) a dungeoneer’s pack or (b) an explorer’s pack
 #li;10 vibrodarts
 #le;
 VARIANT: STARTING WEALTH
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (1d4 x 100) cr.
-#fe;Unarmored Defense;1
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom or Charisma modifier (your choice).
+In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 4d4 x 100 cr.
 #fe;Martial Arts;1
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are techblades and any simple vibroweapons that don't have the two-handed or heavy property.
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:
+Beginning at 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are chakrams, techblades, and any simple vibroweapons that don’t have the two-handed property.
+You gain the following benefits while you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield:
 #ls;
-#li;You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-#li;You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-#li;When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
+#li;You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons. You must use the same modifier for both rolls.
+#li;You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the monk table.
+#li;You can use Dexterity instead of Strength whenever you would make a Strength (Athletics) check to grapple, shove, or trip a creature.
+#li;When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action.
+#li;You can take the Dash and Disengage actions as a bonus action.
 #le;
+#h;Variant: Monks with Lightweapons
+If monks gain lightweapon proficiency, consider letting them use lightweapons as monk weapons, provided the lightweapon has a vibroweapon analogue. For instance, chakrams count as monk weapons. If a monk gains proficiency in a light ring, they could also use it as a monk weapon.
+#fe;Unarmored Defense;1
+Also at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom or Charisma modifier (your choice).
 #fe;Focus;2
-Starting at 2nd level, your training allows you to harness the mystic energy of focus. Your access to this energy is represented by a number of focus points. Your monk level determines the number of points you have, as shown in the Focus Points column of the Monk table.
+Starting at 2nd level, your training allows you to harness the mystic energy of focus. Your access to this energy is represented by a number of focus points. Your monk level determines the number of points you have, as shown in the Focus Points column of the monk table.
 You can spend these points to fuel various focus features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more focus features as you gain levels in this class.
 When you spend a focus point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended focus back into yourself. You must spend at least 30 minutes of the rest meditating to regain your focus points.
-Some of your focus features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
+You use your choice of Wisdom or Charisma for your focus ability. You use the chosen ability modifier whenever a feature refers to your focus ability. Additionally, you use the chosen ability modifier when making an attack with a focus feature or setting the saving throw DC for one.
 #bp;Focus save DC
-8 + your proficiency bonus + your Wisdom modifier
+8 + your proficiency bonus + your Wisdom or Charisma modifier (your choice)
+#bp;Focus attack modifier 
+your proficiency bonus + your Wisdom or Charisma modifier (your choice)
 #h;Flurry Of Blows
-Immediately after you take the Attack action on your turn, you can spend 1 focus point to make two unarmed strikes as a bonus action.
+When you make your Martial Arts bonus action unarmed strike, you can spend 1 focus point to make an additional unarmed strike (no action required). At 11th level, you can instead spend 2 focus points to make two additional unarmed strikes.
 #h;Patient Defense
-You can spend 1 focus point to take the Dodge action as a bonus action on your turn.
+When you use your bonus action to Disengage, you can spend 1 focus point to also Dodge (no action required). At 11th level, you can instead spend 2 focus points to Dodge and gain an additional reaction until the start of your next turn. You can only take one reaction per turn.
 #h;Step Of The Wind
-You can spend 1 focus point to take the disengage or dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
-#fe;Unarmored Movement;2
-Starting at 2nd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
+When you use your bonus action to Dash, you can spend 1 focus point to double your jump distance for the turn. At 11th level, you can instead spend 2 focus points to gain a flying speed equal to your walking speed until the end of your turn, though you fall if you end your speed in the air and nothing else is holding you aloft.
+#fe;Monastic Vows;2
+Also at 2nd level, you’ve sworn two vows, as detailed at the end of the class description. You swear an additional vow at 7th, 13th, and 17th level.
+#fe;Unarmored Movement;3
+Starting at 3rd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Unarmored Movement column of the monk table.
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
-#fe;Monastic Order;3
-When you reach 3rd level, you commit yourself to one a monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.
-#zls;
-#zl;monk_ability;Echani Order
-#zl;monk_ability;Nightsister Order
-#zl;monk_ability;Teras Kasi Order
-#zle;
 #fe;Deflect Missiles;3
-Starting at 3rd level, you can use your reaction to deflect a projectile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d 10 + your Dexterity modifier + your monk level.
-If you reduce the damage to 0, and the damage is energy or ion, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 focus point to make a ranged attack as you deflect the projectile, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the projectile counts as a monk weapon for the attack.
+Also at 3rd level, you can use your reaction to deflect a projectile when you are dealt damage by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+If you reduce the damage to 0, and the damage is kinetic, energy, or ion, you can redirect it at another target if you have a weapon capable of doing so. You can spend 1 focus point to make a ranged attack as you deflect the projectile, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the projectile counts as a monk weapon for the attack.
+#fe;Monastic Order;3
+Lastly at 3rd level, you commit yourself to one monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.
+#zls;
+#zl;monk_ability;Crimson Order
+#zl;monk_ability;Echani Order
+#zl;monk_ability;Matukai Order
+#zl;monk_ability;Nightsister Order
+#zle;
 #fe;Ability Score Improvement;
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Slow Fall;4
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 #fe;Stunning Strike;5
-Starting at 5th level, you can interfere with an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 focus point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
-#fe;Focused Strikes;6
+Starting at 5th level, you can interfere with an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 focus point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+#fe;Enhanced Strikes;6
 Starting at 6th level, your unarmed strikes count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage.
 #fe;Evasion;7
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect, such as a consular's *force storm* or an engineer's *explosion*, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects. When you are subjected to an effect, such as a consular’s force storm or an engineer’s explosion, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail.
 #fe;Stillness of Mind;7
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
-#fe;Purity of Body;10
-At 10th level, your mastery of the focus flowing through you makes you immune to disease and poison.
-#fe;Tongue of the Sun and Moon;13
-Starting at 13th level, you learn to touch the focus of other minds so that you understand all spoken languages. Moreover, any creature that can understand a language can understand what you say.
+Starting at 7th level, you can use your action or bonus action to end one effect on yourself that is causing you to be charmed or frightened.
+#fe;Purity of Body;13
+Starting at 13th level, your mastery of the focus flowing through you makes you immune to disease and poison and resistant to poison damage.
 #fe;Diamond Soul;14
-Beginning at 14th level, your mastery of focus grants you proficiency in all saving throws.
+Beginning at 14th level, your mastery of focus grants you proficiency in all saving throws. Additionally, whenever you fail a saving throw, you can spend 1 focus point to reroll it and take the second result.
 Additionally, whenever you make a saving throw and fail, you can spend 1 focus point to reroll it and take the second result.
-#fe;Timeless Body;15
-At 15th level, your focus sustains you so that you suffer none of the frailty of old age, and you can't be aged abnormally. You can still die of old age, however. In addition, you no longer need food or water.
+#fe;Timeless Vessel;15
+At 15th level, your focus sustains you so that you suffer none of the frailty of old age, and you can’t be aged abnormally. You can still die of old age, however. Additionally, when you complete a short rest, you can expend a Hit Die to remove 1 level of exhaustion or slowed.
 #fe;Empty Body;18
 Beginning at 18th level, you can use your action to spend 4 focus points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 #fe;Perfect Self;20
-At 20th level, you've gained perfect control over your body. Your Dexterity and Wisdom scores increase by 2. Your maximum for those scores is now 22. Additionally, when you roll for initiative and have no focus points remaining, you regain 2 focus points.
+At 20th level, you’ve gained perfect control over your body. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2. Additionally, when you roll for initiative and have fewer than 6 focus points remaining, you regain up to 6 focus points.
+#fe;Monastic Vows
+The vows are presented in alphabetical order. If a vow has prerequisites, you must meet them to learn it. You can learn a vow at the same time you meet its prerequisites.
+#h;Vow of Deflection
+You can use your reaction to divert a strike when you are dealt damage by a melee weapon attack. When you do so, the damage taken by the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+#h;Vow of the Devoted
+You gain a limited ability to manipulate the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
+Force Powers Known. You learn 2 force powers of your choice. You learn an additional power at 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th level. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite. You may only learn universal powers in this way.
+Force Points. Rather than force points, powers you learn through this vow are cast using your focus points, at 1 focus point per power level. You may only cast universal powers in this way.
+Max Power Level. Many force powers can be overpowered, consuming more focus points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels. Your Max Power Level is 1st. It increases to 2nd at 7th level, 3rd at 13th level, and 4th at 17th level. You may only cast force powers at 4th-level once. You regain the ability to do so after a long rest.
+Forcecasting Ability. You use your focus ability whenever a power refers to your forcecasting ability. If a power you cast with focus points calls for a saving throw, you use your focus save DC. If a power you cast with focus points calls for an attack roll, you use your focus attack modifier.
+#h;Vow of Fate
+Prerequisite: 7th level
+When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.
+#h;Vow of the Fighter
+You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.
+#h;Vow of Fortitude
+Prerequisite: 7th level
+You can use your action or bonus action to end one effect on yourself that is causing you to be blinded or deafened.
+#h;Vow of Freedom
+You ignore unenhanced difficult terrain, and when you would use your action to break free of an effect that is grappling or restraining you, you can instead use your bonus action.
+#h;Vow of Intuition
+You can no longer have disadvantage on attack rolls against creatures within 10 feet of you due to not being able to see them.
+#h;Vow of the Limber
+Prerequisite: 7th level
+When you make your first unarmed strike on your turn, you can choose to spend 1 focus point. If you do so, your reach with your unarmed strikes increases by 5 feet until the end of your turn.
+#h;Vow of Mettle
+You can use Strength instead of Wisdom or Charisma when determining your Unarmored Defense.
+#h;Vow of the Mortal
+You can use Constitution instead of Wisdom or Charisma when determining your Unarmored Defense.
+#h;Vow of the Nemesis
+Prerequisite: 13th level
+As a bonus action, you can choose one creature within 30 feet that you can see. The creature must make a Wisdom saving throw against your focus save DC. On a successful save, the creature becomes immune to this feature for 24 hours. On a failed save, for the next minute, the creature has disadvantage on attack rolls against creatures other than you, and it must make an additional Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this feature doesn’t restrict its movement for that turn.
+This feature ends early if you attack another creature, if you target another hostile creature with a power or class feature, if a friendly creature damages the target, if a friendly creature targets it with a power or class feature, or if you target another creature with this feature.
+#h;Vow of the Open Mind
+You gain proficiency in a skill of your choice. Additionally, you can spend 1 focus point and 10 minutes meditating on a skill in which you are proficient. If you do so, when you make an ability check with the chosen skill, you can add your Wisdom or Charisma modifier to the check if it doesn’t already include that modifier. You can only have one instance of this feature active at a time.
+#h;Vow of Precision
+Prerequisite: 13th level
+Your critical hit range with unarmed strikes increases by 1.
+#h;Vow of Requital
+Prerequisite: 13th level
+When you take the Dodge action and an attack made by a creature within 5 feet of you misses you before the start of your next turn, you can use your reaction to make one melee weapon attack with a monk weapon or unarmed strike against that creature.
+#h;Vow of Restoration
+When you would make an unarmed strike, you can spend 1 focus point to instead touch a willing creature within your reach. Roll your Martial Arts die. The target gains hit points equal to the amount rolled + your Wisdom or Charisma modifier (your choice, minimum of +1).
+#h;Vow of the Sentry
+You gain proficiency in light and medium armor. Additionally, you can now gain the benefits of your Martial Arts and Unarmored Movement features while wearing light or medium armor as long as you are not wielding a shield.
+#h;Vow of Serenity
+Your maximum focus increases by an amount equal to half your Wisdom or Charisma modifier (your choice, rounded up, minimum of +1).
+#h;Vow of the Shrewd
+You can use Intelligence instead of Wisdom or Charisma when determining your Unarmored Defense.
+#h;Vow of Spirit
+You can use your choice of Wisdom or Charisma instead of Strength or Dexterity for the attack and damage rolls of your unarmed strikes and monk weapons. You must use the same modifier for both rolls.
+#h;Vow of the Versatile
+When you would make an unarmed strike as part of your Martial Arts bonus action attack or your Flurry of Blows, you can instead make a weapon attack with a monk weapon you are wielding.
 #abh;Monastic Orders
+#ab;Crimson Order
+Monks of the Crimson Order are unyielding in their resolve. They pledge themselves to a singular entity or belief, and uphold their service with solemnity and diligence.
+#abf;Crimson Armaments;3
+Beginning when you choose this order at 3rd level, you gain proficiency in light and medium armor. If you are already proficient in light and medium armor, you instead gain proficiency in heavy armor. Additionally, you can now gain the benefits of your Martial Arts and Unarmored Movement features while wearing armor as long as you are not wielding a shield.
+Additionally, you’ve learned to adapt to new weaponry. Over the course of an hour, which can be performed during a short rest, you can perform a kata with a weapon of your choice. You gain proficiency in that weapon if you do not already have proficiency, and it becomes a monk weapon for you. You can only adapt to one weapon at a time, and if you attempt to adapt to another weapon you immediately lose your proficiency with the chosen weapon.
+#abf;Crimson Squall;6
+At 6th level, you’ve learned to enhance your kata. As a bonus action while wielding a monk weapon, you can expend 1 focus point to cause the area within 5 feet of you to become difficult terrain for 1 minute. This area travels with you, and creatures within the area can not make opportunity attacks.
+At 11th level, the range of this area increases to 15 feet, and at 17th level, the range of this area increases to 30 feet.
+#abf;Vigilant Sentinel;11
+Starting at 11th level, when you attempt to perceive your surroundings on your turn, you can opt to not move on that turn. If you avoid moving, you gain a +10 bonus to your Wisdom (Perception) checks until the start of your next turn. You lose this benefit if you move or fall prone, either voluntarily or because of some external effect.
+#abf;Sovereign Protector;17
+At 17th level, your mastery of focus has allowed you to unlock your fullest potential in combat. As a bonus action, you can gain the following effects for 1 minute.
+#ls;
+#li;Your speed is doubled.
+#li;Your AC increases by 2.
+#li;You have advantage on Dexterity saving throws.
+#li;You gain an additional action of each of your turns. This action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+#le;
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
 #ab;Echani Order
 Monks of the Echani Order train relentlessly both with and without their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.
-#abf;Path Of The Echani;3
+#abf;Path of the Echani;3
 Beginning when you choose this order at 3rd level, your special martial arts training leads you to master the use of certain weapons. You gain the following benefits.
 #h;Echani Weapons
-Choose two types of weapons to be your Echani weapons: one vibroweapon and one blaster. Each of these weapons can be any simple or martial weapon that lacks the heavy and special properties. You gain proficiency with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this tradition's features work only with your Echani weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon to be an Echani weapon for you, following the criteria above.
-#h;Agile Parry
-If you make an unarmed strike as part of the Attack action on your turn and are holding a Echani weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't incapacitated.
-#h;Echani's Shot
-You can use a bonus action on your turn to make your ranged attacks with an Echani weapon more deadly. When you do so, any target you hit with a ranged attack using an Echani weapon takes an extra 1d4 damage of the weapon's type. You retain this benefit until the end of the current turn.
-#abf;One With The Blade;6
+Choose two types of weapons to be your Echani weapons: one vibroweapon and one blaster. Each of these weapons can be any simple or martial weapon that lacks the special property. You gain proficiency with these weapons if you don’t already have it. Weapons of the chosen types are monk weapons for you. Many of this order’s features work only with your Echani weapons. When you reach 6th, 11th, and 17th level in this class, you can choose another type of weapon to be an Echani weapon for you, following the criteria above.
+Agile Parry. If you make an unarmed strike as part of the Attack action on your turn and are holding an Echani weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren’t incapacitated.
+Echani’s Shot. You can use a bonus action on your turn to make your ranged attacks with an Echani weapon more deadly. When you do so, any target you hit with a ranged attack using an Echani weapon takes an extra 1d4 damage of the weapon’s type. You retain this benefit until the end of the current turn.
+#abf;One with the Blade;6
 At 6th level, you extend your focus into your Echani weapons, granting you the following benefits.
 #h;Enhanced Echani Weapons
 Your attacks with your Echani weapons count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and damage.
 #h;Deft Strike
-When you hit a target with a Echani weapon, you can spend 1 focus point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
-#abf;Sharpen The Blade;11
+When you hit a target with an Echani weapon, you can spend 1 focus point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
+#abf;Sharpen the Blade;11
 Starting at 11th level, you gain the ability to augment your weapons further with your focus. As a bonus action, you can expend up to 3 focus points to grant one Echani weapon you touch a bonus to attack and damage rolls when you attack with it. The bonus equals the number of points you spent. This bonus lasts for 1 minute or until you use this feature again. This feature has no effect on an enhanced weapon that already has a bonus to attack and damage rolls.
 #abf;Unerring Accuracy;17
 At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
+#ab;Matukai Order
+Monks of the Matukai Order center their philosophy around a balance and harmony between the spiritual Force and the physical body, using exercise as a form of meditation. They channel the Force through their bodies, turning themselves into exceptional warriors.
+#abf;Force-Enhanced Strikes;3
+Beginning when you choose this order at 3rd level, you learn to channel the Force into your unarmed strikes and monk weapons, further enhancing your melee strikes. When you hit a creature with an unarmed strike or monk weapon, you can spend 1 focus point to force the creature to make a Strength saving throw. On a failed save, it takes 2d6 force damage and is pushed up to 15 feet away from you. On a successful save, the creature only takes 1d6 force damage and isn’t pushed.
+#abf;Instinctive Leap;6
+At 6th level, when a hostile creatures moves to within 5 feet of you, you can use your reaction to disengage and leap up to half your speed. If you end this movement in the air, you immediately fall to the ground.
+#abf;Absorb Damage;11
+Starting at 11th level, you learn to channel the Force into your skin and bones, greatly enhancing your durability. You can use a bonus action to channel the Force throughout your body. Until the start of your next turn, you have resistance to kinetic and energy damage.
+You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a long rest.
+#abf;Control the Field;17
+At 17th level, whenever you use your Instinctive Leap feature, you can leap your entire movement speed instead of only half. Additionally, when you land, you can make an unarmed strike with advantage against a creature within 5 feet of you as part of the same reaction. On a hit, this attack deals an additional 2d6 force damage.
 #ab;Nightsister Order
 Monks of the Nightsister Order utilize an innate Force-sensitivity to commune with death. They learn to channel this power to drain the life of their foes to prolong their own existence. Males who join this order are called Nightbrothers.
 #abf;Ichor Lightning;3
-Beginning when you choose this order at 3rd level, you gain a new attack option that you can use with the Attack action. This special attack is a ranged force attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is necrotic, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 focus point to make the special attack twice as a bonus action.
-When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
-When you reduce a creature to 0 hit points with this attack, you gain temporary hit points equal to your Wisdom modifier + your monk level (minimum of 1 temporary hit point).
+Beginning when you choose this order at 3rd level, you gain a new attack option that you can use with the Attack action. This special attack is a ranged focus attack with a range of 30 feet. You are proficient with it, and you add your focus ability modifier to its attack and damage rolls. Its damage is necrotic, and it uses your Martial Arts die for its damage die.
+When you would make an unarmed strike as part of your Martial Arts bonus action attack or your Flurry of Blows, you can replace the attack with this one.
+When you reduce a creature to 0 hit points with this attack, you gain temporary hit points equal to your Wisdom or Charisma modifier + your monk level (your choice, minimum of one).
 #abf;Dark Magick;6
-At 6th level, when you take this action, each creature within 30 feet of you that can see you must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+At 6th level, you can use your action to force each creature within 30 feet of you that can see you to make a Wisdom saving throw against your focus save DC or be charmed or frightened (your choice) of you until the end of your next turn.
 #abf;Mastery Of Death;11
 Starting at 11th level, when you are reduced to 0 hit points, you can expend 1 focus point (no action required) to have 1 hit point instead.
 #abf;Spirit Blade Assault;17
-At 17th level, as an action, you conjure a blade of negative energy and strike one creature within 5 feet of you with it, expending 1 to 10 focus points. The target must make a Constitution saving throw. On a failed save, it takes 2d10 necrotic damage per focus point spent, or half as much on a successful one.
-#ab;Teras Kasi Order
-Monks of the Teras Kasi Order are the ultimate masters of martial arts combat, whether armed or unarmed. They learn techniques to push and trip their opponents, manipulate focus to heal damage to their bodies, and practice advanced meditation that can protect them from harm.
-#abf;Open Hand Technique;3
-Beginning when you choose this order at 3rd level, you can manipulate your enemy's focus when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
-#ls;
-#li;It must succeed on a Dexterity saving throw or be knocked prone.
-#li;It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
-#li;It can't take reactions until the end of your next turn.
-#le;
-#abf;Wholeness Of Body;6
-At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your monk level.
-You must finish a long rest before you can use this feature again.
-#abf;Tranquility;11
-Starting at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a *sanctuary* force power that lasts until the start of your next long rest (the power can end early as normal). The saving throw DC for the power equals 8 + your Wisdom modifier + your proficiency bonus.
-#abf;Quivering Palm;17
-At 17th level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 focus points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same planet. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.
-You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
+At 17th level, as an action, you conjure a blade of spirit energy and strike one creature within 5 feet of you with it, expending 1 to 10 focus points. The target must make a Constitution saving throw. On a failed save, it takes 2d10 necrotic damage per focus point spent, or half as much on a successful one.
 
 ##;Operative
 #h;Operative
