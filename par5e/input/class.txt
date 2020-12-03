@@ -442,32 +442,32 @@ While perhaps not as intimidating as a heavily-armored trooper, or as exotic as 
 #h;Unflappable
 It takes bravery for a soldier to enter a battlefield. It perhaps takes more for someone who is unarmed, and untrained in combat, to do the same. Engineers put their lives on the line for a living, whether by choice or acknowledging their plights as an occupational hazard. Whether they come from an elite training academy or learned their talents surviving in the slums, they are no strangers to danger and conflict.
 #h;CREATING AN ENGINEER
-While creating your engineer character, consider what your primary skill set is and how you use it. You could be a street-smart mechanic who taught yourself how to fix swoop bikes as a teenager. Perhaps you are the recent graduate of an esteemed medical college, or a rookie pilot in the fledgling Rebel Alliance. What is the number one skill you are known for? Why are you willing to enter battles when you have no combat training? How do you view the more adventurous members of your group, and how do they see you and your role?
+While creating your engineer character, consider what your primary skill set is and how you use it. You could be a street-smart mechanic who taught yourself how to fix swoop bikes as a teenager. Perhaps you are the recent graduate of an esteemed medical college, or a rookie pilot in the fledgling Rebel Alliance. What is the number one skill you are known for? Why are you willing to enter battles when you have no combat training? How do you view the more adventurous members of your group, and how do they see you and your role? 
 #h;QUICK BUILD
-You can make an engineer quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Constitution. Second, choose the guild artisan background.
+You can make an engineer quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Constitution. Second, choose the scientist background. 
 #h;The Engineer
 #ts;
-#th;Level;Proficiency Bonus;Features;Tech Powers Known;Tech Points;Max Power Level;Modification Slots;
-#tr;1;+2;Techcasting, Potent Aptitude(d6);6;2;1;0;
-#tr;2;+2;Infuse Item, Tool Understanding;7;4;1;0;
-#tr;3;+2;Engineering Discipline;9;6;2;4;
-#tr;4;+2;Ability Score Improvement;10;8;2;4;
-#tr;5;+3;Potent Aptitude(d8), Quick Thinking;11;10;3;5;
-#tr;6;+3;Engineering Discipline Feature;12;12;3;5;
-#tr;7;+3;-;13;14;4;5;
-#tr;8;+3;Ability Score Improvement;14;16;4;6;
-#tr;9;+4;-;15;18;5;6;
-#tr;10;+4;Potent Aptitude(d10);16;20;5;6;
-#tr;11;+4;-;17;22;6;7;
-#tr;12;+4;Ability Score Improvement;18;24;6;7;
-#tr;13;+5;-;19;26;7;7;
-#tr;14;+5;Engineering Discipline Feature;20;28;7;8;
-#tr;15;+5;Potent Aptitude(d12);21;30;8;8;
-#tr;16;+5;Ability Score Improvement;22;32;8;8;
-#tr;17;+6;-;23;34;9;9;
-#tr;18;+6;Engineering Discipline Feature;24;36;9;9;
-#tr;19;+6;Ability Score Improvement;25;38;9;9;
-#tr;20;+6;Tech Mastery;26;40;9;9;
+#th;Level;Proficiency Bonus;Features;Tech Powers Known;Tech Points;Max Power Level;Potent Aptitude;Modification Slots;
+#tr;1;+2;Techcasting, Potent Aptitude;6;2;1st;d4;-;
+#tr;2;+2;Infuse Item(+1), Tool Expertise;7;4;1st;d4;-;
+#tr;3;+2;Engineering Discipline;9;6;2nd;d4;4;
+#tr;4;+2;Ability Score Improvement;10;8;2nd;d4;4;
+#tr;5;+3;Quick Thinking;12;10;3rd;d6;5;
+#tr;6;+3;Engineering Discipline Feature;13;12;3rd;d6;5;
+#tr;7;+3;-;15;14;4th;d6;5;
+#tr;8;+3;Ability Score Improvement;16;16;4;d6;5;
+#tr;9;+4;-;18;18;5th;d8;6;
+#tr;10;+4;Infuse Item(+2);19;20;5th;d8;6;
+#tr;11;+4;-;21;22;6th;d8;7;
+#tr;12;+4;Ability Score Improvement;22;24;6;d8;7;
+#tr;13;+5;-;23;26;7th;d10;8;
+#tr;14;+5;Engineering Discipline Feature;24;28;7th;d10;8;
+#tr;15;+5;Infuse Item(+3);25;30;8th;d10;8;
+#tr;16;+5;Ability Score Improvement;26;32;8th;d10;8;
+#tr;17;+6;-;27;34;9th;d12;9;
+#tr;18;+6;Engineering Discipline Feature;28;36;9th;d12;9;
+#tr;19;+6;Ability Score Improvement;29;38;9th;d12;9;
+#tr;20;+6;Tech Mastery;30;40;9th;d12;9;
 #te;
 #h;Class Features
 As an engineer, you gain the following class features.
@@ -490,18 +490,18 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;Combat suit, a set of tinker's tools, a vibrodagger, and a wristpad
 #le;
 VARIANT: STARTING WEALTH
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (3d4 x 100) cr.
+In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 6d4 x 100 cr.
 #fe;Techcasting;1
-During your training you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
+Beginning at 1st level, during your training you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
 #h;Tech Powers Known
-You learn 6 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the engineer class table. You may not learn a tech power of a level higher than your Max Power Level.
+You learn 6 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the engineer table. You may not learn a tech power of a level higher than your Max Power Level.
 #h;Tech Points
-You have a number of tech points equal to your engineer level x 2, as shown in the Tech Points column of the engineer class table, + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
+You have a number of tech points equal to your engineer level x 2, as shown in the Tech Points column of the engineer table, + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
 #h;Max Power Level
-Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the engineer class table.
+Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the engineer table.
 You may only cast tech powers at 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a long rest.
 #h;Techcasting Ability
-Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
+Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. Additionally, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
 #bp;Tech save DC
 8 + your proficiency bonus +your Intelligence modifier
 #bp;Tech attack modifier
@@ -509,97 +509,96 @@ your proficiency bonus + your Intelligence modifier
 #h;Techcasting Focus
 You use a wristpad (found in chapter 5) or your tool proficiencies granted by this class as a techcasting focus for your tech powers.
 #fe;Potent Aptitude;1
-Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d6.
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the GM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost. A creature can have only one Potent Aptitude die at a time.
+Also at 1st level, your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d4. This die changes as you gain engineer levels, as shown in the Potent Aptitude column of the engineer table.
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the GM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost.
+A creature can have only one Potent Aptitude die at a time.
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
-Your Potent Aptitude die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
 #fe;Infuse Item;2
-At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon. Once you've used this feature, you can't use it again until you finish a long rest.
-#fe;Tool Understanding;3
-Also at 2nd level, you have advantage on any ability check you make that uses any of the tool proficiencies you gain from this class.
+At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor, a shield, or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it’s armor or a shield or a +1 bonus to attack and damage rolls if it’s a weapon.
+Once you’ve used this feature, you can’t use it again until you finish a long rest.
+This bonus increases to +2 at 10th level and +3 at 15th level.
+#fe;Tool Expertise;2
+Also at 2nd level, you gain expertise in any tool proficiencies you gain from this class.
 #fe;Engineering Discipline;3
 Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.
-The wide range of tool applications gives birth to well defined distinctions between different engineering disciplines. Each discipline focuses on maximizing the personal use of a certain tool.
-#zls;
-#zl;engineer_ability;Armormech Engineering
-#zl;engineer_ability;Armstech Engineering
-#zl;engineer_ability;Astrotech Engineering
-#zle;
 #fe;Ability Score Improvement;
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Quick Thinking;5
 Beginning when you reach 5th level, you regain all of your expended uses of Potent Aptitude when you finish a short or long rest.
 #fe;Tech Mastery;20
 At 20th level, your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores increases by 2.
 Additionally, when you roll initiative and have no uses of Potent Aptitude left, you regain one use.
+
 #abh;Engineer Disciplines
 #ab;Armormech Engineering
 Those engineers who choose the Armormech Engineering discipline focus on the ability to work with hard metals and electronic shielding to construct and enhance all types of personal armor.
 #abf;Bonus Proficiencies;3
-When you choose this discipline at 3rd level, you gain proficiency in armormech's tools, medium armor, and heavy armor. Additionally, when you engage in crafting with armormech's tools, the rate at which you craft doubles.
+When you choose this discipline at 3rd level, you gain proficiency in armormech’s implements, medium armor, and heavy armor. Additionally, when you engage in crafting with armormech’s implements, the rate at which you craft doubles.
 #abf;Modified Armor;3
-Also at 3rd level, you learn to modify one unenhanced suit of armor or shield utilizing your armormech knowledge. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to modify it. You must have the armor, materials, and armormech's tools in order to perform this modification.
-Your modified armor is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified armor has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Also at 3rd level, you learn to modify one unenhanced suit of armor or shield utilizing your armormech knowledge. Over the course of a long rest, you can modify one suit of armor or a shield. You must have the armor or shield and armormech’s implements in order to perform this modification.
+Your modified armor or shield is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified armor has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer table. For each modification installed in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
 Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
-At 9th level, you can maintain both a modified suit of armor and shield. The total modification slots are split across the two items.
+At 9th level, you can maintain both a modified suit of armor and shield. Each modified item has modification slots as shown in the Modification Slots column of the engineer table.
 #zls;
-#zl;engineer_feature;Armormech Upgrades
+#zl;engineer_feature;Armormech Modifications
 #zle;
 #abf;Damage Absorption;3
 Lastly at 3rd level, when you take damage, you can use your reaction and expend one use of your Potent Aptitude to absorb some of that damage. When you do so, the damage you take from the attack is reduced by the amount rolled on the die + your Intelligence modifier (minimum of one).
-#abf;Armormech's Celerity;6
-Beginning at 6th level, when you take the Attack action, you can make one weapon attack as a bonus action.
+#abf;Extra Attack;6
+Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. You must be wearing your modified armor or wielding your modified shield to gain this benefit.
+#abf;Armormech's Celerity;14
+At 14th level, when you take the Attack action or use your action to a cast a tech power of 1st-level or higher, you can make one weapon attack as a bonus action.
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you complete a long rest.
-#abf;Casting Celerity;14
-At 14th level, when you use your action to a cast a tech power, you can use your Armormech's Celerity feature.
 #abf;Suit Reliability;18
-Starting at 18th level, your suit is like a second skin. Whenever you make an ability check or saving throw that uses Strength, Dexterity, or Constitution, you can treat a d20 roll of 9 or lower as a 10. You must be wearing your modified armor to gain this benefit.
-#abf;Armormech Upgrades;
-If an upgrade has prerequisites, you must meet them to install it. You can install the upgrade at the same time that you meet its prerequisites.
+Starting at 18th level, your suit is like a second skin. Whenever you make an ability check or saving throw that uses Strength, Dexterity, or Constitution, you can treat a d20 roll of 9 or lower as a 10. You must be wearing your modified armor or wielding your modified shield to gain this benefit.
+#abf;Armormech Modifications;
+If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
 #ts;
 #th;Name;Prerequisites;Description;
-#tr;ABSORPTION SHIELD;Light Shield Generator;You modify your light shield generator to block incoming damage. As a bonus action you can activate this ability and gain temporary hit points equal to 1d4 + Intelligence modifier. These hit points last for one hour. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
-#tr;ACCELERATED MOVEMENT;Armor;You reduce the weight of your modified armor's bulk and increase the power to joints. If the armor has a Strength requirement, you ignore it. The modified armor's weight is reduced by 15 lbs. While wearing your modified armor your speed increases by 10 feet. This applies to all movement speeds you have while wearing your armor.;
-#tr;ADAPTABLE ARMOR;Armor;You integrate deployable hooks and fins into your armor, augmenting its mobility. While wearing your modified armor, you gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Additionally, you gain a swim speed equal to your walking speed.;
-#tr;ADVANCED POWER FIST;Level 11, Prototype Power Fist;You further modify your modified armor's gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d8 kinetic damage. Additionally, your unarmed strikes score a critical hit on a roll of 19 or 20.;
-#tr;ARMORWEAVE UNDERLAY;Level 5;You gain a +1 bonus to saving throws. This bonus increases to +2 at 11th level and +3 at 17th level.;
-#tr;ARTIFICIALLY INTELLIGENT;Level 7;You install an artificial intelligence into your modified armor. While wearing your modified armor, when you make an ability check, your armor's artificial intelligence can take the Help action. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you complete a long rest.;
-#tr;COLLAPSIBLE SUIT;Level 5, Light Armor;Your modified armor can collapse into a case for easy storage. When transformed this way the armor is indistinguishable from a normal case and weighs 1/3 its normal weight. As an action you can don or doff the armor, allowing it to transform as needed.;
-#tr;DAMPENING OVERLAY;Level 5; You gain a +1 bonus to AC. This bonus increases to +2 at 11th level and +3 at 17th level.;
-#tr;DARVISION VISOR;Armor;While wearing your modified armor, you have darkvision to a range of 60 feet. If you already have darkvision, this modification increases its range by 30 feet.;
-#tr;ENHANCED ENDURANCE;Armor;When you are reduced to 0 hit points while wearing your modified armor but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.;
-#tr;ELECTROSHOCK SHIELD;Heavy Shield;You install electroshockers in your shield. Whenever an enemy misses you with a melee attack, you can use your reaction to do 1d4 + your Intelligence modifier lightning damage to the attacker.;
-#tr;FLIGHT;Level 9, Armor;You integrate a propulsion system into your modified armor. While wearing your modified armor you have an enhanced flying speed of 30 feet.;
-#tr;GRAPPLING HARPOON;Armor;Your modified armor gains an integrated grappling harpoon set into your gauntlet. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While the harpoon is deployed, you can use your bonus action to activate the reel, pulling yourself to the location if the target is larger than you. A creature or object your size or smaller is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.;
-#tr;HEAVY SUIT;Level 5, Heavy Armor;You enhance your suit, making it difficult to move. As a bonus action, you can anchor your feet to the ground. While anchored, your speed is 0, you have advantage on Strength checks and Strength saving throws, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.;
-#tr;INFILTRATION SUIT;Light or Medium Armor;You install a cloaking device in your modified armor. This device has 2 charges. As an action you can use 1 charge to cast infiltrate targeting yourself. The cloaking device regains all expended charges after a long rest.;
-#tr;OVERLOAD SHIELD;Light or Medium Shield Generator;You modify your shield generator to overload. As an action you can overload your shield generator. Each Large or smaller creature within 5 feet of you must make a Dexterity or Strength saving throw (their choice) against your tech save DC. On a failed save, they are pushed back 5 feet and knocked prone. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
-#tr;POWER FIST;Armor;You modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d4 kinetic damage. Additionally, when you take the Attack action and make an unarmed attack, you can make an additional unarmed attack as a bonus action.;
-#tr;PROTOTYPE POWER FIST;Level 7, Armor, Power Fist;You further modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d6 kinetic damage and has the following property. If you or your target move at least 10 feet in a straight line immediately before making an unarmed attack, the first unarmed attack you make deals additional damage equal to your Intelligence modifier.;
-#tr;RESISTANCE;Armor;You tune your modified armor against certain forms of damage. Choose acid, cold, fire, ion, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this modification multiple times. Each time you do so, you must choose a different damage type.;
-#tr;SEALED SUIT;Level 5, Armor;As a bonus action you can hermetically seal your modified armor, giving you an air supply for up to 1 hour and making you immune to poison (but not curing you of existing poisoned conditions). Your armor regains 1 minute of air for every minute that you are not submerged and the armor is not sealed. Additionally, while you are wearing your modified armor you are considered adapted to cold and hot climates as well as high altitude, as described in chapter 5 of the Dungeon Master's Guide.;
-#tr;SENTIENT ARMOR;Level 13, Artificially Intelligent;Your artificial intelligence has learned to control the suit without you being in it. It is now a valid target of the tracker droid interface tech power. While your armor is acting independently, it uses your ability scores, saving throws, and skills, and it has hit points equal to your engineer level. If reduced to 0 hit points, it falls directly to the ground, and it can not be equipped again until you finish a long rest.;
-#tr;SHIELD AMPLIFIER;Medium Shield Generator;You modify your medium shield generator to project outward. As a bonus action you can amplify your medium shield generator until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC equal to your shield's bonus. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
-#tr;SHIELD COVER;Heavy Shield;You modify your heavy shield to be used as a portable source of cover. As a bonus action you can anchor your heavy shield to the ground. While anchored, your heavy shield provides three-quarters cover, but can not be moved. You can unanchor using a bonus action.;
-#tr;TECH BLAST;Armor;You modify your modified armor gauntlet to allow you to make a ranged tech attack. The weapon fires blasts of energy which deal 1d8 + your Intelligence modifier energy damage with a range of 30 feet. When you would make a ranged weapon attack, you can use this ranged tech attack in place of it.;
-#tr;WEAPON INTEGRATION;Medium or Heavy Armor;You can integrate a single weapon that weighs no more than 8 lb. into your armor. While integrated, that weapon gains the hidden property. Additionally, you have advantage on Strength saving throws to avoid being disarmed.;
+#tr;Absorption Shield;Physical Shield;You modify your physical shield to block incoming damage. As a bonus action you can activate this ability and gain temporary hit points equal to 1d4 + Intelligence modifier, which last for one hour. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
+#tr;Accelerated Movement;Armor;You reduce the weight of your modified armor’s bulk and increase the power to joints. If the armor has a Strength requirement, you ignore it. The modified armor’s weight is reduced by 15 lbs. While wearing your modified armor your speed increases by 10 feet. This applies to all movement speeds you have while wearing your armor.;
+#tr;Adaptable Armor;Armor;You integrate deployable hooks and fins into your armor, augmenting its mobility. While wearing your modified armor, you gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Additionally, you gain a swim speed equal to your walking speed.;
+#tr;Advanced Power Fist;Level 11, Prototype Power Fist;You further modify your modified armor’s gauntlet with increased reinforcement and weight. Your modified armor’s unarmed strike deals 1d8 kinetic damage. Additionally, your critical hit range with your unarmed strikes increases by 1.;
+#tr;Artificially Intelligent;Level 9, Armor;You install an artificial intelligence into your modified armor. While wearing your modified armor, when you make an ability check, your armor’s artificial intelligence can take the Help action. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you complete a long rest.;
+#tr;Bonded Plates;Level 5;You gain a +1 bonus to AC against melee attacks. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Collapsible Suit;Level 5, Armor; Your modified armor can collapse into a case for easy storage. When transformed this way the armor is indistinguishable from a normal case and weighs 1/3 its normal weight. As an action you can don or doff the armor, allowing it to transform as needed.;
+#tr;Darkvision Visor;Armor;While wearing your modified armor, you have darkvision to a range of 60 feet. If you already have darkvision, this modification increases its range by 30 feet.;
+#tr;Enhanced Endurance;Armor;When you are reduced to 0 hit points while wearing your modified armor but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.;
+#tr;Electroshock Shield;Shield Generator;You install electroshockers in your shield generator. Whenever an enemy misses you with a melee attack, you can use your reaction to do 1d4 + your Intelligence modifier lightning damage to the attacker.;
+#tr;Flight;Level 9, Armor;You integrate a propulsion system into your modified armor. While wearing your modified armor you have an enhanced flying speed of 30 feet.;
+#tr;Grappling Harpoon;Armor;Your modified armor gains an integrated grappling harpoon set into your gauntlet. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While the harpoon is deployed, you can use your bonus action to activate the reel, pulling yourself to the location if the target is larger than you. A creature or object your size or smaller is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you’ve used this feature, you can’t use it again until you recover and reinsert the harpoon as an action.;
+#tr;Heavy Suit;Level 5, Armor;You enhance your suit, making it difficult to move. As a bonus action, you can anchor your feet to the ground. While anchored, your speed is 0, you have advantage on Strength checks and Strength saving throws, and your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.;
+#tr;Infiltration Suit;Armor;You install a cloaking device in your modified armor. This device has 2 charges. As an action you can use 1 charge to cast infiltrate targeting yourself. The cloaking device regains all expended charges after a long rest.;
+#tr;Magnetized Shield;Physical Shield;You modify your physical shield such that when a melee weapon attack misses you by an amount less than or equal to your bonus to AC from your shield, the attacking creature must make a Strength check against your tech save DC. On a failed save, the creature’s weapon adheres to the shield. As an action, a creature can repeat this check. On a success, the weapon is freed.;
+#tr;Overload Shield;Shield Generator; You modify your shield generator to overload. As an action you can overload your shield. Each Large or smaller creature within 5 feet of you must make a Dexterity or Strength saving throw (their choice) against your tech save DC. On a failed save, they are pushed back 5 feet and knocked prone. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
+#tr;Power Fist;Armor;You modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor’s unarmed strike deals 1d4 kinetic damage. Additionally, when you take the Attack action and make an unarmed attack, you can make an additional unarmed attack as a bonus action.;
+#tr;Prototype Power Fist;Level 5, Armor, Power Fist;You further modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor’s unarmed strike deals 1d6 kinetic damage and has the following property. If you or your target move at least 10 feet in a straight line immediately before making an unarmed attack, the first unarmed attack you make deals additional damage equal to your Intelligence modifier.;
+#tr;Reinforced Underlay;Level 5;You gain a +1 bonus to AC against ranged attacks. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Resistance;Armor;You tune your modified armor against certain forms of damage. Choose acid, cold, fire, ion, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. You can select this modification multiple times. Each time you do so, you must choose a different damage type.;
+#tr;Sealed Suit;Level 5, Armor;As a bonus action you can hermetically seal your modified armor, giving you an air supply for up to 1 hour and making you immune to poison (but not curing you of existing poisoned conditions). Your armor regains 1 minute of air for every minute that you are not submerged and the armor is not sealed. Additionally, while you are wearing your modified armor you are considered adapted to cold and hot climates as well as high altitude, as described in chapter 5 of the DMG.;
+#tr;Sentient Armor;Level 13, Artificially Intelligent;Your artificial intelligence has learned to control the suit without you being in it. It is now a valid target of the tracker droid interface tech power. While your armor is acting independently, it uses your ability scores, saving throws, and skills, and it has hit points equal to your engineer level. If reduced to 0 hit points, it falls directly to the ground, and it can not be equipped again until you finish a long rest.;
+#tr;Shield Amplifier;Shield Generator; You modify your shield generator to project outward. As a bonus action you can amplify your shield until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC equal to your shield’s bonus. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.;
+#tr;Shield Anchor;Physical Shield;You modify your shield to be used as a portable source of cover. As an action, you can anchor or recover the shield. While anchored, you gain no benefit from a shield, and it does not require the use of a hand. Instead, while anchored, a light shield provides one-quarter cover, a medium shield provides half cover, and a large shield provides three-quarters cover.;
+#tr;Tech Blast;Armor;You modify your modified armor gauntlet with a blaster weapon with which you are proficient. The weapon uses your Intelligence modifier for its attack and damage rolls, and deals 1d8 energy damage on a hit. It has a normal range of 30 feet and a long range of 120 feet.;
+#tr;Weapon Integration Armoring;Armor;You can integrate a single weapon that weighs no more than 8 lb. into your armor. While integrated, that weapon gains the hidden property. Additionally, you have advantage on Strength saving throws to avoid being disarmed.;
 #te;
 #ab;Armstech Engineering
-Those engineers who choose the Armstech Engineeering discipline focus on the skill of constructing and modifying blasters, vibroweapons.
+Those engineers who choose the Armstech Engineeering discipline focus on the skill of constructing and modifying blasters and vibroweapons.
 #abf;Bonus Proficiencies;3
-When you choose this discipline at 3rd level, you gain proficiency in armstech's tools, medium armor, martial blasters, and martial vibroweapons. Additionally, when you engage in crafting with armstech's tools, the rate at which you craft doubles.
+When you choose this discipline at 3rd level, you gain proficiency in armstech’s implements, medium armor, martial blasters, and martial vibroweapons. Additionally, when you engage in crafting with armstech’s implements, the rate at which you craft doubles.
 #abf;Modified Weaponry;3
-Also at 3rd level, you learn to modify one unenhanced weapon with which you are proficient utilizing your armstech experience. Over the course of a long rest, you can expend materials equal to half the cost of a weapon in order to modify it. You must have the weapon, materials, and armstech's tools in order to perform this modification.
-Your modified weapon is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified weapon has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Also at 3rd level, you learn to modify one unenhanced weapon with which you are proficient utilizing your armstech experience. Over the course of a long rest, you can modify the weapon. You must have the weapon and armstech’s implements in order to perform this modification.
+Your modified weapon is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified weapon has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer table. For each modification installed in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
 Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
-At 9th level, you can maintain two modified weapons. The total modification slots are split across the two weapons.
+At 9th level, you can maintain two modified weapons. Each modified weapon has modification slots as shown in the Modification Slots column of the engineer table.
 #zls;
-#zl;engineer_feature;Armstech Upgrades
+#zl;engineer_feature;Armstech Modifications
 #zle;
 #abf;Close Call;3
 Lastly at 3rd level, when you make an attack roll with your modified weapon and miss, you can expend one use of your Potent Aptitude to attempt to turn that miss into a hit. Roll the die and add it to the attack roll.
 #abf;Armstech's Strike;6
-Beginning at 6th level, once per round, when you deal damage to a creature with your modified weapon, you can increase the damage by 1d6. The damage is of the same type as the weapon's damage. The damage increases to 2d6 at 11th level and 3d6 at 17th level.
+Beginning at 6th level, once per round, when you deal damage to a creature with your modified weapon, you can increase the damage by 1d6. The damage is of the same type as the weapon’s damage.
+The damage increases to 2d6 at 11th level and 3d6 at 17th level.
 #abf;Targeting Matrix;14
 At 14th level, when you cast a tech power that allows you to force creatures in an area to make a saving throw, you can instead make an attack roll with your modified weapon against a single target that would be in the range of the power. On a hit, the target suffers the effects as though they failed their saving throw. If the power would affect more than one creature, it instead affects only one.
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
@@ -609,57 +608,196 @@ Starting at 18th level, when you use your Targeting Matrix feature, and the tech
 If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
 #ts;
 #th;Name;Prerequisites;Description;
-#tr;ACCURACY SCOPE;Level 5, Blaster;You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
-#tr;AMPLIFYING BARREL;Level 5, Blaster;You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
-#tr;AUGMENTED STEPS;;Once per turn, when you deal damage with your modified weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can't make opportunity attacks against you for the rest of your turn.;
-#tr;BAYONET;Blaster;You affix a short blade to the barrel of your modified blaster weapon, allowing you to make a melee weapon attack with it. The blade is a melee weapon with the finesse property that you are proficient with, and deals 1d6 kinetic damage.;
-#tr;BURST FIRE;Level 9, Blaster;Your weapon gains the burst property, with a burst number equal to half its capacity.;
-#tr;BOOMING STRIKES;Level 7;You pack extra power into your modified weapon. Once per turn, when you hit with the weapon, you can deal an additional 1d6 damage. If you do so, the weapon makes a loud boom which can be heard 100 feet away. If you are hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have advantage.;
-#tr;COLLAPSIBLE HILT;Vibroweapon;You install an expandable hilt on your modified weapon. Your modified weapon gains the reach property.;
-#tr;CONTOURED GRIP;Level 5, Vibroweapon;You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
-#tr;EXPANDED MAGAZINE;Blaster;Your modified weapon can hold two power cells at a time, allowing you to expend both before a reload is required. You can only reload one power cell at a time.;
-#tr;FLASHLIGHT;;You affix a targeted light to your weapon. As a bonus action, you can toggle the light on or off. While on, your weapon sheds bright light in a 60-foot cone.;
-#tr;HARPOON REEL;Level 5;You install a secondary firemode that launches a harpoon attached to a tightly coiled cord. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While connected in this manner, you can use your bonus action to activate the reel, pulling yourself to the location if the target is your size or larger. A creature or object smaller than you is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.;
-#tr;IMBUE WEAPON;Level 9;You modify your weapon to carry a charge. Over the course of a short rest, you can cast an at-will tech power, channeling it into your weapon. The next time you hit with your weapon, the stored power is released. If the power would require an attack roll, make a tech attack roll. If the power would require a saving throw, the target must make the saving throw as normal. On a hit, or a failure, the target suffers the power's normal effects.;
-#tr;INTEGRATED MAGAZINE;Expanded Magazine;Your modified weapon can hold three power cells at a time, and you can replace all three power cells with the same action.;
-#tr;JAGGED EDGE;Vibroweapon;When you critically hit with the weapon, you deal an additional 1d8 kinetic damage.;
-#tr;KEEN EDGE;Level 11, Jagged Edge;Your weapon now scores a critical hit on a roll of 19 or 20.;
-#tr;NEUTRONIUM EDGE;Level 5, Vibroweapon;You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 11th level and +3 at 17th level.;
-#tr;OVERCHARGE WEAPON;Level 11, Booming Strikes;You gain the ability to channel your tech power to enhance your weapon's damage. You can expend one tech slot to deal additional damage to the target. The extra damage is 1d6 for a 1st-level tech slot, plus 1d6 for each slot level higher than 1st, to a maximum of 5d6. The damage is the same type as the weapon damage. If you also use your Booming Strikes with an attack, you add this damage to the extra damage of your Booming Strikes.;
-#tr;POWER LOOP;Level 7;When you hit with the weapon, you can choose channel the energy generated, gaining temporary hit points equal to half the damage dealt. Once you've used this feature, you must complete a long rest before you can use it again.;
-#tr;RETURNING WEAPON;Vibroweapon;You install a retractible chain in your modified vibroweapon. If the weapon does not already have the thrown property, it gains it with a range of 20/60. Additionally, when you throw the weapon, it immediately returns to your hand.;
-#tr;SCREENING WEAPON;;You modify your modified weapon with a sound dampening module. When you make a weapon attack with your weapon while hidden, Investigation and Perception checks made to locate you that rely on sound have disadvantage.;
-#tr;SIEGE WEAPON;;You modify your weapon to be more effective against barriers. Your weapon deals double damage against structures.;
-#tr;SHOCK ABSORBER;;You add a reclamation device to your modified weapon to gather energy from the surroundings when it is present. While wielding your modified weapon, you can cast the absorb energy tech power and the power's extra damage applies to both melee and ranged weapon attacks.;
-#tr;SHOCK HARPOON;Level 9, Harpoon Reel;After hitting a creature with the harpoon fire mode, you can use the connection to deliver an at-will tech power. As a bonus action, you can cast an at-will tech power at the target as if you were standing in the target's space. If the power requires a saving throw, the target has disadvantage. Once you've used this feature, you can't use it again until you recover the harpoon.;
-#tr;SHOCKING STRIKE;Level 9, Vibroweapon;When you hit with the weapon, you can create an electronic burst. Each creature in a 15-foot cone centered on the creature you hit must make a Dexterity saving throw against your tech save DC, taking 1d8 lightning damage on a failed save or half as much on a successful one. Once you've used this feature, you must complete a long rest before you can use it again.;
-#tr;SNAP FIRE;Level 9, Blaster;You modify your modified blaster weapon for quick shots. You can use your reaction to take a opportunity attack with your modified weapon if an enemy comes within 10 ft of you. You have disadvantage on this attack.;
-#tr;STAGGERING STRIKE;Vibroweapon;When you hit with the weapon, you can force the target to make a Strength saving throw. On a failed save, the creature is pushed back 10 feet and knocked prone. Once you've used this feature, you must complete a short or long rest before you can use it again.;
-#tr;SUBDUED RECOIL;Blaster;You install a recoil dampener in your modified blaster, removing the strength property from it.;
-#tr;TRACKER;Level 5;You add a tracking mechanism to your modified weapon. The tracker has 3 charges. As an action you can use 1 charge to cast target lock. As an action you can use 2 charges to cast detect invisibility. The tracker regains all expended charges after a long rest.;
-#tr;TRUELIGHT;Level 11, Flashlight;When toggled on, your flashlight now automatically dispels illusions and can detect invisibility, as with truesight.;
-#tr;VENOMOUS WEAPON;Level 7, Vibroweapon;As a bonus action, you can coat your weapon in a thin layer of poison for 1 minute. The next time you hit with the weapon, the creature must make a Constitution saving throw against your tech save DC. On a failed save, a creature takes 1d10 poison damage and becomes poisoned for 1 minute. Once you've used this feature, you must complete a long rest before you can use it again.;
+#tr;Accuracy Focus;Level 5, Blaster;You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Amplifying Barrel;Level 5, Blaster;You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Bayonet;Blaster;You affix a short blade to the barrel of your modified blaster weapon, allowing you to make a melee weapon attack with it. The blade is a melee weapon with the finesse property that you are proficient with, and deals 1d6 kinetic damage.;
+#tr;Burst Core;Blaster;Your weapon gains the burst property, with a burst number equal to its reload number.;
+#tr;Booming Strikes;Level 5;You pack extra power into your modified weapon. Once per turn, when you hit with the weapon, you can deal an additional 1d6 damage. If you do so, the weapon makes a loud boom which can be heard 100 feet away. If you are hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have advantage.;
+#tr;Celerity Oscillator;;Once per turn, when you deal damage with your modified weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can’t make opportunity attacks against you for the rest of your turn.;
+#tr;Collapsible Frame;Vibroweapon;You install an expandable hilt on your modified weapon. Your modified weapon gains the reach property.;
+#tr;Contoured Grip;Level 5, Vibroweapon;You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Expanded Magazine;Blaster;Your modified weapon can be more efficiently reloaded. You can reload your modified weapon once without using an action. You can’t use this feature again until you reload the weapon with an action.;
+#tr;Flashlight;;You affix a targeted light to your weapon. As a bonus action, you can toggle the light on or off. While on, your weapon sheds bright light in a 60-foot cone.;
+#tr;Harpoon Reel;;You install a secondary firemode that launches a harpoon attached to a tightly coiled cord. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable. While connected in this manner, you can use your bonus action to activate the reel, pulling yourself to the location if the target is your size or larger. A creature or object smaller than you is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you’ve used this feature, you can’t use it again until you recover and reinsert the harpoon as an action.;
+#tr;Imbue Weapon;Level 9; You modify your weapon to carry a charge. Over the course of a short rest, you can cast an at-will tech power, channeling it into your weapon. The next time you hit with your weapon, the stored power is released. If the power would require an attack roll, make a tech attack roll. If the power would require a saving throw, the target must make the saving throw as normal. On a hit, or a failure, the target suffers the power’s normal effects.;
+#tr;Improved Burst Core;Level 9, Burst Core;Your weapon’s burst number is reduced to half its reload number.;
+#tr;Integrated Magazine;Expanded Magazine;Your modified weapon can be more efficiently reloaded. You can reload your modified weapon twice without using an action. You can’t use this feature again until you reload the weapon with an action.;
+#tr;Jagged Oscillator;Vibroweapon;When you critically hit with the weapon, you deal an additional 1d8 kinetic damage.;
+#tr;Keen Oscillator;Level 5, Jagged Oscillator;Your weapon’s critical hit range increases by 1.;
+#tr;Neutronium Edge;Level 5, Vibroweapon;You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Overcharge Weapon;Level 11, Booming Strikes;You gain the ability to channel your tech power to enhance your weapon’s damage. You can expend one tech slot to deal additional damage to the target. The extra damage is 1d6 for a 1st-level tech slot, plus 1d6 for each slot level higher than 1st, to a maximum of 5d6. The damage is the same type as the weapon damage. If you also use your Booming Strikes with an attack, you add this damage to the extra damage of your Booming Strikes.;
+#tr;Power Loop;Level 9;When you hit with the weapon, you can choose channel the energy generated, gaining temporary hit points equal to half the damage dealt. Once you’ve used this feature, you must complete a long rest before you can use it again.;
+#tr;Recoil Dampener;Blaster with the strength property;You install a recoil dampener in your modified blaster, removing the strength property from it.;
+#tr;Returning Weapon Guard;Vibroweapon;You install a retractible chain in your modified vibroweapon. If the weapon does not already have the thrown property, it gains it with a range of 20/60. Additionally, it gains the returning property.;
+#tr;Screening Weapon;;You modify your modified weapon with a sound dampening module. When you make a weapon attack with your weapon while hidden, Investigation and Perception checks made to locate you that rely on sound have disadvantage.;
+#tr;Shock Absorber;;You add a reclamation device to your modified weapon to gather energy from the surroundings when it is present. While wielding your modified weapon, you can cast the absorb energy tech power and the power’s extra damage applies to both melee and ranged weapon attacks.;
+#tr;Siege Weapon;;You modify your weapon to be more effective against barriers. Your weapon deals double damage against structures.;
+#tr;Shocking Harpoon;Level 9, Harpoon Reel;After hitting a creature with the harpoon fire mode, you can use the connection to deliver an at-will tech power. As a bonus action, you can cast an at-will tech power at the target with a range of touch. If the power requires an attack roll, you have advantage. If the target requires a saving throw, the target has disadvantage. Once you’ve used this feature, you can’t use it again until you recover the harpoon.;
+#tr;Shocking Oscillator;Level 9, Vibroweapon;When you hit with the weapon, you can create an electronic burst. Each creature in a 15-foot cone centered on the creature you hit must make a Dexterity saving throw against your tech save DC, taking 1d8 lightning damage on a failed save or half as much on a successful one. Once you’ve used this feature, you must complete a long rest before you can use it again.;
+#tr;Snap Fire;Level 9, Blaster;You modify your modified blaster weapon for quick shots. You can use your reaction to take a opportunity attack with your modified weapon if an enemy comes within 10 feet of you. You have disadvantage on this attack.;
+#tr;Stabilizer Cell;Vibroweapon with the dexterity property;You install a stabilizer cell in your modified vibroweapon, removing the dexterity property from it.;
+#tr;Staggering Oscillator;Vibroweapon;When you hit with the weapon, you can force the target to make a Strength saving throw. On a failed save, the creature is pushed back 10 feet and knocked prone. Once you’ve used this feature, you must complete a short or long rest before you can use it again.;
+#tr;Tracker;Level 5;You add a tracking mechanism to your modified weapon. The tracker has 3 charges. As an action you can use 1 charge to cast target lock. As an action you can use 2 charges to cast detect invisibility. The tracker regains all expended charges after a long rest.;
+#tr;Truelight;Level 11, Flashlight;When toggled on, your flashlight now automatically dispels illusions and can detect invisibility, as with truesight.;
+#tr;Venomous Oscillator;Level 9, Vibroweapon;As a bonus action, you can coat your weapon in a thin layer of poison for 1 minute. The next time you hit with the weapon, the creature must make a Constitution saving throw against your tech save DC. On a failed save, a creature takes 1d10 poison damage and becomes poisoned for 1 minute. Once you’ve used this feature, you must complete a long rest before you can use it again.;
 #te;
-#ab;Astrotech Engineering
-Those engineers who choose the Astrotech Engineering discipline focus on crafting and upgrading their droid companions
+
+#ab;Gadgeteer Engineering
+Those engineers who choose the Gadgeteer discipline focus on the ability to craft reusable consumables and items that augment and complement their techcasting abilities.
 #abf;Bonus Proficiencies;3
-When you choose this discipline at 3rd level, you gain proficiency in astrotech's tools. Additionally, when you engage in crafting with astrotech's tools, the rate at which you craft doubles.
+When you choose this discipline at 3rd level, you gain proficiency in gadgeteer’s implements. Additionally, when you engage in crafting with gadgeteer’s implements, the rate at which you craft doubles.
+#abf;Gadgeteer Harness;3
+Also at 3rd level, you learn to create and modify adventuring gear utilizing your gadgeteer experience. Over the course of a long rest, you can create your modified gadgeteer harness. You must have gadgeteer’s implements in order to perform this modification.
+Your gadgeteer harness is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your gadgeteer harness has 4 modification slots to which you can affix gadgets, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed in excess of your proficiency bonus, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+#zls;
+#zl;engineer_feature;Gadgeteer Contraptions
+#zle;
+#abf;Projected Barrier;3
+Lastly at 3rd level, as a bonus action while wearing your gadgeteer harness, you can expend a use of your Potent Aptitude to project a barrier on a friendly creature you can see within 30 feet. A creature can only have one barrier active at a time.
+#bp;Environmental Barrier
+You project an environmental barrier that lasts until the end of your next short or long rest. The barrier has a number of hit points equal to the amount rolled on your Potent Aptitude die + your engineer level. Whenever a creature with this barrier takes damage (one of acid, cold, fire, force, lightning, necrotic, poison, psychic, or sonic, chosen by you when you activate the effect), the barrier takes the damage instead. If this damage reduces the barrier to 0 hit points, the creature take any remaining damage.
+#bp;Physical Barrier
+You project a physical barrier that lasts until the end of your next short or long rest. The barrier has a number of hit points equal to the amount rolled on your Potent Aptitude die + half your engineer level (rounded down). Whenever a creature with this barrier takes damage (one of energy, ion, or kinetic, chosen by you when you activate the effect), the barrier takes the damage instead. If this damage reduces the barrier to 0 hit points, the creature take any remaining damage.
+#abf;Versatile Direction;6
+Beginning at 6th level, you can take a second bonus action on each of your turns.
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+#abf;Reinforced Barriers;14
+At 14th level, when you cast a tech power while you have a barrier active, you can restore hit points to the barrier, provided it is within 30 feet of you. You restore a number of hit points equal to twice the power’s level, or 1 hit point for an at-will power. This can’t increase a barrier’s hit points above its initial hit points. If you have multiple barriers active, you can divide these hit points between them as you see fit.
+#abf;Adaptive Barrier;18
+Starting at 18th level, when a creature who has one of your barriers within 30 feet of you that you can see takes damage, and that damage is of a type that could be affected by that barrier, you can use your reaction to grant them resistance to the triggering damage. If that damage is the same type as the barrier’s chosen damage, you instead grant them immunity. Whether resistance or immunity, the barrier immediately drops to 0 hit points.
+#abf;Gadgeteer Contraptions;
+If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
+#ts;
+#th;Name;Prerequisites;Description;
+#tr;Advanced Grounding System;Level 13, Prototype Grounding System;While wearing your gadgeteer harness you have immunity to lightning damage.;
+#tr;Auto-Injection Regenerator;Level 5;You install a special kolto injector into your gadgeteer harness that can inject you with kolto in response to pain. When you take damage, you can use your reaction and expend a Hit Die to regain health as long as the damage would not reduce your hit points to 0.;
+#tr;Autothrusters;Jet Pack;You can take the Dash and Disengage actions as a bonus action while your jet pack is active.;
+#tr;Climbing Gloves;;You craft a set of gloves with a powerful assisted grip. While wearing these gloves, you have a climbing speed of 20 feet, and you have advantage on Strength saving throws and Strength (Athletics) checks that involve climbing.;
+#tr;Darkvision Goggles;;You craft a pair of sight-enhancing goggles. While wearing these goggles, you have darkvision to a range of 60 feet. If you already have darkvision, this modification increases its range by 30 feet.;
+#tr;Extended Tank;Level 5, Jet Pack;Your jet pack now lasts up to 10 minutes when activated.;
+#tr;Flame Vents;Level 9, Jet Pack;You learn the flame sweep tech power and can cast it at first level without using tech points. Once you have used this ability, you cannot use it again until you finish a short or long rest. Additionally, while your jet pack is active, you can cast flame sweep using your bonus action instead of your action.;
+#tr;Grounding System;;While wearing your gadgeteer harness you are immune to the shocked condition.;
+#tr;Integrated Inhibitor;Level 5;While using your harness as a tech focus, you gain a +1 bonus to your tech save DC. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Integrated Targeter;Level 5;While using your harness as a tech focus, you gain a +1 bonus to tech attack rolls. This bonus increases to +2 at 9th level and +3 at 13th level.;
+#tr;Intelligence Core Override;Level 9;You can cast the override interface tech power at 5th level without spending tech points. Once you’ve used this feature, you must complete a long rest before you can use it again.;
+#tr;Jet Pack;;You add integrate a jet pack into your gadgeteer harness to grant you temporary, limited flight. Activating or deactivating the jets requires a bonus action and, while active, you have a flying speed of 30 feet. The jet pack last for 1 minute before deactivating. Once the jets have been activated, they can’t be activated again until you finish a short or long rest. Your jet pack’s speed increases to 40 feet at 5th level, 50 feet at 9th level, 60 feet at 13th level, 70 feet at 17th level, and 80 feet at 20th level.;
+#tr;Mechanical Arm;;You create a mechanical arm which mounts to your shoulder, which you can use independently. You can only gain the benefit of items held by two of your arms at any given time. You can choose this modification twice.;
+#tr;Mimicker;Level 9;You create a device that attaches to your gadgeteer harness. Your mimicker casts a shadow that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function for 1 minute. Your mimicker is suppressed while you are incapacitated, restrained, or otherwise unable to move.;
+#tr;Miniaturized Hydraulics;;Your gadgeteer harness can store 20 pounds of equipment without adding to your encumbrance.;
+#tr;Oil Spill;;As an action, you can cast the oil slick tech power without expending tech points. Casting the power in this way does not require concentration, and the oil will remain in place for the full duration of the power. Once you’ve used this feature, you must complete a short or long rest before you can use it again.;
+#tr;Powered Grappling Hook;Level 9, Wrist-Mounted Grappling Hook;While your wrist-mounted grappling hook is deployed, when you cast a tech power with a range of touch, your hook can deliver the power as if it had cast it.;
+#tr;Prototype Grounding System;Level 9, Grounding System;While wearing your gadgeteer harness you have resistance to lightning damage.;
+#tr;Quick Start Engine;Level 5, Jet Pack;You can now activate your Jet Pack as an object interaction rather than as a bonus action.;
+#tr;Recycled Adrenals;;You can augment a single adrenal to regain its charge. This adrenal can only be used by you, and it can only affect you. Once you’ve used this adrenal, you can’t use it again until you finish a short or long rest.;
+#tr;Recycled Explosives;;You can augment a single explosive to regain its charge. This explosive can only be used by you, and it uses your tech save DC instead of its own, unless its own DC would be higher. Once you’ve used this explosive, you can’t use it again until you finish a short or long rest.;
+#tr;Recycled Stimpacs;;You can augment a single stimpac to regain its charge. This stimpac can only be used by you, and it can only affect you. Once you’ve used this stimpac, you can’t use it again until you finish a short or long rest.;
+#tr;Sentry Turret;;You learn how to craft small sentry turrets shaped like globes that can adhere to any surface. As an action or bonus action (your choice), you can throw a sentry to a point you can see within range (30 feet + your Strength modifier x 5). At the end of each of your turns, a deployed sentry automatically targets a hostile creature within 10 feet of it. If multiple targets are available, one is chosen at random. The target must make a Dexterity saving throw. On a failed save, it takes 1d4 energy damage and gains 1 slowed level until the end of your next turn. If a creature would be targeted by more than one of these sentries, it only makes this saving throw once, taking an additional d4 damage for each sentry beyond the first. The sentries have 1 hit point, an armor class of 10, and can be repaired over the course of a long rest. Each sentry lasts for 1 minute before deactivating. You can maintain a number of sentries equal to your Intelligence modifier. Once a sentry has been activated, it can’t be activated again until you finish a short or long rest.;
+#tr;Shocking Hook;Level 9, Wrist-Mounted Grappling Hook;After hitting a creature with your grappling hook, you can use the connection to deliver an at-will tech power. As a bonus action, you can cast an at-will tech power at the target with a range of touch. If the power requires an attack roll, you have advantage. If the target requires a saving throw, the target has disadvantage. Once you’ve used this feature, you can’t use it again until you recover the harpoon.;
+#tr;Stealth Field Generator;Level 9;You create an augmented belt that functions as a portable, personal cloaking device. Activating or deactivating the generator requires a bonus action and, while active, you have advantage on Dexterity (Stealth) ability checks that rely on sight. The generator lasts for 1 minute. This effect ends early if you make an attack or cast a force- or tech- power. Once the belt has been activated, it can’t be activated again until you finish a short or long rest.;
+#tr;Shocking Barrier;Level 5;You enhanced your barriers. Whenever a creature with one of your barriers active takes damage from a creature within 5 feet of it, the damaged creature can roll your Potent Aptitude die, dealing the result of the die as lightning damage to the creature that damaged it.;
+#tr;Truesight Goggles;Level 11, Darkvision Goggles;You modify your goggles with a toggle allowing you to briefly gain enhanced sight. As a bonus action, you can activate the truesight feature of your goggles. When toggled on, for the next minute your goggles now automatically dispel illusions and can detect invisibility, as with truesight. Once you’ve used this feature, you must complete a short or long rest before you can use it again.;
+#tr;Weapon Integration;;You can integrate a single weapon that weighs no more than 8 lb. into your gadgeteer harness. While integrated, that weapon gains the hidden and fixed properties.;
+#tr;Wrist-Mounted Grappling Hook;;You craft a wrist-mounted grappling hook weapon attached to a tightly coiled cord. With this contraption, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d4 kinetic damage. This attack can target a surface, object, or creature. A creature struck by this attack is impaled by the hook. As an action, a creature can attempt to remove the hook. Removing the hook requires a Strength check. While the hook is stuck in the target, you are connected to the target by a 60 foot cable. While the hook is deployed, you can use your bonus action to activate the reel, pulling yourself to the location if the target is your size or larger. A creature or object smaller than you is pulled to you. Alternatively, you can opt to release the cable (no action required). Once you’ve used this feature, you can’t use it again until you recover and reinsert the hook as an action.;
+#te;
+
+#ab;Unstable Engineering
+Those engineers who choose the Unstable Engineering discipline create and use untested combinations, resulting in powerful and often unpredictable effects.
+#abf;Bonus Proficiencies;3
+When you choose this discipline at 3rd level, you gain proficiency in a set of implements of your choice. Additionally, when you engage in crafting with tinker’s implements, the rate at which you craft doubles.
+#abf;Modified Tinkercannon;3
+Also at 3rd level, you learn to enhance your tinker’s implements with unstable science, modifying them into a harness with a cannon. Over the course of a long rest, you can modify your tinker’s implements to create a tinkercannon. You must have tinker’s implements in order to perform this modification.
+Whenever you cast a tech power of 1st level or higher while wielding your tinkercannon, you risk unexpected complications. Your GM can have you roll a d20. If you roll a 1, roll on the Unstable Engineering Surge table to create a random effect.
+Additionally, your tinkercannon come equipped with 4 overrides, and they gain more at higher levels, as shown in the Modification Slots column of the engineer table. Each time you trigger an Unstable Engineering Surge, you can use an override to reroll the percentile dice. You must use the new result, you can only do this once per surge, and each time you do so in excess of your proficiency bonus (resetting on a long rest) your maximum tech points is reduced by 1 until you complete a long rest. You regain all expended overrides when you complete a long rest.
+#zls;
+#zl;engineer_feature;Unstable Engineering Surge
+#zle;
+#abf;Unstable Volley;3
+Lastly at 3rd level, while wielding your tinkercannon, as a bonus action you can expend one use of your Potent Aptitude to launch a volley of unstable energy at a surface located within 30 feet of you that you can see. This energy adheres to the surface for 1 minute, after which it erupts. As a part of this bonus action, or as a bonus action on a following turn, you can cause the energy to erupt early. Each creature within 5 feet of it must make a Dexterity saving throw against your tech save DC. A creature takes 1d6 lightning damage on a failed save, or half as much on a successful one.
+The range at which you can launch your volley increases to 60 feet at 9th level, and 120 feet at 17th level.
+This damage increases when you reach certain levels in this class, increasing to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.
+#abf;Creative Destruction;6
+Beginning at 6th level, you can add your Intelligence modifier (a minimum of +1) to any damage you deal with tech powers and class features. If the tech power or class feature would damage multiple creatures, you can only deal this additional damage to one of them.
+If you choose to deal this additional damage, your GM can have you roll on the Unstable Engineering Surge table.
+#abf;Experimental Overrides;14
+At 14th level, you gain a modicum of control over your surges. Whenever you roll on the Unstable Engineering Surge table and use one of your overrides, you can choose either total.
+#abf;Engineering Bombardment;18
+Starting at 18th level, the harmful energies of your tech powers and class features intensify. When you roll damage for a tech power or class feature and roll the highest number possible on any of the dice, you can roll it again and use both results. You can only use this ability once per tech power or class feature.
+#abf;Unstable Engineering Surge;
+#ts;
+#th;d100;Result;
+#tr;01-02;Roll on this table at the start of each of your turns for 1 minute, ignoring this result on subsequent rolls.;
+#tr;03-04;For the next minute, you can see any invisible creature if you have line of sight to it.;
+#tr;05-06;A DRK-1 tracker droid appears with 5 feet of you, then disappears 1 minute later.;
+#tr;07-08;You cast explosion at 3rd-level centered on yourself without expending tech points.;
+#tr;09-10;You cast homing rockets at 5th-level without expending tech points.;
+#tr;11-12;Roll a d10. Your height changes by a number of inches equal to the roll: if odd, you shrink; if even, you grow.;
+#tr;13-14;You fall asleep standing for 1 minute or until you take damage.;
+#tr;15-16;For the next minute, you regain 5 hit points at the start of each of your turns;
+#tr;17-18;You grow a long beard made of feathers that remains until you sneeze.;
+#tr;19-20;You cast oil slick centered on yourself without expending tech points.;
+#tr;21-22;Creatures have disadvantage on the first saving throw they make against you in the next minute.;
+#tr;23-24;Your skin turns a vibrant shade of blue. Any effect that ends a curse ends this.;
+#tr;25-26;You grow an extra eye, granting advantage on Wisdom (Perception) checks that rely on sight for 1 minute.;
+#tr;27-28;For the next minute, all your tech powers with a casting time of 1 action have a casting time of 1 bonus action.;
+#tr;29-30;You teleport up to 60 feet to an unoccupied space of your choice that you can see.;
+#tr;31-32;You take 2d10 lightning damage and are shocked for 1 minute.;
+#tr;33-34;Maximize the damage of the next damaging tech power you cast within the next minute.;
+#tr;35-36;Roll a d10. Your age changes by a number of years equal to the roll: if odd, younger; if even, older.;
+#tr;37-38;You start running uncontrollably for 1 minute, moving your entire speed each turn.;
+#tr;39-40;You regain 2d10 hit points.;
+#tr;41-42;Each creature within 30 feet of you is subjected to the gleaming outline tech power for 1 minute.;
+#tr;43-44;For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.;
+#tr;45-46;You are blinded and deafened for 1 minute.;
+#tr;47-48;You have disadvantage on the first ability check, attack roll, or saving throw you make each turn for 1 minute.;
+#tr;49-50;You can’t speak for the next minute. Whenever you try, pink bubbles float out of your mouth.;
+#tr;51-52;A shimmering energy barrier grants you a +2 bonus to AC for 1 minute.;
+#tr;53-54;You are immune to being intoxicated by alcohol for the next 5d6 days.;
+#tr;55-56;Your hair falls out but grows back within 24 hours. If you don’t have hair, you instead grow it for 24 hours.;
+#tr;57-58;For 1 minute, any flammable object not worn or carried you touch bursts into flame.;
+#tr;59-60;You regain tech points equal to your Intelligence modifier (minimum of one).;
+#tr;61-62;For the next minute, you shout whenever you speak.;
+#tr;63-64;You cast smoke cloud centered on yourself without expending tech points.;
+#tr;65-66;Up to three creatures you choose within 30 feet of you take 4d10 lightning damage.;
+#tr;67-68;You are frightened by the nearest creature until the end of your next turn.;
+#tr;69-70;Each creature within 30 feet of you becomes invisible for 1 minute, or until it attacks or casts a power.;
+#tr;71-72;You gain resistance to all damage for the next minute.;
+#tr;73-74;A random creature within 60 feet of you becomes poisoned for 1d4 hours.;
+#tr;75-76;You emit bright light in a 30-foot radius for 1 minute.;
+#tr;77-78;Each creature within 30 feet of you except you gains the benefits of mirror image for 1 minute.;
+#tr;79-80;Illusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.;
+#tr;81-82;You can take one additional action immediately.;
+#tr;83-84;Each creature within 30 feet of you takes 1d10 necrotic damage and you gain hit points equal to the damage.;
+#tr;85-86;You cast mirror image without expending tech points.;
+#tr;87-88;You are frozen in carbonite and paralyzed for 1 minute or until you take damage.;
+#tr;89-90;You turn invisible and can’t make sound for 1 minute, or until you attack or cast a power.;
+#tr;91-92;If you die within the next minute, you immediately come back to life as if by the defibrillate power.;
+#tr;93-94;Your size increases by one size category for the next minute.;
+#tr;95-96;You and all creatures within 30 feet of you gain vulnerability to energy damage for the next minute.;
+#tr;97-98;You are surrounded by faint, ethereal music for the next minute.;
+#tr;99-100;You regain half your expended tech points.;
+#te;
+
+#ab;Astrotech Engineering
+Those engineers who choose the Astrotech Engineering discipline focus on crafting and upgrading their droid companions.
+#abf;Bonus Proficiencies;3
+When you choose this discipline at 3rd level, you gain proficiency in astrotech’s implements. Additionally, when you engage in crafting with astrotech’s implements, the rate at which you craft doubles.
 #abf;Droid Companion;3
-Also at 3rd level, you learn to employ all the knowledge you've accumulated to create and customize your own personalized droid companion.
+Also at 3rd level, you learn to employ all the knowledge you’ve accumulated to create and customize your own personalized droid companion.
 Choose your droid, which is detailed at the end of this discipline. Over the course of 8 hours, which can be done during a long rest, you can expend 500 cr worth of materials to finally finish your droid.
-If your droid is irreparable destroyed, or you want to interface with a different droid, you can spend an additional 250 credits and 1 hour to change the target of this feature. You may only have one droid companion at a time.
+If your droid is irreparably destroyed, or you want to interface with a different droid, you can spend an additional 250 credits and 1 hour to change the target of this feature. You may only have one droid companion at a time.
 Your droid gains a variety of benefits while it is interfaced with you:
 #ls;
-#li;The droid obeys your commands as best it can. It rolls for initiative like any other creature, but you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your droid acts on its own.
-#li;Your droid's level equals your engineer level, and for each engineer level you gain after 3rd, your droid companion gains an additional Hit Die and increases its hit points accordingly.
+#li;The droid obeys your commands as best it can. It acts on your turn, and you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your droid acts on its own.
+#li;Your droid’s level equals your engineer level, and for each engineer level you gain after 3rd, your droid companion gains an additional Hit Die and increases its hit points accordingly.
 #li;Your droid has the proficiency bonus of a player character of the same level.
-#li;Whenever you gain the Ability Score Improvement class feature, your droid's abilities also improve. Your droid can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your droid can't increase an ability score above 20 using this feature unless its description specifies otherwise.
+#li;Whenever you gain the Ability Score Improvement feature in this class, your droid’s abilities also improve. Your droid can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your droid can’t increase an ability score above 20 using this feature unless its description specifies otherwise.
 #li;Your droid can not wear armor, but you can have the armor professionally integrated into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to integrate it into your droid. Your droid must be proficient in armor in order to have it integrated.
 #li;Your droid is a valid target of the tracker droid interface tech power.
 #le;
-Additionally, you can modify your droid. Your droid companion has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Additionally, you can modify your droid. Your droid companion has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
 #zls;
-#zl;engineer_feature;Astrotech Upgrades
+#zl;engineer_feature;Astrotech Modifications
 #zle;
 #abf;Potent Integration;3
 Lastly at 3rd level, when your droid makes an attack roll, you can use your reaction to expend one use of your Potent Aptitude to give it a boost. Roll the die and add it to both the attack and damage rolls, if the attack hits.
@@ -668,39 +806,186 @@ Beginning at 6th level, when you take the Attack action, if your companion can s
 #abf;Droid Defense;14
 At 14th level, while your droid can see you, it has advantage on all saving throws.
 #abf;Superior Droid Defense;18
-Starting at 18th level, whenever an attacker that your droid can see hits it with an attack, it can use its reaction to halve the attack's damage against it.
-#abf;Astrotech Upgrades;
-If an upgrade has prerequisites, you must meet them to install it. You can install the upgrade at the same time that you meet its prerequisites.
+Starting at 18th level, whenever an attacker that your droid can see hits it with an attack, it can use its reaction to halve the attack’s damage against it.
+
+#abf;Generating Your Droid;
+Choosing your droid companion is an integral part of being an Astrotech Engineer. The class of droid you choose determines their features. Class I through V droids are all appropriate options, with their statistics listed below.
+Once you’ve selected your type of droid class, you assign your droid’s ability scores using standard array (16, 14, 14, 12, 10, 8) as you see fit.
+
+#abf;Droid Features;
+All droids share the following features.
+#h;Resistances and Vulnerabilities
+#ls;
+#li;Droid Resistances: Your droid is resistant to necrotic, poison, and psychic damage, and immune to poison and disease.
+#li;Droid Vulnerabilities: Your droid is vulnerable to ion damage. Additionally, your droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+#le;
+#h;Traits
+#ls;
+#li;Creature Type: Droid
+#li;Armor Integration: Your droid can not wear armor, but you can have the armor professionally integrated into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to have it integrated. This work must be done by someone proficient with astrotech’s implements. Your droid must be proficient in armor in order to have it integrated.
+#li;Droid Systems: Your droid does not need to eat or drink.
+#le;
+
+#abf;Class I Droid;
+Class I droids are programmed for the mathematical, medical, or physical sciences. Subcategories of the first degree are medical droids, biological science droids, physical science droids, and mathematics droids.
+As a class I droid, your droid companion has the following features.
+#h;Hit Points
+#ls;
+#li;Hit Dice: 1d8 per class I droid level.
+#li;Hit Points at 1st Level: 8 + your droid’s Constitution modifier.
+#li;Hit Points at Higher Levels: 1d8 (or 5) + your droid’s Constitution modifier per class I droid level after 1st.
+#le;
+#h;Proficiencies
+#ls;
+#li;Armor: Light armor plating.
+#li;Weapons: Simple blasters, simple vibroweapons.
+#li;Tools: None.
+#li;Languages: Class I droids can speak, read, and write Galactic Basic and one language of your choice. They can understand spoken and written Binary, but can not speak it.
+#li;Saving Throws: Wisdom, Intelligence.
+#li;Skills: Two Intelligence, Wisdom, or Charisma skills of your choice.
+#le;
+#h;Features
+#ls;
+#li;Size: Medium.
+#li;Speed: 25 ft.
+#le;
+
+#abf;Class II Droid;
+Class II droids are programmed for engineering and other technical sciences. They differ from class I droids because they apply the science to real-life situations. Class II droids are rarely equipped with Basic vocabulators, instead communicating through Binary. There are five subcategories of class II droids. Astromech, exploration, environmental, engineering, and maintenance droids are all class II droids.
+As a class II droid, your droid companion has the following features.
+#h;Hit Points
+#ls;
+#li;Hit Dice: 1d6 per class II droid level.
+#li;Hit Points at 1st Level: 6 + your droid’s Constitution modifier.
+#li;Hit Points at Higher Levels: 1d6 (or 4) + your droid’s Constitution modifier per class II droid level after 1st.
+#le;
+#h;Proficiencies
+#ls;
+#li;Armor: Light armor, medium armor.
+#li;Weapons: Simple blasters and simple vibroweapons with the light property.
+#li;Tools: Your choice of demolition’s kit, security kit, or slicer’s kit.
+#li;Languages: Class II droids can speak, read, and write Binary. They can understand spoken and written Galactic Basic and one language of your choice, but can not speak it.
+#li;Saving Throws: Dexterity, Intelligence.
+#li;Skills: Two of your choice.
+#le;
+#h;Features
+#ls;
+#li;Size: Small.
+#li;Speed: 25 ft.
+#le;
+
+#abf;Class III Droid;
+Class III droids are programmed to interact with humans. They are said to be the most advanced droids ever invented. Protocol, servant, tutor, and child care droids are all class III droids.
+As a class III droid, your droid companion has the following features.
+#h;Hit Points
+#ls;
+#li;Hit Dice: 1d8 per class III droid level.
+#li;Hit Points at 1st Level: 8 + your droid’s Constitution modifier.
+#li;Hit Points at Higher Levels: 1d8 (or 5) + your droid’s Constitution modifier per class III droid level after 1st.
+#le;
+#h;Proficiencies
+#ls;
+#li;Armor: Light armor.
+#li;Weapons: Simple blasters, simple vibroweapons.
+#li;Tools: None.
+#li;Languages: Class III droids can speak and understand all registered languages.
+#li;Saving Throws: Wisdom, Charisma.
+#li;Skills: None.
+#le;
+#h;Features
+#ls;
+#li;Size: Medium.
+#li;Speed: 25 ft.
+#le;
+
+#abf;Class IV Droid;
+Class IV droids are programmed for military and security purposes. Such droids tend to perform tasks of violence or combat might be expected. Almost all class IV droids carry weapons. Armed combat droids are among the first droids ever created. Security, gladiator, battle, and assassin droids are all class IV droids.
+As a class IV droid, your droid companion has the following features.
+#h;Hit Points
+#ls;
+#li;Hit Dice: 1d8 per class IV droid level.
+#li;Hit Points at 1st Level: 8 + your droid’s Constitution modifier.
+#li;Hit Points at Higher Levels: 1d8 (or 5) + your droid’s Constitution modifier per class IV droid level after 1st.
+#le;
+#h;Proficiencies
+#ls;
+#li;Armor: All armor.
+#li;Weapons: All blasters, All vibroweapons.
+#li;Tools: None.
+#li;Languages: Class IV droids can speak, read, and write Galactic Basic and one language of your choice. They can understand spoken and written Binary, but can not speak it.
+#li;Saving Throws: Strength, Dexterity.
+#li;Skills: None.
+#le;
+#h;Features
+#ls;
+#li;Size: Medium.
+#li;Speed: 30 ft.
+#le;
+
+#abf;Class V Droid;
+Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation.
+As a class V droid, your droid companion has the following features.
+#h;Hit Points
+#ls;
+#li;Hit Dice: 1d8 per class V droid level.
+#li;Hit Points at 1st Level: 8 + your droid’s Constitution modifier.
+#li;Hit Points at Higher Levels: 1d8 (or 5) + your droid’s Constitution modifier per class V droid level after 1st.
+#le;
+#h;Proficiencies
+#ls;
+#li;Armor: Light armor, medium armor.
+#li;Weapons: All vibroweapons, simple blasters.
+#li;Tools: One set of artisan’s implements.
+#li;Languages: Class V droids can speak, read, and write Binary. They can understand spoken and written Galactic Basic and one language of your choice, but can not speak it.
+#li;Saving Throws: Strength, Constitution.
+#li;Skills: Athletics.
+#le;
+#h;Features
+#ls;
+#li;Size: Medium.
+#li;Speed: 30 ft.
+#le;
+
+#abf;Astrotech Modifications;
+If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
 #ts;
 #th;Name;Prerequisites;Description;
-#tr;Advanced Power Core;Level 7, d10 hit die;You greatly improve the power core of your droid. It's hit die becomes a d12.;
-#tr;Alarm Protocol;;You install an alarm module in your droid, granting the following benefits: Your droid gains a +5 bonus to initiative. You can't be surprised while your droid is conscious.;
-#tr;Arm Cannons;;You install dual arm cannons in your droid. The arm cannons have 2 charges. As an action, your droid can use charges to cast the *overload* tech power, using 1 charge per level. The saving throw is made against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus). You can choose this upgrade multiple times. Each time you do so, the arm cannons gain another charge, to a maximum of 4. The arm cannons regain all charges after a long rest.;
-#tr;Back-Up Protocol;Level 7, Class Four Droid;You install an emergency protocol in your droid, prompting a quick reboot after critical damage is taken. If your droid would be reduced to 0 hit points, it instead is reduced to 1. Once your droid uses this feature, it must finish a short or long rest before it can use it again.;
-#tr;Charisma Chip;Class Three Droid;You install a charisma chip in your droid granting the following benefit: When an ally your droid can see makes attack roll, ability check, or saving throw, your droid can use its reaction to give them advantage on the roll. Once your droid uses this ability, it can't use it again until it finishes a short or long rest. You install the newest social interaction chip to your droid. Your droid has advantage on Charisma (Performance) checks.;
-#tr;Celerity Augment;;You augment your droid to move a little faster. Your droid's speed increases by 5 feet. You can choose this upgrade twice.;
-#tr;Durability Module;;You enhance your droid's durability, granting the following benefits: When your droid rolls a Hit Die to regain hit points, the minimum number of hit points your droid can regain from the roll equals twice your droid's Constitution modifier (minimum of 2). Your droid's hit point maximum increases by an amount equal to twice its level when you install this protocol. Whenever your droid gains a level thereafter, its hit point maximum increases by an additional 2 hit points.;
-#tr;Emergency Mode;Level 15, Class Four Droid, Back-Up Protocol;You upgrade your droid's back-up protocol. When your droid's back-up protocol is initiated, it can immediately use its reaction to make one attack roll against a target within range. If the target is the source of the damage that reduced your droid to 0, the attack roll has advantage.;
-#tr;Energy Shield;;You install an energy shield in your droid. The energy shield has 1 charge. As an action, your droid can use 1 charge to cast the *energy shield* tech power. You can choose this upgrade multiple times. Each time you do so, the energy shield gains another charge, to a maximum of 3. The energy shield regains all expended charges after a long rest.;
-#tr;Expertise Protocol;Level 5;You install a protocol in your droid that grants it expertise in a skill. Choose a skill that your droid is proficient in. Your droid gains expertise in it.;
-#tr;False Combustion;Class Two Droid;You install a panic protocol in your droid. As a reaction in response to taking damage, your droid can feign an explosion. For 1 minute, your droid appears to be destroyed to all outward inspection. A creature can use its action to inspect the droid and make an Intelligence (Investigation) check against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus). If it succeeds, it becomes aware that the target is disguised.;
-#tr;Fighting Style Protocol;;Your droid adopts a particular style of fighting as its specialty. Choose one of the Fighting Style options, detailed in chapter 6. Your droid can't take a Fighting Style option more than once, even if it later gets to choose again.;
-#tr;Flamethrower;;You install a flamethrower in your droid. The flamethrower has 1 charge. As an action, your droid can cast the *jet of flame* tech power or use 1 charge to cast the *flame sweep* tech power at 1st level. The saving throw is made against your droid's tech save DC (8 + Intelligence modifier + proficiency bonus). You can choose this upgrade multiple times. Each time you do so, the flamethrower gains another charge, to a maximum of 3. If the flamethrower has multiple charges, you can use multiple charges to cast *flame sweep* at a higher level, 1 point per charge. The flame thower regains all expended charges after a long rest.;
-#tr;Four-Armed Combatant;Level 9, Class Four Droid;You install two additional arms to improve your droid's combat capabilities, granting it four arms which it can use independently of one another. Your droid can only gain the benefit of items held by two of its arms at any given time, and once per round your droid can switch which arms it is benefiting from (no action required). When your droid hits a creature with a melee weapon attack on its turn, it can use a bonus action to attempt to grapple the target. While your droid has at least 3 arms free, it has a climbing speed equal to its walking speed.;
-#tr;Heavy Plating;Medium Armor proficiency;Your droid gains proficiency in heavy armor. If your droid is already proficient in heavy armor, instead kinetic and energy damage that your droid takes from unenhanced weapons is reduced by an amount equal to its proficiency bonus.;
-#tr;Light Plating;;Your droid gains proficiency in light armor. If your droid is already proficient in light armor, instead your droid's speed increases by 5 feet while light armor is integrated.;
-#tr;Medium Plating;Light Armor proficiency;Your droid gains proficiency in medium armor.  If your droid is already proficient in medium armor, the maximum Dexterity bonus your droid can add to AC increases to 3 from 2 while medium armor is integrated.;
-#tr;Observant Protocol;Level 7, Alarm Protocol;You upgrade the alarm module in your droid, granting the following benefits: If your droid can see a creature's mouth while it is speaking a language it understands, your droid can interpret what it's saying by reading its lips. Your droid has a +5 bonus to its passive Wisdom (Perception) and passive Intelligence (Investigation) scores.;
-#tr;Performance Protocol;Level 7, Class Three Droid;You upgrade your droid's charisma chip, granting the following benefits: Your droid has advantage on Charisma (Performance) checks. Your droid can also use its bonus action to motivate an ally within 30 feet of it. Until the start of your droid's next turn, the ally can add the droid's Charisma modifier (minimum of +1) to the first attack roll, ability check, or saving throw they make. Your droid can use this feature a number of time equal to its Charisma modifier, and it regains all expended uses after it completes a long rest.;
-#tr;Premium Power Core;;You improve the power core of your droid. It's hit die becomes a d8.;
-#tr;Proficiency Protocol;;You install a protocol in your droid that grants it proficiency in a tool or skill. Your droid gains proficiency in a tool or skill of your choice.;
-#tr;Prototype Power Core;d8 hit die;You further improve the power core of your droid. It's hit die becomes a d10.;
-#tr;Repulsor Coil;Level 7, Class Two Droid;You install repulsor coils in your droid's legs. Your droid gains a flight speed equal to its walking speed.;
-#tr;Sensor Augmentation;;You augment your droid with an advanced sensor, granting the following benefits: Your droid has advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors. Your droid has advantage on saving throws made to avoid or resist traps. Your droid has resistance to the damage dealt by traps. Your droid can search for traps while traveling at a normal pace, instead of only at a slow pace.;
-#tr;Stun Ray;;You install a stun ray in your droid. The stun ray has 1 charge. As an action, your droid can use 1 charge to cast the *hold droid* or *paralyze humanoid* tech power. The saving throw is made against your droid's tech save DC (8 + Intelligence + proficiency). You can choose this upgrade multiple times. Each time you do so, the stun ray gains another charge, to a maximum of 3. The stun ray regains all expended charges after a long rest.;
-#tr;Techcasting Protocol;;Your droid learns two at-will tech powers, and one 1st-level tech power, which it casts at its lowest level. Once your droid casts it, your droid must finish a long rest before it can cast it again. Intelligence is your droid's techcasting ability for these powers. It does not require use of a wristpad for these powers.;
-#tr;Toughness Module;Level 11, Durability Module;You upgrade the durability module in your droid, granting the following benefit: Your droid becomes proficient in Constitution saving throws. If it is already proficient, it becomes proficient in another saving throw of your choice. Whenever your droid takes the Dodge action in combat, it can spend one Hit Die to heal itself. Roll the die, add its Constitution modifier, and it regains a number of hit points equal to the total (minimum of one).;
+#tr;Advanced Power Core;Level 7, d10 hit die;Your droid’s hit points increase by an amount equal to its level + 1 and its Hit Die becomes a d12.;
+#tr;Alarm Protocol;;You install an alarm module in your droid, granting the following benefits: Your droid grants a +5 bonus to initiative to creatures within 5 feet of it and You and your droid can’t be surprised while your droid is conscious.;
+#tr;Analysis Protocol;Level 7, Class 1 Droid;Your droid can analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a bonus action on your droid’s turn, your droid can analyze a target it can see within 60 feet of it. For the next minute, or until it analyzes another target, it gains the following benefits: When it analyzes a hostile creature, its attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use its Intelligence modifier instead of Strength or Dexterity and When it analyzes a friendly creature, the target can end your droid’s Analysis Protocol on them (no action required) to add half your droid’s Intelligence modifier (rounded down, minimum of +1) to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.;
+#tr;Arm Cannons;;You install dual arm cannons in your droid. The arm cannons have 2 charges. As an action, your droid can use charges to cast the overload tech power, using 1 charge per level. The saving throw is made against your droid’s tech save DC (8 + your droid’s proficiency bonus + your droid’s Intelligence modifier). You can choose this modification multiple times. Each time you do so, the arm cannons gain another charge, to a maximum of 4. The arm cannons regain all charges after a long rest.;
+#tr;Back-Up Protocol;Level 7;You install an emergency protocol in your droid, prompting a quick reboot after critical damage is taken. If your droid would be reduced to 0 hit points, it instead is reduced to 1. Once your droid uses this feature, it must finish a short or long rest before it can use it again.;
+#tr;Celerity Augment;;You augment your droid to move a little faster. Your droid’s speed increases by 5 feet. You can choose this modification twice.;
+#tr;Charisma Chip;Class 3 Droid;You install a charisma chip in your droid. When an ally your droid can see makes an ability check, attack roll, or saving throw, your droid can use its reaction to give them advantage on the roll. It can do so before or after they roll the d20, but before the GM says the roll succeeds or fails. Once your droid uses this ability, it can’t use it again until it finishes a short or long rest.;
+#tr;Darkvision Optics;;Your droid has darkvision to a range of 60 feet. If your droid already has darkvision, this modification increases its range by 30 feet.;
+#tr;Durability Module;;You enhance your droid’s durability, granting the following benefits: When your droid rolls a Hit Die to regain hit points, the minimum number of hit points your droid can regain from the roll equals twice your droid’s Constitution modifier (minimum of 2) and Your droid’s hit point maximum increases by an amount equal to twice its level when you install this protocol. Whenever your droid gains a level thereafter, its hit point maximum increases by an additional 2 hit points.;
+#tr;Emergency Mode;Level 15, Back-Up Protocol;You modify your droid’s back-up protocol. When your droid’s back-up protocol is initiated, it can use its reaction to make one attack roll against a target within range. If the target is the source of the damage that reduced your droid to 0, the attack roll has advantage.;
+#tr;Energy Shield;;You install an energy shield in your droid, which has 1 charge. As an action, your droid can use 1 charge to cast the energy shield tech power. You can choose this modification multiple times. Each time you do so, the energy shield gains another charge, to a maximum of 3. The energy shield regains all expended charges after a long rest.;
+#tr;Expertise Protocol;Level 5;You install a protocol in your droid that grants it expertise in a tool or skill in which it is proficient.;
+#tr;False Combustion;Class 2 Droid;As a reaction in response to taking damage, your droid can feign an explosion. For 1 minute, it appears to be destroyed to all outward inspection. A creature can use its action to inspect your droid and make an Intelligence (Investigation) check (DC = 8 + your droid’s proficiency bonus + your droid’s Intelligence modifier). If it succeeds, it becomes aware that your droid still functions.;
+#tr;Fighting Style Protocol;;Your droid adopts a particular style of fighting as its specialty. Choose one of the fighting style options, detailed in chapter 6. Your droid can’t take a Fighting Style option more than once, even if it later gets to choose again.;
+#tr;Flamethrower;;You install a flamethrower in your droid. The flamethrower has 1 charge. As an action, your droid can cast the jet of flame tech power, though it does not scale with higher levels, or use 1 charge to cast the flame sweep tech power at 1st level. The saving throw is made against your droid’s tech save DC (8 + your droid’s proficiency bonus + your droid’s Intelligence modifier). You can choose this modification multiple times. Each time you do so, the flamethrower gains another charge, to a maximum of 3. If the flamethrower has multiple charges, you can use multiple charges to cast flame sweep at a higher level, 1 point per charge. The flamethrower regains all expended charges after a long rest.;
+#tr;Four-Armed Combatant;Class 4 Droid;You install two additional arms to improve your droid’s combat capabilities, granting it four arms which it can use independently of one another. Your droid can only gain the benefit of items held by two of its arms at any given time, and once per round your droid can switch which arms it is benefiting from (no action required). While your droid has at least 3 arms free, it has a climbing speed equal to its walking speed.;
+#tr;Heavy Plating;Medium Armor proficiency;Your droid gains proficiency in heavy armor. If your droid is already proficient in heavy armor, instead critical hits are treated as normal hits against it.;
+#tr;Light Plating;;Your droid gains proficiency in light armor. If your droid is already proficient in light armor, instead your droid’s speed increases by 5 feet while light armor is integrated.;
+#tr;Martial Protocol;Level  7, Class 4 Droid;Your droid has martial training that allows it to perform special combat maneuvers. It gains the following benefits: It learns two maneuvers of your choice from among those available to the fighter class. If a maneuver it uses requires its target to make a saving throw to resist the maneuver’s effects, the saving throw DC equals 8 + your droid’s proficiency bonus + your droid’s Strength or Dexterity modifier (your choice) and Your droid has two superiority dice, which are d4s. These dice are used to fuel its maneuvers. A superiority die is expended when your droid uses it. It regain all of its expended superiority dice when you finish a short or long rest.;
+#tr;Medium Plating;Light Armor proficiency;Your droid gains proficiency in medium armor. If your droid is already proficient in medium armor, the maximum Dexterity bonus your droid can add to AC increases to 3 from 2 while medium armor is integrated.;
+#tr;Memory Protocol;Class 1 Droid; Your droid can recall anything it has read in the past month that it understood. This includes but is not limited to books, maps, signs, and lists.;
+#tr;Observant Protocol;Level 7, Alarm Protocol;You modify the alarm module in your droid, granting the following benefits: If your droid can see a creature’s mouth while it is speaking a language it understands, your droid can interpret what it’s saying by reading its lips and Your droid is considered to have advantage when determining its passive Wisdom (Perception) and passive Intelligence (Investigation) scores.;
+#tr;Performance Protocol;Level 7, Class 3 Droid;You modify your droid’s charisma chip, granting the following benefits: Your droid has advantage on Charisma (Performance) checks and Your droid can also use its bonus action to motivate an ally within 30 feet of it. Until the start of your droid’s next turn, the ally can add the droid’s Charisma modifier (minimum of +1) to the first attack roll, ability check, or saving throw they make. Your droid can use this feature a number of time equal to its Charisma modifier, and it regains all expended uses after it completes a long rest.;
+#tr;Powerful Droid;Class 5 Droid;Your droid’s carrying capacity and the weight it can push, drag, or lift doubles. If it would already double, it instead triples.;
+#tr;Powerful Grip;Level 7, Class 5 Droid; When your droid hits a creature with a melee weapon attack on its turn and has a free hand, it can use a bonus action to attempt to grapple the target. If it does so, and the grapple succeeds, your droid can make one additional attack against the target (no action required).;
+#tr;Premium Power Core;d6 hit die;Your droid’s hit points increase by an amount equal to its level + 1 and its Hit Die becomes a d8.;
+#tr;Proficiency Protocol;;You install a protocol in your droid that grants it proficiency in a tool or skill. Your droid gains proficiency in a tool or skill of your choice. You can choose this modification multiple times.;
+#tr;Prototype Power Core;d8 hit die;Your droid’s hit points increase by an amount equal to its level + 1 and its Hit Die becomes a d10.;
+#tr;Repulsor Coil;Level 7, Class 2 Droid;You install repulsor coils in your droid’s legs. Your droid gains a flying speed equal to its walking speed.;
+#tr;Sensor Augmentation;;You augment your droid with an advanced sensor, granting the following benefits: Your droid has advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors and Your droid has advantage on saving throws made to avoid or resist traps and Your droid has resistance to the damage dealt by traps and Your droid can search for traps while traveling at a normal pace, instead of only at a slow pace.;
+#tr;Stun Ray;;You install a stun ray in your droid. The stun ray has 1 charge. As an action, your droid can use 1 charge to cast the hold droid or paralyze humanoid tech power. The saving throw is made against your droid’s tech save DC (8 + your droid’s proficiency bonus + your droid’s Intelligence modifier). You can choose this modification multiple times. Each time you do so, the stun ray gains another charge, to a maximum of 3. The stun ray regains all expended charges after a long rest.;
+#tr;Techcasting Protocol;;Your droid learns one at-will tech power and one 1st-level tech power, which it can cast at its lowest level once per long rest. Your droid’s techcasting ability is Intelligence. It does not require use of a wristpad for these powers. At-will powers chosen in this way do not scale with higher levels.;
+#tr;Toughness Module;Level 11, Durability Module;You modify the durability module in your droid, granting the following benefit: Your droid becomes proficient in Constitution saving throws. If it is already proficient, it becomes proficient in another saving throw of your choice and Whenever your droid takes the Dodge action in combat, it can spend one Hit Die to heal itself. Roll the die, add its Constitution modifier, and it regains a number of hit points equal to the total (minimum of one).;
+#tr;Truesight Optics;Level 11, Darkvision Optics;Your droid can see through illusions and detect invisibility within 30 feet, as with truesight.;
 #te;
+
 ##;Fighter
 #h;Fighter
 A Trandoshan runs frantically across rooftops, constantly looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders him unconscious. His blurry vision barely makes out the figure of a masked woman who casually approaches, ready to collect her bounty.
