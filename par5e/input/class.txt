@@ -1258,38 +1258,38 @@ At 18th level, once per round, when you would roll a Superiority Die, you can in
 A dark-skinned human quickly runs down a corridor, the metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him.
 A sith pureblood, clad head to toe in black and red armor, charges towards a line of soldiers. Shot after shot deflects off his armor until he reaches his prey, where he unleashes his fury in a series of devastating lightsaber sweeps.
 A zabrak general dramatically leaps to his soon-to-be overrun squad, landing with a flurry of lightsaber attacks. At the arrival of this powerful Jedi, the attackers fall back.
-Guardians are the master of the art of lightsaber combat. They focus on utilizing the everpresent power of the Force to enable devastating attacks, often singlehandedly turning the tide of battle.
-#h;Protector Or Predator
+Guardians are the master of the art of lightsaber combat. They focus on utilizing the everpresent power of the Force to enable devastating attacks, often single-handedly turning the tide of battle.
+#h;Protector or Destroyer
 An unstoppable agent of the Force, the guardian channels the power flowing through him into his weapons. Their skills with a lightsaber are unrivalled. Subduing their enemies and bolstering their allies, the guardian uses the Force to control what happens around them.
 #h;Natural Leaders
-The guardian's command of the Force lends them a powerful presence. Whether through fear and intimidation or respect and admiration, the guardian is one of the greatest generals on the battlefield. They are a symbol of power to their followers.
+The guardian’s command of the Force lends them a powerful presence. Whether through fear and intimidation or respect and admiration, the guardian is one of the greatest generals on the battlefield. They are a symbol of power to their followers.
 #h;Creating A Guardian
 While creating your guardian, consider your attraction to the Force and its most famous practitioners - the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path? Are you a soldier tapping into a latent Force-sensitivity? Were you trained in the force from a young age, or did you discover it as an adult? How do you treat those weaker than you? What was your family like? Do you see the Force as light and dark, or an impartial river of gray?
 #h;Quick Build
 You can make a guardian quickly by following these suggestions. First, make Strength your highest ability score, followed by Constitution. Second, choose the Jedi or Sith background.
 #h;The Guardian
 #ts;
-#th;Level;Proficiency Bonus;Features;Force Powers Known;Force Points;Max Power Level;
-#tr;1;+2;Forcecasting, Channel the Force;4;2;1;
-#tr;2;+2;Force-Empowered Strikes, Guardian Aura;5;4;1;
-#tr;3;+2;Guardian Focus;2;6;6;
-#tr;4;+2;Ability Score Improvement;7;8;1;
-#tr;5;+3;Extra Attack;9;10;2;
-#tr;6;+3;Force Purity;10;12;2;
-#tr;7;+3;Guardian Focus;11;14;2;
-#tr;8;+3;Ability Score Improvement;12;16;2;
-#tr;9;+4;-;14;18;3;
-#tr;10;+4;Guardian Aura;15;20;3;
-#tr;11;+4;Improved Force-Empowered Strikes;16;22;3;
-#tr;12;+4;Ability Score Improvement;17;24;3;
-#tr;13;+5;-;19;26;4;
-#tr;14;+5;Cleansing Touch;20;28;4;
-#tr;15;+5;Guardian Focus;21;30;4;
-#tr;16;+5;Ability Score Improvement;22;32;4;
-#tr;17;+6;-;24;34;5;
-#tr;18;+6;Guardian Aura;25;36;5;
-#tr;19;+6;Ability Score Improvement;26;38;5;
-#tr;20;+6;Guardian Focus;27;40;5;
+#th;Level;Proficiency Bonus;Features;Force Powers Known;Force Points;Max Power Level;Focused Strikes
+#tr;1st;+2;Forcecasting, Channel the Force;5;2;1st;-;
+#tr;2nd;+2;Force-Empowered Strikes, Fighting Style;7;4;1st;2d8;
+#tr;3rd;+2;Guardian Aura, Guardian Focus;9;6;1st;2d8;
+#tr;4th;+2;Ability Score Improvement;10;8;1st;2d8;
+#tr;5th;+3;Extra Attack;12;10;2nd;3d8;
+#tr;6th;+3;Force Purity;13;12;2nd;3d8;
+#tr;7th;+3;Focus feature;14;14;2nd;3d8;
+#tr;8th;+3;Ability Score Improvement;15;16;2nd;3d8;
+#tr;9th;+4;Guardian Aura (15-foot radius);17;18;3rd;4d8;
+#tr;10th;+4;Guardian Aura (two auras);18;20;3rd;4d8;
+#tr;11th;+4;Improved Force-Empowered Strikes;19;22;3rd;4d8;
+#tr;12th;+4;Ability Score Improvement;20;24;3rd;4d8;
+#tr;13th;+5;-;22;26;4th;5d8;
+#tr;14th;+5;Cleansing Touch;23;28;4th;5d8;
+#tr;15th;+5;Focus feature;24;30;4th;5d8;
+#tr;16th;+5;Ability Score Improvement;25;32;4th;5d8;
+#tr;17th;+6;Guardian Aura (30-foot radius);27;34;5th;6d8;
+#tr;18th;+6;Guardian Aura (three auras);28;36;5th;6d8;
+#tr;19th;+6;Ability Score Improvement;29;38;5th;6d8;
+#tr;20th;+6;Focus feature;30;40;5th;6d8;
 #te;
 #h;Class Features
 As an guardian, you gain the following class features.
@@ -1299,170 +1299,229 @@ Hit Points at 1st Level: 10 + your Constitution modifier.
 Hit Points at Higher Levels: 1d10 (or 6) + your Constitution modifier per guardian level after 1st.
 Proficiencies
 Armor: Light Armor, Medium Armor
-Weapons: Simple Vibroweapons, Martial Vibroweapons, Simple Lightsabers, Martial Lightsabers
+Weapons: All lightweapons, all vibroweapons
 Tools: None
 Saving Throws: Constitution, Charisma
 Skills: Choose two from Acrobatics, Athletics, Deception, Insight, Intimidation, Lore, Perception, Persuasion, and Piloting
 Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+You start with the following equipment, in addition to the equipment granted by your background
 #ls;
-#li;(a) a martial lightweapon or vibroweapon and a light or medium shield or (b) two martial lightweaponss or vibroweapons
-#li;(a) combat suit and light shield or (b) light battle armor
-#li;(a) a priest's pack or (b) an explorer's pack
+#li;(a) a lightweapon or vibroweapon and a light or medium physical shield or (b) two lightweapons or vibroweapons
+#li;(a) combat suit and a light physical shield or (b) mesh armor
+#li;(a) a priest’s pack or (b) an explorer’s pack
 #le;
 VARIANT: STARTING WEALTH
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 1000 cr + (5d4 x 100) cr.
+In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 8d4 x 100 cr.
 #fe;Forcecasting;1
-In your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an abiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
+Beginning at 1st level, in your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an abiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
 #h;Force Powers Known
-You learn 4 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the Guardian class table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
+You learn 5 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the guardian table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
 #h;Force Points
-You have a number of force points equal to your guardian level x 2, and you earn more at higher levels, as shown in the Force Points column of the Guardian class table. You use these force points to cast force powers. You regain all expended force points when you finish a long rest.
+You have a number of force points equal to your guardian level x 2, as shown in the Force Points column of the guardian table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers. You regain all expended force points when you finish a long rest.
 #h;Max Power Level
-Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Guardian class table.
-You may only cast force powers at 5th-level once. You regain the ability to do so after a short or long rest.
+Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the guardian table.
+You may only cast force powers at 5th-level once. You regain the ability to do so after a long rest.
 #h;Forcecasting Ability
-Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
+Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. Additionally, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
 #bp;Force save DC
-8 + your proficiency bonus +your forcecasting ability modifier
+8 + your proficiency bonus + your forcecasting ability modifier 
 #bp;Force attack modifier
-your proficiency bonus +your forcecasting ability modifier
+your proficiency bonus + your forcecasting ability modifier
 #fe;Channel the Force;1
-You know how to channel the Force to create a unique effect. You start with your choice from two such effects: Cause Harm and Lend Aid. At 3rd level, your Guardian Focus grants you an additional effect. When you use your Channel the Force, you choose which effect to create.
-Some Channel the Force effects require saving throws. When you use such an effect from this class, the DC equals your force save DC.
-You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, minimum of once). You regain expended uses when you finish a short or long rest.
+Also at 1st level, you know how to channel the Force to create a unique effect. You start with your choice of one from two such effects: Cause Harm or Lend Aid. At 3rd level, your Guardian Focus grants you an additional effect. When you use your Channel the Force, you choose which effect to create.
+Some Channel the Force effects require saving throws. When you use such an effect from this class, the DC equals your universal force save DC.
+You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, minimum of once). You regain all expended uses when you finish a short or long rest.
 #h;Cause Harm
-As an action, you can expend a use of your Channel the Force to sap the life from a hostile creature you can see within 30 feet. That creature must make a Constitution saving throw. On a failed save, the creature takes necrotic damage equal to your guardian level + your Charisma modifier, or half as much on a successful one.
+As an action, you can expend a use of your Channel the Force to sap the life from a hostile creature you can see within 60 feet. That creature must make a Constitution saving throw. On a failed save, the creature takes necrotic damage equal to your guardian level + your Charisma modifier (minimum of one), or half as much on a successful one.
 #h;Lend Aid
-As a bonus action, you can expend a use of your Channel the Force and touch a creature within 5 feet of you. That creature regains hit points equal to your guardian level + your Wisdom modifier. Alternatively, if the creature is poisoned or diseased, you neutralize the poison or disease. If more than one poison or disease aflicts the target, you neutralize one poison or disease that you know is present, or you neutralize one at random.
+As a bonus action, you can expend a use of your Channel the Force and touch a beast or humanoid within 5 feet of you. That creature regains hit points equal to your guardian level + your Wisdom modifier (minimum of one). Alternatively, if the beast or humanoid is poisoned or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts the target, you neutralize one poison or disease that you know is present, or you neutralize one at random.
 #fe;Force-Empowered Strikes;2
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend force points to deal additional damage to the target. The extra damage is 2d8 for a 1st-level force slot, plus 1d8 for each slot level higher than 1st, to a maximum of 5d8. The damage is the same type as the weapon's damage.
-You can't use a higher level force slot than your Max Power Level.
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend force points to deal additional damage to the target, which is the same type as the weapon’s damage. The additional damage is 1d8 for each point spent in this way. You can’t deal more additional damage than the amount shown in the Focused Strikes column of the guardian table.
+#fe;Fighting Style;2
+Also at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
 #fe;Guardian Aura;2
-At the 2nd level, you gain an aura of your choice, as described at the end of the class description. When you reach 10th level you can select a second aura.
+When you reach 3rd level, you gain an aura of your choice, as detailed at the end of the class description. You gain an additional aura at 10th and 18th level.
 The auras are presented in alphabetical order. If multiple guardians grant the same aura, affected creatures can only benefit from it once. You must be conscious to grant the benefits of your auras.
+At 9th level, the range of these auras increases to 15 feet, and at 17th level, the range of these auras increases to 30 feet.
 #ts;
 #th;Aura Name;Description;
-#tr;Aura of Conquest;Whenever a creature who is frightened of you starts its turn within 5 feet of you, its speed is reduced to 0 and that creature takes psychic damage equal to half your guardian level. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
-#tr;Aura of Conviction;You and friendly creatures within 5 feet of you can not be frightened while you are conscious.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.
-#tr;Aura of Devotion;You and friendly creatures within 5 feet of you can not be charmed while you are conscious. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
-#tr;Aura of Hatred;You and friendly creatures within 5 feet of you gain a bonus to the first melee weapon damage rolls you make each round equal to your Charisma modifier (minimum of +1). You must be conscious to grant this bonus.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
-#tr;Aura of Presence;Whenever you or a friendly creature within 5 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Wisdom modifier (minimum of +1). You must be conscious to grant this bonus.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
-#tr;Aura of Protection;Whenever a creature within 5 feet of you takes damage, you can use your reaction to take that damage instead of that creature taking it. This feature doesn't transfer any other effects that might accompany the damage, and this damage ca not be reduced in any way. At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
-#tr;Aura of Vigor;Whenever a friendly creature starts its turn within 5 feet of you, that creature gains temporary hit points equal to your Wisdom or Charisma modifier (your choice, minimum of one).  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
-#tr;Aura of Warding;You and friendly creatures within 5 feet of you have resistance to damage from force powers.  At 10th level, the range of this aura increases to 15 feet, and at 18th level, the range of this aura increases to 30 feet.;
+#tr;Aura of Conquest;Whenever a creature who is frightened of you starts its turn within 5 feet of you, its speed is reduced to 0 and that creature takes psychic damage equal to half your guardian level.;
+#tr;Aura of Conviction;You and friendly creatures within 5 feet of you have advantage on saving throws against effects that would cause you to be charmed or frightened.;
+#tr;Aura of Hatred;You and friendly creatures within 5 feet of you gain a bonus to the first melee weapon damage rolls you make each round equal to your Charisma modifier (minimum of +1).;
+#tr;Aura of Presence;Whenever you or a friendly creature within 5 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Wisdom modifier (minimum of +1).;
+#tr;Aura of Protection;Whenever a creature within 5 feet of you takes damage, you can use your reaction to take that damage instead of that creature taking it. This feature doesn’t transfer any other effects that might accompany the damage, and this damage can’t be reduced in any way.;
+#tr;Aura of Vigor;Whenever a friendly creature starts its turn within 5 feet of you, that creature gains temporary hit points equal to your Wisdom or Charisma modifier (your choice, minimum of one).;
+#tr;Aura of Warding;You and friendly creatures within 5 feet of you have resistance to damage from force powers.;
 #te;
-#fe;Guardian Form;3
-When you reach 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.
+#fe;Guardian Focus;3
+Also at 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.
 #zls;
-#zl;guardian_ability;formi_shii_cho;Form I: Shii Cho
+#zl;guardian_ability;formi_shii_cho;Form I: Shii-Cho
 #zl;guardian_ability;formii_makashi;Form II: Makashi
+#zl;guardian_ability;formvi_niman;Form VI: Niman
+#zl;guardian_ability;formv_shien_djen_so;Form V: Shien/Djem So Form
 #zl;guardian_ability;formiii_soresu;Form III: Soresu
 #zle;
 #fe;Ability Score Improvement;
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 #fe;Force Purity;6
 By 6th level, the Force flowing through you makes you immune to poison and disease.
 #fe;Improved Force-Empowered Strikes;11
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry the power of the Force with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 damage. If you also use your Force-Empowered Strikes with an attack, you add this damage to the extra damage of your Force-Empowered Strikes. The damage is the same type as the weapon's damage.
+By 11th level, you are so in tune with the Force that all your melee weapon strikes carry the power of the Force with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 damage. If you also use your Force-Empowered Strikes with an attack, you add this damage to the extra damage of your Force-Empowered Strikes. The damage is the same type as the weapon’s damage.
 #fe;Cleansing Touch;14
 Beginning at 14th level, you can use your action and expend a use of your Channel the Force ability to end one force power on yourself or on one willing creature that you touch.
-#abh;Guardian Forms
+
+#abh;Guardian Focus
 #ab;Form I: Shii-Cho
-Form I, also known as Determination Form, uses wild, unpredictable attacks designed to distract and disarm their foes. Those guardians who focus on Shii-Cho Form make seemingly random, yet deliberate, attacks to knock their opponents off-balance.
-#abf;Fighting Style;3
-When you choose this form as your focus at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Dueling, Equilibrium, or Two-Weapon Fighting Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
-#zls;
-#zl;fighter_feature;fightingstyle1;Fighting Styles
-#zle;
-#abf;The Way Of The Sarlaac;3
+Shii-Cho Form, also known as Determination Form, uses wild, unpredictable attacks designed to distract and disarm their foes. Those guardians who focus on Shii-Cho Form make seemingly random, yet deliberate, attacks to knock their opponents off-balance.
+#abf;Form Basics;3
+When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Shii-Cho lightsaber form, detailed in Chapter 6 of the Player’s Handbook. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+#abf;The Way of the Sarlaac;3
 Also at 3rd level, as a bonus action, you can enter a frenetic stance for one minute. While in this stance, the first time you hit a creature with a melee weapon attack on your turn, it has disadvantage on the next melee attack roll it makes against you before the start of your next turn. Additionally, if that creature is within 5 feet of you, it must make a Strength saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.
-This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
-##h;Channel The Force;3
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+#abf;Channel the Force;3
 Lastly at 3rd level, you gain the following Channel the Force option.
 #h;Disarming Slash
-When you hit a creature with a melee weapon attack, you can expend a use of your Channel the Force (no action required)  to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. The creature must make a Strength saving throw. On a failed save, it drops the object you choose. If you are within 5 feet of the target, and you have a free hand, you can catch the item. Otherwise, the object lands at its feet.
+When you hit a creature with a melee weapon attack, you can expend a use of your Channel the Force (no action required) to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. The creature must make a Strength saving throw. On a failed save, it drops the object you choose. If you are within 5 feet of the target, and you have a free hand, you can catch the item. Otherwise, the object lands at its feet.
 #abf;Unpredictable Motion;7
-Beginning at 7th level, while you are wielding a melee weapon, opportunity attacks against you are made at disadvantage.
+Starting at 7th level, while you are wielding a melee weapon, opportunity attacks against you are made at disadvantage.
 #abf;Sarlaac Sweep;15
-Starting at 15th level, when a creature moves to within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature. If the attack hits, you can attempt to damage another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to your Strength or Dexterity modifier (your choice). The damage is of the same type dealt by the original attack.
-#abf;Master Of DeterminatioN;20
-At 20th level, the erratic fluidity of your movement confounds even the most determined of foes. Your Strength or Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for these scores is now 22. Additionally, you can use your action to gain the following benefits for 1 minute:
+By 15th level, when a creature moves to within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature. If the attack hits, you can attempt to damage another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to your Strength or Dexterity modifier (your choice). The damage is of the same type dealt by the original attack.
+#abf;Master of Determination;20
+At 20th level, the erratic fluidity of your movement confounds even the most determined of foes. Your Strength or Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for these scores increases by 2. Additionally, you can use your action to gain the following benefits for 1 minute:
 #ls;
-#li;You have resistance to kinetic and energy damage from unenhanced weapons.
-#li;Attack rolls made against you can't have advantage.
+#li;You have resistance to kinetic, energy, and ion damage from weapons.
+#li;Attack rolls made against you can’t have advantage.
 #li;When more than one creature is within 5 feet of you, you gain a bonus to your Armor Class equal to the number of creatures within 5 feet of you, up to your Wisdom or Charisma modifier (your choice, minimum of one).
 #li;When you use your Sarlaac Sweep feature, you have advantage on the attack roll, and you can apply the bonus damage to every creature within 5 feet of you.
 #le;
-This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
-#ab;Form II: Makashi
-Form II, also known as Contention Form, encourages precision and efficiency over power, using jabs, parries and light cuts over slashes, blocks and chops. Those guardians who focus on Makashi Form utilize calculated blade manipulation, intense focus, and expert timing to confuse and trap their opponents.
-#abf;Fighting Style;3
-When you choose this form as your focus at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Dueling, Equilibrium, or Sentinel Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
-#zls;
-#zl;fighter_feature;fightingstyle1;Fighting Styles
-#zle;
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+
+#ab;Form II: Makashi 
+Makashi Form, also known as Contention Form, encourages precision and efficiency over power, using jabs, parries and light cuts over slashes, blocks and chops. Those guardians who focus on Makashi Form utilize calculated blade manipulation, intense focus, and expert timing to confuse and trap their opponents.
+#abf;Form Basics;3
+When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Makashi lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
 #abf;The Way Of The Ysalamiri;3
 Also at 3rd level, as a bonus action, you can enter an offensive stance for one minute. While in this stance, you add your Wisdom or Charisma modifier (your choice) to the first melee weapon attack and damage rolls you make each turn.
-This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
 #abf;Channel The Force;3
 Lastly at 3rd level, you gain the following Channel the Force option.
 #h;Makashi Riposte
-When another creature damages you with a melee attack, you can expend a use of your Channel the Force and use your reaction to attempt to deflect the attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your Guardian level.
+When another creature damages you with a melee attack, you can expend a use of your Channel the Force and use your reaction to attempt to deflect the attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your guardian level.
 If you reduce the damage to 0, you can immediately make a single melee weapon attack against that creature as a part of the reaction.
 #abf;Shatterpoint;7
-Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can use your connection to the Force to sense their strengths and weaknesses, and learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
+Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can use your connection to the Force to sense their strengths and weaknesses, and learn certain information about its capabilities compared to your own. The GM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 #ls;
 #li;Strength score
 #li;Dexterity score
 #li;Wisdom score
 #li;Charisma score
 #li;Armor Class
-#li;Current hit points
-#li;Total class levels (if any)
+#li;Current hit points 
+#li;Total class levels (if any) 
 #li;Total Forcecaster levels (if any)
 #le;
 #abf;Glancing Blow;15
-Starting at 15th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.Starting at 15th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
+By 15th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 #abf;Master Of Contention;20
-At 20th level, you are a duelist of the highest caliber.  Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores is now 22. Additionally, you can use your action to gain the following benefits for 1 minute:
+At 20th level, you are a duelist of the highest caliber. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2. Additionally, you can use your action to gain the following benefits for 1 minute:
 #ls;
 #li;You have resistance to kinetic and energy damage, and you ignore resistance to kinetic and energy damage.
 #li;All melee attacks have disadvantage against you.
 #li;Your melee weapon attacks inflict an additional damage die.
 #le;
-This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
-#ab;Form III: Soresu
-Form III, also known as Resilience Form, relies on tight bladework and subtle dodges to provide maximum defensive coverage, minimizing exposure to ranged weaponry. Those guardians who focus on Soresu Form use broad footwork to move around the playing field, making broad, short sweeping motions that protect the body.
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+
+#ab;Form VI: Niman Form
+Niman Form, also known as Moderation Form, strikes a balance between bladework and force powers. Those guardians who focus on Niman Form weave Force manipulation with their melee weapon strikes, pushing their opponents off-balance to create an opening.
+#abf;Form Basics;3
+When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Niman lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+#abf;The Way of the Rancor;3
+Also at 3rd level, as a bonus action, you can enter a balanced stance for one minute. As a part of this bonus action, and as a bonus action on each of your turns, when you use your action to cast a force power, you can make one melee weapon attack. Additionally, for the duration, you can use Wisdom or Charisma instead of Strength or Dexterity for the attack and damage rolls of your melee weapon attacks. You must use the same modifier for both rolls.
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+#abf;Channel the Force;3
+Lastly at 3rd level, you gain the following Channel the Force option.
+#h;Telekinetic Slash
+When you deal damage with an at-will force power that requires a force attack or a saving throw, you can expend a use of your Channel the Force and expend force points to deal additional damage to the target, which is the same type as the power’s damage. The additional damage is 1d8 for each point spent in this way. You can’t deal more additional damage than the amount shown in the Focused Strikes column of the guardian table.
+#abf;Enlightenment;7
+Starting at 7th level, you can add half your Wisdom or Charisma modifier (your choice, rounded down, minimum of one) to any saving throw you make that doesn’t already include that modifier.
+#abf;Redirect;15
+By 15th level, when you would be affected by a weapon or force power that requires a Dexterity saving throw or attack roll and would affect only you, you can use your reaction to redirect that power to another target within 30 feet. If the weapon or power required a melee or ranged attack, make a melee or ranged force attack against the new target, as appropriate. If it required a Dexterity saving throw, the new target must make a Dexterity saving throw against your universal force save DC.
+Once you’ve used this feature, you must complete a short or long rest before you can use it again.
+#abf;Master of Moderation;20
+At 20th level, the Force flows in perfect concert with your weapon attacks. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for these scores increases by 2. Additionally, you can use your action to gain the following benefits for 1 minute:
+#ls;
+#li;You have resistance to kinetic and energy damage from unenhanced weapons.
+#li;You have advantage on saving throws against force powers. Additionally, you have resistance against the damage of force powers.
+#li;When you use your action to cast an at-will force power that targets only one creature, you can target an additional creature within 5 feet of the original target and within the power’s range.
+#le;
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+
+#ab;Form V: Shien/Djem So Form
+Shien/Djem So Form, also known as Perseverance Form, utilizes a force-enhanced strength to overwhelm opponents. Those guardians who focus on Shien/Djem So Form actively attempt to force an opening rather than waiting for the opportunity to present itself.
 #abf;Bonus Proficiencies;3
 You gain proficiency in heavy armor.
-#abf;Fighting Style;3
-When you choose this form as your focus at 3rd level, you adopt a style of fighting as your specialty. Choose one from the Defense, Shielding, or Sentinel Fighting Style options, detailed in Chapter 6. You can't take a Fighting Style option more than once, even if you later get to choose again.
-#zls;
-#zl;fighter_feature;fightingstyle1;Fighting Styles
-#zle;
+#abf;Form Basics;3
+When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Shien/Djem So lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+#abf;The Way of the Krayt Dragon;3
+Also at 3rd level, as a bonus action, you can take a threatening stance for one minute. While in this stance, the first time you hit with a melee weapon attack using Strength each turn, you can attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to your Strength modifier. The damage is of the same type dealt by the original attack.
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+#abf;Channel the Force;3
+Lastly at 3rd level, you gain one of the following Channel the Force options. Choose Blade Barrier for Shien or Falling Avalanche for Djem So.
+#h;Blade Barrier
+On your turn, when you deal melee weapon damage that includes your Strength modifier, you can forgo your Strength modifier to the damage roll, expend a use of your Channel the Force (no action required), and reduce your speed by half. If you do so, energy and kinetic damage you take from weapons before the end of your next turn is reduced by an amount equal to your Strength modifier. You can not use this feature if you have moved more than half your speed this turn.
+#h;Falling Avalanche
+On your turn, you can expend a use of your Channel the Force (no action required) and reduce your speed by half to gain advantage on the next ability check or attack roll you make using Strength before the end of your next turn. You can not use this feature if you have moved more than half your speed this turn.
+#abf;Determination;7
+Starting at 7th level, you gain one of the following features. Choose Aggressive Negotiations for Shien or Reliable Vigor for Djem So.
+#h;Aggressive Negotiations
+When you make a Charisma (Intimidation) or Charisma (Persuasion) check, you gain a bonus to the check equal to half your Strength modifier (rounded down) if it doesn’t already include that modifier.
+#h;Reliable Vigor
+If your total for a Strength check or saving throw is less than your guardian level, you can use your guardian level in place of the total.
+#abf;Presence;15
+By 15th level, you gain one of the following features. Choose Precise Reflection for Shien or Brutal Strikes for Djem So.
+#h;Precise Reflection
+When you hit with an attack made by the saber reflect power, you can expend force points to deal additional damage to the target, which is the same type as the weapon’s damage. The additional damage is 1d8 for each point spent in this way. You can’t deal more additional damage than the amount shown in the Focused Strikes column of the guardian table.
+#h;Brutal Strikes
+The Force flowing through you grants you incredible strength. When you roll a 1 or 2 on a Force-Empowered Strikes or Improved Force-Empowered Strikes damage die, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+Additionally, when you spend force points to use your Force-Empowered Strikes feature, you gain temporary hit points equal to twice the number of points spent.
+#abf;Master of Perseverance;20
+At 20th level, your might overwhelms even the most implacable of foes. Your Strength and Constitution scores increase by 2. Your maximum for these scores increases by 2. Additionally, you can use your action to gain the following benefits for 1 minute:
+#ls;
+#li;You have resistance to kinetic and energy damage from unenhanced weapons.
+#li;Once per turn, when you hit with a melee weapon attack using Strength, you can use your Force-Empowered Strikes feature at 1st-level without expending force points. You gain temporary hit points equal to the extra damage dealt.
+#li;When a creature within 5 feet of you makes an attack roll against you, you can use your reaction to make a single weapon attack with advantage against that creature. If the attack hits, you impose disadvantage on the triggering attack roll.
+#le;
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
+
+#ab;Form III: Soresu
+Soresu Form, also known as Resilience Form, relies on tight bladework and subtle dodges to provide maximum defensive coverage, minimizing exposure to ranged weaponry. Those guardians who focus on Soresu Form use broad footwork to move around the playing field, making broad, short sweeping motions that protect the body.
+#abf;Bonus Proficiencies;3
+You gain proficiency in heavy armor.
+#abf;Form Basics;3
+When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Soresu lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
 #abf;The Way Of The Mynock;3
-Also at 3rd level, as a bonus action, you can enter a defensive stance for one minute. As a part of this bonus action, and as a bonus action on each of your turns, you can cast the *saber ward* power. When you do so, you have a number of a number of special reactions equal to your proficiency bonus that you can only use to cast the *saber reflect* force power. You can only take one reaction per turn.
-This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
+Also at 3rd level, as a bonus action, you can enter a defensive stance for one minute. As a part of this bonus action, and as a bonus action on each of your turns, you can cast the saber ward power. When you do so, you have a number of special reactions equal to your proficiency bonus that you can only use to cast the saber reflect force power. You can only take one reaction per turn.
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
 #abf;Channel The Force;3
 Lastly at 3rd level, you gain the following Channel the Force option.
 #h;Advancing Defender
 When you cast the *saber reflect* power, you can expend a use of your Channel the Force to move up to 10 feet as a part of that same reaction. This movement does not provoke opportunity attacks.
 #abf;Circle Of Shelter;7
-At 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can use your reaction to ward the creature if you're wielding a melee weapon or a shield. Roll 1d8 and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.
+Starting at 7th level, you learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can use your reaction to ward the creature if you’re wielding a melee weapon or a shield. Roll 1d8 and add the number rolled to the target’s AC against that attack. If the attack still hits, the target has resistance against the attack’s damage.
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once), and you regain all expended uses when you finish a long rest.
 #abf;Stand Against The Tide;15
-Beginning at 15th level, when a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+By 15th level, when a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 #abf;Master Of Resilience;20
-At 20th level, your presence on the field of battle is an inspiration to your allies. Your Constitution and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores is now 22. Additionally, you can use your action to gain the following benefits for 1 minute:
+At 20th level, your presence on the field of battle is an inspiration to your allies. Your Constitution and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2. Additionally, you can use your action to gain the following benefits for 1 minute:
 #ls;
 #li;You have resistance to kinetic and energy damage from unenhanced weapons.
-#li;When you use the *saber reflect* force power, you can make a single melee attack on an enemy within 5ft of you as a part of that same reaction.
+#li;When you use the saber reflect force power, you can make a single melee attack on an enemy within 5ft of you as a part of that same reaction.
 #li;You have advantage on Dexterity saving throws, as do your allies within 30 feet of you.
 #le;
-This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
+This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
 
 ##;Monk
 #h;Monk
