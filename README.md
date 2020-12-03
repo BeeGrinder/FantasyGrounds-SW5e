@@ -47,7 +47,7 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 * Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select the SW5e extension.
 
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
-* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*, *__SW5e Supplement__*, and *__SW5e NPC Manual__*.
+* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Supplement__* and the *__SW5e Player Book__*.  It is *__VERY IMPORTANT TO OPEN BOTH__*!
 
 __New Starship Rules__
 
