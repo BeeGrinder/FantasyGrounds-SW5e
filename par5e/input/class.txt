@@ -1294,6 +1294,7 @@ At 18th level, you can choose a second signature maneuver. Additionally, when yo
 #zls;
 #zl;fighter_feature;maneuvers2;Maneuvers
 #zle;
+
 ##;Guardian
 #h;Guardian
 A dark-skinned human quickly runs down a corridor, the metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him.
@@ -1504,6 +1505,7 @@ At 20th level, your presence on the field of battle is an inspiration to your al
 #li;You have advantage on Dexterity saving throws, as do your allies within 30 feet of you.
 #le;
 This effect ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a long rest.
+
 ##;Monk
 #h;Monk
 Her vibrostaff a blur as they deflect an incoming hail of blaster bolts, a human springs over a barricade and throws herself into the massed ranks of pirates on the other side. She whirls among them, knocking their blows aside and sending them reeling, until at last she stands alone.
@@ -2171,6 +2173,7 @@ When you select this pursuit, you gain access to new discoveries which reflect y
 #tr;TACTICAL RETREAT;;When you take the Dash action, opportunity attacks made against you are made at disadvantage.;
 #tr;UNBOUND COMMANDER;Level 12;You learn to command your allies to victory from afar. Your Critical Analysis range is increased to 120 feet.;
 #te;
+
 ##;Scout
 #h;Scout
 Rough and grizzled looking, a human stalks alone through the shadows of trees, hunting the quarry he knows is planning a raid on a nearby settlement. Clutching a techblade in each hand, he becomes a whirlwind of steel, cutting down one enemy after another.
@@ -2430,6 +2433,7 @@ You regain all expended uses when you finish a short or long rest.
 Starting at 11th level, if you have advantage on a weapon attack against a target on your turn, you can forgo that advantage to immediately make an additional weapon attack against the same target as a bonus action.
 #abf;Stalker's Dodge;15
 At 15th level, whenever a creature attacks you and does not have advantage, you can use your reaction to impose disadvantage on the creature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined.
+
 ##;Sentinel
 #h;Sentinel
 Clad in black robes, the rattataki pulls his hood forward and steps into the shadowy alcove, only to reappear further down the hall. As his quarry walks past, he presses the hilt of his lightsaber to the back of their head, quickly toggling it on-and-off. He is gone before the corpse hits the ground.
