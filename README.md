@@ -65,6 +65,10 @@ The *__ext-src__* dirctory is for the extension sources.
 
 __Project News__
 
+Dec 3, 2020
+
+All class definitions updated thanks to the assistance of lordcygnus! Also fixed links to the SW5e web site and a few NPC issues.  Both modules and the extension should be downloaded.
+
 Nov 30, 2020
 
 Updated Berserker class to current.
