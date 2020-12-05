@@ -1593,6 +1593,61 @@ When you use your bonus action to Disengage, you can spend 1 focus point to also
 When you use your bonus action to Dash, you can spend 1 focus point to double your jump distance for the turn. At 11th level, you can instead spend 2 focus points to gain a flying speed equal to your walking speed until the end of your turn, though you fall if you end your speed in the air and nothing else is holding you aloft.
 #fe;Monastic Vows;2
 Also at 2nd level, you’ve sworn two vows, as detailed at the end of the class description. You swear an additional vow at 7th, 13th, and 17th level.
+#h;Monastic Vows
+The vows are presented in alphabetical order. If a vow has prerequisites, you must meet them to learn it. You can learn a vow at the same time you meet its prerequisites.
+#bp;Vow of Deflection
+You can use your reaction to divert a strike when you are dealt damage by a melee weapon attack. When you do so, the damage taken by the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+#bp;Vow of the Devoted
+You gain a limited ability to manipulate the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
+#ls;
+#li;Force Powers Known. You learn 2 force powers of your choice. You learn an additional power at 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th level. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite. You may only learn universal powers in this way.
+#li;Force Points. Rather than force points, powers you learn through this vow are cast using your focus points, at 1 focus point per power level. You may only cast universal powers in this way.
+#li;Max Power Level. Many force powers can be overpowered, consuming more focus points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels. Your Max Power Level is 1st. It increases to 2nd at 7th level, 3rd at 13th level, and 4th at 17th level. You may only cast force powers at 4th-level once. You regain the ability to do so after a long rest.
+#li;Forcecasting Ability. You use your focus ability whenever a power refers to your forcecasting ability. If a power you cast with focus points calls for a saving throw, you use your focus save DC. If a power you cast with focus points calls for an attack roll, you use your focus attack modifier.
+#le;
+#bp;Vow of Fate
+#bw;Prerequisite: 7th level
+When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.
+#bp;Vow of the Fighter
+You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.
+#bp;Vow of Fortitude
+#bw;Prerequisite: 7th level
+You can use your action or bonus action to end one effect on yourself that is causing you to be blinded or deafened.
+#bp;Vow of Freedom
+You ignore unenhanced difficult terrain, and when you would use your action to break free of an effect that is grappling or restraining you, you can instead use your bonus action.
+#bp;Vow of Intuition
+You can no longer have disadvantage on attack rolls against creatures within 10 feet of you due to not being able to see them.
+#bp;Vow of the Limber
+#bw;Prerequisite: 7th level
+When you make your first unarmed strike on your turn, you can choose to spend 1 focus point. If you do so, your reach with your unarmed strikes increases by 5 feet until the end of your turn.
+#bp;Vow of Mettle
+You can use Strength instead of Wisdom or Charisma when determining your Unarmored Defense.
+#bp;Vow of the Mortal
+You can use Constitution instead of Wisdom or Charisma when determining your Unarmored Defense.
+#bp;Vow of the Nemesis
+#bw;Prerequisite: 13th level
+As a bonus action, you can choose one creature within 30 feet that you can see. The creature must make a Wisdom saving throw against your focus save DC. On a successful save, the creature becomes immune to this feature for 24 hours. On a failed save, for the next minute, the creature has disadvantage on attack rolls against creatures other than you, and it must make an additional Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this feature doesn’t restrict its movement for that turn.
+This feature ends early if you attack another creature, if you target another hostile creature with a power or class feature, if a friendly creature damages the target, if a friendly creature targets it with a power or class feature, or if you target another creature with this feature.
+#bp;Vow of the Open Mind
+You gain proficiency in a skill of your choice. Additionally, you can spend 1 focus point and 10 minutes meditating on a skill in which you are proficient. If you do so, when you make an ability check with the chosen skill, you can add your Wisdom or Charisma modifier to the check if it doesn’t already include that modifier. You can only have one instance of this feature active at a time.
+#bp;Vow of Precision
+#bw;Prerequisite: 13th level
+Your critical hit range with unarmed strikes increases by 1.
+#bp;Vow of Requital
+#bw;Prerequisite: 13th level
+When you take the Dodge action and an attack made by a creature within 5 feet of you misses you before the start of your next turn, you can use your reaction to make one melee weapon attack with a monk weapon or unarmed strike against that creature.
+#bp;Vow of Restoration
+When you would make an unarmed strike, you can spend 1 focus point to instead touch a willing creature within your reach. Roll your Martial Arts die. The target gains hit points equal to the amount rolled + your Wisdom or Charisma modifier (your choice, minimum of +1).
+#bp;Vow of the Sentry
+You gain proficiency in light and medium armor. Additionally, you can now gain the benefits of your Martial Arts and Unarmored Movement features while wearing light or medium armor as long as you are not wielding a shield.
+#bp;Vow of Serenity
+Your maximum focus increases by an amount equal to half your Wisdom or Charisma modifier (your choice, rounded up, minimum of +1).
+#bp;Vow of the Shrewd
+You can use Intelligence instead of Wisdom or Charisma when determining your Unarmored Defense.
+#bp;Vow of Spirit
+You can use your choice of Wisdom or Charisma instead of Strength or Dexterity for the attack and damage rolls of your unarmed strikes and monk weapons. You must use the same modifier for both rolls.
+#bp;Vow of the Versatile
+When you would make an unarmed strike as part of your Martial Arts bonus action attack or your Flurry of Blows, you can instead make a weapon attack with a monk weapon you are wielding.
 #fe;Unarmored Movement;3
 Starting at 3rd level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Unarmored Movement column of the monk table.
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
@@ -1632,59 +1687,6 @@ At 15th level, your focus sustains you so that you suffer none of the frailty of
 Beginning at 18th level, you can use your action to spend 4 focus points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
 #fe;Perfect Self;20
 At 20th level, you’ve gained perfect control over your body. Your Dexterity and Wisdom or Charisma scores (your choice) increase by 2. Your maximum for those scores increases by 2. Additionally, when you roll for initiative and have fewer than 6 focus points remaining, you regain up to 6 focus points.
-#fe;Monastic Vows
-The vows are presented in alphabetical order. If a vow has prerequisites, you must meet them to learn it. You can learn a vow at the same time you meet its prerequisites.
-#h;Vow of Deflection
-You can use your reaction to divert a strike when you are dealt damage by a melee weapon attack. When you do so, the damage taken by the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
-#h;Vow of the Devoted
-You gain a limited ability to manipulate the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
-Force Powers Known. You learn 2 force powers of your choice. You learn an additional power at 3rd, 5th, 7th, 9th, 11th, 13th, 15th, and 17th level. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite. You may only learn universal powers in this way.
-Force Points. Rather than force points, powers you learn through this vow are cast using your focus points, at 1 focus point per power level. You may only cast universal powers in this way.
-Max Power Level. Many force powers can be overpowered, consuming more focus points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels. Your Max Power Level is 1st. It increases to 2nd at 7th level, 3rd at 13th level, and 4th at 17th level. You may only cast force powers at 4th-level once. You regain the ability to do so after a long rest.
-Forcecasting Ability. You use your focus ability whenever a power refers to your forcecasting ability. If a power you cast with focus points calls for a saving throw, you use your focus save DC. If a power you cast with focus points calls for an attack roll, you use your focus attack modifier.
-#h;Vow of Fate
-Prerequisite: 7th level
-When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.
-#h;Vow of the Fighter
-You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.
-#h;Vow of Fortitude
-Prerequisite: 7th level
-You can use your action or bonus action to end one effect on yourself that is causing you to be blinded or deafened.
-#h;Vow of Freedom
-You ignore unenhanced difficult terrain, and when you would use your action to break free of an effect that is grappling or restraining you, you can instead use your bonus action.
-#h;Vow of Intuition
-You can no longer have disadvantage on attack rolls against creatures within 10 feet of you due to not being able to see them.
-#h;Vow of the Limber
-Prerequisite: 7th level
-When you make your first unarmed strike on your turn, you can choose to spend 1 focus point. If you do so, your reach with your unarmed strikes increases by 5 feet until the end of your turn.
-#h;Vow of Mettle
-You can use Strength instead of Wisdom or Charisma when determining your Unarmored Defense.
-#h;Vow of the Mortal
-You can use Constitution instead of Wisdom or Charisma when determining your Unarmored Defense.
-#h;Vow of the Nemesis
-Prerequisite: 13th level
-As a bonus action, you can choose one creature within 30 feet that you can see. The creature must make a Wisdom saving throw against your focus save DC. On a successful save, the creature becomes immune to this feature for 24 hours. On a failed save, for the next minute, the creature has disadvantage on attack rolls against creatures other than you, and it must make an additional Wisdom saving throw each time it attempts to move to a space that is more than 30 feet away from you; if it succeeds on this saving throw, this feature doesn’t restrict its movement for that turn.
-This feature ends early if you attack another creature, if you target another hostile creature with a power or class feature, if a friendly creature damages the target, if a friendly creature targets it with a power or class feature, or if you target another creature with this feature.
-#h;Vow of the Open Mind
-You gain proficiency in a skill of your choice. Additionally, you can spend 1 focus point and 10 minutes meditating on a skill in which you are proficient. If you do so, when you make an ability check with the chosen skill, you can add your Wisdom or Charisma modifier to the check if it doesn’t already include that modifier. You can only have one instance of this feature active at a time.
-#h;Vow of Precision
-Prerequisite: 13th level
-Your critical hit range with unarmed strikes increases by 1.
-#h;Vow of Requital
-Prerequisite: 13th level
-When you take the Dodge action and an attack made by a creature within 5 feet of you misses you before the start of your next turn, you can use your reaction to make one melee weapon attack with a monk weapon or unarmed strike against that creature.
-#h;Vow of Restoration
-When you would make an unarmed strike, you can spend 1 focus point to instead touch a willing creature within your reach. Roll your Martial Arts die. The target gains hit points equal to the amount rolled + your Wisdom or Charisma modifier (your choice, minimum of +1).
-#h;Vow of the Sentry
-You gain proficiency in light and medium armor. Additionally, you can now gain the benefits of your Martial Arts and Unarmored Movement features while wearing light or medium armor as long as you are not wielding a shield.
-#h;Vow of Serenity
-Your maximum focus increases by an amount equal to half your Wisdom or Charisma modifier (your choice, rounded up, minimum of +1).
-#h;Vow of the Shrewd
-You can use Intelligence instead of Wisdom or Charisma when determining your Unarmored Defense.
-#h;Vow of Spirit
-You can use your choice of Wisdom or Charisma instead of Strength or Dexterity for the attack and damage rolls of your unarmed strikes and monk weapons. You must use the same modifier for both rolls.
-#h;Vow of the Versatile
-When you would make an unarmed strike as part of your Martial Arts bonus action attack or your Flurry of Blows, you can instead make a weapon attack with a monk weapon you are wielding.
 #abh;Monastic Orders
 #ab;Crimson Order
 Monks of the Crimson Order are unyielding in their resolve. They pledge themselves to a singular entity or belief, and uphold their service with solemnity and diligence.
