@@ -1960,29 +1960,9 @@ When you select this pursuit, you gain access to new discoveries which reflect t
 #tr;Tend the Wounded;-;If you or any friendly creatures you can touch regain hit points by spending one or more Hit Dice at the end of a short rest, each of those creatures regain 1d4 extra hit points. This die increases when you reach certain levels in this class: 1d6 at 5th level, 1d8 at 9th level, 1d10 at 13th level, and to 1d12 at 17th level.;
 #te;
 #h;Experimental Treatments Side Effects table
-#ts;
-#th;d20;Side Effects;
-#tr;1;The creature turns out to be allergic to this specific treatment. Every ability score is reduced by 1.;
-#tr;2;The creature starts sneezing uncontrollably. Any attack rolls with a die roll value of 19 results in a miss due to a poorly timed sneeze.;
-#tr;3;The creature’s legs become swollen. The creature gains 1 slowed level.;
-#tr;4;The creature becomes one size larger or smaller.;
-#tr;5;The skin at their joints turns into a wooden material, giving them a bonus of +2 to AC.;
-#tr;6;The creature’s body starts producing powerful stomach acid in high amounts. The creature can use an action to spew stomach acid in a 15 feet cone. The DC for this saving throw equals 8 + your proficiency bonus + your Constitution modifier. A creature takes 2d6 acid damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 5th level, 4d6 at 11th level, and 5d6 at 17th level.;
-#tr;7;The creature becomes mute and has uncontrollable gas. They have disadvantage on Dexterity (Stealth) checks that rely on smell.;
-#tr;8;The creature’s eyes glows bright red. The creature also gains darkvision, but if they already have darkvision they get a light headache instead.;
-#tr;9;The creature gains advantage on perception checks based on hearing, but everything seems uncomfortably loud to them. They gain vulnerability to sonic damage.;
-#tr;10;The treatment slows down their brain function, reducing their Intelligence by 4.;
-#tr;11;The creature’s skin turns dark purple. If they are already purple, they turn bright pink instead.;
-#tr;12;The creature becomes covered in sickly, green pustules. When the creature is hit by a melee attack, the attacker takes 1d4 poison damage.;
-#tr;13;The creature’s skin starts to seriously bloat up from internal pressure build-up, and a strong impact may cause it to explode. Whenever the creature takes damage, the creature has to pass a concentration check or the creature takes kinetic damage equal to half their maximum hit points. Other creatures within 10 feet of the explosion also take a fourth of the damage. Once this explosion occurs, their skin becomes very soft.;
-#tr;14;The creature rapidly grows body hair all over, including the face, until they resemble a wookiee. If they are already a wookiee, the reverse effect occurs; all hair immediately falls off, leaving the skin bare.;
-#tr;15;The creature’s body temperature fluctuates to extremes. They gain resistance to cold and fire damage.;
-#tr;16;The creature becomes ravenous. Every hour they haven’t eaten a meal they gain a level of exhaustion.;
-#tr;17;The creature believes they are the chosen one.;
-#tr;18;The creature has a difficult time resting. The amount they heal from Hit Dice is now halved.;
-#tr;19;The creature’s movement speed is increased by 15 feet, and opportunity attacks on them have disadvantage.;
-#tr;20;The creature gains 10d10 hit points, and they feel happy and carefree.;
-#te;
+#zls;
+#zl;table;Scholar Physician Side Effects;Experimental Treatments Side Effects roll table
+#zle;
 
 #ab;Gambler Pursuit
 Not all studied men and women use their intelligence and skill for the pursuit of knowledge, but instead turn to the various casinos and betting halls of the galaxy. Those scholars who choose the Gambler Pursuit use their knowledge of probability and risk to attempt to master games of chance and build their fortune, or lose it all along the way.
