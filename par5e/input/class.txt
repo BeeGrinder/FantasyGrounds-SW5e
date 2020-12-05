@@ -77,48 +77,26 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 Also at 2nd level, you've honed two instincts. You hone an additional instinct at 7th, 13th, and 17th level.
 The instincts are presented in alphabetical order. If an
 instinct has prerequisites, you must meet them to learn it. You can learn an instinct at the same time you meet its prerequisites.
-#bp;ACKLAY'S INSTINCT
-While raging, you have advantage on Constitution saving throws.
-#bp;BANTHA'S INSTINCT
-Prerequisite: 7th level
-Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, you have advantage on Strength checks made to push, pull, lift, or break objects.
-#bp;BLURRG'S INSTINCT
-Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated.
-#bp;BOGGDO'S INSTINCT
-Prerequisite: 13th level
-While raging you have a flying speed equal to your current walking speed, though you fall if you end your turn in the air and nothing else is holding you aloft.
-#bp;CHIRODACTYL'S INSTINCT
-Prerequisite: 7th level
-While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren’t deafened.
-#bp;DEWBACK'S INSTINCT
-Choose three damage types. While raging, you have resistance to the chosen damage types.
-#bp;FIGHTER'S INSTINCT
-You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can’t take a Fighting Style option more than once, even if you later get to choose again.
-#bp;FYRNOCK'S INSTINCT
-While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you complete a long rest.
-#bp;HAWK'S INSTINCT
-Prerequisite: 7th level
-You can see up to 1 mile away with no difficulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn’t impose disadvantage on your Wisdom (Perception) checks.
-#bp;KATARN'S INSTINCT
-You gain a climbing speed equal to your movement speed.
-#bp;LOTH-CAT'S INSTINCT
-While you’re raging, other creatures have disadvantage on opportunity attack rolls against you, and you can take the Dash action as a bonus action on your turn.
-#bp;PREDATOR'S INSTINCT
-Your speed increases by 10 feet.
-#bp;RANCOR'S INSTINCT
-Prerequisite: 13th level
-While you’re raging any creature within 5 feet of you that’s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you or if it can’t be frightened.
-#bp;TACTICIAN'S INSTINCT
-When you use your Reckless Attack feature, you can choose to not have advantage on your attack rolls this turn. If you do so, friendly creatures within 5 feet of a hostile creature that is within 5 feet of you have advantage on attack rolls against that creature.
-#bp;TRACKER'S INSTINCT
-Prerequisite: 7th level
-You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
-#bp;TERENTATEK'S INSTINCT
-Prerequisite: 13th level
-When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power’s caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
-#bp;VARACTYL'S INSTINCT
-Prerequisite: 13th level
-While raging, you have advantage Dexterity checks, your attack rolls can’t suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.
+#ts;
+#th;Name;Prerequisites;Description;
+#tr;Acklay's Instinct;;While raging, you have advantage on Constitution saving throws.;
+#tr;Bantha's Instinct;7th level;Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. Additionally, you have advantage on Strength checks made to push, pull, lift, or break objects.;
+#tr;Blurrg's Instinct;;Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they’re within 60 feet of you and you’re not incapacitated.;
+#tr;Boggdo's Instinct;13th level;While raging you have a flying speed equal to your current walking speed, though you fall if you end your turn in the air and nothing else is holding you aloft.;
+#tr;Chirodactyl's Instinct;7th level;While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren’t deafened.;
+#tr;Dewback's Instinct;;Choose three damage types. While raging, you have resistance to the chosen damage types.;
+#tr;Fighter's Instinct;;You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can’t take a Fighting Style option more than once, even if you later get to choose again.;
+#tr;Fyrnock's Instinct;;While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you complete a long rest.;
+#tr;Hawk's Instinct;7th level;You can see up to 1 mile away with no difficulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn’t impose disadvantage on your Wisdom (Perception) checks.;
+#tr;Katarn's Instinct;;You gain a climbing speed equal to your movement speed.;
+#tr;Loth-Cat's Instinct;;While you’re raging, other creatures have disadvantage on opportunity attack rolls against you, and you can take the Dash action as a bonus action on your turn.;
+#tr;Predator's Instinct;;Your speed increases by 10 feet.;
+#tr;Rancor's Instinct;13th level;While you’re raging any creature within 5 feet of you that’s hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can’t see or hear you or if it can’t be frightened.;
+#tr;Tactician's Instinct;;When you use your Reckless Attack feature, you can choose to not have advantage on your attack rolls this turn. If you do so, friendly creatures within 5 feet of a hostile creature that is within 5 feet of you have advantage on attack rolls against that creature.;
+#tr;Tracker's Instinct;7th level;You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace.;
+#tr;Terentatek's Instinct;13th level;When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power’s caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.;
+#tr;Varactyl's Instinct;13th level;While raging, you have advantage Dexterity checks, your attack rolls can’t suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.;
+#te;
 #fe;Danger Sense;3
 At 3rd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
