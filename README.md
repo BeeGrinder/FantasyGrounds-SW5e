@@ -65,6 +65,10 @@ The *__ext-src__* dirctory is for the extension sources.
 
 __Project News__
 
+Dec 5, 2020
+
+Update to PHB module and extension. Fixed extension project web link and renamed directory. Update berserker instincts, operative exploits and monastic vows to be more readable.  Made scholar/doctor/panacea side-effects into link to rollable table.
+
 Dec 3, 2020
 
 All class definitions updated thanks to the assistance of lordcygnus! Also fixed links to the SW5e web site and a few NPC issues.  Both modules and the extension should be downloaded.
