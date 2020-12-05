@@ -209,7 +209,7 @@ At 14th level, the precision with which you act during your rage causes you to b
 For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battlefield and how best to direct and control it. You guide your allies’ strikes, and your presence is enough to wash away their fatigue.
 #abf;Savage Diplomat;3
 Your path necessitates that you build relationships with others, for the betterment of your tribe or yourself.
-When you choose this approach at 3rd level, you gain proficiency in one of the following skills of your choice: Persuasion or Intimidation. You can choose to learn one language in place of the skill proficiency.
+When you choose this approach at 3rd level, you gain proficiency in one of the following skills of your choice: Persuasion, Intimidation. You can choose to learn one language in place of the skill proficiency.
 #abf;Commanding Rage;3
 Also at 3rd level, when in your rage, you become more aware of your allies, and their intent when fighting at your side. While you are raging, when an ally within 10 feet of you makes an attack roll against an enemy, you can use your reaction to grant advantage to that attack and add your rage damage bonus to the damage roll, if the attack hits.
 #abf;Inspiring Presence;6
