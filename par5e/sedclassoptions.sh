@@ -11,6 +11,8 @@ cat client_preedit.xml |\
  sed 's/<name type="string">Academic Pursuit<\/name>/<name type="string">Academic Pursuit<\/name><specializationchoice type="number">1<\/specializationchoice>/g' |\
  sed 's/<name type="string">Scout Technique<\/name>/<name type="string">Scout Technique<\/name><specializationchoice type="number">1<\/specializationchoice>/g' |\
  sed 's/<name type="string">Sentinel Calling<\/name>/<name type="string">Sentinel Calling<\/name><specializationchoice type="number">1<\/specializationchoice>/g' |\
+ sed 's/----FightingMasteryReferenceList----/<link class="referencetext" recordname="reference.refmanualdata.refpage_000001fightingmastery\@SW5e Player Book">Fighting Mastery List<\/link>/g' |\
+ sed 's/----LightsaberFormsReferenceList----/<link class="referencetext" recordname="reference.refmanualdata.refpage_000003lightsaberforms\@SW5e Player Book">Saber Form List<\/link>/g' |\
  sed 's/----FightingStyleReferenceList----/<link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle\@SW5e Player Book">Fighting Style List<\/link>/g' \
  > client.xml
 /c/Program\ Files/7-Zip/7z.exe a -mx9 "SW5e Player Book.zip" client.xml definition.xml thumbnail.png images tokens
