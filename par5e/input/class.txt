@@ -85,7 +85,7 @@ instinct has prerequisites, you must meet them to learn it. You can learn an ins
 #tr;Boggdo's Instinct;13th level;While raging you have a flying speed equal to your current walking speed, though you fall if you end your turn in the air and nothing else is holding you aloft.;
 #tr;Chirodactyl's Instinct;7th level;While raging, you have blindsight to a range of 30 feet, and you have advantage on Wisdom (Perception) checks that rely on sound, as long as you aren’t deafened.;
 #tr;Dewback's Instinct;;Choose three damage types. While raging, you have resistance to the chosen damage types.;
-#tr;Fighter's Instinct;;You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in Chapter 6. You can’t take a Fighting Style option more than once, even if you later get to choose again.;
+#tr;Fighter's Instinct;;You adopt a particular style of fighting as your specialty. Choose one of the Fighting Style options, detailed in the Chapter 6 reference. You can’t take a Fighting Style option more than once, even if you later get to choose again.;
 #tr;Fyrnock's Instinct;;While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you complete a long rest.;
 #tr;Hawk's Instinct;7th level;You can see up to 1 mile away with no difficulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn’t impose disadvantage on your Wisdom (Perception) checks.;
 #tr;Katarn's Instinct;;You gain a climbing speed equal to your movement speed.;
@@ -97,6 +97,7 @@ instinct has prerequisites, you must meet them to learn it. You can learn an ins
 #tr;Terentatek's Instinct;13th level;When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power’s caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.;
 #tr;Varactyl's Instinct;13th level;While raging, you have advantage Dexterity checks, your attack rolls can’t suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.;
 #te;
+----FightingStyleReferenceList----
 #fe;Danger Sense;3
 At 3rd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
@@ -941,7 +942,7 @@ If a modification has prerequisites, you must meet them to install it. You can i
 #tr;Energy Shield;;You install an energy shield in your droid, which has 1 charge. As an action, your droid can use 1 charge to cast the energy shield tech power. You can choose this modification multiple times. Each time you do so, the energy shield gains another charge, to a maximum of 3. The energy shield regains all expended charges after a long rest.;
 #tr;Expertise Protocol;Level 5;You install a protocol in your droid that grants it expertise in a tool or skill in which it is proficient.;
 #tr;False Combustion;Class 2 Droid;As a reaction in response to taking damage, your droid can feign an explosion. For 1 minute, it appears to be destroyed to all outward inspection. A creature can use its action to inspect your droid and make an Intelligence (Investigation) check (DC = 8 + your droid’s proficiency bonus + your droid’s Intelligence modifier). If it succeeds, it becomes aware that your droid still functions.;
-#tr;Fighting Style Protocol;;Your droid adopts a particular style of fighting as its specialty. Choose one of the fighting style options, detailed in chapter 6. Your droid can’t take a Fighting Style option more than once, even if it later gets to choose again.;
+#tr;Fighting Style Protocol;;Your droid adopts a particular style of fighting as its specialty. Choose one of the fighting style options, detailed in the chapter 6 reference. Your droid can’t take a Fighting Style option more than once, even if it later gets to choose again.;
 #tr;Flamethrower;;You install a flamethrower in your droid. The flamethrower has 1 charge. As an action, your droid can cast the jet of flame tech power, though it does not scale with higher levels, or use 1 charge to cast the flame sweep tech power at 1st level. The saving throw is made against your droid’s tech save DC (8 + your droid’s proficiency bonus + your droid’s Intelligence modifier). You can choose this modification multiple times. Each time you do so, the flamethrower gains another charge, to a maximum of 3. If the flamethrower has multiple charges, you can use multiple charges to cast flame sweep at a higher level, 1 point per charge. The flamethrower regains all expended charges after a long rest.;
 #tr;Four-Armed Combatant;Class 4 Droid;You install two additional arms to improve your droid’s combat capabilities, granting it four arms which it can use independently of one another. Your droid can only gain the benefit of items held by two of its arms at any given time, and once per round your droid can switch which arms it is benefiting from (no action required). While your droid has at least 3 arms free, it has a climbing speed equal to its walking speed.;
 #tr;Heavy Plating;Medium Armor proficiency;Your droid gains proficiency in heavy armor. If your droid is already proficient in heavy armor, instead critical hits are treated as normal hits against it.;
@@ -963,6 +964,7 @@ If a modification has prerequisites, you must meet them to install it. You can i
 #tr;Toughness Module;Level 11, Durability Module;You modify the durability module in your droid, granting the following benefit: Your droid becomes proficient in Constitution saving throws. If it is already proficient, it becomes proficient in another saving throw of your choice and Whenever your droid takes the Dodge action in combat, it can spend one Hit Die to heal itself. Roll the die, add its Constitution modifier, and it regains a number of hit points equal to the total (minimum of one).;
 #tr;Truesight Optics;Level 11, Darkvision Optics;Your droid can see through illusions and detect invisibility within 30 feet, as with truesight.;
 #te;
+----FightingStyleReferenceList----
 
 ##;Fighter
 #h;Fighter
@@ -1025,7 +1027,9 @@ You start with the following equipment, in addition to the equipment granted by 
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 8d4 x 100 cr.
 #fe;Fighting Style;1
-Beginning at 1st level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
+Beginning at 1st level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in the Chapter 6 reference.
+You can’t take a fighting style option more than once, even if you later get to choose again.
+----FightingStyleReferenceList----
 #fe;Second Wind;1
 Also at 1st level, you have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 Once you’ve used this feature, you must finish a short or long rest before you can use it again.
@@ -1100,9 +1104,7 @@ Also at 3rd level, you can add half your proficiency bonus (rounded up) to any S
 Beginning at 7th level, once per round, roll 1d6 and add the die to your saving throw total. If applying this bonus to a death saving throw increases the total to 20 or higher, you gain the benefits of rolling a 20 on the d20. You can choose to use this feature before or after you make a saving throw, but you must decide before the GM says whether the save succeeds or fails.
 #abf;Additional Fighting Style;10
 At 10th level, you can choose a second fighting style option.
-#zls;
-#zl;fighter_feature;fightingstyle1;Fighting Styles
-#zle;
+----FightingStyleReferenceList----
 #abf;Devastating Critical;15
 Starting at 15th level, when you score a critical hit with a weapon attack, you gain a bonus to that weapon’s damage roll equal to your fighter level.
 #abf;Survivor;18
@@ -1316,7 +1318,8 @@ As a bonus action, you can expend a use of your Channel the Force and touch a be
 #fe;Force-Empowered Strikes;2
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend force points to deal additional damage to the target, which is the same type as the weapon’s damage. The additional damage is 1d8 for each point spent in this way. You can’t deal more additional damage than the amount shown in the Focused Strikes column of the guardian table.
 #fe;Fighting Style;2
-Also at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
+Also at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style, detailed in the Chapter 6 reference. You can’t take a fighting style option more than once, even if you later get to choose again.
+----FightingStyleReferenceList----
 #fe;Guardian Aura;2
 When you reach 3rd level, you gain an aura of your choice, as detailed at the end of the class description. You gain an additional aura at 10th and 18th level.
 The auras are presented in alphabetical order. If multiple guardians grant the same aura, affected creatures can only benefit from it once. You must be conscious to grant the benefits of your auras.
@@ -1610,6 +1613,7 @@ You gain a limited ability to manipulate the Force. See chapter 10 for the gener
 When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.
 #bp;Vow of the Fighter
 You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.
+----FightingStyleReferenceList----
 #bp;Vow of Fortitude
 #bw;Prerequisite: 7th level
 You can use your action or bonus action to end one effect on yourself that is causing you to be blinded or deafened.
@@ -2078,6 +2082,7 @@ When you select this pursuit, you gain access to new discoveries which reflect y
 #tr;Tactical Retreat;-;When you take the Dash action, opportunity attacks made against you are made at disadvantage.;
 #tr;Unbound Commander;Level 12;You learn to command your allies to victory from afar. Your Critical Analysis range is increased to 120 feet.;
 #te;
+----FightingStyleReferenceList----
 
 ##;Scout
 #h;Scout
@@ -2178,6 +2183,7 @@ your proficiency bonus + your Intelligence modifier
 You use a wristpad (found in chapter 5) as a techcasting focus for your tech powers.
 #fe;Fighting Style;2
 Also at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
+----FightingStyleReferenceList----
 #fe;Scout Routine;3
 Beginning at 3rd level, you’ve developed one routine, as detailed at the end of the class description. You develop an additional routine at 7th and 15th level.
 The routines are presented in alphabetical order. If multiple scouts grant the same routine, affected creatures can only benefit from it once. You must be conscious to grant the benefit of your routines.
@@ -2485,6 +2491,7 @@ Additionally, as a bonus action, you can manifest this ideal in a brief surge of
 #h;Ideal of the Fighter
 You adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
 Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you know the fighting mastery that corresponds with the fighting style you chose with this feature. If you already know that fighting mastery, you instead learn another of your choice for the duration.
+----FightingStyleReferenceList----
 #h;Ideal of the Hunter
 You gain darkvision out to a range of 60 feet. If you already have darkvision, this ideal increases its range by 30 feet.
 Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you can see normally in enhanced darkness, and you gain blindsight to 10 feet.
@@ -2668,6 +2675,7 @@ You can hold your breath twice as long as you are normally able to, and take hal
 When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.;
 #bp;Fighter’s Exploit
 You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.;
+----FightingStyleReferenceList----
 #bp;Freedom’s Exploit
 You ignore unenhanced difficult terrain, and when you would use your action to break free of an effect that is grappling or restraining you, you can instead use your bonus action.;
 #bp;Guerrilla’s Exploit
