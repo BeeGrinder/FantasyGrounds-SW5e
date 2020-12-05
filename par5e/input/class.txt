@@ -2657,23 +2657,30 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 At 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
 #fe;Operative Exploits;2
 Also at 2nd level, you’ve adopted two exploits, as detailed at the end of the class description. You adopt an additional exploit at 7th, 13th, and 17th level.
+#h;Operative Exploits
 The exploits are presented in alphabetical order. If an exploit has prerequisites, you must meet them to learn it. You can learn an exploit at the same time you meet its prerequisites.
-#h;Operative Exploits Table
-#ts;
-#th;Exploit;Prerequisites;Description;
-#tr;Commander’s Exploit;-;You gain proficiency in medium armor.;
-#tr;Explorer’s Exploit;-;You can hold your breath twice as long as you are normally able to, and take half as much damage from fall damage.;
-#tr;Fate’s Exploit;Level 7;When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.;
-#tr;Fighter’s Exploit;-;You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.;
-#tr;Freedom’s Exploit;-;You ignore unenhanced difficult terrain, and when you would use your action to break free of an effect that is grappling or restraining you, you can instead use your bonus action.;
-#tr;Guerrilla’s Exploit;-;You only need 4 hours of sleep to gain the benefit of a long rest. Additionally, you have advantage on saving throws against exhaustion.;
-#tr;Learner’s Exploit;-;You gain proficiency in a skill and a tool, or two tools. You can select this discovery multiple times, each time choosing a new skill and a tool, or two new tools.;
-#tr;Mentor’s Exploit;Level 13; Once per turn, whenever both you and a friendly creature within 60 feet that can see and hear you both have to make a saving throw to resist the same effect, you can choose to have disadvantage on the save. If you do so, the friendly creature gains advantage on the save. You can use this feature before or after you both make the saving throw, but you must do so before the GM says whether the save succeeds or fails.;
-#tr;Skill’s Exploit;-;You learn an exploit that enhances your ability to apply your knowledge to combat situations. You can take this exploit multiple times. When you take the Attack action, you can use one of your skill exploits granted by this feature. You can use these features a combined number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest. Choose from the Skill's Exploit List. You must be proficient in the skill in order to take that skill’s exploit.;
-#tr;Technologist’s Exploit;-;Choose one 1st-level tech power. You learn that power and can cast it at its lowest level without expending tech points and without the use of a wristpad. Once you cast it in this way, you must finish a long rest before you can cast it again. Your techcasting ability for this power is Intelligence. You can select this exploit multiple times. Each time you do so, you must choose a different power.;
-#tr;Weaponmaster’s Exploit;-;You gain proficiency in three blasters or vibroweapons that lack the heavy and strength properties. You can select this exploit multiple times. Each time you do so, you must choose different weapons.;
-#te;
-#h;Skill's Exploit List
+#bp;Commander’s Exploit
+You gain proficiency in medium armor.
+#bp;Explorer’s Exploit
+You can hold your breath twice as long as you are normally able to, and take half as much damage from fall damage.;
+#bp;Fate’s Exploit
+#bw;Prerequisite: Level 7
+When you finish a short or long rest, roll a d20 and record the number rolled. Once before your next short or long rest, you can replace any attack roll, saving throw, or ability check made by you or a creature within 5 feet of you with this roll. You must choose to do so before the roll.;
+#bp;Fighter’s Exploit
+You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can’t take a fighting Style option more than once, even if you later get to choose again.;
+#bp;Freedom’s Exploit
+You ignore unenhanced difficult terrain, and when you would use your action to break free of an effect that is grappling or restraining you, you can instead use your bonus action.;
+#bp;Guerrilla’s Exploit
+You only need 4 hours of sleep to gain the benefit of a long rest. Additionally, you have advantage on saving throws against exhaustion.;
+#bp;Learner’s Exploit
+You gain proficiency in a skill and a tool, or two tools. You can select this discovery multiple times, each time choosing a new skill and a tool, or two new tools.;
+#bp;Mentor’s Exploit
+#bw;Prerequisite: Level 13
+Once per turn, whenever both you and a friendly creature within 60 feet that can see and hear you both have to make a saving throw to resist the same effect, you can choose to have disadvantage on the save. If you do so, the friendly creature gains advantage on the save. You can use this feature before or after you both make the saving throw, but you must do so before the GM says whether the save succeeds or fails.;
+#bp;Skills Exploit
+You learn an exploit that enhances your ability to apply your knowledge to combat situations. You can take this exploit multiple times.
+When you take the Attack action, you can use one of your skill exploits granted by this feature. You can use these features a combined number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Choose from the following. You must be proficient in the skill in order to take that skill's exploit.
 #ls;
 #li;Aim (Stealth). You attempt to line up a strike against a creature you can see that you are hidden from. Make a Dexterity (Stealth) check contested by the target’s Wisdom (Perception) check. If your check succeeds, you gain a +10 bonus to the first attack roll you make against the target before the end of your next turn. If your check fails, you are no longer hidden from the target.
 #li;Angle (Perception). You attempt to predict the behavior of a humanoid you can see within 30 feet. Make a Wisdom (Perception) check contested by the target’s Dexterity (Sleight of Hand) check. If your check succeeds, the first attack roll the target makes before the start of your next turn has disadvantage, and the first saving throw the creature makes before the start of your next turn has disadvantage. If your check fails, you can’t use this feature on this target again for 1 hour.
@@ -2694,6 +2701,10 @@ The exploits are presented in alphabetical order. If an exploit has prerequisite
 #li;Study (Lore). You attempt to anticipate your target’s action. Make an Intelligence (Lore) check contested by the target’s Charisma (Deception) check. If your check succeeds, you have advantage on the first ability check, attack roll or saving throw you make against that creature before the end of your next turn. Alternatively, before the end of your next turn, you can use your reaction to grant disadvantage on the first ability check, attack roll, or saving throw the target makes against you. If your check fails, you instead have disadvantage on the first ability check, attack roll or saving throw you make against that creature before the end of your next turn.
 #li;Wrestle (Athletics). You attempt to grab and pin a creature within 5 feet of you with at least one free hand. The target must be no more than one size larger than you. Make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If your check succeeds, the target is both grappled and restrained by you. If the target stops being grappled, it also stops being restrained. If your check fails, you can’t use this feature on this target again for 1 hour.
 #le;
+#bp;Technologist’s Exploit
+Choose one 1st-level tech power. You learn that power and can cast it at its lowest level without expending tech points and without the use of a wristpad. Once you cast it in this way, you must finish a long rest before you can cast it again. Your techcasting ability for this power is Intelligence. You can select this exploit multiple times. Each time you do so, you must choose a different power.;
+#bp;Weaponmaster’s Exploit
+You gain proficiency in three blasters or vibroweapons that lack the heavy and strength properties. You can select this exploit multiple times. Each time you do so, you must choose different weapons.;
 #fe;Bad Feeling;3
 Starting at 3rd level, you have a wary eye, bordering on paranoia. When you roll for initiative, you can move up to your speed. This movement happens before the initiative order is determined.
 Once you’ve used this feature, you can’t use it again until you finish a long rest.
