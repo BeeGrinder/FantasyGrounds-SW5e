@@ -16,7 +16,7 @@
 			<name>5E</name>
 		</ruleset>
 	</properties>
-	<announcement text="SW5e ruleset extension. https://sw5e.com/" font="emotefont" icon=""/> 
+	<announcement text="SW5e ruleset extension. https://github.com/BeeGrinder/FantasyGrounds-SW5e" font="emotefont" icon=""/> 
 	<base>
 		<!-- Strings -->
 		<includefile source="strings/strings_SW5e.xml" />
