@@ -1070,6 +1070,7 @@ The maneuvers are presented in alphabetical order.
 #te;
 #fe;Fighter Mastery;3
 At 3rd level, you’ve mastered a particular style of fighting. Choose one of the Fighting Mastery options, detailed in Chapter 6. You can’t take a Fighting Mastery option more than once, even if you later get to choose again.
+----FightingMasteryReferenceList----
 #fe;Fighter Speciality;3
 Also at 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 #zls;
@@ -1353,18 +1354,18 @@ By 6th level, the Force flowing through you makes you immune to poison and disea
 By 11th level, you are so in tune with the Force that all your melee weapon strikes carry the power of the Force with them. Whenever you hit a creature with a melee weapon, the creature takes an extra 1d8 damage. If you also use your Force-Empowered Strikes with an attack, you add this damage to the extra damage of your Force-Empowered Strikes. The damage is the same type as the weapon’s damage.
 #fe;Cleansing Touch;14
 Beginning at 14th level, you can use your action and expend a use of your Channel the Force ability to end one force power on yourself or on one willing creature that you touch.
-
 #abh;Guardian Focus
 #ab;Form I: Shii-Cho
 Shii-Cho Form, also known as Determination Form, uses wild, unpredictable attacks designed to distract and disarm their foes. Those guardians who focus on Shii-Cho Form make seemingly random, yet deliberate, attacks to knock their opponents off-balance.
 #abf;Form Basics;3
 When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Shii-Cho lightsaber form, detailed in Chapter 6 of the Player’s Handbook. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+----LightsaberFormsReferenceList----
 #abf;The Way of the Sarlaac;3
 Also at 3rd level, as a bonus action, you can enter a frenetic stance for one minute. While in this stance, the first time you hit a creature with a melee weapon attack on your turn, it has disadvantage on the next melee attack roll it makes against you before the start of your next turn. Additionally, if that creature is within 5 feet of you, it must make a Strength saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier). On a failed save, it is pushed back 5 feet, and you can immediately move into the space it just vacated without provoking opportunity attacks.
 This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
 #abf;Channel the Force;3
-Lastly at 3rd level, you gain the following Channel the Force option.
-#h;Disarming Slash
+Also at 3rd level, you gain the following Channel the Force option.
+#bp;Disarming Slash
 When you hit a creature with a melee weapon attack, you can expend a use of your Channel the Force (no action required) to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. The creature must make a Strength saving throw. On a failed save, it drops the object you choose. If you are within 5 feet of the target, and you have a free hand, you can catch the item. Otherwise, the object lands at its feet.
 #abf;Unpredictable Motion;7
 Starting at 7th level, while you are wielding a melee weapon, opportunity attacks against you are made at disadvantage.
@@ -1384,6 +1385,7 @@ This effect ends early if you are incapacitated or die. Once you’ve used this 
 Makashi Form, also known as Contention Form, encourages precision and efficiency over power, using jabs, parries and light cuts over slashes, blocks and chops. Those guardians who focus on Makashi Form utilize calculated blade manipulation, intense focus, and expert timing to confuse and trap their opponents.
 #abf;Form Basics;3
 When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Makashi lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+----LightsaberFormsReferenceList----
 #abf;The Way Of The Ysalamiri;3
 Also at 3rd level, as a bonus action, you can enter an offensive stance for one minute. While in this stance, you add your Wisdom or Charisma modifier (your choice) to the first melee weapon attack and damage rolls you make each turn.
 This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
@@ -1419,6 +1421,7 @@ This effect ends early if you are incapacitated or die. Once you’ve used this 
 Niman Form, also known as Moderation Form, strikes a balance between bladework and force powers. Those guardians who focus on Niman Form weave Force manipulation with their melee weapon strikes, pushing their opponents off-balance to create an opening.
 #abf;Form Basics;3
 When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Niman lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+----LightsaberFormsReferenceList----
 #abf;The Way of the Rancor;3
 Also at 3rd level, as a bonus action, you can enter a balanced stance for one minute. As a part of this bonus action, and as a bonus action on each of your turns, when you use your action to cast a force power, you can make one melee weapon attack. Additionally, for the duration, you can use Wisdom or Charisma instead of Strength or Dexterity for the attack and damage rolls of your melee weapon attacks. You must use the same modifier for both rolls.
 This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
@@ -1446,6 +1449,7 @@ Shien/Djem So Form, also known as Perseverance Form, utilizes a force-enhanced s
 You gain proficiency in heavy armor.
 #abf;Form Basics;3
 When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Shien/Djem So lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+----LightsaberFormsReferenceList----
 #abf;The Way of the Krayt Dragon;3
 Also at 3rd level, as a bonus action, you can take a threatening stance for one minute. While in this stance, the first time you hit with a melee weapon attack using Strength each turn, you can attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to your Strength modifier. The damage is of the same type dealt by the original attack.
 This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
@@ -1483,6 +1487,7 @@ Soresu Form, also known as Resilience Form, relies on tight bladework and subtle
 You gain proficiency in heavy armor.
 #abf;Form Basics;3
 When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Soresu lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can’t take a lightsaber form option more than once, even if you later get to choose again.
+----LightsaberFormsReferenceList----
 #abf;The Way Of The Mynock;3
 Also at 3rd level, as a bonus action, you can enter a defensive stance for one minute. As a part of this bonus action, and as a bonus action on each of your turns, you can cast the saber ward power. When you do so, you have a number of special reactions equal to your proficiency bonus that you can only use to cast the saber reflect force power. You can only take one reaction per turn.
 This effect ends early if you are incapacitated or die. Once you’ve used this feature, you can’t use it again until you finish a long rest.
@@ -2492,6 +2497,7 @@ Additionally, as a bonus action, you can manifest this ideal in a brief surge of
 You adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can’t take a fighting style option more than once, even if you later get to choose again.
 Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you know the fighting mastery that corresponds with the fighting style you chose with this feature. If you already know that fighting mastery, you instead learn another of your choice for the duration.
 ----FightingStyleReferenceList----
+----FightingMasteryReferenceList----
 #h;Ideal of the Hunter
 You gain darkvision out to a range of 60 feet. If you already have darkvision, this ideal increases its range by 30 feet.
 Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you can see normally in enhanced darkness, and you gain blindsight to 10 feet.
