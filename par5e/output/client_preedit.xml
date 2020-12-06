@@ -15137,7 +15137,7 @@
                   <td>While raging, you have advantage Dexterity checks, your attack rolls can't suffer from disadvantage, and each slowed level only reduces your speed by 5 feet, unless it would reduce your speed to 0.</td>
                 </tr>
               </table>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
           </berserkerinstincts2>
           <dangersense3>
@@ -15149,7 +15149,7 @@
             </text>
           </dangersense3>
           <berserkerapproach3>
-            <name type="string">Berserker Approach</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Berserker Approach</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.</p>
@@ -16033,7 +16033,7 @@
             </text>
           </forceaffinity3>
           <consulartradition3>
-            <name type="string">Consular Tradition</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Consular Tradition</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.</p>
@@ -16704,7 +16704,7 @@
             </text>
           </toolexpertise2>
           <engineeringdiscipline3>
-            <name type="string">Engineering Discipline</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Engineering Discipline</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.</p>
@@ -18070,7 +18070,7 @@
                   <td>Your droid can see through illusions and detect invisibility within 30 feet, as with truesight.</td>
                 </tr>
               </table>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
             <specialization type="string">Astrotech Engineering</specialization>
           </astrotechmodifications>
@@ -18481,7 +18481,7 @@
             <text type="formattedtext">
               <p>Beginning at 1st level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in the Chapter 6 reference.</p>
               <p>You can't take a fighting style option more than once, even if you later get to choose again.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
           </fightingstyle1>
           <secondwind1>
@@ -18604,11 +18604,11 @@
             <level type="number">3</level>
             <text type="formattedtext">
               <p>At 3rd level, you've mastered a particular style of fighting. Choose one of the Fighting Mastery options, detailed in Chapter 6. You can't take a Fighting Mastery option more than once, even if you later get to choose again.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000001fightingmastery@SW5e Player Book">Fighting Mastery List</link></p>
+              <p>----FightingMasteryReferenceList----</p>
             </text>
           </fightermastery3>
           <fighterspeciality3>
-            <name type="string">Fighter Speciality</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Fighter Speciality</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose a specialty that you strive to emulate in your combat styles and techniques, which is detailed at the end of the class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
@@ -18688,7 +18688,7 @@
             <level type="number">10</level>
             <text type="formattedtext">
               <p>At 10th level, you can choose a second fighting style option.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
             <specialization type="string">Assault Specialist</specialization>
           </additionalfightingstyle10>
@@ -19575,7 +19575,7 @@
             <level type="number">2</level>
             <text type="formattedtext">
               <p>Also at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style, detailed in the Chapter 6 reference. You can't take a fighting style option more than once, even if you later get to choose again.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
           </fightingstyle2>
           <guardianaura2>
@@ -19626,7 +19626,7 @@
             </text>
           </guardianaura2>
           <guardianfocus3>
-            <name type="string">Guardian Focus</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Guardian Focus</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you begin to focus your studies on a specific lightsaber form, which is detailed at the end of the class description. Your focus grants you features at 3rd level and again at 7th, 15th, and 20th level.</p>
@@ -19678,7 +19678,7 @@
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you choose this form as your focus at 3rd level, you learn the basics of the chosen form. You gain the Soresu lightsaber form, detailed in Chapter 6. If you already know this form, you can instead choose another lightsaber form. You can't take a lightsaber form option more than once, even if you later get to choose again.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000003lightsaberforms@SW5e Player Book">Saber Form List</link></p>
+              <p>----LightsaberFormsReferenceList----</p>
             </text>
             <specialization type="string">Soresu Form</specialization>
           </formbasics3>
@@ -20394,7 +20394,7 @@
                 <b>Vow of the Fighter</b>
               </p>
               <p>You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can't take a fighting Style option more than once, even if you later get to choose again.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
               <p>
                 <b>Vow of Fortitude</b>
               </p>
@@ -20489,7 +20489,7 @@
             </text>
           </deflectmissiles3>
           <monasticorder3>
-            <name type="string">Monastic Order</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Monastic Order</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Lastly at 3rd level, you commit yourself to one monastic order, which is detailed at the end of the class description. Your order grants you features at 3rd level and again at 6th, 11th, and 17th level.</p>
@@ -21331,7 +21331,7 @@
             </text>
           </expertise3>
           <academicpursuit3>
-            <name type="string">Academic Pursuit</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Academic Pursuit</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you dedicate your studies towards a pursuit, which is detailed at the end of the class description. The pursuit you choose grants you features at 3rd level, and again at 6th, 9th, and 17th level.</p>
@@ -21823,7 +21823,7 @@
                   <td>You learn to command your allies to victory from afar. Your Critical Analysis range is increased to 120 feet.</td>
                 </tr>
               </table>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
             <specialization type="string">Tactician Pursuit</specialization>
           </discoveries_tactician_3>
@@ -22287,7 +22287,7 @@
             <level type="number">2</level>
             <text type="formattedtext">
               <p>Also at 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can't take a fighting style option more than once, even if you later get to choose again.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
             </text>
           </fightingstyle2>
           <scoutroutine3>
@@ -22343,7 +22343,7 @@
             </text>
           </scoutroutine3>
           <scouttechnique3>
-            <name type="string">Scout Technique</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Scout Technique</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose to focus on a specific scout technique, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>
@@ -23318,8 +23318,8 @@
               <h>Ideal of the Fighter</h>
               <p>You adopt a particular style of fighting as your specialty. Choose one of the fighting style options, detailed in Chapter 6. You can't take a fighting style option more than once, even if you later get to choose again.</p>
               <p>Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you know the fighting mastery that corresponds with the fighting style you chose with this feature. If you already know that fighting mastery, you instead learn another of your choice for the duration.</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000001fightingmastery@SW5e Player Book">Fighting Mastery List</link></p>
+              <p>----FightingStyleReferenceList----</p>
+              <p>----FightingMasteryReferenceList----</p>
               <h>Ideal of the Hunter</h>
               <p>You gain darkvision out to a range of 60 feet. If you already have darkvision, this ideal increases its range by 30 feet.</p>
               <p>Additionally, as a bonus action, you can manifest this ideal in a brief surge of energy. For the next minute, you can see normally in enhanced darkness, and you gain blindsight to 10 feet.</p>
@@ -23338,7 +23338,7 @@
             </text>
           </sentinelideals2>
           <sentinelcalling3>
-            <name type="string">Sentinel Calling</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Sentinel Calling</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>When you reach 3rd level, you choose a sentinel calling, which is detailed at the end of the class description. Your calling grants you features at 3rd level and again at 7th, 13th, and 18th level.</p>
@@ -23956,7 +23956,7 @@
                 <b>Fighter's Exploit</b>
               </p>
               <p>You adopt a particular style of fighting as your specialty. Choose one of the fighting Style options, detailed in Chapter 6. You can't take a fighting Style option more than once, even if you later get to choose again.;</p>
-              <p><link class="referencetext" recordname="reference.refmanualdata.refpage_000002fightingstyle@SW5e Player Book">Fighting Style List</link></p>
+              <p>----FightingStyleReferenceList----</p>
               <p>
                 <b>Freedom's Exploit</b>
               </p>
@@ -24020,7 +24020,7 @@
             </text>
           </badfeeling3>
           <operativepractice3>
-            <name type="string">Operative Practice</name><specializationchoice type="number">1</specializationchoice>
+            <name type="string">Operative Practice</name>
             <level type="number">3</level>
             <text type="formattedtext">
               <p>Also at 3rd level, you choose a practice that you emulate in the exercise of your operative abilities, which is detailed at the end of the class description. Your practice choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>
