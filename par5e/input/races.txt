@@ -995,4 +995,182 @@ Lasat Traits
 #!;Keen Hearing and Sight. You have advantage on Wisdom (Perception) checks that rely on hearing or sight.
 #!;Powerful Build. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 #!;Languages. You can speak, read, and write Galactic Basic and Lasat, a language whose *r*'s are difficult to replicate by most other species.
-
+##;Droid, Class I
+#zls;
+#zl;image;species_droidclass01.jpg;Droid Class I Image
+#zle;
+#h;Appearance
+Class I droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although some are smaller. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner.
+#h;Visual Characteristics
+#bs;Color Scheme: Typically Metallic.
+#bs;Distinctions: Human-like size, slow speed, specialized knowledge.
+#bs;Height: 4'5"+2d10".
+#bs;Weight: 115 lb.x(2d4) lb.
+#bs;Manufacturer: Cybot Galactican Industrial Automaton.
+#bs;Language: Varies based on location.
+#h;Utility
+Class I droids are programmed for the mathematical, medical, or physical sciences. Subcategories of the first degree are medical droids, biological science droids, physical science droids, and mathematics droids.
+Medical droids, also known as meddroids, med droids, medical units or surgical droids are a type of droid designed to heal living beings, and are the most commonly found Class I droids.
+#h;Names
+Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation.
+Occasionally, noteworthy droids will earn monikers based on their accomplishments.
+Droid, Class I Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Wisdom or Charisma score increases by 1.
+#!;Age. Droids don’t age, though they require maintenance to retain functionality.
+#!;Alignment. Droids tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Class I droids stand between 5 and 6 feet tall and weigh about 170 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 25 feet.
+#!;Type. Your creature type is droid.
+#!;Armor Integration. You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech’s implements. You must be proficient in armor in order to have it integrated.
+#!;Droid Resistances. You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.
+#!;Droid Systems. You do not need to eat or drink. Additionally, you no longer require a tech focus to cast tech powers.
+#!;Droid Vulnerabilities. You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
+#!;Force Insensitive. While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
+#!;Knowledge Protocol. You have proficiency in two Intelligence, Wisdom, or Charisma skills of your choice.
+#!;Maintenance Mode. Rather than sleep, you enter an inactive state to perform routine maintenance for 4 hours each day. You have disadvantage on Wisdom (Perception) checks while performing maintenance.
+#!;Rapid Reconstruction. You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points.
+#!;Languages. You can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you can not speak it.
+##;Droid, Class II
+#zls;
+#zl;image;species_droidclass02.jpg;Droid Class II Image
+#zle;
+#h;Appearance
+Class II droids are typically small, standing between two and four feet. Their form and color scheme vary based on tasks for which they are created, their affiliation, or quirks of their owner.
+They are noteworthy for their distinct, function-oriented form.
+#h;Visual Characteristics
+#bs;Color Scheme: Varies.
+#bs;Distinctions: Retractible arms, intregrated tools, diminutive size.
+#bs;Height: 2'5"+2d8".
+#bs;Weight: 60 lb.x1 lb.
+#bs;Manufacturer: Aratech Repulsor Company Industrial Automaton.
+#bs;Language: Binary.
+#h;Utility
+Class II droids are programmed for engineering and other technical sciences. They differ from class one droids because they apply the science to real-life situations. Class II droids are rarely equipped with Basic vocabulators, instead communicating through Binary. There are five subcategories of class II droids. Astromech, exploration, environmental, engineering, and maintenance droids are all class II droids.
+#h;Names
+Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation.
+Occasionally, noteworthy droids will earn monikers based on their accomplishments.
+Droid, Class II Traits
+#!;Ability Score Increase. Your Intelligence score increases by 2, and your Dexterity or Wisdom score increases by 1.
+#!;Age. Droids don’t age, though they require maintenance to retain functionality.
+#!;Alignment. Droids tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Class II droids stand 2 to 4 feet tall and weigh about 70 lbs. Regardless of your position in that range, your size is Small.
+#!;Speed. Your base walking speed is 25 feet.
+#!;Type. Your creature type is droid.
+#!;Armor Integration. You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech’s implements. You must be proficient in armor in order to have it integrated.
+#!;Droid Resistances. You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.
+#!;Droid Systems. You do not need to eat or drink. Additionally, you no longer require a tech focus to cast tech powers.
+#!;Droid Vulnerabilities. You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
+#!;Force Insensitive. While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
+#!;Integrated Engineering. You have proficiency in one specialist’s kit of your choice. The chosen kit is integrated into your chassis, and can not be removed while you are conscious.
+#!;Maintenance Mode. Rather than sleep, you enter an inactive state to perform routine maintenance for 4 hours each day. You have disadvantage on Wisdom (Perception) checks while performing maintenance.
+#!;Rapid Reconstruction. You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points.
+#!;Retractable Arms. You have two retractable arms: one grasper and one manipulator. The manipulator arm can only wield light shield generators and weapons with the light property.
+#!;Skill Protocol. You have proficiency in two skills of your choice.
+#!;Undersized. Your small stature makes it hard for you to wield bigger weapons. You can’t use heavy shields. Additionally, you can’t use martial weapons with the two-handed property unless it also has the light property, and if a martial weapon has the versatile property, you can only wield it in two hands.
+#!;Languages. You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you can not speak it.
+##;Droid, Class III
+#zls;
+#zl;image;species_droidclass03.jpg;Droid Class III Image
+#zle;
+#h;Appearance
+Class III droids are typically human-like in both shape and size, standing at around 6 feet. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner.
+They are noteworthy for their slow, shuffling gait and typically overly talkative nature.
+#h;Visual Characteristics
+#bs;Color Scheme: Typically Metallic.
+#bs;Distinctions: Human-like size, shuffling gait, typically talkative.
+#bs;Height: 5'6"+2d4".
+#bs;Weight: 60 lb.x(2d6) lb.
+#bs;Manufacturer: Cybot Galactican Industrial Automaton.
+#bs;Language: Varies based on location.
+#h;Utility
+Class III droids are programmed to interact with humans. They are said to be the most advanced droids ever invented. Protocol, servant, tutor, and child care droids are all class III droids.
+They are usually equipped with protocol chips which give them the cognitive functionality to engage socially.
+#h;Names
+Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation.
+Occasionally, noteworthy droids will earn monikers based on their accomplishments.
+Droid, Class III Traits
+#!;Ability Score Increase. Your Charisma score increases by 2, and your Intelligence or Wisdom score increases by 1.
+#!;Age. Droids don’t age, though they require maintenance to retain functionality.
+#!;Alignment. Droids tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Class III droids stand around the height of humans and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 25 feet.
+#!;Type. Your creature type is droid.
+#!;Armor Integration. You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech’s implements. You must be proficient in armor in order to have it integrated.
+#!;Droid Resistances. You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.
+#!;Droid Systems. You do not need to eat or drink. Additionally, you no longer require a tech focus to cast tech powers.
+#!;Droid Vulnerabilities. You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
+#!;Force Insensitive. While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
+#!;Knowledge Protocol. You have proficiency in the Lore skill.
+#!;Maintenance Mode. Rather than sleep, you enter an inactive state to perform routine maintenance for 4 hours each day. You have disadvantage on Wisdom (Perception) checks while performing maintenance.
+#!;Rapid Reconstruction. You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points.
+#!;Languages. You can speak, read, and write all registered languages.
+##;Droid, Class IV
+#zls;
+#zl;image;species_droidclass04.jpg;Droid Class IV Image
+#zle;
+#h;Appearance
+Class IV droids are typically human-like in both shape and size, though there are many advanced models (such as droidekas) that forgo this standardization. They are usually colored to match their affiliation, though personally owned class IV droids might not be. Certain models of class IV droids, such as the HK-series, are made to look like class III droids to disguise their martial nature.
+#h;Visual Characteristics
+#bs;Color Scheme: Varies.
+#bs;Distinctions: Variable size, combat-designed nature, often humanoid.
+#bs;Height: 5'2"+2d8".
+#bs;Weight: 110 lb.x(2d4) lb.
+#bs;Manufacturer: Holowan Mechanicals Uxiol Droid Manufacturing
+#bs;Language: Galactic basic.
+#h;Utility
+Class IV droids are programmed for military and security purposes. Such droids tend to perform tasks of violence or combat might be expected. Almost all class IV droids carry weapons. Armed combat droids are among the first droids ever created. Security, gladiator, battle, and assassin droids are all class IV droids.
+#h;Names
+Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation.
+Occasionally, noteworthy droids will earn monikers based on their accomplishments.
+Droid, Class IV Traits
+#!;Ability Score Increase. Your Constitution score increases by 2, and your Strength or Dexterity score increases by 1.
+#!;Age. Droids don’t age, though they require maintenance to retain functionality.
+#!;Alignment. Droids tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Class IV droids typically stand between 5 and 7 feet and weigh about 150 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Type. Your creature type is droid.
+#!;Armor Integration. You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech’s implements. You must be proficient in armor in order to have it integrated.
+#!;Droid Resistances. You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.
+#!;Droid Systems. You do not need to eat or drink. Additionally, you no longer require a tech focus to cast tech powers.
+#!;Droid Vulnerabilities. You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
+#!;Force Insensitive. While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
+#!;Maintenance Mode. Rather than sleep, you enter an inactive state to perform routine maintenance for 4 hours each day. You have disadvantage on Wisdom (Perception) checks while performing maintenance.
+#!;Martial Protocol. You have proficiency with light and medium armor as well as two simple or martial blasters or vibroweapons of your choice.
+#!;Rapid Reconstruction. You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points.
+#!;Languages. You can speak, read, and write Galactic Basic and one language of your choice. You can understand spoken and written Binary, but you can not speak it.
+##;Droid, Class V
+#zls;
+#zl;image;species_droidclass05.jpg;Droid Class V Image
+#zle;
+#h;Appearance
+Class V droids are typically vaguely human-like in both shape and size, standing at around 6 feet, although many can be larger. They are usually a polished metallic color, though this can vary based on tasks for which they are created, their affiliation, or quirks of their owner.
+They are noteworthy for their simple programming and quiet, focused work habits.
+#h;Visual Characteristics
+#bs;Color Scheme: Typically Metallic.
+#bs;Distinctions: Vaguely human-like size and shape, typically quiet.
+#bs;Height: 5'2"+2d12".
+#bs;Weight: 140 lb.x(2d8) lb.
+#bs;Manufacturer: Cybot Galactical Industrial Automaton.
+#bs;Language: Binary.
+#h;Utility
+Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation. Labor droids are fifth-degree droids.
+#h;Names
+Droids are typically called by their designation, given to them when they are created, or some affectation given to them by their owner. Often this affectation is a play on their designation.
+Occasionally, noteworthy droids will earn monikers based on their accomplishments.
+Droid, Class V Traits
+#!;Ability Score Increase. Your Strength score increases by 2, and your Dexterity or Constitution score increases by 1.
+#!;Age. Droids don’t age, though they require maintenance to retain functionality.
+#!;Alignment. Droids tend toward no particular alignment. The best and worst are found among them.
+#!;Size. Class V droids typically stand between 5 and 7 feet and weigh around 260 lbs. Regardless of your position in that range, your size is Medium.
+#!;Speed. Your base walking speed is 30 feet.
+#!;Type. Your creature type is droid.
+#!;Armor Integration. You can not wear armor, but you can have the armor professionally integrated into your chassis over the course of a long rest. This work must be done by someone proficient with astrotech’s implements. You must be proficient in armor in order to have it integrated.
+#!;Droid Resistances. You are resistant to necrotic, poison, and psychic damage, and are immune to poison and disease.
+#!;Droid Systems. You do not need to eat or drink. Additionally, you no longer require a tech focus to cast tech powers.
+#!;Droid Vulnerabilities. You are vulnerable to ion damage. Additionally, you have disadvantage on saving throws against effects that would deal ion or lightning damage.
+#!;Force Insensitive. While droids can be manipulated by many force powers, they can not sense the Force. You can not use force powers or take levels in forcecasting classes.
+#!;Maintenance Mode. Rather than sleep, you enter an inactive state to perform routine maintenance for 4 hours each day. You have disadvantage on Wisdom (Perception) checks while performing maintenance.
+#!;Manual Laborer. You have proficiency in Athletics and one set of artisan’s implements of your choice.
+#!;Powerful Build. Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.
+#!;Rapid Reconstruction. You are built with internal repair mechanisms. As a bonus action, you can choose to spend one of your Hit Dice to recover hit points.
+#!;Languages. You can speak, read, and write Binary. You can understand spoken and written Galactic Basic and one language of your choice, but you can not speak it.
