@@ -493,6 +493,7 @@ You’ve mastered fighting with a partner, learning to move and act as a single 
 #bp;Formfighting Mastery
 Prerequisite: The ability to cast force powers
 You’ve mastered the basics of the known forms of lightsaber combat, wielding your weapon with grace. You gain the following benefits:
+----LightsaberFormsReferenceList----
 #ls;
 #li;You learn three lightsaber forms, detailed later in this chapter. If you already know at least three lightsaber forms, you instead learn the remaining forms.
 #li;Once on each of your turns, before you make a melee weapon attack, you can choose to forgo your proficiency bonus. If you do so, you can engage in one of your lightsaber forms without using your bonus action. If that form lets you make an attack, that attack is also made without your proficiency bonus.
@@ -666,6 +667,7 @@ You are skilled at fighting with a partner. While an ally is within 5 feet of yo
 #bp;Formfighting Style
 Prerequisite: The ability to cast force powers
 You are skilled at the basics of the known forms of lightsaber combat. You gain the following benefits:
+----LightsaberFormsReferenceList----
 #ls;
 #li;You learn three lightsaber forms, detailed later in this chapter.
 #li;Once on each of your turns, you can draw or stow a lightweapon without using your object interaction.
