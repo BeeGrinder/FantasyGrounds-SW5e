@@ -57,6 +57,8 @@ At this time none of the Starship combat rules will be added to my modules.  It 
 
 The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
 
+PAR5e note: Do not use: equipment.txt, spells.txt, or parcels.txt.  Compatibility issues with modern Fantasy Grounds.
+
 The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML.
 
 The *__ext-src__* dirctory is for the extension sources.
