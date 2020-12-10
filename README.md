@@ -49,6 +49,16 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Supplement__* and the *__SW5e Player Book__*.  It is *__VERY IMPORTANT TO OPEN BOTH__*!
 
+#### This version of the SW5e rules
+
+This version of the SW5e ruleset was written to adhere to the current PHB and Scum & Villiany PDFs (as of Nov. 2020).  I am providing copies of these versions of the PDFs so you have a reference that matches the rules as implemented.
+
+[SW5e PHB PDF](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
+
+[SW5e S&V PDF](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
+
+
+
 __New Starship Rules__
 
 At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.
