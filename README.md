@@ -12,6 +12,20 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 ---
 
+#### This Version
+
+This version accompanies the PHB and Scum and Villiany PDFs that were release/available in March 2020.
+[SW5e PHB](https://mega.nz/file/jUFUSbgY#V98K-kxHWaBS7W43qlEvkfWWA7QI9sMwgEimebx9GrU)
+[SW5e S&V](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
+
+This was announced to be the "Final Release" of the PHB
+
+Since this "Final Release" hundreds of changes and additions have been made to the PHB.  Unlike other publications, where they add new books to add updated content, the SW5e PHB is in constant flux.  Nearly impossible to follow and keep 3rd party systems updated.
+
+So, I'm going to write these modules to a certain
+release of the PDFs and provide them as a download so you will be able to play with the appropriate documentation.
+
+---
 |Sub-Project | Status | Notes |
 | --- | --- | -- |
 |SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, NPCs, etc. Requires Suplement module to also be loaded.|
@@ -22,14 +36,13 @@ See the FG Forum post for news about current projects and module changes underwa
 
 ---
 
-__Fantasy Grounds Unity(FGU)__ : Please note this has not been extensively tested in FGU.  Some recent updates should help with compatibility issues.  At this time I have found no compatibility issues. If you find an issue, please let me know.
+__Fantasy Grounds Unity(FGU)__ : Please note this has not been extensively tested in FGU.  But, I have had excellent results testing this in both FGU and Classic.
 
 ---
 
 ### Fantasy Grounds User Information
 
 #### Installation
-##### Please Help - I need play testing done, please report any errors, omissions or typos.
 
 * To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
@@ -53,29 +66,6 @@ __New Starship Rules__
 
 At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.
 
-### Developer Information
-
-The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
-
-The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML.
-
-The *__ext-src__* dirctory is for the extension sources.
-
----
-
-__Project News__
-
-May 23, 2020
-
-All NPCs from the Scum and Villainy PDF have been added to the PHB module.
-
-May 18, 2020
-
-All NPCs from S&V PDF have been added through the letter H.  New module for download is available.
-
-May 8, 2020
-
-The old NPC module is no longer required.  All the old NPCs, plus some new ones, are in the PHB module.  There are now 124 out of 276 NPCs added to the PHB module.
 
 ---
 ###### This project is not endorsed by, directly affiliated with, maintained, authorized, or sponsored by the SW5e project, Fantasy Grounds, Smiteworks, NPCEngineer, rob2e, or Wizards of the Coast. All product and company names are the registered trademarks of their original owners. The use of any trade name or trademark is for identification and reference purposes only and does not imply any association with the trademark holder of their product brand.
