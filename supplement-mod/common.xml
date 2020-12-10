@@ -1182,10 +1182,10 @@
 			</id-00115>
 			<id-00116>
 				<locked type="number">1</locked>
-				<name type="string">Flame Projector Canister</name>
+				<name type="string">Projector canister, incendiary</name>
 				<type type="string">Adventuring Gear</type>
 				<subtype type="string">Ammunition</subtype>
-				<cost type="string">350 cr</cost>
+				<cost type="string">325 cr</cost>
 				<weight type="number">2.0</weight>
 			</id-00116>
 			<id-00117>
@@ -1222,10 +1222,10 @@
 			</id-00120>
 			<id-00121>
 				<locked type="number">1</locked>
-				<name type="string">Grenade, Electrostun</name>
+				<name type="string">Grenade, plasma</name>
 				<type type="string">Adventuring Gear</type>
 				<subtype type="string">Ammunition</subtype>
-				<cost type="string">250 cr</cost>
+				<cost type="string">125 cr</cost>
 				<weight type="number">1.0</weight>
 			</id-00121>
 			<id-00122>
@@ -1257,12 +1257,12 @@
 				<name type="string">Mine, Fragmentation</name>
 				<type type="string">Adventuring Gear</type>
 				<subtype type="string">Ammunition</subtype>
-				<cost type="string">500 cr</cost>
+				<cost type="string">200 cr</cost>
 				<weight type="number">2.0</weight>
 			</id-00125>
 			<id-00126>
 				<locked type="number">1</locked>
-				<name type="string">Mine, Plasma</name>
+				<name type="string">Mine, incendiary</name>
 				<type type="string">Adventuring Gear</type>
 				<subtype type="string">Ammunition</subtype>
 				<cost type="string">550 cr</cost>
@@ -1734,11 +1734,12 @@
 			</id-00192>
 			<id-00193>
 				<locked type="number">1</locked>
-				<name type="string">Barding -weight X2-</name>
+				<name type="string">Barding</name>
 				<type type="string">Tack, Harness, And Drawn Vehicles</type>
 				<subtype type="string">Tack And Harness</subtype>
-				<cost type="string">x4</cost>
+				<cost type="string">See Table</cost>
 				<weight type="number">.0</weight>
+				<description type="formattedtext">Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost and weight of barding varies based on the size of the creature, as shown in the Tack, Harness, and Drawn Vehicles table.<p>Tiny: Cost x 1/3, Weight x 1/2</p><p>Small or Medium: Cost x 1, Weight x 1</p><p>Large: Cost x 3, Weight x 2</p><p>Huge: Cost x 9, Weight x 4</p><p>Gargantuan: Cost x 27, Weight x 8</p></description>
 			</id-00193>
 			<id-00194>
 				<locked type="number">1</locked>
@@ -1788,6 +1789,128 @@
 				<cost type="string">6000 cr</cost>
 				<speed type="string">300 mph</speed>
 			</id-00199>
+			<id-00300>
+				<locked type="number">1</locked>
+				<name type="string">Homing Beacon</name>
+				<type type="string">Adventuring Gear</type>
+				<subtype type="string">Standard</subtype>
+				<cost type="string">450 cr</cost>
+				<weight type="number">1.0</weight>
+			</id-00300>
+			<id-00301>
+				<locked type="number">1</locked>
+				<name type="string">Poison</name>
+				<type type="string">Tools</type>
+				<subtype type="string">Standard</subtype>
+				<cost type="string">125 cr</cost>
+				<weight type="number">.5</weight>
+			</id-00301>
+			<id-00302>
+				<locked type="number">1</locked>
+				<name type="string">Projector canister, cryo</name>
+				<type type="string">Adventuring Gear</type>
+				<subtype type="string">Ammunition</subtype>
+				<cost type="string">325 cr</cost>
+				<weight type="number">2.0</weight>
+			</id-00302>
+			<id-00303>
+				<locked type="number">1</locked>
+				<name type="string">Slug cartridge</name>
+				<type type="string">Adventuring Gear</type>
+				<subtype type="string">Ammunition</subtype>
+				<cost type="string">2 cr</cost>
+				<weight type="number">.0</weight>
+			</id-00303>
+			<id-00304>
+				<locked type="number">1</locked>
+				<name type="string">Mine, gas</name>
+				<type type="string">Adventuring Gear</type>
+				<subtype type="string">Ammunition</subtype>
+				<cost type="string">625 cr</cost>
+				<weight type="number">2.0</weight>
+			</id-00304>
+			<id-00305>
+				<locked type="number">1</locked>
+				<name type="string">Artist's Tools</name>
+				<type type="string">Tools</type>
+				<subtype type="string">Artisan's Tools</subtype>
+				<cost type="string">100 cr</cost>
+				<weight type="number">5.0</weight>
+			</id-00305>
+			<id-00306>
+				<locked type="number">1</locked>
+				<name type="string">Gadgeteer's Tools</name>
+				<type type="string">Tools</type>
+				<subtype type="string">Artisan's Tools</subtype>
+				<cost type="string">100 cr</cost>
+				<weight type="number">7.0</weight>
+			</id-00306>
+			<id-00307>
+				<locked type="number">1</locked>
+				<name type="string">Constructor's Tools</name>
+				<type type="string">Tools</type>
+				<subtype type="string">Artisan's Tools</subtype>
+				<cost type="string">350 cr</cost>
+				<weight type="number">7.0</weight>
+			</id-00307>
+			<id-00308>
+				<locked type="number">1</locked>
+				<name type="string">Dejarik set</name>
+				<type type="string">Tools</type>
+				<subtype type="string">Gaming Set</subtype>
+				<cost type="string">300 cr</cost>
+				<weight type="number">8.0</weight>
+			</id-00308>
+			<id-00309>
+				<locked type="number">1</locked>
+				<name type="string">Saddlebag</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">40 cr</cost>
+				<weight type="number">8.0</weight>
+				<description type="formattedtext">Saddlebag</description>
+			</id-00309>
+			<id-00310>
+				<locked type="number">1</locked>
+				<name type="string">Saddle, exotic</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">600 cr</cost>
+				<weight type="number">40.0</weight>
+			</id-00310>
+			<id-00311>
+				<locked type="number">1</locked>
+				<name type="string">Saddle, military</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">200 cr</cost>
+				<weight type="number">30.0</weight>
+				<description type="formattedtext">A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding an exotic mount.</description>
+			</id-00311>
+			<id-00312>
+				<locked type="number">1</locked>
+				<name type="string">Saddle, pack</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">50 cr</cost>
+				<weight type="number">15.0</weight>
+			</id-00312>
+			<id-00313>
+				<locked type="number">1</locked>
+				<name type="string">Saddle, riding</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">100 cr</cost>
+				<weight type="number">25.0</weight>
+			</id-00313>
+			<id-00314>
+				<locked type="number">1</locked>
+				<name type="string">Stabling (per day)</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">5 cr</cost>
+				<weight type="number">.0</weight>
+			</id-00314>
 		</category>
 	</item>
 	<library>
@@ -2659,7 +2782,7 @@
 						<class>item</class>
 						<recordname>item.id-00116@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Flame Projector Canister</name>
+					<name type="string">Projector canister, incendiary</name>
 				</id-00116>
 				<id-00117>
 					<listlink type="windowreference">
@@ -2694,7 +2817,7 @@
 						<class>item</class>
 						<recordname>item.id-00121@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Grenade, Electrostun</name>
+					<name type="string">Grenade, plasma</name>
 				</id-00121>
 				<id-00122>
 					<listlink type="windowreference">
@@ -2729,7 +2852,7 @@
 						<class>item</class>
 						<recordname>item.id-00126@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Mine, Plasma</name>
+					<name type="string">Mine, incendiary</name>
 				</id-00126>
 				<id-00127>
 					<listlink type="windowreference">
@@ -3186,6 +3309,111 @@
 					</listlink>
 					<name type="string">Speederbike</name>
 				</id-00199>
+				<id-00300>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00300@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Homing Beacon</name>
+				</id-00300>
+				<id-00301>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00301@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Poison</name>
+				</id-00301>
+				<id-00302>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00302@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Projector canister, cryo</name>
+				</id-00302>
+				<id-00303>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00303@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Slug cartridge</name>
+				</id-00303>
+				<id-00304>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00304@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Mine, gas</name>
+				</id-00304>
+				<id-00305>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00305@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Artist's Tools</name>
+				</id-00305>
+				<id-00306>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00306@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Gadgeteer's Tools</name>
+				</id-00306>
+				<id-00307>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00307@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Constructor's Tools</name>
+				</id-00307>
+				<id-00308>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00308@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Dejarik set</name>
+				</id-00308>			
+				<id-00309>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00309@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Saddlebag</name>
+				</id-00309>	
+				<id-00310>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00310@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Saddle, exotic</name>
+				</id-00310>
+				<id-00311>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00311@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Saddle, military</name>
+				</id-00311>
+				<id-00312>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00312@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Saddle, pack</name>
+				</id-00312>
+				<id-00313>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00313@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Saddle, riding</name>
+				</id-00313>
+				<id-00314>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00314@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Stabling (per day)</name>
+				</id-00314>
 			</index>
 		</item>
 		<power>
