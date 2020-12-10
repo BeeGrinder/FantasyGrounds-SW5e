@@ -1911,6 +1911,14 @@
 				<cost type="string">5 cr</cost>
 				<weight type="number">.0</weight>
 			</id-00314>
+			<id-00315>
+				<locked type="number">1</locked>
+				<name type="string">Wagon</name>
+				<type type="string">Tack, Harness, And Drawn Vehicles</type>
+				<subtype type="string">Tack And Harness</subtype>
+				<cost type="string">350 cr</cost>
+				<weight type="number">400.0</weight>
+			</id-00315>
 		</category>
 	</item>
 	<library>
@@ -3414,6 +3422,13 @@
 					</listlink>
 					<name type="string">Stabling (per day)</name>
 				</id-00314>
+				<id-00315>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00315@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Wagon</name>
+				</id-00315>
 			</index>
 		</item>
 		<power>
