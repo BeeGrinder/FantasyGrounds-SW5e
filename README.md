@@ -33,11 +33,15 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 
 * To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
-   Download module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/modules)
+   Download version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+
+   Download version 3.0 "alpha testing" module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/modules)
  
 * To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.  Currently only works with FG Classic.
 
-   Download the extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
+   Download version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+
+   Download version 3.0 "alpha testing" extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
 
 * __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds any notes or special instructions.
 
@@ -49,14 +53,22 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
   Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Supplement__* and the *__SW5e Player Book__*.  It is *__VERY IMPORTANT TO OPEN BOTH__*!
 
-#### This version of the SW5e rules
+#### Which version of the Fantasy Grounds SW5e rules?
 
-This version of the SW5e ruleset was written to adhere to the current PHB and Scum & Villiany PDFs (as of Nov. 2020).  I am providing copies of these versions of the PDFs so you have a reference that matches the rules as implemented.
+__Version 2.0__ is complete and fixes are still being done. The matching version of the SW5e PDFs can be found at the release page.
+
+Download version 2.0 here:  [Version 2.0 DOWNLOAD](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+
+Because the SW5e project is constantly adding/removing/changing the contents of their PDFs, I will be providing links to the version of the PDFs that match this FG ruleset.
+Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your FG game use the provided matching copy of these documents.
+
+__Version 3.0__ is currently under construction.  Version 3.0 will bring this project up to date with the "current" version of SW5e.
+
+The working "alpha" copy of the current work can be found in the *modules* and *extensions* directories of this project. And below are links to the SW5e PDFs for this version.
 
 [SW5e PHB PDF](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
 
-[SW5e S&V PDF](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
-
+[SW5e Scum & Villainy PDF](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
 
 
 __New Starship Rules__
