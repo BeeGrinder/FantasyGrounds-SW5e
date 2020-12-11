@@ -33,7 +33,7 @@
 						<link class="url" recordname="https://www.reddit.com/r/sw5e/&#10;">Subreddit for SW5e</link>
 						<link class="url" recordname="http://rob2e.com">Check out rob2e.com</link>
 					</linklist>
-					<p>And, thanks to lordcygnus for his assistance in updating the modules with SW5e updates and changes.  Seriously, it's like nailing down slime.</p>
+					<p>And, thanks to lordcygnus for his assistance in updating the modules with SW5e updates and changes. Seriously, it's like nailing down slime.</p>
 				</text>
 			</id-00002>
 			<id-00003>
@@ -1695,7 +1695,13 @@
 				<subtype type="string">Tack And Harness</subtype>
 				<cost type="string">See Table</cost>
 				<weight type="number">.0</weight>
-				<description type="formattedtext">Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost and weight of barding varies based on the size of the creature, as shown in the Tack, Harness, and Drawn Vehicles table.<p>Tiny: Cost x 1/3, Weight x 1/2</p><p>Small or Medium: Cost x 1, Weight x 1</p><p>Large: Cost x 3, Weight x 2</p><p>Huge: Cost x 9, Weight x 4</p><p>Gargantuan: Cost x 27, Weight x 8</p></description>
+				<description type="formattedtext">Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost and weight of barding varies based on the size of the creature, as shown in the Tack, Harness, and Drawn Vehicles table.
+					<p>Tiny: Cost x 1/3, Weight x 1/2</p>
+					<p>Small or Medium: Cost x 1, Weight x 1</p>
+					<p>Large: Cost x 3, Weight x 2</p>
+					<p>Huge: Cost x 9, Weight x 4</p>
+					<p>Gargantuan: Cost x 27, Weight x 8</p>
+				</description>
 			</id-00193>
 			<id-00194>
 				<locked type="number">1</locked>
@@ -1879,20 +1885,20 @@
 	</item>
 	<library>
 		<id-sw5eequipment static="true">
-			<categoryname type="string">Supplements</categoryname>
+			<categoryname type="string">SW5e</categoryname>
 			<name type="string">sw5eequipment</name>
 			<entries>
 				<encounter>
 					<librarylink type="windowreference">
 						<class>referenceindexsorted</class>
-						<recordname>lists.encounter@SW5e Supplement</recordname>
+						<recordname>lists.encounter@SW5e-Wattos Equipment Inventory</recordname>
 					</librarylink>
 					<name type="string">Reference</name>
 				</encounter>
 				<item>
 					<librarylink type="windowreference">
 						<class>referenceindexsorted</class>
-						<recordname>lists.item@SW5e Supplement</recordname>
+						<recordname>lists.item@SW5e-Wattos Equipment Inventory</recordname>
 					</librarylink>
 					<name type="string">Equipment</name>
 				</item>
@@ -1906,21 +1912,21 @@
 				<id-00001>
 					<listlink type="windowreference">
 						<class>encounter</class>
-						<recordname>encounter.id-00001@SW5e Supplement</recordname>
+						<recordname>encounter.id-00001@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">1. Module Information</name>
 				</id-00001>
 				<id-00002>
 					<listlink type="windowreference">
 						<class>encounter</class>
-						<recordname>encounter.id-00002@SW5e Supplement</recordname>
+						<recordname>encounter.id-00002@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">2. Credits/Links</name>
 				</id-00002>
 				<id-00003>
 					<listlink type="windowreference">
 						<class>encounter</class>
-						<recordname>encounter.id-00003@SW5e Supplement</recordname>
+						<recordname>encounter.id-00003@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">3. Copyrights</name>
 				</id-00003>
@@ -1932,1442 +1938,1442 @@
 				<id-00002>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00002@SW5e Supplement</recordname>
+						<recordname>item.id-00002@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Combat Suit</name>
 				</id-00002>
 				<id-00003>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00003@SW5e Supplement</recordname>
+						<recordname>item.id-00003@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Heavy Combat Suit</name>
 				</id-00003>
 				<id-00004>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00004@SW5e Supplement</recordname>
+						<recordname>item.id-00004@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Light Battle Armor</name>
 				</id-00004>
 				<id-00005>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00005@SW5e Supplement</recordname>
+						<recordname>item.id-00005@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Battle Armor</name>
 				</id-00005>
 				<id-00006>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00006@SW5e Supplement</recordname>
+						<recordname>item.id-00006@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Powered Battle Armor</name>
 				</id-00006>
 				<id-00007>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00007@SW5e Supplement</recordname>
+						<recordname>item.id-00007@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Durasteel Armor</name>
 				</id-00007>
 				<id-00008>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00008@SW5e Supplement</recordname>
+						<recordname>item.id-00008@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Powered Durasteel Armor</name>
 				</id-00008>
 				<id-00009>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00009@SW5e Supplement</recordname>
+						<recordname>item.id-00009@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Heavy Durasteel Armor</name>
 				</id-00009>
 				<id-00010>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00010@SW5e Supplement</recordname>
+						<recordname>item.id-00010@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Light Shield Generator</name>
 				</id-00010>
 				<id-00011>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00011@SW5e Supplement</recordname>
+						<recordname>item.id-00011@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Medium Shield Generator</name>
 				</id-00011>
 				<id-00012>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00012@SW5e Supplement</recordname>
+						<recordname>item.id-00012@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Heavy Shield</name>
 				</id-00012>
 				<id-00013>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00013@SW5e Supplement</recordname>
+						<recordname>item.id-00013@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Techaxe</name>
 				</id-00013>
 				<id-00014>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00014@SW5e Supplement</recordname>
+						<recordname>item.id-00014@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibroclub</name>
 				</id-00014>
 				<id-00015>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00015@SW5e Supplement</recordname>
+						<recordname>item.id-00015@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrodagger</name>
 				</id-00015>
 				<id-00016>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00016@SW5e Supplement</recordname>
+						<recordname>item.id-00016@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrodart</name>
 				</id-00016>
 				<id-00017>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00017@SW5e Supplement</recordname>
+						<recordname>item.id-00017@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibromace</name>
 				</id-00017>
 				<id-00018>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00018@SW5e Supplement</recordname>
+						<recordname>item.id-00018@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrostaff</name>
 				</id-00018>
 				<id-00019>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00019@SW5e Supplement</recordname>
+						<recordname>item.id-00019@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrospear</name>
 				</id-00019>
 				<id-00020>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00020@SW5e Supplement</recordname>
+						<recordname>item.id-00020@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Lightdagger</name>
 				</id-00020>
 				<id-00021>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00021@SW5e Supplement</recordname>
+						<recordname>item.id-00021@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Lightsaber</name>
 				</id-00021>
 				<id-00022>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00022@SW5e Supplement</recordname>
+						<recordname>item.id-00022@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Shotosaber</name>
 				</id-00022>
 				<id-00023>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00023@SW5e Supplement</recordname>
+						<recordname>item.id-00023@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Chakram</name>
 				</id-00023>
 				<id-00024>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00024@SW5e Supplement</recordname>
+						<recordname>item.id-00024@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Doubleblade</name>
 				</id-00024>
 				<id-00025>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00025@SW5e Supplement</recordname>
+						<recordname>item.id-00025@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Doublesword</name>
 				</id-00025>
 				<id-00026>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00026@SW5e Supplement</recordname>
+						<recordname>item.id-00026@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Electrostaff</name>
 				</id-00026>
 				<id-00027>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00027@SW5e Supplement</recordname>
+						<recordname>item.id-00027@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Techblade</name>
 				</id-00027>
 				<id-00028>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00028@SW5e Supplement</recordname>
+						<recordname>item.id-00028@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Hidden Blade</name>
 				</id-00028>
 				<id-00029>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00029@SW5e Supplement</recordname>
+						<recordname>item.id-00029@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Net</name>
 				</id-00029>
 				<id-00030>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00030@SW5e Supplement</recordname>
+						<recordname>item.id-00030@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibroaxe</name>
 				</id-00030>
 				<id-00031>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00031@SW5e Supplement</recordname>
+						<recordname>item.id-00031@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibroblade</name>
 				</id-00031>
 				<id-00032>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00032@SW5e Supplement</recordname>
+						<recordname>item.id-00032@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrobaton</name>
 				</id-00032>
 				<id-00033>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00033@SW5e Supplement</recordname>
+						<recordname>item.id-00033@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrolance</name>
 				</id-00033>
 				<id-00034>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00034@SW5e Supplement</recordname>
+						<recordname>item.id-00034@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibropike</name>
 				</id-00034>
 				<id-00035>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00035@SW5e Supplement</recordname>
+						<recordname>item.id-00035@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrorapier</name>
 				</id-00035>
 				<id-00036>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00036@SW5e Supplement</recordname>
+						<recordname>item.id-00036@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrosword</name>
 				</id-00036>
 				<id-00037>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00037@SW5e Supplement</recordname>
+						<recordname>item.id-00037@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Vibrowhip</name>
 				</id-00037>
 				<id-00038>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00038@SW5e Supplement</recordname>
+						<recordname>item.id-00038@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Doublesaber</name>
 				</id-00038>
 				<id-00039>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00039@SW5e Supplement</recordname>
+						<recordname>item.id-00039@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Doubleshoto</name>
 				</id-00039>
 				<id-00040>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00040@SW5e Supplement</recordname>
+						<recordname>item.id-00040@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Dual-phase Lightsaber</name>
 				</id-00040>
 				<id-00041>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00041@SW5e Supplement</recordname>
+						<recordname>item.id-00041@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Greatsaber</name>
 				</id-00041>
 				<id-00042>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00042@SW5e Supplement</recordname>
+						<recordname>item.id-00042@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Lightsaber Pike</name>
 				</id-00042>
 				<id-00043>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00043@SW5e Supplement</recordname>
+						<recordname>item.id-00043@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Lightfoil</name>
 				</id-00043>
 				<id-00044>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00044@SW5e Supplement</recordname>
+						<recordname>item.id-00044@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Light Ring</name>
 				</id-00044>
 				<id-00045>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00045@SW5e Supplement</recordname>
+						<recordname>item.id-00045@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saberspear</name>
 				</id-00045>
 				<id-00046>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00046@SW5e Supplement</recordname>
+						<recordname>item.id-00046@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saberwhip</name>
 				</id-00046>
 				<id-00047>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00047@SW5e Supplement</recordname>
+						<recordname>item.id-00047@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Blaster Carbine</name>
 				</id-00047>
 				<id-00048>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00048@SW5e Supplement</recordname>
+						<recordname>item.id-00048@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bowcaster</name>
 				</id-00048>
 				<id-00049>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00049@SW5e Supplement</recordname>
+						<recordname>item.id-00049@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Light Pistol</name>
 				</id-00049>
 				<id-00050>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00050@SW5e Supplement</recordname>
+						<recordname>item.id-00050@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Hold-out</name>
 				</id-00050>
 				<id-00051>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00051@SW5e Supplement</recordname>
+						<recordname>item.id-00051@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Scattergun</name>
 				</id-00051>
 				<id-00052>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00052@SW5e Supplement</recordname>
+						<recordname>item.id-00052@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Shotgun</name>
 				</id-00052>
 				<id-00053>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00053@SW5e Supplement</recordname>
+						<recordname>item.id-00053@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Wrist Launcher</name>
 				</id-00053>
 				<id-00054>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00054@SW5e Supplement</recordname>
+						<recordname>item.id-00054@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Assault Cannon</name>
 				</id-00054>
 				<id-00055>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00055@SW5e Supplement</recordname>
+						<recordname>item.id-00055@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Blaster Pistol</name>
 				</id-00055>
 				<id-00056>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00056@SW5e Supplement</recordname>
+						<recordname>item.id-00056@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Blaster Rifle</name>
 				</id-00056>
 				<id-00057>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00057@SW5e Supplement</recordname>
+						<recordname>item.id-00057@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Heavy Pistol</name>
 				</id-00057>
 				<id-00058>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00058@SW5e Supplement</recordname>
+						<recordname>item.id-00058@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Ion Blaster</name>
 				</id-00058>
 				<id-00059>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00059@SW5e Supplement</recordname>
+						<recordname>item.id-00059@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Ion Rifle</name>
 				</id-00059>
 				<id-00060>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00060@SW5e Supplement</recordname>
+						<recordname>item.id-00060@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Lightbow</name>
 				</id-00060>
 				<id-00061>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00061@SW5e Supplement</recordname>
+						<recordname>item.id-00061@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Slugthrower</name>
 				</id-00061>
 				<id-00062>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00062@SW5e Supplement</recordname>
+						<recordname>item.id-00062@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Sniper Rifle</name>
 				</id-00062>
 				<id-00063>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00063@SW5e Supplement</recordname>
+						<recordname>item.id-00063@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bedroll</name>
 				</id-00063>
 				<id-00064>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00064@SW5e Supplement</recordname>
+						<recordname>item.id-00064@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Blanket</name>
 				</id-00064>
 				<id-00065>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00065@SW5e Supplement</recordname>
+						<recordname>item.id-00065@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Binders</name>
 				</id-00065>
 				<id-00066>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00066@SW5e Supplement</recordname>
+						<recordname>item.id-00066@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Canteen</name>
 				</id-00066>
 				<id-00067>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00067@SW5e Supplement</recordname>
+						<recordname>item.id-00067@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Chronometer</name>
 				</id-00067>
 				<id-00068>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00068@SW5e Supplement</recordname>
+						<recordname>item.id-00068@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Fibercord cable, 50 ft (rolled)</name>
 				</id-00068>
 				<id-00069>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00069@SW5e Supplement</recordname>
+						<recordname>item.id-00069@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Field Rations (1 day)</name>
 				</id-00069>
 				<id-00070>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00070@SW5e Supplement</recordname>
+						<recordname>item.id-00070@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Fusion Cutter</name>
 				</id-00070>
 				<id-00071>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00071@SW5e Supplement</recordname>
+						<recordname>item.id-00071@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Glowrod</name>
 				</id-00071>
 				<id-00072>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00072@SW5e Supplement</recordname>
+						<recordname>item.id-00072@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Grappling Hook</name>
 				</id-00072>
 				<id-00073>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00073@SW5e Supplement</recordname>
+						<recordname>item.id-00073@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Gravity Generator</name>
 				</id-00073>
 				<id-00074>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00074@SW5e Supplement</recordname>
+						<recordname>item.id-00074@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Heat Generator</name>
 				</id-00074>
 				<id-00075>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00075@SW5e Supplement</recordname>
+						<recordname>item.id-00075@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Hydrospanner</name>
 				</id-00075>
 				<id-00076>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00076@SW5e Supplement</recordname>
+						<recordname>item.id-00076@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Macrobinoculars</name>
 				</id-00076>
 				<id-00077>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00077@SW5e Supplement</recordname>
+						<recordname>item.id-00077@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mirror</name>
 				</id-00077>
 				<id-00078>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00078@SW5e Supplement</recordname>
+						<recordname>item.id-00078@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Ram, Portable</name>
 				</id-00078>
 				<id-00079>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00079@SW5e Supplement</recordname>
+						<recordname>item.id-00079@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Restraining Bolt</name>
 				</id-00079>
 				<id-00080>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00080@SW5e Supplement</recordname>
+						<recordname>item.id-00080@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Shovel</name>
 				</id-00080>
 				<id-00081>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00081@SW5e Supplement</recordname>
+						<recordname>item.id-00081@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Tent, two-person</name>
 				</id-00081>
 				<id-00082>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00082@SW5e Supplement</recordname>
+						<recordname>item.id-00082@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bandolier</name>
 				</id-00082>
 				<id-00083>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00083@SW5e Supplement</recordname>
+						<recordname>item.id-00083@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bipod</name>
 				</id-00083>
 				<id-00084>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00084@SW5e Supplement</recordname>
+						<recordname>item.id-00084@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Friction Grip Gear</name>
 				</id-00084>
 				<id-00085>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00085@SW5e Supplement</recordname>
+						<recordname>item.id-00085@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Jetpack</name>
 				</id-00085>
 				<id-00086>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00086@SW5e Supplement</recordname>
+						<recordname>item.id-00086@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Remote Detonator</name>
 				</id-00086>
 				<id-00087>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00087@SW5e Supplement</recordname>
+						<recordname>item.id-00087@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Rocket Boots</name>
 				</id-00087>
 				<id-00088>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00088@SW5e Supplement</recordname>
+						<recordname>item.id-00088@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Stealth Field Generator</name>
 				</id-00088>
 				<id-00089>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00089@SW5e Supplement</recordname>
+						<recordname>item.id-00089@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Tracker Utility Vest</name>
 				</id-00089>
 				<id-00090>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00090@SW5e Supplement</recordname>
+						<recordname>item.id-00090@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Tripod</name>
 				</id-00090>
 				<id-00091>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00091@SW5e Supplement</recordname>
+						<recordname>item.id-00091@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Commlink</name>
 				</id-00091>
 				<id-00092>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00092@SW5e Supplement</recordname>
+						<recordname>item.id-00092@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Comm Jammer</name>
 				</id-00092>
 				<id-00093>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00093@SW5e Supplement</recordname>
+						<recordname>item.id-00093@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Headcomm</name>
 				</id-00093>
 				<id-00094>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00094@SW5e Supplement</recordname>
+						<recordname>item.id-00094@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Holocomm</name>
 				</id-00094>
 				<id-00095>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00095@SW5e Supplement</recordname>
+						<recordname>item.id-00095@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Holotrace Device</name>
 				</id-00095>
 				<id-00096>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00096@SW5e Supplement</recordname>
+						<recordname>item.id-00096@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Pocket Scrambler</name>
 				</id-00096>
 				<id-00097>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00097@SW5e Supplement</recordname>
+						<recordname>item.id-00097@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Code Cylinder</name>
 				</id-00097>
 				<id-00098>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00098@SW5e Supplement</recordname>
+						<recordname>item.id-00098@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Datacard</name>
 				</id-00098>
 				<id-00099>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00099@SW5e Supplement</recordname>
+						<recordname>item.id-00099@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Datacron</name>
 				</id-00099>
 				<id-00100>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00100@SW5e Supplement</recordname>
+						<recordname>item.id-00100@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Datapad</name>
 				</id-00100>
 				<id-00101>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00101@SW5e Supplement</recordname>
+						<recordname>item.id-00101@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Holocron</name>
 				</id-00101>
 				<id-00102>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00102@SW5e Supplement</recordname>
+						<recordname>item.id-00102@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Holorecorder</name>
 				</id-00102>
 				<id-00103>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00103@SW5e Supplement</recordname>
+						<recordname>item.id-00103@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Stylus Pen</name>
 				</id-00103>
 				<id-00104>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00104@SW5e Supplement</recordname>
+						<recordname>item.id-00104@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Wristpad</name>
 				</id-00104>
 				<id-00105>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00105@SW5e Supplement</recordname>
+						<recordname>item.id-00105@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Backpack</name>
 				</id-00105>
 				<id-00106>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00106@SW5e Supplement</recordname>
+						<recordname>item.id-00106@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Crate</name>
 				</id-00106>
 				<id-00107>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00107@SW5e Supplement</recordname>
+						<recordname>item.id-00107@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Chest</name>
 				</id-00107>
 				<id-00108>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00108@SW5e Supplement</recordname>
+						<recordname>item.id-00108@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Pouch</name>
 				</id-00108>
 				<id-00109>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00109@SW5e Supplement</recordname>
+						<recordname>item.id-00109@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Clothes, Common</name>
 				</id-00109>
 				<id-00110>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00110@SW5e Supplement</recordname>
+						<recordname>item.id-00110@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Clothes, Costume</name>
 				</id-00110>
 				<id-00111>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00111@SW5e Supplement</recordname>
+						<recordname>item.id-00111@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Clothes, Dress Uniform</name>
 				</id-00111>
 				<id-00112>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00112@SW5e Supplement</recordname>
+						<recordname>item.id-00112@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Clothes, Fine</name>
 				</id-00112>
 				<id-00113>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00113@SW5e Supplement</recordname>
+						<recordname>item.id-00113@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Clothes, Traveler's</name>
 				</id-00113>
 				<id-00114>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00114@SW5e Supplement</recordname>
+						<recordname>item.id-00114@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Carbonite Canister</name>
 				</id-00114>
 				<id-00115>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00115@SW5e Supplement</recordname>
+						<recordname>item.id-00115@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Dart</name>
 				</id-00115>
 				<id-00116>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00116@SW5e Supplement</recordname>
+						<recordname>item.id-00116@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Projector canister, incendiary</name>
 				</id-00116>
 				<id-00117>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00117@SW5e Supplement</recordname>
+						<recordname>item.id-00117@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Missile, Fragmentation</name>
 				</id-00117>
 				<id-00118>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00118@SW5e Supplement</recordname>
+						<recordname>item.id-00118@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Power Cell</name>
 				</id-00118>
 				<id-00119>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00119@SW5e Supplement</recordname>
+						<recordname>item.id-00119@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Plasma Cell</name>
 				</id-00119>
 				<id-00120>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00120@SW5e Supplement</recordname>
+						<recordname>item.id-00120@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Breaching Charge</name>
 				</id-00120>
 				<id-00121>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00121@SW5e Supplement</recordname>
+						<recordname>item.id-00121@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Grenade, plasma</name>
 				</id-00121>
 				<id-00122>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00122@SW5e Supplement</recordname>
+						<recordname>item.id-00122@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Grenade, Frag</name>
 				</id-00122>
 				<id-00123>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00123@SW5e Supplement</recordname>
+						<recordname>item.id-00123@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Grenade, Gas</name>
 				</id-00123>
 				<id-00124>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00124@SW5e Supplement</recordname>
+						<recordname>item.id-00124@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Grenade, Ion</name>
 				</id-00124>
 				<id-00125>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00125@SW5e Supplement</recordname>
+						<recordname>item.id-00125@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mine, Fragmentation</name>
 				</id-00125>
 				<id-00126>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00126@SW5e Supplement</recordname>
+						<recordname>item.id-00126@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mine, incendiary</name>
 				</id-00126>
 				<id-00127>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00127@SW5e Supplement</recordname>
+						<recordname>item.id-00127@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Thermal Detonator</name>
 				</id-00127>
 				<id-00128>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00128@SW5e Supplement</recordname>
+						<recordname>item.id-00128@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Biochemist's Kit</name>
 				</id-00128>
 				<id-00129>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00129@SW5e Supplement</recordname>
+						<recordname>item.id-00129@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Chef's Kit</name>
 				</id-00129>
 				<id-00130>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00130@SW5e Supplement</recordname>
+						<recordname>item.id-00130@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Demolitions Kit</name>
 				</id-00130>
 				<id-00131>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00131@SW5e Supplement</recordname>
+						<recordname>item.id-00131@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Disguise Kit</name>
 				</id-00131>
 				<id-00132>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00132@SW5e Supplement</recordname>
+						<recordname>item.id-00132@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Forgery Kit</name>
 				</id-00132>
 				<id-00133>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00133@SW5e Supplement</recordname>
+						<recordname>item.id-00133@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Herbalism Kit</name>
 				</id-00133>
 				<id-00134>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00134@SW5e Supplement</recordname>
+						<recordname>item.id-00134@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mechanic's Kit</name>
 				</id-00134>
 				<id-00135>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00135@SW5e Supplement</recordname>
+						<recordname>item.id-00135@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Poisoner's Kit</name>
 				</id-00135>
 				<id-00136>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00136@SW5e Supplement</recordname>
+						<recordname>item.id-00136@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Security Kit</name>
 				</id-00136>
 				<id-00137>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00137@SW5e Supplement</recordname>
+						<recordname>item.id-00137@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Slicer's Kit</name>
 				</id-00137>
 				<id-00138>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00138@SW5e Supplement</recordname>
+						<recordname>item.id-00138@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Repair Kit</name>
 				</id-00138>
 				<id-00139>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00139@SW5e Supplement</recordname>
+						<recordname>item.id-00139@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mess Kit</name>
 				</id-00139>
 				<id-00148>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00148@SW5e Supplement</recordname>
+						<recordname>item.id-00148@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Aquatic Rebreather</name>
 				</id-00148>
 				<id-00149>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00149@SW5e Supplement</recordname>
+						<recordname>item.id-00149@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Enviro-suit</name>
 				</id-00149>
 				<id-00150>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00150@SW5e Supplement</recordname>
+						<recordname>item.id-00150@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Flight Suit</name>
 				</id-00150>
 				<id-00151>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00151@SW5e Supplement</recordname>
+						<recordname>item.id-00151@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Respirator</name>
 				</id-00151>
 				<id-00152>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00152@SW5e Supplement</recordname>
+						<recordname>item.id-00152@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Antitoxkit</name>
 				</id-00152>
 				<id-00153>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00153@SW5e Supplement</recordname>
+						<recordname>item.id-00153@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Emergency Battery</name>
 				</id-00153>
 				<id-00154>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00154@SW5e Supplement</recordname>
+						<recordname>item.id-00154@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Traumakit</name>
 				</id-00154>
 				<id-00155>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00155@SW5e Supplement</recordname>
+						<recordname>item.id-00155@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Medpac</name>
 				</id-00155>
 				<id-00156>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00156@SW5e Supplement</recordname>
+						<recordname>item.id-00156@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Poison, Basic (1 dose)</name>
 				</id-00156>
 				<id-00157>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00157@SW5e Supplement</recordname>
+						<recordname>item.id-00157@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Armormech's Tools</name>
 				</id-00157>
 				<id-00158>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00158@SW5e Supplement</recordname>
+						<recordname>item.id-00158@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Armstech's Tools</name>
 				</id-00158>
 				<id-00159>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00159@SW5e Supplement</recordname>
+						<recordname>item.id-00159@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Artificer's Tools</name>
 				</id-00159>
 				<id-00160>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00160@SW5e Supplement</recordname>
+						<recordname>item.id-00160@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Astrotech's Tools</name>
 				</id-00160>
 				<id-00161>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00161@SW5e Supplement</recordname>
+						<recordname>item.id-00161@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Biotech's Tools</name>
 				</id-00161>
 				<id-00162>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00162@SW5e Supplement</recordname>
+						<recordname>item.id-00162@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Brewer's Tools</name>
 				</id-00162>
 				<id-00163>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00163@SW5e Supplement</recordname>
+						<recordname>item.id-00163@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Carpenter's Tools</name>
 				</id-00163>
 				<id-00164>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00164@SW5e Supplement</recordname>
+						<recordname>item.id-00164@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Cobbler's Tools</name>
 				</id-00164>
 				<id-00165>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00165@SW5e Supplement</recordname>
+						<recordname>item.id-00165@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Cybertech's Tools</name>
 				</id-00165>
 				<id-00166>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00166@SW5e Supplement</recordname>
+						<recordname>item.id-00166@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Jeweler's Tools</name>
 				</id-00166>
 				<id-00167>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00167@SW5e Supplement</recordname>
+						<recordname>item.id-00167@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mason's Tools</name>
 				</id-00167>
 				<id-00168>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00168@SW5e Supplement</recordname>
+						<recordname>item.id-00168@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Painter's Tools</name>
 				</id-00168>
 				<id-00169>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00169@SW5e Supplement</recordname>
+						<recordname>item.id-00169@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Surveyor's Tools</name>
 				</id-00169>
 				<id-00170>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00170@SW5e Supplement</recordname>
+						<recordname>item.id-00170@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Synthweaver's Tools</name>
 				</id-00170>
 				<id-00171>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00171@SW5e Supplement</recordname>
+						<recordname>item.id-00171@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Tinker's Tools</name>
 				</id-00171>
 				<id-00172>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00172@SW5e Supplement</recordname>
+						<recordname>item.id-00172@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Chance Cubes</name>
 				</id-00172>
 				<id-00173>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00173@SW5e Supplement</recordname>
+						<recordname>item.id-00173@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Holochess Set</name>
 				</id-00173>
 				<id-00174>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00174@SW5e Supplement</recordname>
+						<recordname>item.id-00174@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Pazaak Deck</name>
 				</id-00174>
 				<id-00175>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00175@SW5e Supplement</recordname>
+						<recordname>item.id-00175@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Sabaac Deck</name>
 				</id-00175>
 				<id-00176>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00176@SW5e Supplement</recordname>
+						<recordname>item.id-00176@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bagpipes</name>
 				</id-00176>
 				<id-00177>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00177@SW5e Supplement</recordname>
+						<recordname>item.id-00177@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bandfill</name>
 				</id-00177>
 				<id-00178>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00178@SW5e Supplement</recordname>
+						<recordname>item.id-00178@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Drum</name>
 				</id-00178>
 				<id-00179>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00179@SW5e Supplement</recordname>
+						<recordname>item.id-00179@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Flute</name>
 				</id-00179>
 				<id-00180>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00180@SW5e Supplement</recordname>
+						<recordname>item.id-00180@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Lute</name>
 				</id-00180>
 				<id-00181>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00181@SW5e Supplement</recordname>
+						<recordname>item.id-00181@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Horn</name>
 				</id-00181>
 				<id-00182>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00182@SW5e Supplement</recordname>
+						<recordname>item.id-00182@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Ommni Box</name>
 				</id-00182>
 				<id-00183>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00183@SW5e Supplement</recordname>
+						<recordname>item.id-00183@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Pan Flute</name>
 				</id-00183>
 				<id-00184>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00184@SW5e Supplement</recordname>
+						<recordname>item.id-00184@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Shawm</name>
 				</id-00184>
 				<id-00185>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00185@SW5e Supplement</recordname>
+						<recordname>item.id-00185@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Viol</name>
 				</id-00185>
 				<id-00186>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00186@SW5e Supplement</recordname>
+						<recordname>item.id-00186@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Tauntaun</name>
 				</id-00186>
 				<id-00187>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00187@SW5e Supplement</recordname>
+						<recordname>item.id-00187@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Kaadu</name>
 				</id-00187>
 				<id-00188>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00188@SW5e Supplement</recordname>
+						<recordname>item.id-00188@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Rancor</name>
 				</id-00188>
 				<id-00189>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00189@SW5e Supplement</recordname>
+						<recordname>item.id-00189@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Sleen</name>
 				</id-00189>
 				<id-00190>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00190@SW5e Supplement</recordname>
+						<recordname>item.id-00190@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Varactyl</name>
 				</id-00190>
 				<id-00191>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00191@SW5e Supplement</recordname>
+						<recordname>item.id-00191@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bantha</name>
 				</id-00191>
 				<id-00192>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00192@SW5e Supplement</recordname>
+						<recordname>item.id-00192@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Dewback</name>
 				</id-00192>
 				<id-00193>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00193@SW5e Supplement</recordname>
+						<recordname>item.id-00193@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Barding -weight X2-</name>
 				</id-00193>
 				<id-00194>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00194@SW5e Supplement</recordname>
+						<recordname>item.id-00194@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Bit And Bridle</name>
 				</id-00194>
 				<id-00195>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00195@SW5e Supplement</recordname>
+						<recordname>item.id-00195@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Cart</name>
 				</id-00195>
 				<id-00196>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00196@SW5e Supplement</recordname>
+						<recordname>item.id-00196@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Feed (per Day)</name>
 				</id-00196>
 				<id-00197>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00197@SW5e Supplement</recordname>
+						<recordname>item.id-00197@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Airspeeder</name>
 				</id-00197>
 				<id-00198>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00198@SW5e Supplement</recordname>
+						<recordname>item.id-00198@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Landspeeder</name>
 				</id-00198>
 				<id-00199>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00199@SW5e Supplement</recordname>
+						<recordname>item.id-00199@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Speederbike</name>
 				</id-00199>
 				<id-00300>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00300@SW5e Supplement</recordname>
+						<recordname>item.id-00300@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Homing Beacon</name>
 				</id-00300>
 				<id-00301>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00301@SW5e Supplement</recordname>
+						<recordname>item.id-00301@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Poison</name>
 				</id-00301>
 				<id-00302>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00302@SW5e Supplement</recordname>
+						<recordname>item.id-00302@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Projector canister, cryo</name>
 				</id-00302>
 				<id-00303>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00303@SW5e Supplement</recordname>
+						<recordname>item.id-00303@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Slug cartridge</name>
 				</id-00303>
 				<id-00304>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00304@SW5e Supplement</recordname>
+						<recordname>item.id-00304@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Mine, gas</name>
 				</id-00304>
 				<id-00305>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00305@SW5e Supplement</recordname>
+						<recordname>item.id-00305@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Artist's Tools</name>
 				</id-00305>
 				<id-00306>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00306@SW5e Supplement</recordname>
+						<recordname>item.id-00306@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Gadgeteer's Tools</name>
 				</id-00306>
 				<id-00307>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00307@SW5e Supplement</recordname>
+						<recordname>item.id-00307@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Constructor's Tools</name>
 				</id-00307>
 				<id-00308>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00308@SW5e Supplement</recordname>
+						<recordname>item.id-00308@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Dejarik set</name>
-				</id-00308>			
+				</id-00308>
 				<id-00309>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00309@SW5e Supplement</recordname>
+						<recordname>item.id-00309@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saddlebag</name>
-				</id-00309>	
+				</id-00309>
 				<id-00310>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00310@SW5e Supplement</recordname>
+						<recordname>item.id-00310@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saddle, exotic</name>
 				</id-00310>
 				<id-00311>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00311@SW5e Supplement</recordname>
+						<recordname>item.id-00311@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saddle, military</name>
 				</id-00311>
 				<id-00312>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00312@SW5e Supplement</recordname>
+						<recordname>item.id-00312@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saddle, pack</name>
 				</id-00312>
 				<id-00313>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00313@SW5e Supplement</recordname>
+						<recordname>item.id-00313@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Saddle, riding</name>
 				</id-00313>
 				<id-00314>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00314@SW5e Supplement</recordname>
+						<recordname>item.id-00314@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Stabling (per day)</name>
 				</id-00314>
 				<id-00315>
 					<listlink type="windowreference">
 						<class>item</class>
-						<recordname>item.id-00315@SW5e Supplement</recordname>
+						<recordname>item.id-00315@SW5e-Wattos Equipment Inventory</recordname>
 					</listlink>
 					<name type="string">Wagon</name>
 				</id-00315>

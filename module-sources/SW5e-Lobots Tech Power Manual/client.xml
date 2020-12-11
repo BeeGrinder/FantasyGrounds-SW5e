@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <root>
-<encounter>
+	<encounter>
 		<category name="" baseicon="0" decalicon="0">
 			<id-00001>
 				<locked type="number">1</locked>
@@ -33,7 +33,7 @@
 						<link class="url" recordname="https://www.reddit.com/r/sw5e/&#10;">Subreddit for SW5e</link>
 						<link class="url" recordname="http://rob2e.com">Check out rob2e.com</link>
 					</linklist>
-					<p>And, thanks to lordcygnus for his assistance in updating the modules with SW5e updates and changes.  Seriously, it's like nailing down slime.</p>
+					<p>And, thanks to lordcygnus for his assistance in updating the modules with SW5e updates and changes. Seriously, it's like nailing down slime.</p>
 				</text>
 			</id-00002>
 			<id-00003>
@@ -78,4 +78,63 @@
 			</id-00003>
 		</category>
 	</encounter>
+	<library>
+		<id-sw5etechpowers static="true">
+			<categoryname type="string">SW5e</categoryname>
+			<name type="string">sw5etechpowers</name>
+			<entries>
+				<encounter>
+					<librarylink type="windowreference">
+						<class>referenceindexsorted</class>
+						<recordname>lists.encounter@SW5e-Lobots Tech Power Manual</recordname>
+					</librarylink>
+					<name type="string">Reference</name>
+				</encounter>
+				<power>
+					<librarylink type="windowreference">
+						<class>referenceindexsorted</class>
+						<recordname>lists.power@SW5e-Lobots Tech Power Manual</recordname>
+					</librarylink>
+					<name type="string">Tech Powers</name>
+				</power>
+			</entries>
+		</id-sw5etechpowers>
+	</library>
+	<lists>
+		<encounter>
+			<name type="string">Reference</name>
+			<index>
+				<id-00001>
+					<listlink type="windowreference">
+						<class>encounter</class>
+						<recordname>encounter.id-00001@SW5e-Lobots Tech Power Manual</recordname>
+					</listlink>
+					<name type="string">1. Module Information</name>
+				</id-00001>
+				<id-00002>
+					<listlink type="windowreference">
+						<class>encounter</class>
+						<recordname>encounter.id-00002@SW5e-Lobots Tech Power Manual</recordname>
+					</listlink>
+					<name type="string">2. Credits/Links</name>
+				</id-00002>
+				<id-00003>
+					<listlink type="windowreference">
+						<class>encounter</class>
+						<recordname>encounter.id-00003@SW5e-Lobots Tech Power Manual</recordname>
+					</listlink>
+					<name type="string">3. Copyrights</name>
+				</id-00003>
+			</index>
+		</encounter>
+		<power>
+			<name type="string">Spells</name>
+			<index>
+			</index>
+		</power>
+	</lists>
+	<spell>
+		<category name="" baseicon="0" decalicon="0">
+		</category>
+	</spell>
 </root>
