@@ -12,7 +12,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 
 ---
 
-#### This Version
+#### This Version (2.0.0)
 
 This version accompanies the PHB and Scum and Villiany PDFs that were release/available in March 2020.
 
