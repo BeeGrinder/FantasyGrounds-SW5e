@@ -138,7 +138,7 @@
 			</id-00002>
 			<id-00003>
 				<locked type="number">1</locked>
-				<name type="string">Heavy Combat Suit</name>
+				<name type="string">Fiber Armor</name>
 				<dexbonus type="string">Yes</dexbonus>
 				<stealth type="string">-</stealth>
 				<strength type="string">-</strength>
@@ -150,7 +150,7 @@
 			</id-00003>
 			<id-00004>
 				<locked type="number">1</locked>
-				<name type="string">Light Battle Armor</name>
+				<name type="string">Mesh Armor</name>
 				<dexbonus type="string">Yes (max 2)</dexbonus>
 				<stealth type="string">-</stealth>
 				<strength type="string">-</strength>
@@ -162,19 +162,19 @@
 			</id-00004>
 			<id-00005>
 				<locked type="number">1</locked>
-				<name type="string">Battle Armor</name>
+				<name type="string">Weave Armor</name>
 				<dexbonus type="string">Yes (max 2)</dexbonus>
 				<stealth type="string">-</stealth>
 				<strength type="string">-</strength>
 				<type type="string">Armor</type>
 				<subtype type="string">Medium Armor</subtype>
 				<cost type="string">1,000 cr</cost>
-				<weight type="number">20.0</weight>
+				<weight type="number">25.0</weight>
 				<ac type="number">14</ac>
 			</id-00005>
 			<id-00006>
 				<locked type="number">1</locked>
-				<name type="string">Powered Battle Armor</name>
+				<name type="string">Composite Armor</name>
 				<dexbonus type="string">Yes (max 2)</dexbonus>
 				<stealth type="string">Disadvantage</stealth>
 				<strength type="string">-</strength>
@@ -186,7 +186,7 @@
 			</id-00006>
 			<id-00007>
 				<locked type="number">1</locked>
-				<name type="string">Durasteel Armor</name>
+				<name type="string">Battle Armor</name>
 				<dexbonus type="string">-</dexbonus>
 				<stealth type="string">Disadvantage</stealth>
 				<strength type="string">Str 13</strength>
@@ -198,7 +198,7 @@
 			</id-00007>
 			<id-00008>
 				<locked type="number">1</locked>
-				<name type="string">Powered Durasteel Armor</name>
+				<name type="string">Assault Armor</name>
 				<dexbonus type="string">-</dexbonus>
 				<stealth type="string">Disadvantage</stealth>
 				<strength type="string">Str15</strength>
@@ -210,52 +210,16 @@
 			</id-00008>
 			<id-00009>
 				<locked type="number">1</locked>
-				<name type="string">Heavy Durasteel Armor</name>
-				<dexbonus type="string">-</dexbonus>
-				<stealth type="string">Disadvantage</stealth>
-				<strength type="string">Str 15</strength>
-				<type type="string">Armor</type>
-				<subtype type="string">Heavy Armor</subtype>
-				<cost type="string">15,000 cr</cost>
-				<weight type="number">65.0</weight>
-				<ac type="number">18</ac>
-			</id-00009>
-			<id-00010>
-				<locked type="number">1</locked>
-				<name type="string">Light Shield Generator</name>
-				<dexbonus type="string">-</dexbonus>
-				<stealth type="string">-</stealth>
-				<strength type="string">-</strength>
-				<type type="string">Armor</type>
-				<subtype type="string">Shield</subtype>
-				<cost type="string">50 cr</cost>
-				<weight type="number">7.0</weight>
-				<ac type="number">1</ac>
-			</id-00010>
-			<id-00011>
-				<locked type="number">1</locked>
-				<name type="string">Medium Shield Generator</name>
-				<dexbonus type="string">-</dexbonus>
-				<stealth type="string">-</stealth>
-				<strength type="string">-</strength>
-				<type type="string">Armor</type>
-				<subtype type="string">Shield</subtype>
-				<cost type="string">100 cr</cost>
-				<weight type="number">14.0</weight>
-				<ac type="number">2</ac>
-			</id-00011>
-			<id-00012>
-				<locked type="number">1</locked>
-				<name type="string">Heavy Shield</name>
+				<name type="string">Heavy Exoskeleton</name>
 				<dexbonus type="string">-</dexbonus>
 				<stealth type="string">Disadvantage</stealth>
 				<strength type="string">Str 17</strength>
 				<type type="string">Armor</type>
-				<subtype type="string">Shield</subtype>
-				<cost type="string">500 cr</cost>
-				<weight type="number">28.0</weight>
-				<ac type="number">3</ac>
-			</id-00012>
+				<subtype type="string">Heavy Armor</subtype>
+				<cost type="string">9,000 cr</cost>
+				<weight type="number">65.0</weight>
+				<ac type="number">18</ac>
+			</id-00009>
 			<id-00013>
 				<locked type="number">1</locked>
 				<name type="string">Techaxe</name>
@@ -268,13 +232,13 @@
 			</id-00013>
 			<id-00014>
 				<locked type="number">1</locked>
-				<name type="string">Vibroclub</name>
-				<damage type="string">1d10 kinetic</damage>
-				<properties type="string">Two-handed</properties>
+				<name type="string">Vibroknuckler</name>
+				<damage type="string">1d6 kinetic</damage>
+				<properties type="string">Light, hidden</properties>
 				<type type="string">Weapon</type>
 				<subtype type="string">Simple Melee Weapons</subtype>
-				<cost type="string">75 cr</cost>
-				<weight type="number">10.0</weight>
+				<cost type="string">60 cr</cost>
+				<weight type="number">2.0</weight>
 			</id-00014>
 			<id-00015>
 				<locked type="number">1</locked>
@@ -388,9 +352,9 @@
 			</id-00025>
 			<id-00026>
 				<locked type="number">1</locked>
-				<name type="string">Electrostaff</name>
+				<name type="string">Techstaff</name>
 				<damage type="string">2d4 kinetic</damage>
-				<properties type="string">Double (2d4 kinetic), two-handed</properties>
+				<properties type="string">Double (2d4 kinetic)</properties>
 				<type type="string">Weapon</type>
 				<subtype type="string">Martial Melee Weapons</subtype>
 				<cost type="string">600 cr</cost>
@@ -528,12 +492,12 @@
 			</id-00039>
 			<id-00040>
 				<locked type="number">1</locked>
-				<name type="string">Dual-phase Lightsaber</name>
+				<name type="string">Martial Lightsaber</name>
 				<damage type="string">1d8 energy</damage>
 				<properties type="string">Hidden, luminous, versatile (1d10)</properties>
 				<type type="string">Weapon</type>
 				<subtype type="string">Martial Lightsaber Weapons</subtype>
-				<cost type="string">750 cr</cost>
+				<cost type="string">300 cr</cost>
 				<weight type="number">2.0</weight>
 			</id-00040>
 			<id-00041>
@@ -1919,6 +1883,139 @@
 				<cost type="string">350 cr</cost>
 				<weight type="number">400.0</weight>
 			</id-00315>
+			<id-00316>
+				<locked type="number">1</locked>
+				<name type="string">Light Physical Shield</name>
+				<dexbonus type="string">-</dexbonus>
+				<stealth type="string">-</stealth>
+				<strength type="string">-</strength>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<cost type="string">50 cr</cost>
+				<weight type="number">6.0</weight>
+				<ac type="number">1</ac>
+			</id-00316>
+			<id-00317>
+				<locked type="number">1</locked>
+				<name type="string">Light Shield Generator</name>
+				<dexbonus type="string">-</dexbonus>
+				<stealth type="string">-</stealth>
+				<strength type="string">-</strength>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<cost type="string">125 cr</cost>
+				<weight type="number">2.0</weight>
+				<ac type="number">1</ac>
+			</id-00317>
+			<id-00318>
+				<locked type="number">1</locked>
+				<name type="string">Medium Physical Shield</name>
+				<dexbonus type="string">-</dexbonus>
+				<stealth type="string">-</stealth>
+				<strength type="string">Str 13</strength>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<cost type="string">150 cr</cost>
+				<weight type="number">18.0</weight>
+				<ac type="number">2</ac>
+			</id-00318>
+			<id-00319>
+				<locked type="number">1</locked>
+				<name type="string">Medium Shield Generator</name>
+				<dexbonus type="string">-</dexbonus>
+				<stealth type="string">-</stealth>
+				<strength type="string">-</strength>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<cost type="string">375 cr</cost>
+				<weight type="number">6.0</weight>
+				<ac type="number">2</ac>
+			</id-00319>
+			<id-00324>
+				<locked type="number">1</locked>
+				<name type="string">Heavy Physical Shield</name>
+				<dexbonus type="string">-</dexbonus>
+				<stealth type="string">Disadvantage</stealth>
+				<strength type="string">Str 15</strength>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<cost type="string">500 cr</cost>
+				<weight type="number">36.0</weight>
+				<ac type="number">3</ac>
+			</id-00324>
+			<id-00325>
+				<locked type="number">1</locked>
+				<name type="string">Heavy Shield Generator</name>
+				<dexbonus type="string">-</dexbonus>
+				<stealth type="string">-</stealth>
+				<strength type="string">-</strength>
+				<type type="string">Armor</type>
+				<subtype type="string">Shield</subtype>
+				<cost type="string">1,250 cr</cost>
+				<weight type="number">12.0</weight>
+				<ac type="number">3</ac>
+			</id-00325>
+			<id-00326>
+				<locked type="number">1</locked>
+				<name type="string">Hidden Blade</name>
+				<damage type="string">1d4 kinetic</damage>
+				<properties type="string">Finesse, fixed, hidden, light</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Melee Weapons</subtype>
+				<cost type="string">200 cr</cost>
+				<weight type="number">1.0</weight>
+			</id-00326>
+			<id-00327>
+				<locked type="number">1</locked>
+				<name type="string">Lightclub</name>
+				<damage type="string">1d10 energy</damage>
+				<properties type="string">Luminous, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Lightsaber Weapons</subtype>
+				<cost type="string">150 cr</cost>
+				<weight type="number">5.0</weight>
+			</id-00327>
+			<id-00328>
+				<locked type="number">1</locked>
+				<name type="string">Ion Carbine</name>
+				<damage type="string">1d3 ion</damage>
+				<properties type="string">Ammunition (range 60/240), reload (16 shots), two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">300 cr</cost>
+				<weight type="number">8.0</weight>
+			</id-00328>
+			<id-00329>
+				<locked type="number">1</locked>
+				<name type="string">Light Repeater</name>
+				<damage type="string">1d6 energy</damage>
+				<properties type="string">Ammunition (range 60/240), auto, burst (8 shots), reload (16 shots), two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">900 cr</cost>
+				<weight type="number">12.0</weight>
+			</id-00329>
+			<id-00330>
+				<locked type="number">1</locked>
+				<name type="string">Light Slugpistol</name>
+				<damage type="string">1d4 kinetic</damage>
+				<properties type="string">Ammunition (range 40/160), hidden, light, reload (8 shots)</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">250 cr</cost>
+				<weight type="number">2.0</weight>
+			</id-00330>
+			<id-00331>
+				<locked type="number">1</locked>
+				<name type="string">Needler</name>
+				<damage type="string">1d4 kinetic</damage>
+				<properties type="string">Ammunition (range 40/160), rapid (10 shots), reload (20 shots), special</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">275 cr</cost>
+				<weight type="number">3.0</weight>
+			</id-00331>
+
 		</category>
 	</item>
 	<library>
@@ -1999,71 +2096,50 @@
 						<class>item</class>
 						<recordname>item.id-00003@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Heavy Combat Suit</name>
+					<name type="string">Fiber Armor</name>
 				</id-00003>
 				<id-00004>
 					<listlink type="windowreference">
 						<class>item</class>
 						<recordname>item.id-00004@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Light Battle Armor</name>
+					<name type="string">Mesh Armor</name>
 				</id-00004>
 				<id-00005>
 					<listlink type="windowreference">
 						<class>item</class>
 						<recordname>item.id-00005@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Battle Armor</name>
+					<name type="string">Weave Armor</name>
 				</id-00005>
 				<id-00006>
 					<listlink type="windowreference">
 						<class>item</class>
 						<recordname>item.id-00006@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Powered Battle Armor</name>
+					<name type="string">Composite Armor</name>
 				</id-00006>
 				<id-00007>
 					<listlink type="windowreference">
 						<class>item</class>
 						<recordname>item.id-00007@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Durasteel Armor</name>
+					<name type="string">Battle Armor</name>
 				</id-00007>
 				<id-00008>
 					<listlink type="windowreference">
 						<class>item</class>
 						<recordname>item.id-00008@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Powered Durasteel Armor</name>
+					<name type="string">Assault Armor</name>
 				</id-00008>
 				<id-00009>
 					<listlink type="windowreference">
 						<class>item</class>
 						<recordname>item.id-00009@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Heavy Durasteel Armor</name>
+					<name type="string">Heavy Exoskeleton</name>
 				</id-00009>
-				<id-00010>
-					<listlink type="windowreference">
-						<class>item</class>
-						<recordname>item.id-00010@SW5e Supplement</recordname>
-					</listlink>
-					<name type="string">Light Shield Generator</name>
-				</id-00010>
-				<id-00011>
-					<listlink type="windowreference">
-						<class>item</class>
-						<recordname>item.id-00011@SW5e Supplement</recordname>
-					</listlink>
-					<name type="string">Medium Shield Generator</name>
-				</id-00011>
-				<id-00012>
-					<listlink type="windowreference">
-						<class>item</class>
-						<recordname>item.id-00012@SW5e Supplement</recordname>
-					</listlink>
-					<name type="string">Heavy Shield</name>
-				</id-00012>
 				<id-00013>
 					<listlink type="windowreference">
 						<class>item</class>
@@ -2076,7 +2152,7 @@
 						<class>item</class>
 						<recordname>item.id-00014@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Vibroclub</name>
+					<name type="string">Vibroknuckler</name>
 				</id-00014>
 				<id-00015>
 					<listlink type="windowreference">
@@ -2160,7 +2236,7 @@
 						<class>item</class>
 						<recordname>item.id-00026@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Electrostaff</name>
+					<name type="string">Techstaff</name>
 				</id-00026>
 				<id-00027>
 					<listlink type="windowreference">
@@ -2258,7 +2334,7 @@
 						<class>item</class>
 						<recordname>item.id-00040@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Dual-phase Lightsaber</name>
+					<name type="string">Martial Lightsaber</name>
 				</id-00040>
 				<id-00041>
 					<listlink type="windowreference">
@@ -3429,6 +3505,90 @@
 					</listlink>
 					<name type="string">Wagon</name>
 				</id-00315>
+				<id-00316>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00316@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Light Physical Shield</name>
+				</id-00316>
+				<id-00317>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00317@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Light Shield Generator</name>
+				</id-00317>
+				<id-00318>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00318@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Medium Physical Shield</name>
+				</id-00318>				
+				<id-00319>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00319@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Medium Shield Generator</name>
+				</id-00319>					
+				<id-00324>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00324@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Heavy Physical Shield</name>
+				</id-00324>
+				<id-00325>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00325@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Heavy Shield Generator</name>
+				</id-00325>
+				<id-00326>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00326@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Hidden Blade</name>
+				</id-00326>
+				<id-00327>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00327@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Lightclub</name>
+				</id-00327>
+				<id-00328>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00328@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Ion Carbine</name>
+				</id-00328>
+				<id-00329>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00329@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Light Repeater</name>
+				</id-00329>
+				<id-00330>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00330@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Light Slugpistol</name>
+				</id-00330>
+				<id-00331>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00331@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Needler</name>
+				</id-00331>
 			</index>
 		</item>
 		<power>
