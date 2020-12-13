@@ -17404,6 +17404,25 @@
 				<school type="string">Dark-Side</school>
 				<source type="string">Force Powers</source>
 			</id-00283>
+			<id-00284>
+				<actions/>
+				<name type="string">On/Off</name>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string"/>
+				<description type="formattedtext">
+					<p>This power allows you to activate or deactivate any electronic device within range, as long as the device is not being wielded by a creature, and has a clearly defined on or off function that can be easily accessed from the outside of the device. Any device that requires a software-based shutdown sequence to activate or deactivate cannot be affected by on/off.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<prepared type="number">0</prepared>
+				<range type="string">60 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Tech</school>
+				<source type="string">Tech Powers</source>
+			</id-00284>
 		</category>
 	</spell>
 </root>
