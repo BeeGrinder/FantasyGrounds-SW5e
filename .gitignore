@@ -1,2 +1,7 @@
 desktop.ini
 .DS_Store
+.metadata
+.settings
+.project
+.classpath
+target

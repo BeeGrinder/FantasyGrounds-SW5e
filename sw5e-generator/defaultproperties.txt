@@ -1,0 +1,18 @@
+# module.destination is where you want finished module to be written to
+module.destination=D:\\games\\Smiteworks\\FGUData\\modules
+# not used, but an example if we were creating an extension
+extension.destination=D:\\games\\Smiteworks\\FGUData\\extensions
+# name,category,author of module, used in links to objects and the final filename of the module
+module.name=SW5e Supplement
+module.category=SW5e
+module.author=BeeGrinder
+# additional treasure parcels can be added via direct xml
+module.treasureparcels=C:\\sw5e-dev\\sw5e-module-create\\examples\\parcels.xml
+# a list of actions by spellname to add to matching spells
+module.actionfile=C:\\sw5e-dev\\sw5e-module-create\\examples\\spellactions.txt
+# the web api source addresses
+sw5e.api.url=https://sw5eapi.azurewebsites.net/api
+sw5e.api.spells=power
+sw5e.api.equipment=equipment
+# can be PHB, WH, EC.  SPACE delimited list.  I would place different sources in different modules.
+sw5e.contentsource=PHB
