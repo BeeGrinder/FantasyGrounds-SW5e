@@ -1,4 +1,4 @@
-package com.beegrinder.sw5e;
+package com.beegrinder.sw5e.modulegenerator;
 
 import java.awt.EventQueue;
 import java.awt.GridBagConstraints;

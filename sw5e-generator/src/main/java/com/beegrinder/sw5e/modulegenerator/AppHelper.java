@@ -1,4 +1,4 @@
-package com.beegrinder.sw5e;
+package com.beegrinder.sw5e.modulegenerator;
 
 import java.util.Properties;
 
@@ -38,4 +38,14 @@ public class AppHelper {
 		frame.getChckbxAddActions().setSelected(false);
 		frame.getTextAreaLogOutput().setText("Logging");
 	}
+	
+	public static String getEquipmentUrl(Properties defaultProps) {
+		String retVal = new String();
+		
+		String urlString=defaultProps.getProperty("sw5e.api.url")+"/"+defaultProps.getProperty("sw5e.api.equipment");
+		if( StringUtils.isNotBlank(urlString)) retVal = urlString;
+		
+		return retVal;
+	}
 }
+

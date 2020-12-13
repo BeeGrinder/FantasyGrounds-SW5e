@@ -1,4 +1,4 @@
-package com.beegrinder.sw5e;
+package com.beegrinder.sw5e.modulegenerator;
 
 public class AppConstants {
 

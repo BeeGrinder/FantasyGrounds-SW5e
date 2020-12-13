@@ -1,14 +1,17 @@
-package com.beegrinder.sw5e;
+package com.beegrinder.sw5e.modulegenerator;
 
 import java.awt.EventQueue;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ModGen {
+import com.fasterxml.jackson.databind.node.ArrayNode;
+
+public class ModuleGenerator {
 
 	static Properties defaultProps = new Properties();
 	static AppScreen frame = null;
+	static ArrayNode equipmentNode;
 	
 	public static void loadDefaultProperties() throws IOException {
 
@@ -35,8 +38,8 @@ public class ModGen {
 				try {
 					frame = new AppScreen();
 
-					AppHelper.populateDefaultsToScreen(frame, defaultProps);
-					
+					AppHelper.populateDefaultsToScreen(frame, defaultProps);  //sloppy reference call
+					equipmentNode = (ArrayNode) AppRestHelper.getRestData(AppHelper.getEquipmentUrl(defaultProps));
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
