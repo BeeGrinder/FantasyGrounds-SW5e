@@ -2045,6 +2045,117 @@
 				<cost type="string">250 cr</cost>
 				<weight type="number">1.0</weight>
 			</id-00334>
+			<id-00335>
+				<locked type="number">1</locked>
+				<name type="string">Blaster Cannon</name>
+				<damage type="string">1d12 energy</damage>
+				<properties type="string">Ammunition (range 100/400), auto, burst (2 shots), reload (4 shots), strength 15, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">1,600 cr</cost>
+				<weight type="number">36.0</weight>
+			</id-00335>
+			<id-00336>
+				<locked type="number">1</locked>
+				<name type="string">Carbine Rifle</name>
+				<damage type="string">1d8 energy</damage>
+				<properties type="string">Ammunition (range 80/320), auto, rapid (3 shots), reload (12 shots), two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">800 cr</cost>
+				<weight type="number">10.0</weight>
+			</id-00336>
+			<id-00337>
+				<locked type="number">1</locked>
+				<name type="string">Chaingun</name>
+				<damage type="string">1d10 energy</damage>
+				<properties type="string">Ammunition (range 60/240), auto, rapid 6, reload 12, strength 15, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">1,500 cr</cost>
+				<weight type="number">42.0</weight>
+			</id-00337>
+			<id-00338>
+				<locked type="number">1</locked>
+				<name type="string">Cycler Rifle</name>
+				<damage type="string">1d8 kinetic</damage>
+				<properties type="string">Ammunition (range 100/400), rapid 2, reload 8, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">450 cr</cost>
+				<weight type="number">10.0</weight>
+			</id-00338>
+			<id-00339>
+				<locked type="number">1</locked>
+				<name type="string">Heavy Repeater</name>
+				<damage type="string">2d4 energy</damage>
+				<properties type="string">Ammunition (range 80/320), auto, burst 4, rapid 2, reload 8, strength 15, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">1,200 cr</cost>
+				<weight type="number">16.0</weight>
+			</id-00339>
+			<id-00340>
+				<locked type="number">1</locked>
+				<name type="string">Heavy Shotgun</name>
+				<damage type="string">2d4 kinetic</damage>
+				<properties type="string">Ammunition (range 30/120), burst 4, reload 12, strength 13, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">400 cr</cost>
+				<weight type="number">16.0</weight>
+			</id-00340>
+			<id-00340>
+				<locked type="number">1</locked>
+				<name type="string">Heavy Slugpistol</name>
+				<damage type="string">1d8 kinetic</damage>
+				<properties type="string">Ammunition (range 40/160), rapid 2, reload 8, strength 13</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">750 cr</cost>
+				<weight type="number">5.0</weight>
+			</id-00340>
+			<id-00341>
+				<locked type="number">1</locked>
+				<name type="string">Hunting Rifle</name>
+				<damage type="string">1d12 kinetic</damage>
+				<properties type="string">Ammunition (range 150/600), reload 2, strength 13, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">600 cr</cost>
+				<weight type="number">12.0</weight>
+			</id-00341>
+			<id-00342>
+				<locked type="number">1</locked>
+				<name type="string">Repeating Blaster</name>
+				<damage type="string">2d4 energy</damage>
+				<properties type="string">Ammunition (range 80/320), auto, burst 4, rapid 4, reload 8,strength 13, two-handed</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">1,200 cr</cost>
+				<weight type="number">18.0</weight>
+			</id-00342>
+			<id-00343>
+				<locked type="number">1</locked>
+				<name type="string">Revolver</name>
+				<damage type="string">1d8 kinetic</damage>
+				<properties type="string">Ammunition (range 30/120), rapid 6, reload 6, strength 11</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">750 cr</cost>
+				<weight type="number">4.0</weight>
+			</id-00343>
+			<id-00344>
+				<locked type="number">1</locked>
+				<name type="string">Subrepeater</name>
+				<damage type="string">1d6 energy</damage>
+				<properties type="string">Ammunition (range 30/120), auto, rapid 8, light, reload 16</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<cost type="string">1,200 cr</cost>
+				<weight type="number">4.0</weight>
+			</id-00344>
+
 		</category>
 	</item>
 	<library>
