@@ -672,8 +672,8 @@
 			</id-00057>
 			<id-00058>
 				<locked type="number">1</locked>
-				<name type="string">Ion Blaster</name>
-				<damage type="string">1d4 ion</damage>
+				<name type="string">Ion Pistol</name>
+				<damage type="string">1d3 ion</damage>
 				<properties type="string">Ammunition (range 40/160), reload (16 shots)</properties>
 				<type type="string">Weapon</type>
 				<subtype type="string">Martial Ranged Weapons</subtype>
@@ -692,13 +692,13 @@
 			</id-00059>
 			<id-00060>
 				<locked type="number">1</locked>
-				<name type="string">Lightbow</name>
-				<damage type="string">2d6 energy</damage>
-				<properties type="string">Ammunition (range 60/240), reload (4 shots), strength 13, two-handed</properties>
+				<name type="string">Heavy Bowcaster</name>
+				<damage type="string">2d12 energy</damage>
+				<properties type="string">Ammunition (range 60/240), burst (4 shots), reload (8 shots), strength 15, two-handed</properties>
 				<type type="string">Weapon</type>
 				<subtype type="string">Martial Ranged Weapons</subtype>
-				<cost type="string">400 cr</cost>
-				<weight type="number">16.0</weight>
+				<cost type="string">1,100 cr</cost>
+				<weight type="number">26.0</weight>
 			</id-00060>
 			<id-00061>
 				<locked type="number">1</locked>
@@ -2015,7 +2015,36 @@
 				<cost type="string">275 cr</cost>
 				<weight type="number">3.0</weight>
 			</id-00331>
-
+			<id-00332>
+				<locked type="number">1</locked>
+				<name type="string">Slugpistol</name>
+				<damage type="string">1d6 kinetic</damage>
+				<properties type="string">Ammunition (range 40/160), rapid (8 shots), reload (16 shots), strength 11</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">100 cr</cost>
+				<weight type="number">3.0</weight>
+			</id-00332>
+			<id-00333>
+				<locked type="number">1</locked>
+				<name type="string">Tranquilizer Rifle</name>
+				<damage type="string">1d4 kinetic</damage>
+				<properties type="string">Ammunition (range 100/400), reload (4 shots), two-handed, special</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">200 cr</cost>
+				<weight type="number">10.0</weight>
+			</id-00333>
+			<id-00334>
+				<locked type="number">1</locked>
+				<name type="string">Wristblaster</name>
+				<damage type="string">1d4 energy</damage>
+				<properties type="string">Ammunition (range 30/120), disguised, fixed, light, reload (12 shots)</properties>
+				<type type="string">Weapon</type>
+				<subtype type="string">Simple Ranged Weapons</subtype>
+				<cost type="string">250 cr</cost>
+				<weight type="number">1.0</weight>
+			</id-00334>
 		</category>
 	</item>
 	<library>
@@ -2460,7 +2489,7 @@
 						<class>item</class>
 						<recordname>item.id-00058@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Ion Blaster</name>
+					<name type="string">Ion Pistol</name>
 				</id-00058>
 				<id-00059>
 					<listlink type="windowreference">
@@ -2474,7 +2503,7 @@
 						<class>item</class>
 						<recordname>item.id-00060@SW5e Supplement</recordname>
 					</listlink>
-					<name type="string">Lightbow</name>
+					<name type="string">Heavy Bowcaster</name>
 				</id-00060>
 				<id-00061>
 					<listlink type="windowreference">
@@ -3589,6 +3618,27 @@
 					</listlink>
 					<name type="string">Needler</name>
 				</id-00331>
+				<id-00332>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00332@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Slugpistol</name>
+				</id-00332>
+				<id-00333>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00333@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Tranquilizer Rifle</name>
+				</id-00333>
+				<id-00334>
+					<listlink type="windowreference">
+						<class>item</class>
+						<recordname>item.id-00334@SW5e Supplement</recordname>
+					</listlink>
+					<name type="string">Wristblaster</name>
+				</id-00334>
 			</index>
 		</item>
 		<power>
