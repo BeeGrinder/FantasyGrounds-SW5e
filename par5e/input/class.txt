@@ -58,8 +58,10 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) two techaxes or (b) two vibrospears
 #li;An explorer's pack
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using (5d4 x 100) cr.
+
 #fe;Rage;1
 Beginning at 1st level, in battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action if you aren’t wearing heavy armor.
 While raging, you gain the following benefits:
@@ -277,6 +279,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) a simple lightweapon or (b) a simple vibroweapon
 #li;(a) a scholar's pack, (b) an explorer's pack, or (c) a diplomat's pack
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 5d4 x 100 cr.
 #fe;Forcecasting;1
@@ -468,6 +471,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) a dungeoneer's pack or (b) an explorer's pack
 #li;Combat suit, a set of tinker's tools, a vibrodagger, and a wristpad
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 6d4 x 100 cr.
 #fe;Techcasting;1
@@ -1024,6 +1028,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) a hold-out and a power cell or (b) two vibrodaggers
 #li;(a) a dungeoneer’s pack or (b) an explorer’s pack
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 8d4 x 100 cr.
 #fe;Fighting Style;1
@@ -1295,6 +1300,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) combat suit and a light physical shield or (b) mesh armor
 #li;(a) a priest’s pack or (b) an explorer’s pack
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 8d4 x 100 cr.
 
@@ -1556,6 +1562,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) a dungeoneer’s pack or (b) an explorer’s pack
 #li;10 vibrodarts
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 4d4 x 100 cr.
 #fe;Martial Arts;1
@@ -1804,6 +1811,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;a combat suit
 #li;any tool of your choice
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 6d4 x 100 cr.
 #fe;Academic Superiority;1
@@ -2137,6 +2145,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) a dungeoneer’s pack or (b) an explorer’s pack
 #li;A wristpad
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 8d4 x 100 cr.
 #fe;Rangers Quarry;1
@@ -2441,6 +2450,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;(a) a demolitions kit, (b) a security kit, or © a slicer’s kit
 #li;a combat suit and a light physical shield
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 6d4 x 100 cr.
 #fe;Forcecasting;1
@@ -2645,6 +2655,7 @@ You start with the following equipment, in addition to the equipment granted by 
 #li;A tool with which you are proficient
 #li;Combat suit and a vibrodagger
 #le;
+#bp;See Parcel List for starter packs.
 VARIANT: STARTING WEALTH
 In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using 7d4 x 100 cr.
 #fe;Expertise;1
