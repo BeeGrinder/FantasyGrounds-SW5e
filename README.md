@@ -55,7 +55,7 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 
 #### Which version of the Fantasy Grounds SW5e rules?
 
-__Version 2.0__ is complete and fixes are still being done. The matching version of the SW5e PDFs can be found at the release page.
+__Version 2.0__ is complete and fixes are still being done. The *__matching version of the SW5e PDFs__* can be found at the release page.
 
 Download version 2.0 here:  [Version 2.0 DOWNLOAD](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
