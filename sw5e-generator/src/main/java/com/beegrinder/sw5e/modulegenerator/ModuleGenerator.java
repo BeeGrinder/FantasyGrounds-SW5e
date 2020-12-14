@@ -39,7 +39,7 @@ public class ModuleGenerator {
 					frame = new AppScreen();
 
 					AppHelper.populateDefaultsToScreen(frame, defaultProps);  //sloppy reference call
-					equipmentNode = (ArrayNode) AppRestHelper.getRestData(AppHelper.getEquipmentUrl(defaultProps));
+					equipmentNode = (ArrayNode) AppWebHelper.getRestData(AppHelper.getEquipmentUrl(defaultProps));
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();

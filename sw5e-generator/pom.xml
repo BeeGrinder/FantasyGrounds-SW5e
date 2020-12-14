@@ -1,22 +1,31 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.beegrinder.sw5e</groupId>
-  <artifactId>sw5e-generator</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>SW5e Generator</name>
-  <description>SW5e Module Generator for Fantasy Grounds</description>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.beegrinder.sw5e</groupId>
+	<artifactId>sw5e-generator</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>SW5e Generator</name>
+	<description>SW5e Module Generator for Fantasy Grounds</description>
 
-    <properties>
-        <commons-lang3-version>3.11</commons-lang3-version>
-        <jackson.version>2.12.0</jackson.version>
-        <okhttp.version>4.9.0</okhttp.version>
-    </properties>
-    <dependencies>
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-            <version>${commons-lang3-version}</version>
-        </dependency>
+	<properties>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
+		<commons-lang3-version>3.11</commons-lang3-version>
+		<jackson.version>2.12.0</jackson.version>
+		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
+		<okhttp.version>4.9.0</okhttp.version>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-compiler-plugin</artifactId>
+			<version>${maven-compiler-plugin.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>${commons-lang3-version}</version>
+		</dependency>
 		<dependency>
 			<groupId>com.squareup.okhttp3</groupId>
 			<artifactId>okhttp</artifactId>
@@ -38,5 +47,5 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>${jackson.version}</version>
 		</dependency>
-    </dependencies>
+	</dependencies>
 </project>
