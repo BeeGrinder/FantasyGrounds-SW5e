@@ -9,11 +9,13 @@ import com.fasterxml.jackson.databind.node.JsonNodeFactory;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
+import org.apache.commons.lang3.StringUtils;
+
 
 public class AppWebHelper {
 
-	public static JsonNode getRestData(String urlString) {
-		JsonNode retVal = JsonNodeFactory.instance.objectNode();
+	public static String getRestData(String urlString) {
+		String retVal = new String();
 		try {
 			OkHttpClient client = new OkHttpClient();
 			Request request = new Request.Builder().url(urlString).build();
@@ -24,15 +26,10 @@ public class AppWebHelper {
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
+
 			String responseString = responses.body().string();
-			ObjectMapper mapper = new ObjectMapper();
-			JsonNode dataNode = mapper.readTree(responseString);
-			if( dataNode.isArray() ) {
-				retVal = dataNode;
-				int ct=dataNode.size();
-				System.out.println(ct);
-			}
-			
+			if( StringUtils.isNotBlank( responseString ) ) retVal = responseString;
+
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -42,3 +39,4 @@ public class AppWebHelper {
 	}
 
 }
+

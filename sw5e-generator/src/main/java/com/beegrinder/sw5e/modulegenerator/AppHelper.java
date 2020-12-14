@@ -1,6 +1,10 @@
 package com.beegrinder.sw5e.modulegenerator;
 
-import java.util.Properties;
+import com.beegrinder.sw5e.objects.Equipment;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.type.TypeFactory;
+import java.util.*;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -47,5 +51,23 @@ public class AppHelper {
 		
 		return retVal;
 	}
+
+	public static List<Equipment>  refreshEquipmentList(String equipmentUrl){
+		List<Equipment> retVal = new ArrayList<>();
+		ObjectMapper objectMapper = new ObjectMapper();
+		TypeFactory typeFactory = objectMapper.getTypeFactory();
+		try {
+			String payloadString = AppWebHelper.getRestData(equipmentUrl);
+			retVal = objectMapper.readValue(payloadString, typeFactory.constructCollectionType(List.class,
+			  Equipment.class));
+		} catch ( JsonProcessingException e ) {
+			// e.printStackTrace();
+			// Logger.error( ${CLASS_NAME}.class, "Message" );
+
+		}
+
+		return retVal;
+	}
+
 }
 
