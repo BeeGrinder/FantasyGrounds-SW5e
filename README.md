@@ -55,20 +55,20 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 
 #### Which version of the Fantasy Grounds SW5e rules?
 
-__Version 2.0__ is complete and fixes are still being done. The matching version of the SW5e PDFs can be found at the release page.
+__Version 2.0__ is complete and fixes are still being done. The *__matching version of the SW5e PDFs__* can be found at the release page.
 
 Download version 2.0 here:  [Version 2.0 DOWNLOAD](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
 Because the SW5e project is constantly adding/removing/changing the contents of their PDFs, I will be providing links to the version of the PDFs that match this FG ruleset.
 Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your FG game use the provided matching copy of these documents.
 
-__Version 3.0__ is currently under construction.  Version 3.0 will bring this project up to date with the "current" version of SW5e.
+__Version 3.0__ is currently under construction/testing.  Version 3.0 will bring this project up to date with the "current" version of SW5e.
 
 The working "alpha" copy of the current work can be found in the *modules* and *extensions* directories of this project. And below are links to the SW5e PDFs for this version.
 
-[SW5e PHB PDF](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
+[SW5e PHB PDF for version 3.0](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
 
-[SW5e Scum & Villainy PDF](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
+[SW5e Scum & Villainy PDF for version 3.0](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
 
 
 __New Starship Rules__
@@ -88,6 +88,10 @@ The *__ext-src__* dirctory is for the extension sources.
 ---
 
 __Project News__
+
+Dec 12, 2020
+
+All current equipment added.  Only unfinished category for version 3.0 is Tech and Force "Spells".
 
 Dec 5, 2020
 
