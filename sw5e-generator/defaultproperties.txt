@@ -7,9 +7,9 @@ module.name=SW5e Supplement
 module.category=SW5e
 module.author=BeeGrinder
 # additional treasure parcels can be added via direct xml
-module.treasureparcels=C:\\sw5e-dev\\sw5e-module-create\\examples\\parcels.xml
+module.treasureparcels=C:\\sw5e-dev\\sw5e-module-create\\examples\\parcels.json
 # a list of actions by spellname to add to matching spells
-module.actionfile=C:\\sw5e-dev\\sw5e-module-create\\examples\\spellactions.txt
+module.actionfile=C:\\sw5e-dev\\sw5e-module-create\\examples\\spellactions.json
 # the web api source addresses
 sw5e.api.url=https://sw5eapi.azurewebsites.net/api
 sw5e.api.spells=power

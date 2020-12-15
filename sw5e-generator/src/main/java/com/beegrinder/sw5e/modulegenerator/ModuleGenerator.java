@@ -2,11 +2,11 @@ package com.beegrinder.sw5e.modulegenerator;
 
 
 import com.beegrinder.sw5e.objects.Equipment;
+import com.beegrinder.sw5e.objects.Power;
 import java.awt.EventQueue;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.List;
-import java.util.Properties;
+import java.util.*;
 
 import com.fasterxml.jackson.databind.node.ArrayNode;
 
@@ -18,6 +18,8 @@ public class ModuleGenerator {
 
 	static Properties defaultProps = new Properties();
 	static AppScreen frame = null;
+	static List< Equipment > equipmentList = new ArrayList<>();
+	static List< Power > powerList = new ArrayList<>();
 
 
 
@@ -54,8 +56,10 @@ public class ModuleGenerator {
 					frame = new AppScreen();
 
 					AppHelper.populateDefaultsToScreen( frame, defaultProps );  //sloppy reference call
-					AppHelper.refreshEquipmentList( AppHelper.getEquipmentUrl( defaultProps ) );
-
+					equipmentList=AppHelper.refreshEquipmentList( AppHelper.getEquipmentUrl( defaultProps ) );
+					frame.getChckbxEquipment().setText( "Equipment ("+equipmentList.size()+")" );
+					powerList=AppHelper.refreshPowerList( AppHelper.getPowerUrl( defaultProps ) );
+					frame.getChckbxSpells().setText( "Spells (" + powerList.size() + ")");
 					frame.setVisible( true );
 				} catch ( Exception e ) {
 					e.printStackTrace();

@@ -2,6 +2,7 @@ package com.beegrinder.sw5e.modulegenerator;
 
 
 import com.beegrinder.sw5e.objects.Equipment;
+import com.beegrinder.sw5e.objects.Power;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.TypeFactory;
@@ -84,7 +85,18 @@ public class AppHelper {
 	}
 
 
+	public static String getPowerUrl( Properties defaultProps ) {
 
+		String retVal = new String();
+
+		String urlString = defaultProps.getProperty( "sw5e.api.url" ) + "/" + defaultProps.getProperty(
+		  "sw5e.api.spells" );
+		if ( StringUtils.isNotBlank( urlString ) ) {
+			retVal = urlString;
+		}
+
+		return retVal;
+	}
 
 	public static List< Equipment > refreshEquipmentList( String equipmentUrl ) {
 
@@ -100,6 +112,26 @@ public class AppHelper {
 			// Logger.error( ${CLASS_NAME}.class, "Message" );
 
 		}
+
+
+		return retVal;
+	}
+
+	public static List< Power > refreshPowerList( String powerUrl ) {
+
+		List< Power > retVal = new ArrayList<>();
+		ObjectMapper objectMapper = new ObjectMapper();
+		TypeFactory typeFactory = objectMapper.getTypeFactory();
+		try {
+			String payloadString = AppWebHelper.getRestData( powerUrl );
+			Power[] powerArray = objectMapper.readValue( payloadString,Power[].class );
+			retVal = Arrays.asList( powerArray );
+		} catch ( JsonProcessingException e ) {
+			e.printStackTrace();
+			// Logger.error( ${CLASS_NAME}.class, "Message" );
+
+		}
+
 
 		return retVal;
 	}
