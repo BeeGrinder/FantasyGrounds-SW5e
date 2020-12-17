@@ -56,10 +56,15 @@ public class ModuleGenerator {
 					frame = new AppScreen();
 
 					AppHelper.populateDefaultsToScreen( frame, defaultProps );  //sloppy reference call
+
+					//TODO: the list refreshes should be triggered by a button.
+					//TODO: the sw5e raw data should be from a file rather than rest request for tracking changes.
 					equipmentList=AppHelper.refreshEquipmentList( AppHelper.getEquipmentUrl( defaultProps ) );
 					frame.getChckbxEquipment().setText( "Equipment ("+equipmentList.size()+")" );
 					powerList=AppHelper.refreshPowerList( AppHelper.getPowerUrl( defaultProps ) );
 					frame.getChckbxSpells().setText( "Spells (" + powerList.size() + ")");
+					// end of screen updates
+
 					frame.setVisible( true );
 				} catch ( Exception e ) {
 					e.printStackTrace();
