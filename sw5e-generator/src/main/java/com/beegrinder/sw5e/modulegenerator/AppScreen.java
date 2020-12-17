@@ -28,13 +28,21 @@ public class AppScreen extends JFrame {
 	private JTextField textFieldActionsFile;
 	private JCheckBox chckbxSpells;
 	private JCheckBox chckbxEquipment;
-	private JCheckBox chckbxAddParcels;
-	private JCheckBox chckbxAddActions;
-	private JTextArea textAreaLogOutput;
+	private JCheckBox chckbxParcels;
+	private JCheckBox chckbxActions;
 	private JButton btnBuild;
 	private JButton btnModuleFolder;
 	private JButton btnParcelFile;
 	private JButton btnActionsFile;
+	private JTextField textFieldEquipmentFile;
+	private JTextField textFieldSpellsFile;
+	private JButton btnEquipmentFile;
+	private JButton btnSpellsFile;
+	private JCheckBox chckbxNewCheckBox;
+	private JCheckBox chckbxNewCheckBox_1;
+	private JScrollPane scrollPane;
+	private JTextArea textAreaLogOutput;
+	private JCheckBox chckbxAsDirectory;
 
 	/**
 	 * Launch the application.
@@ -59,7 +67,7 @@ public class AppScreen extends JFrame {
 		setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\sw5e-dev\\eclipse\\sw5e-generator\\sw5e-icon.png"));
 		setTitle("SW5e Module Generator");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(100, 100, 600, 400);
+		setBounds(100, 100, 602, 557);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
@@ -87,6 +95,13 @@ public class AppScreen extends JFrame {
 		gbc_textFieldModuleName.gridy = 1;
 		contentPane.add(textFieldModuleName, gbc_textFieldModuleName);
 		textFieldModuleName.setColumns(10);
+		
+		chckbxAsDirectory = new JCheckBox("As Folder");
+		GridBagConstraints gbc_chckbxAsDirectory = new GridBagConstraints();
+		gbc_chckbxAsDirectory.insets = new Insets(0, 0, 5, 5);
+		gbc_chckbxAsDirectory.gridx = 9;
+		gbc_chckbxAsDirectory.gridy = 1;
+		contentPane.add(chckbxAsDirectory, gbc_chckbxAsDirectory);
 		
 		btnBuild = new JButton("Build");
 		GridBagConstraints gbc_btnBuild = new GridBagConstraints();
@@ -165,13 +180,13 @@ public class AppScreen extends JFrame {
 		gbc_btnModuleFolder.gridy = 5;
 		contentPane.add(btnModuleFolder, gbc_btnModuleFolder);
 		
-		JLabel lblParcelFile = new JLabel("ParcelFile");
-		GridBagConstraints gbc_lblParcelFile = new GridBagConstraints();
-		gbc_lblParcelFile.anchor = GridBagConstraints.EAST;
-		gbc_lblParcelFile.insets = new Insets(0, 0, 5, 5);
-		gbc_lblParcelFile.gridx = 0;
-		gbc_lblParcelFile.gridy = 6;
-		contentPane.add(lblParcelFile, gbc_lblParcelFile);
+		chckbxParcels = new JCheckBox("Parcel File");
+		GridBagConstraints gbc_chckbxParcels = new GridBagConstraints();
+		gbc_chckbxParcels.anchor = GridBagConstraints.WEST;
+		gbc_chckbxParcels.insets = new Insets(0, 0, 5, 5);
+		gbc_chckbxParcels.gridx = 0;
+		gbc_chckbxParcels.gridy = 6;
+		contentPane.add(chckbxParcels, gbc_chckbxParcels);
 		
 		textFieldParcelFile = new JTextField();
 		GridBagConstraints gbc_textFieldParcelFile = new GridBagConstraints();
@@ -190,13 +205,13 @@ public class AppScreen extends JFrame {
 		gbc_btnParcelFile.gridy = 6;
 		contentPane.add(btnParcelFile, gbc_btnParcelFile);
 		
-		JLabel lblActionsFile = new JLabel("Actions File");
-		GridBagConstraints gbc_lblActionsFile = new GridBagConstraints();
-		gbc_lblActionsFile.anchor = GridBagConstraints.EAST;
-		gbc_lblActionsFile.insets = new Insets(0, 0, 5, 5);
-		gbc_lblActionsFile.gridx = 0;
-		gbc_lblActionsFile.gridy = 7;
-		contentPane.add(lblActionsFile, gbc_lblActionsFile);
+		chckbxActions = new JCheckBox("Actions File");
+		GridBagConstraints gbc_chckbxActions = new GridBagConstraints();
+		gbc_chckbxActions.anchor = GridBagConstraints.WEST;
+		gbc_chckbxActions.insets = new Insets(0, 0, 5, 5);
+		gbc_chckbxActions.gridx = 0;
+		gbc_chckbxActions.gridy = 7;
+		contentPane.add(chckbxActions, gbc_chckbxActions);
 		
 		textFieldActionsFile = new JTextField();
 		GridBagConstraints gbc_textFieldActionsFile = new GridBagConstraints();
@@ -223,63 +238,73 @@ public class AppScreen extends JFrame {
 		gbc_separator_1.gridy = 8;
 		contentPane.add(separator_1, gbc_separator_1);
 		
-		JLabel lblSelectContent = new JLabel("Select Content");
-		GridBagConstraints gbc_lblSelectContent = new GridBagConstraints();
-		gbc_lblSelectContent.anchor = GridBagConstraints.WEST;
-		gbc_lblSelectContent.insets = new Insets(0, 0, 5, 5);
-		gbc_lblSelectContent.gridx = 0;
-		gbc_lblSelectContent.gridy = 9;
-		contentPane.add(lblSelectContent, gbc_lblSelectContent);
-		
-		chckbxEquipment = new JCheckBox("Equipment");
+		chckbxEquipment = new JCheckBox("Equipment FIle");
 		GridBagConstraints gbc_chckbxEquipment = new GridBagConstraints();
 		gbc_chckbxEquipment.anchor = GridBagConstraints.WEST;
 		gbc_chckbxEquipment.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxEquipment.gridx = 1;
+		gbc_chckbxEquipment.gridx = 0;
 		gbc_chckbxEquipment.gridy = 9;
 		contentPane.add(chckbxEquipment, gbc_chckbxEquipment);
 		
-		chckbxAddParcels = new JCheckBox("Parcels");
-		GridBagConstraints gbc_chckbxAddParcels = new GridBagConstraints();
-		gbc_chckbxAddParcels.anchor = GridBagConstraints.WEST;
-		gbc_chckbxAddParcels.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxAddParcels.gridx = 2;
-		gbc_chckbxAddParcels.gridy = 9;
-		contentPane.add(chckbxAddParcels, gbc_chckbxAddParcels);
+		textFieldEquipmentFile = new JTextField();
+		GridBagConstraints gbc_textFieldEquipmentFile = new GridBagConstraints();
+		gbc_textFieldEquipmentFile.gridwidth = 11;
+		gbc_textFieldEquipmentFile.insets = new Insets(0, 0, 5, 5);
+		gbc_textFieldEquipmentFile.fill = GridBagConstraints.HORIZONTAL;
+		gbc_textFieldEquipmentFile.gridx = 1;
+		gbc_textFieldEquipmentFile.gridy = 9;
+		contentPane.add(textFieldEquipmentFile, gbc_textFieldEquipmentFile);
+		textFieldEquipmentFile.setColumns(10);
 		
-		chckbxSpells = new JCheckBox("Spells");
+		btnEquipmentFile = new JButton("Select");
+		GridBagConstraints gbc_btnEquipmentFile = new GridBagConstraints();
+		gbc_btnEquipmentFile.insets = new Insets(0, 0, 5, 0);
+		gbc_btnEquipmentFile.gridx = 12;
+		gbc_btnEquipmentFile.gridy = 9;
+		contentPane.add(btnEquipmentFile, gbc_btnEquipmentFile);
+		
+		chckbxSpells = new JCheckBox("Spells File");
 		GridBagConstraints gbc_chckbxSpells = new GridBagConstraints();
 		gbc_chckbxSpells.anchor = GridBagConstraints.WEST;
 		gbc_chckbxSpells.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxSpells.gridx = 1;
+		gbc_chckbxSpells.gridx = 0;
 		gbc_chckbxSpells.gridy = 10;
 		contentPane.add(chckbxSpells, gbc_chckbxSpells);
 		
-		chckbxAddActions = new JCheckBox("Actions");
-		GridBagConstraints gbc_chckbxAddActions = new GridBagConstraints();
-		gbc_chckbxAddActions.anchor = GridBagConstraints.WEST;
-		gbc_chckbxAddActions.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxAddActions.gridx = 2;
-		gbc_chckbxAddActions.gridy = 10;
-		contentPane.add(chckbxAddActions, gbc_chckbxAddActions);
+		textFieldSpellsFile = new JTextField();
+		GridBagConstraints gbc_textFieldSpellsFile = new GridBagConstraints();
+		gbc_textFieldSpellsFile.gridwidth = 11;
+		gbc_textFieldSpellsFile.insets = new Insets(0, 0, 5, 5);
+		gbc_textFieldSpellsFile.fill = GridBagConstraints.HORIZONTAL;
+		gbc_textFieldSpellsFile.gridx = 1;
+		gbc_textFieldSpellsFile.gridy = 10;
+		contentPane.add(textFieldSpellsFile, gbc_textFieldSpellsFile);
+		textFieldSpellsFile.setColumns(10);
 		
-		JSeparator separator_2 = new JSeparator();
-		GridBagConstraints gbc_separator_2 = new GridBagConstraints();
-		gbc_separator_2.insets = new Insets(0, 0, 5, 0);
-		gbc_separator_2.gridwidth = 13;
-		gbc_separator_2.gridx = 0;
-		gbc_separator_2.gridy = 11;
-		contentPane.add(separator_2, gbc_separator_2);
+		btnSpellsFile = new JButton("Select");
+		GridBagConstraints gbc_btnSpellsFile = new GridBagConstraints();
+		gbc_btnSpellsFile.insets = new Insets(0, 0, 5, 0);
+		gbc_btnSpellsFile.gridx = 12;
+		gbc_btnSpellsFile.gridy = 10;
+		contentPane.add(btnSpellsFile, gbc_btnSpellsFile);
 		
-		JLabel lblLogOutput = new JLabel("Log Output");
-		GridBagConstraints gbc_lblLogOutput = new GridBagConstraints();
-		gbc_lblLogOutput.anchor = GridBagConstraints.WEST;
-		gbc_lblLogOutput.insets = new Insets(0, 0, 5, 5);
-		gbc_lblLogOutput.gridx = 0;
-		gbc_lblLogOutput.gridy = 12;
-		contentPane.add(lblLogOutput, gbc_lblLogOutput);
+		chckbxNewCheckBox = new JCheckBox("New check box");
+		GridBagConstraints gbc_chckbxNewCheckBox = new GridBagConstraints();
+		gbc_chckbxNewCheckBox.anchor = GridBagConstraints.WEST;
+		gbc_chckbxNewCheckBox.insets = new Insets(0, 0, 5, 5);
+		gbc_chckbxNewCheckBox.gridx = 0;
+		gbc_chckbxNewCheckBox.gridy = 11;
+		contentPane.add(chckbxNewCheckBox, gbc_chckbxNewCheckBox);
 		
-		JScrollPane scrollPane = new JScrollPane();
+		chckbxNewCheckBox_1 = new JCheckBox("New check box");
+		GridBagConstraints gbc_chckbxNewCheckBox_1 = new GridBagConstraints();
+		gbc_chckbxNewCheckBox_1.anchor = GridBagConstraints.WEST;
+		gbc_chckbxNewCheckBox_1.insets = new Insets(0, 0, 5, 5);
+		gbc_chckbxNewCheckBox_1.gridx = 0;
+		gbc_chckbxNewCheckBox_1.gridy = 12;
+		contentPane.add(chckbxNewCheckBox_1, gbc_chckbxNewCheckBox_1);
+		
+		scrollPane = new JScrollPane();
 		GridBagConstraints gbc_scrollPane = new GridBagConstraints();
 		gbc_scrollPane.gridwidth = 13;
 		gbc_scrollPane.fill = GridBagConstraints.BOTH;
@@ -291,49 +316,100 @@ public class AppScreen extends JFrame {
 		scrollPane.setViewportView(textAreaLogOutput);
 	}
 
+	public JPanel getContentPane() {
+		return contentPane;
+	}
+
 	public JTextField getTextFieldModuleName() {
 		return textFieldModuleName;
 	}
+
 	public JTextField getTextFieldCategory() {
 		return textFieldCategory;
 	}
+
 	public JTextField getTextFieldAuthor() {
 		return textFieldAuthor;
 	}
+
 	public JTextField getTextFieldModuleFolder() {
 		return textFieldModuleFolder;
 	}
+
 	public JTextField getTextFieldParcelFile() {
 		return textFieldParcelFile;
 	}
+
 	public JTextField getTextFieldActionsFile() {
 		return textFieldActionsFile;
 	}
+
 	public JCheckBox getChckbxSpells() {
 		return chckbxSpells;
 	}
+
 	public JCheckBox getChckbxEquipment() {
 		return chckbxEquipment;
 	}
-	public JCheckBox getChckbxAddParcels() {
-		return chckbxAddParcels;
+
+	public JCheckBox getChckbxParcels() {
+		return chckbxParcels;
 	}
-	public JCheckBox getChckbxAddActions() {
-		return chckbxAddActions;
+
+	public JCheckBox getChckbxActions() {
+		return chckbxActions;
 	}
-	public JTextArea getTextAreaLogOutput() {
-		return textAreaLogOutput;
-	}
+
 	public JButton getBtnBuild() {
 		return btnBuild;
 	}
+
 	public JButton getBtnModuleFolder() {
 		return btnModuleFolder;
 	}
+
 	public JButton getBtnParcelFile() {
 		return btnParcelFile;
 	}
+
 	public JButton getBtnActionsFile() {
 		return btnActionsFile;
 	}
+
+	public JTextField getTextFieldEquipmentFile() {
+		return textFieldEquipmentFile;
+	}
+
+	public JTextField getTextFieldSpellsFile() {
+		return textFieldSpellsFile;
+	}
+
+	public JButton getBtnEquipmentFile() {
+		return btnEquipmentFile;
+	}
+
+	public JButton getBtnSpellsFile() {
+		return btnSpellsFile;
+	}
+
+	public JCheckBox getChckbxNewCheckBox() {
+		return chckbxNewCheckBox;
+	}
+
+	public JCheckBox getChckbxNewCheckBox_1() {
+		return chckbxNewCheckBox_1;
+	}
+
+	public JScrollPane getScrollPane() {
+		return scrollPane;
+	}
+
+	public JTextArea getTextAreaLogOutput() {
+		return textAreaLogOutput;
+	}
+
+	
+	
+	
+
 }

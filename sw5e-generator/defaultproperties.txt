@@ -6,13 +6,10 @@ extension.destination=D:\\games\\Smiteworks\\FGUData\\extensions
 module.name=SW5e Supplement
 module.category=SW5e
 module.author=BeeGrinder
-# additional treasure parcels can be added via direct xml
-module.treasureparcels=C:\\sw5e-dev\\sw5e-module-create\\examples\\parcels.json
-# a list of actions by spellname to add to matching spells
-module.actionfile=C:\\sw5e-dev\\sw5e-module-create\\examples\\spellactions.json
-# the web api source addresses
-sw5e.api.url=https://sw5eapi.azurewebsites.net/api
-sw5e.api.spells=power
-sw5e.api.equipment=equipment
+# Local File Locations
+input.filename.parcels=C:\\sw5e-dev\\sw5e-module-create\\examples\\parcels.json
+input.filename.actions=C:\\sw5e-dev\\sw5e-module-create\\examples\\spellactions.json
+input.filename.spells=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spells.json
+input.filename.items=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\equipment.json
 # can be PHB, WH, EC.  SPACE delimited list.  I would place different sources in different modules.
 sw5e.contentsource=PHB

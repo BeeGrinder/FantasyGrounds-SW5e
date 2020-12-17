@@ -59,12 +59,14 @@ public class AppHelper {
 		frame.getTextFieldCategory().setText( defaultProps.getProperty( "module.category" ) );
 		frame.getTextFieldAuthor().setText( defaultProps.getProperty( "module.author" ) );
 		frame.getTextFieldModuleFolder().setText( defaultProps.getProperty( "module.destination" ) );
-		frame.getTextFieldParcelFile().setText( defaultProps.getProperty( "module.treasureparcels" ) );
-		frame.getTextFieldActionsFile().setText( defaultProps.getProperty( "module.actionfile" ) );
+		frame.getTextFieldParcelFile().setText( defaultProps.getProperty( "input.filename.parcels" ) );
+		frame.getTextFieldActionsFile().setText( defaultProps.getProperty( "input.filename.actions" ) );
+		frame.getTextFieldSpellsFile().setText( defaultProps.getProperty( "input.filename.spells" ) );
+		frame.getTextFieldEquipmentFile().setText( defaultProps.getProperty( "input.filename.items" ) );
 		frame.getChckbxEquipment().setSelected( true );
 		frame.getChckbxSpells().setSelected( false );
-		frame.getChckbxAddParcels().setSelected( false );
-		frame.getChckbxAddActions().setSelected( false );
+		frame.getChckbxParcels().setSelected( false );
+		frame.getChckbxActions().setSelected( false );
 		frame.getTextAreaLogOutput().setText( "Logging" );
 	}
 

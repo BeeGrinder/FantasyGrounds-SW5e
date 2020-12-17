@@ -1,7 +1,9 @@
 package com.beegrinder.sw5e.modulegenerator;
 
 
+import com.beegrinder.sw5e.objects.Action;
 import com.beegrinder.sw5e.objects.Equipment;
+import com.beegrinder.sw5e.objects.Parcel;
 import com.beegrinder.sw5e.objects.Power;
 import java.awt.EventQueue;
 import java.io.FileInputStream;
@@ -20,6 +22,8 @@ public class ModuleGenerator {
 	static AppScreen frame = null;
 	static List< Equipment > equipmentList = new ArrayList<>();
 	static List< Power > powerList = new ArrayList<>();
+	static List< Parcel > parcelList = new ArrayList<>();
+	static List< Action > actionList = new ArrayList<>();
 
 
 
@@ -59,10 +63,12 @@ public class ModuleGenerator {
 
 					//TODO: the list refreshes should be triggered by a button.
 					//TODO: the sw5e raw data should be from a file rather than rest request for tracking changes.
-					equipmentList=AppHelper.refreshEquipmentList( AppHelper.getEquipmentUrl( defaultProps ) );
-					frame.getChckbxEquipment().setText( "Equipment ("+equipmentList.size()+")" );
-					powerList=AppHelper.refreshPowerList( AppHelper.getPowerUrl( defaultProps ) );
+					//equipmentList=AppHelper.refreshEquipmentList( AppHelper.getEquipmentUrl( defaultProps ) );
+					//powerList=AppHelper.refreshPowerList( AppHelper.getPowerUrl( defaultProps ) );
 					frame.getChckbxSpells().setText( "Spells (" + powerList.size() + ")");
+					frame.getChckbxEquipment().setText( "Equipment ("+equipmentList.size()+")" );
+					frame.getChckbxActions().setText("Actions ("+ actionList.size()+")");
+					frame.getChckbxParcels().setText("Parcels ("+ parcelList.size()+")");
 					// end of screen updates
 
 					frame.setVisible( true );
