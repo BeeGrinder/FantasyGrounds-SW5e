@@ -21,6 +21,8 @@ I "prettify" the data files and sort by the name field using this [online JSON e
 
 #### Screen Layout
 
+__Defaults__ the file *defaultproperties.txt* can pre-load most of the following settings.
+
 __Module Name__ 
 
 This field contains the name you wish your module to be published as.  This name will appear in your Fantasy Grounds (FG) Library list.
@@ -30,9 +32,41 @@ __As Folder__
 This selections turns on the development mode.  
 
 * When *off* it will create a module file and place it in the folder indicated by the *Module Folder* field.
-	* If a developer mode folder has been created prior to the *off* build, the folder will be removed.
+  * If a developer mode folder has been created prior to the *off* build, the folder will be removed.
 * When *on* it will create the module files in a folder with the *Module Name* in the folder indicated by the *Module Folder* field.
-	* If a standard module file has been created prior to the *on" build, the file will be removed.
+  * If a standard module file has been created prior to the *on" build, the file will be removed.
 
+
+__Build__
+
+Builds and deploys a new module to the location in the *Module Folder* field.
+
+__Category__
+
+Will appear as a heading in your Library.  For this module I usually use "SW5e" as a category so all modules for this ruleset are grouped together.
+
+__Module Folder__
+
+The directory under your installation of Fantasy Grounds where modules are stored.  See *As Folder* description above.
+
+__Parcels__
+
+This line, if selected, shows the number of parcels loaded into the generator.  To load parcels, use the select button to find the source file for parcels.
+
+* Parcels are named lists of items.  The items named in the list must be loaded into this generator.
+
+__Actions__
+
+This line, if selected, shows the number of actions loaded into the generator.  To load actions, use the select button to find the source file for actions.
+
+* Actions are named lists of spell actions and/or effects.  To add actions to spells, the name must match the spell name found in the spells list.
+
+__Equipment__
+
+This line, if selected, shows the number of items loaded into the generator.  To load items, use the select button to find the source file for items.
+
+__Spells__
+
+This line, if selected, shows the number of spells loaded into the generator.  To load spells, use the select button to find the source file for spells.
 
 
