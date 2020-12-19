@@ -18,6 +18,7 @@ public class ModuleGenerator {
 
 	static Properties defaultProps = new Properties();
 	static AppScreen frame = null;
+	static AppScreenActions actions;
 	static List<Equipment> equipmentList = new ArrayList<>();
 	static List<Power> powerList = new ArrayList<>();
 	static List<Parcel> parcelList = new ArrayList<>();

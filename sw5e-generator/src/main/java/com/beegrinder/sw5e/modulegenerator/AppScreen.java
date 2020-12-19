@@ -16,10 +16,13 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 import java.awt.Toolkit;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
 import javax.swing.SwingConstants;
 import java.awt.Color;
 
-public class AppScreen extends JFrame {
+public class AppScreen extends JFrame implements ActionListener{
 
 	private JPanel contentPane;
 	private JTextField textFieldModuleName;
@@ -307,6 +310,12 @@ public class AppScreen extends JFrame {
 		scrollPane.setViewportView(textAreaLogOutput);
 	}
 
+	@Override public void actionPerformed( ActionEvent e ) {
+		
+		System.out.println( e.getSource().getClass().getName() );
+		
+	}
+	
 	public JPanel getContentPane() {
 		return contentPane;
 	}
