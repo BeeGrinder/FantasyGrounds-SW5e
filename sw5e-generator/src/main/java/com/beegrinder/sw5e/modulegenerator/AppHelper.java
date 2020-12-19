@@ -1,6 +1,14 @@
 package com.beegrinder.sw5e.modulegenerator;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Properties;
+import com.beegrinder.sw5e.objects.Equipment;	
+import com.beegrinder.sw5e.objects.Power;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.type.TypeFactory;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -73,4 +81,41 @@ public class AppHelper {
 		return retVal;
 	}
 
+	
+	public static List< Equipment > equipmentListFromJson( String equipmentJson ) {	
+
+		List< Equipment > retVal = new ArrayList<>();	
+		ObjectMapper objectMapper = new ObjectMapper();	
+		TypeFactory typeFactory = objectMapper.getTypeFactory();	
+		try {	
+
+			Equipment[] equipArray = objectMapper.readValue( equipmentJson,Equipment[].class );	
+			retVal = Arrays.asList( equipArray );	
+		} catch ( JsonProcessingException e ) {	
+			 e.printStackTrace();	
+			// Logger.error( ${CLASS_NAME}.class, "Message" );	
+
+		}	
+
+
+		return retVal;	
+	}	
+
+	public static List< Power > powerListFromJson( String powerJson ) {	
+
+		List< Power > retVal = new ArrayList<>();	
+		ObjectMapper objectMapper = new ObjectMapper();	
+		TypeFactory typeFactory = objectMapper.getTypeFactory();	
+		try {	
+			Power[] powerArray = objectMapper.readValue( powerJson,Power[].class );	
+			retVal = Arrays.asList( powerArray );	
+		} catch ( JsonProcessingException e ) {	
+			e.printStackTrace();	
+			// Logger.error( ${CLASS_NAME}.class, "Message" );	
+
+		}	
+
+
+		return retVal;	
+	}
 }
