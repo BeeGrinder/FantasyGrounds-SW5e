@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
-import com.beegrinder.sw5e.objects.Equipment;	
+
+import org.apache.commons.lang3.StringUtils;
+
+import com.beegrinder.sw5e.objects.Equipment;
 import com.beegrinder.sw5e.objects.Power;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.type.TypeFactory;
-
-import org.apache.commons.lang3.StringUtils;
 
 public class AppHelper {
 
@@ -55,40 +55,6 @@ public class AppHelper {
 		frame.getChckbxActions().setSelected(false);
 		ModuleGenerator.addLogEntry("Logging...");
 		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file. a;sfjajweojitawoitjaoijaogjadslkgjaewrjtgaorweitgjaorgja;rgja;erjga;elgjae;rlja");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file. a;sfjajweojitawoitjaoijaogjadslkgjaewrjtgaorweitgjaorgja;rgja;erjga;elgjae;rlja");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
-		ModuleGenerator.addLogEntry("Defaults read from properties file.");
 	}
 
 	public static String getEquipmentUrl(Properties defaultProps) {
@@ -116,41 +82,35 @@ public class AppHelper {
 		return retVal;
 	}
 
-	
-	public static List< Equipment > equipmentListFromJson( String equipmentJson ) {	
+	public static List<Equipment> equipmentListFromJson(String equipmentJson) {
 
-		List< Equipment > retVal = new ArrayList<>();	
-		ObjectMapper objectMapper = new ObjectMapper();	
-		TypeFactory typeFactory = objectMapper.getTypeFactory();	
-		try {	
+		List<Equipment> retVal = new ArrayList<>();
+		ObjectMapper objectMapper = new ObjectMapper();
+//		TypeFactory typeFactory = objectMapper.getTypeFactory();	
+		try {
 
-			Equipment[] equipArray = objectMapper.readValue( equipmentJson,Equipment[].class );	
-			retVal = Arrays.asList( equipArray );	
-		} catch ( JsonProcessingException e ) {	
-			 e.printStackTrace();	
-			// Logger.error( ${CLASS_NAME}.class, "Message" );	
+			Equipment[] equipArray = objectMapper.readValue(equipmentJson, Equipment[].class);
+			retVal = Arrays.asList(equipArray);
+		} catch (JsonProcessingException e) {
+			ModuleGenerator.addLogEntry("Error in equipmentListFromJson: " + e.getMessage());
+		}
 
-		}	
+		return retVal;
+	}
 
+	public static List<Power> powerListFromJson(String powerJson) {
 
-		return retVal;	
-	}	
+		List<Power> retVal = new ArrayList<>();
+		ObjectMapper objectMapper = new ObjectMapper();
+//		TypeFactory typeFactory = objectMapper.getTypeFactory();	
+		try {
+			Power[] powerArray = objectMapper.readValue(powerJson, Power[].class);
+			retVal = Arrays.asList(powerArray);
+		} catch (JsonProcessingException e) {
+			ModuleGenerator.addLogEntry("Error in powerListFromJson: " + e.getMessage());
 
-	public static List< Power > powerListFromJson( String powerJson ) {	
+		}
 
-		List< Power > retVal = new ArrayList<>();	
-		ObjectMapper objectMapper = new ObjectMapper();	
-		TypeFactory typeFactory = objectMapper.getTypeFactory();	
-		try {	
-			Power[] powerArray = objectMapper.readValue( powerJson,Power[].class );	
-			retVal = Arrays.asList( powerArray );	
-		} catch ( JsonProcessingException e ) {	
-			e.printStackTrace();	
-			// Logger.error( ${CLASS_NAME}.class, "Message" );	
-
-		}	
-
-
-		return retVal;	
+		return retVal;
 	}
 }

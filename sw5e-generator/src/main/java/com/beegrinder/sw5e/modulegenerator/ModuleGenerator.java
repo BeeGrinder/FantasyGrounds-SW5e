@@ -29,7 +29,6 @@ public class ModuleGenerator {
 
 	public static void loadDefaultProperties() throws IOException {
 
-		List<Equipment> equipmentList;
 		FileInputStream in = new FileInputStream(AppConstants.DEFAULT_PROPERTIES_FILENAME);
 		defaultProps.load(in);
 		in.close();
@@ -71,14 +70,14 @@ public class ModuleGenerator {
 
 					frame.setVisible(true);
 				} catch (Exception e) {
-					e.printStackTrace();
+					addLogEntry("Error in main. " + e.getMessage());
 				}
 			}
 		});
 	}
-	
+
 	public static void addLogEntry(String message) {
-		frame.getTextAreaLogOutput().append("\n"+dateFormat.format(new Date())+": "+message);
+		frame.getTextAreaLogOutput().append("\n" + dateFormat.format(new Date()) + ": " + message);
 	}
 
 }
