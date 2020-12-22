@@ -3,7 +3,9 @@ package com.beegrinder.sw5e.modulegenerator;
 import java.awt.EventQueue;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Properties;
 
@@ -23,6 +25,7 @@ public class ModuleGenerator {
 	static List<Power> powerList = new ArrayList<>();
 	static List<Parcel> parcelList = new ArrayList<>();
 	static List<Action> actionList = new ArrayList<>();
+	static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
 	public static void loadDefaultProperties() throws IOException {
 
@@ -41,7 +44,7 @@ public class ModuleGenerator {
 				throw new IOException("Invalid defaultProperties file data found.");
 			}
 		} catch (Exception e) {
-			System.out.println("Unable to load default properties. " + e.getMessage());
+			addLogEntry("Unable to load default properties. " + e.getMessage());
 			System.exit(1);
 		}
 
@@ -72,6 +75,10 @@ public class ModuleGenerator {
 				}
 			}
 		});
+	}
+	
+	public static void addLogEntry(String message) {
+		frame.getTextAreaLogOutput().append("\n"+dateFormat.format(new Date())+": "+message);
 	}
 
 }

@@ -53,7 +53,42 @@ public class AppHelper {
 		frame.getChckbxSpells().setSelected(false);
 		frame.getChckbxParcels().setSelected(false);
 		frame.getChckbxActions().setSelected(false);
-		frame.getTextAreaLogOutput().setText("Logging");
+		ModuleGenerator.addLogEntry("Logging...");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file. a;sfjajweojitawoitjaoijaogjadslkgjaewrjtgaorweitgjaorgja;rgja;erjga;elgjae;rlja");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file. a;sfjajweojitawoitjaoijaogjadslkgjaewrjtgaorweitgjaorgja;rgja;erjga;elgjae;rlja");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
+		ModuleGenerator.addLogEntry("Defaults read from properties file.");
 	}
 
 	public static String getEquipmentUrl(Properties defaultProps) {
