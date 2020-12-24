@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<root><name>SW5e Supplement</name><category>Supplement</category><author>BeeGrinder</author><ruleset>5E</ruleset></root>
+<root>
+	<version>3.3</version>
+	<name>SW5e Supplement</name>
+	<category>Supplement</category>
+	<author>BeeGrinder</author>
+	<ruleset>5E</ruleset>
+</root>

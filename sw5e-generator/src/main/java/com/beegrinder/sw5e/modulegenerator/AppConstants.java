@@ -10,4 +10,11 @@ public class AppConstants {
 	 * Visible Strings
 	 */
 	public static final String STRING_WINDOW_TITLE = "SW5e Module Generator";
+	/*
+	 * Module Creation Strings
+	 */
+	public static final String DEFINITION_MIN_VERSION = "3.3";
+	public static final String DEFINITION_RULESET = "5E";
+	public static final String DEFINITION_REPLACES = "SW5e Supplement";
+	
 }
