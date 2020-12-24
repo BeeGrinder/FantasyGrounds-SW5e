@@ -11,7 +11,11 @@ public class AppScreenActions {
 
 	public static void actionBtnBuild(AppScreen frame, ActionEvent e) {
 		System.out.println("Action: actionBtnBuild");
-
+		try {
+			AppModuleBuild.buildModule(frame);
+		} catch (Exception ex) {
+			ModuleGenerator.addLogEntry("Error! "+ ex.getMessage());
+		}
 	}
 
 	public static void actionBtnModuleFolder(AppScreen frame, ActionEvent e) {

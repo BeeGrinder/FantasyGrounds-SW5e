@@ -1,8 +1,5 @@
 package com.beegrinder.sw5e.modulegenerator;
 
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -16,43 +13,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class AppHelper {
 
-	public static void buildModule(AppScreen frame) throws Exception {
-		// check that the module parent directory exists
-		if ( ! validateModuleDirectory(frame.getTextFieldModuleFolder().getText())) {
-			throw new Exception("Error. Module directory not found.");
-		}
-		
-		if( frame.getChckbxAsDirectory().isSelected() ) {
-			// "As Directory" removes a .mod file if present and puts files in module directory
-			removeModFileIfExists(frame.getTextFieldModuleFolder().getText(), frame.getTextFieldModuleName().getText());
-			
-		} else {
-			// not "As Directory" so we will create a .mod file and remove a directory if present.
-		}
-	}
-	
-	private static void removeModFileIfExists(String modDir, String modName ) {
-		Path path = Path.of(modDir+"\\"+modName);
-		if ( Files.exists(path) ) {
-			try {
-				Files.delete(path);
-			} catch (IOException e) {
-				ModuleGenerator.addLogEntry("Error.  Unable to remove .mod file. "+ e.getMessage());
-			}
-		}
-	}
-	
-	private static boolean validateModuleDirectory(String folderName ) {
-		boolean retVal = false;
-		Path path = Path.of(folderName);
-		if ( Files.exists( path )  && Files.isDirectory( path ) ) {
-			retVal = true;
-	}
-		
-		
-		return retVal;
-	}
-	
 	public static List<Equipment> equipmentListFromJson(String equipmentJson) {
 
 		List<Equipment> retVal = new ArrayList<>();
@@ -103,6 +63,7 @@ public class AppHelper {
 		frame.getTextFieldCategory().setText(defaultProps.getProperty("module.category"));
 		frame.getTextFieldAuthor().setText(defaultProps.getProperty("module.author"));
 		frame.getTextFieldModuleFolder().setText(defaultProps.getProperty("module.destination"));
+		frame.getTextFieldThumbnail().setText(defaultProps.getProperty("module.thumbnail"));
 		frame.getTextFieldParcelFile().setText(defaultProps.getProperty("input.filename.parcels"));
 		frame.getTextFieldActionsFile().setText(defaultProps.getProperty("input.filename.actions"));
 		frame.getTextFieldSpellsFile().setText(defaultProps.getProperty("input.filename.spells"));

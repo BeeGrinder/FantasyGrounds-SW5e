@@ -6,6 +6,7 @@ extension.destination=D:\\games\\Smiteworks\\FGUData\\extensions
 module.name=SW5eTestModule
 module.category=SW5e
 module.author=BeeGrinder
+module.thumbnail=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\thumbnail.png
 # Local File Locations
 input.filename.parcels=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\parcels.json
 input.filename.actions=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spellactions.json

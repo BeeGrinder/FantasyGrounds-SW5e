@@ -53,6 +53,9 @@ public class AppScreen extends JFrame implements ActionListener {
 	private JSeparator separator;
 	private JSeparator separator_1;
 	private JLabel lblRuntimeNotes;
+	private JLabel lblThumbnail;
+	private JTextField textFieldThumbnail;
+	private JButton btnThumbnail;
 
 	/**
 	 * Launch the application.
@@ -83,10 +86,10 @@ public class AppScreen extends JFrame implements ActionListener {
 		setContentPane(contentPane);
 		GridBagLayout gbl_contentPane = new GridBagLayout();
 		gbl_contentPane.columnWidths = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
-		gbl_contentPane.rowHeights = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
-		gbl_contentPane.columnWeights = new double[] { 1.0, 0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
+		gbl_contentPane.rowHeights = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+		gbl_contentPane.columnWeights = new double[] { 1.0, 1.0, 0.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
 				Double.MIN_VALUE };
-		gbl_contentPane.rowWeights = new double[] { 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
+		gbl_contentPane.rowWeights = new double[] { 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
 				0.0, 0.0, 1.0, Double.MIN_VALUE };
 		contentPane.setLayout(gbl_contentPane);
 
@@ -185,6 +188,33 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_btnModuleFolder.gridx = 12;
 		gbc_btnModuleFolder.gridy = 4;
 		contentPane.add(btnModuleFolder, gbc_btnModuleFolder);
+		
+		lblThumbnail = new JLabel("Thumbnail");
+		GridBagConstraints gbc_lblThumbnail = new GridBagConstraints();
+		gbc_lblThumbnail.anchor = GridBagConstraints.EAST;
+		gbc_lblThumbnail.insets = new Insets(0, 0, 5, 5);
+		gbc_lblThumbnail.gridx = 0;
+		gbc_lblThumbnail.gridy = 5;
+		contentPane.add(lblThumbnail, gbc_lblThumbnail);
+		
+		textFieldThumbnail = new JTextField();
+		textFieldThumbnail.setEditable(false);
+		GridBagConstraints gbc_textFieldThumbnail = new GridBagConstraints();
+		gbc_textFieldThumbnail.gridwidth = 11;
+		gbc_textFieldThumbnail.insets = new Insets(0, 0, 5, 5);
+		gbc_textFieldThumbnail.fill = GridBagConstraints.HORIZONTAL;
+		gbc_textFieldThumbnail.gridx = 1;
+		gbc_textFieldThumbnail.gridy = 5;
+		contentPane.add(textFieldThumbnail, gbc_textFieldThumbnail);
+		textFieldThumbnail.setColumns(10);
+		
+		btnThumbnail = new JButton("Select");
+		btnThumbnail.setEnabled(false);
+		GridBagConstraints gbc_btnThumbnail = new GridBagConstraints();
+		gbc_btnThumbnail.insets = new Insets(0, 0, 5, 0);
+		gbc_btnThumbnail.gridx = 12;
+		gbc_btnThumbnail.gridy = 5;
+		contentPane.add(btnThumbnail, gbc_btnThumbnail);
 
 		separator = new JSeparator();
 		separator.setForeground(Color.GRAY);
@@ -193,7 +223,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_separator.gridwidth = 13;
 		gbc_separator.insets = new Insets(0, 0, 5, 0);
 		gbc_separator.gridx = 0;
-		gbc_separator.gridy = 5;
+		gbc_separator.gridy = 6;
 		contentPane.add(separator, gbc_separator);
 
 		chckbxParcels = new JCheckBox("Parcel File");
@@ -202,7 +232,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_chckbxParcels.anchor = GridBagConstraints.EAST;
 		gbc_chckbxParcels.insets = new Insets(0, 0, 5, 5);
 		gbc_chckbxParcels.gridx = 0;
-		gbc_chckbxParcels.gridy = 6;
+		gbc_chckbxParcels.gridy = 7;
 		contentPane.add(chckbxParcels, gbc_chckbxParcels);
 
 		textFieldParcelFile = new JTextField();
@@ -212,7 +242,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_textFieldParcelFile.insets = new Insets(0, 0, 5, 5);
 		gbc_textFieldParcelFile.fill = GridBagConstraints.HORIZONTAL;
 		gbc_textFieldParcelFile.gridx = 1;
-		gbc_textFieldParcelFile.gridy = 6;
+		gbc_textFieldParcelFile.gridy = 7;
 		contentPane.add(textFieldParcelFile, gbc_textFieldParcelFile);
 		textFieldParcelFile.setColumns(10);
 
@@ -221,7 +251,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		GridBagConstraints gbc_btnParcelFile = new GridBagConstraints();
 		gbc_btnParcelFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnParcelFile.gridx = 12;
-		gbc_btnParcelFile.gridy = 6;
+		gbc_btnParcelFile.gridy = 7;
 		contentPane.add(btnParcelFile, gbc_btnParcelFile);
 
 		chckbxActions = new JCheckBox("Actions File");
@@ -229,7 +259,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_chckbxActions.anchor = GridBagConstraints.EAST;
 		gbc_chckbxActions.insets = new Insets(0, 0, 5, 5);
 		gbc_chckbxActions.gridx = 0;
-		gbc_chckbxActions.gridy = 7;
+		gbc_chckbxActions.gridy = 8;
 		contentPane.add(chckbxActions, gbc_chckbxActions);
 
 		textFieldActionsFile = new JTextField();
@@ -239,7 +269,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_textFieldActionsFile.insets = new Insets(0, 0, 5, 5);
 		gbc_textFieldActionsFile.fill = GridBagConstraints.HORIZONTAL;
 		gbc_textFieldActionsFile.gridx = 1;
-		gbc_textFieldActionsFile.gridy = 7;
+		gbc_textFieldActionsFile.gridy = 8;
 		contentPane.add(textFieldActionsFile, gbc_textFieldActionsFile);
 		textFieldActionsFile.setColumns(10);
 
@@ -248,7 +278,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		GridBagConstraints gbc_btnActionsFile = new GridBagConstraints();
 		gbc_btnActionsFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnActionsFile.gridx = 12;
-		gbc_btnActionsFile.gridy = 7;
+		gbc_btnActionsFile.gridy = 8;
 		contentPane.add(btnActionsFile, gbc_btnActionsFile);
 
 		chckbxEquipment = new JCheckBox("Equipment File");
@@ -256,7 +286,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_chckbxEquipment.anchor = GridBagConstraints.EAST;
 		gbc_chckbxEquipment.insets = new Insets(0, 0, 5, 5);
 		gbc_chckbxEquipment.gridx = 0;
-		gbc_chckbxEquipment.gridy = 8;
+		gbc_chckbxEquipment.gridy = 9;
 		contentPane.add(chckbxEquipment, gbc_chckbxEquipment);
 
 		textFieldEquipmentFile = new JTextField();
@@ -266,7 +296,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_textFieldEquipmentFile.insets = new Insets(0, 0, 5, 5);
 		gbc_textFieldEquipmentFile.fill = GridBagConstraints.HORIZONTAL;
 		gbc_textFieldEquipmentFile.gridx = 1;
-		gbc_textFieldEquipmentFile.gridy = 8;
+		gbc_textFieldEquipmentFile.gridy = 9;
 		contentPane.add(textFieldEquipmentFile, gbc_textFieldEquipmentFile);
 		textFieldEquipmentFile.setColumns(10);
 
@@ -275,7 +305,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		GridBagConstraints gbc_btnEquipmentFile = new GridBagConstraints();
 		gbc_btnEquipmentFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnEquipmentFile.gridx = 12;
-		gbc_btnEquipmentFile.gridy = 8;
+		gbc_btnEquipmentFile.gridy = 9;
 		contentPane.add(btnEquipmentFile, gbc_btnEquipmentFile);
 
 		chckbxSpells = new JCheckBox("Spells File");
@@ -283,7 +313,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_chckbxSpells.anchor = GridBagConstraints.EAST;
 		gbc_chckbxSpells.insets = new Insets(0, 0, 5, 5);
 		gbc_chckbxSpells.gridx = 0;
-		gbc_chckbxSpells.gridy = 9;
+		gbc_chckbxSpells.gridy = 10;
 		contentPane.add(chckbxSpells, gbc_chckbxSpells);
 
 		textFieldSpellsFile = new JTextField();
@@ -293,7 +323,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_textFieldSpellsFile.insets = new Insets(0, 0, 5, 5);
 		gbc_textFieldSpellsFile.fill = GridBagConstraints.HORIZONTAL;
 		gbc_textFieldSpellsFile.gridx = 1;
-		gbc_textFieldSpellsFile.gridy = 9;
+		gbc_textFieldSpellsFile.gridy = 10;
 		contentPane.add(textFieldSpellsFile, gbc_textFieldSpellsFile);
 		textFieldSpellsFile.setColumns(10);
 
@@ -302,14 +332,14 @@ public class AppScreen extends JFrame implements ActionListener {
 		GridBagConstraints gbc_btnSpellsFile = new GridBagConstraints();
 		gbc_btnSpellsFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnSpellsFile.gridx = 12;
-		gbc_btnSpellsFile.gridy = 9;
+		gbc_btnSpellsFile.gridy = 10;
 		contentPane.add(btnSpellsFile, gbc_btnSpellsFile);
 		
 		lblRuntimeNotes = new JLabel("DEV NOTE: File locations must be in property file");
 		GridBagConstraints gbc_lblRuntimeNotes = new GridBagConstraints();
 		gbc_lblRuntimeNotes.insets = new Insets(0, 0, 5, 5);
 		gbc_lblRuntimeNotes.gridx = 1;
-		gbc_lblRuntimeNotes.gridy = 10;
+		gbc_lblRuntimeNotes.gridy = 11;
 		contentPane.add(lblRuntimeNotes, gbc_lblRuntimeNotes);
 
 		separator_1 = new JSeparator();
@@ -319,7 +349,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_separator_1.gridwidth = 13;
 		gbc_separator_1.insets = new Insets(0, 0, 5, 0);
 		gbc_separator_1.gridx = 0;
-		gbc_separator_1.gridy = 14;
+		gbc_separator_1.gridy = 15;
 		contentPane.add(separator_1, gbc_separator_1);
 
 		scrollPane = new JScrollPane();
@@ -327,7 +357,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_scrollPane.gridwidth = 13;
 		gbc_scrollPane.fill = GridBagConstraints.BOTH;
 		gbc_scrollPane.gridx = 0;
-		gbc_scrollPane.gridy = 15;
+		gbc_scrollPane.gridy = 16;
 		contentPane.add(scrollPane, gbc_scrollPane);
 
 		textAreaLogOutput = new JTextArea();
@@ -487,6 +517,18 @@ public class AppScreen extends JFrame implements ActionListener {
 
 	public JLabel getLblRuntimeNotes() {
 		return lblRuntimeNotes;
+	}
+
+	public JLabel getLblThumbnail() {
+		return lblThumbnail;
+	}
+
+	public JTextField getTextFieldThumbnail() {
+		return textFieldThumbnail;
+	}
+
+	public JButton getBtnThumbnail() {
+		return btnThumbnail;
 	}
 
 }
