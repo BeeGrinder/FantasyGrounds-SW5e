@@ -56,6 +56,11 @@ public class ModuleGenerator {
 
 					AppHelper.populateDefaultsToScreen(frame, defaultProps); // sloppy reference call
 
+					// TODO: remove disabled after developed
+					frame.getChckbxActions().setEnabled(false);
+					frame.getChckbxParcels().setEnabled(false);
+					frame.getChckbxSpells().setEnabled(false);
+					
 					// TODO: the list refreshes should be triggered by a button.
 					frame.getChckbxSpells().setText("Spells (" + powerList.size() + ")");
 					frame.getChckbxEquipment().setText("Equipment (" + equipmentList.size() + ")");

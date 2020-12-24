@@ -3,12 +3,12 @@ module.destination=D:\\games\\Smiteworks\\FGUData\\modules
 # not used, but an example if we were creating an extension
 extension.destination=D:\\games\\Smiteworks\\FGUData\\extensions
 # name,category,author of module, used in links to objects and the final filename of the module
-module.name=SW5e Supplement
+module.name=SW5eTestModule
 module.category=SW5e
 module.author=BeeGrinder
 # Local File Locations
-input.filename.parcels=C:\\sw5e-dev\\sw5e-module-create\\examples\\parcels.json
-input.filename.actions=C:\\sw5e-dev\\sw5e-module-create\\examples\\spellactions.json
+input.filename.parcels=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\parcels.json
+input.filename.actions=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spellactions.json
 input.filename.spells=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spells.json
 input.filename.items=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\equipment.json
 # can be PHB, WH, EC.  SPACE delimited list.  I would place different sources in different modules.

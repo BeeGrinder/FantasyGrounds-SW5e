@@ -24,6 +24,10 @@ import java.awt.Color;
 
 public class AppScreen extends JFrame implements ActionListener {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JTextField textFieldModuleName;
 	private JTextField textFieldCategory;
@@ -48,6 +52,7 @@ public class AppScreen extends JFrame implements ActionListener {
 	private JCheckBox chckbxAsDirectory;
 	private JSeparator separator;
 	private JSeparator separator_1;
+	private JLabel lblRuntimeNotes;
 
 	/**
 	 * Launch the application.
@@ -174,6 +179,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		textFieldModuleFolder.setColumns(10);
 
 		btnModuleFolder = new JButton("Select");
+		btnModuleFolder.setEnabled(false);
 		GridBagConstraints gbc_btnModuleFolder = new GridBagConstraints();
 		gbc_btnModuleFolder.insets = new Insets(0, 0, 5, 0);
 		gbc_btnModuleFolder.gridx = 12;
@@ -211,6 +217,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		textFieldParcelFile.setColumns(10);
 
 		btnParcelFile = new JButton("Select");
+		btnParcelFile.setEnabled(false);
 		GridBagConstraints gbc_btnParcelFile = new GridBagConstraints();
 		gbc_btnParcelFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnParcelFile.gridx = 12;
@@ -237,13 +244,14 @@ public class AppScreen extends JFrame implements ActionListener {
 		textFieldActionsFile.setColumns(10);
 
 		btnActionsFile = new JButton("Select");
+		btnActionsFile.setEnabled(false);
 		GridBagConstraints gbc_btnActionsFile = new GridBagConstraints();
 		gbc_btnActionsFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnActionsFile.gridx = 12;
 		gbc_btnActionsFile.gridy = 7;
 		contentPane.add(btnActionsFile, gbc_btnActionsFile);
 
-		chckbxEquipment = new JCheckBox("Equipment FIle");
+		chckbxEquipment = new JCheckBox("Equipment File");
 		GridBagConstraints gbc_chckbxEquipment = new GridBagConstraints();
 		gbc_chckbxEquipment.anchor = GridBagConstraints.EAST;
 		gbc_chckbxEquipment.insets = new Insets(0, 0, 5, 5);
@@ -263,6 +271,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		textFieldEquipmentFile.setColumns(10);
 
 		btnEquipmentFile = new JButton("Select");
+		btnEquipmentFile.setEnabled(false);
 		GridBagConstraints gbc_btnEquipmentFile = new GridBagConstraints();
 		gbc_btnEquipmentFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnEquipmentFile.gridx = 12;
@@ -289,11 +298,19 @@ public class AppScreen extends JFrame implements ActionListener {
 		textFieldSpellsFile.setColumns(10);
 
 		btnSpellsFile = new JButton("Select");
+		btnSpellsFile.setEnabled(false);
 		GridBagConstraints gbc_btnSpellsFile = new GridBagConstraints();
 		gbc_btnSpellsFile.insets = new Insets(0, 0, 5, 0);
 		gbc_btnSpellsFile.gridx = 12;
 		gbc_btnSpellsFile.gridy = 9;
 		contentPane.add(btnSpellsFile, gbc_btnSpellsFile);
+		
+		lblRuntimeNotes = new JLabel("DEV NOTE: File locations must be in property file");
+		GridBagConstraints gbc_lblRuntimeNotes = new GridBagConstraints();
+		gbc_lblRuntimeNotes.insets = new Insets(0, 0, 5, 5);
+		gbc_lblRuntimeNotes.gridx = 1;
+		gbc_lblRuntimeNotes.gridy = 10;
+		contentPane.add(lblRuntimeNotes, gbc_lblRuntimeNotes);
 
 		separator_1 = new JSeparator();
 		separator_1.setForeground(Color.GRAY);
@@ -458,6 +475,18 @@ public class AppScreen extends JFrame implements ActionListener {
 
 	public JTextArea getTextAreaLogOutput() {
 		return textAreaLogOutput;
+	}
+
+	public static long getSerialversionuid() {
+		return serialVersionUID;
+	}
+
+	public JCheckBox getChckbxAsDirectory() {
+		return chckbxAsDirectory;
+	}
+
+	public JLabel getLblRuntimeNotes() {
+		return lblRuntimeNotes;
 	}
 
 }
