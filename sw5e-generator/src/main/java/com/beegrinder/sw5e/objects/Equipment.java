@@ -95,7 +95,7 @@ public class Equipment {
 	@JsonProperty("modesJson")
 	private String modesJson;
 	@JsonProperty("ac")
-	private Object ac;
+	private String ac;
 	@JsonProperty("strengthRequirement")
 	private Object strengthRequirement;
 	@JsonProperty("stealthDisadvantage")
@@ -340,12 +340,12 @@ public class Equipment {
 	}
 
 	@JsonProperty("ac")
-	public Object getAc() {
+	public String getAc() {
 		return ac;
 	}
 
 	@JsonProperty("ac")
-	public void setAc(Object ac) {
+	public void setAc(String ac) {
 		this.ac = ac;
 	}
 

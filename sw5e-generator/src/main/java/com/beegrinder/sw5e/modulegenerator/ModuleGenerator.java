@@ -26,7 +26,8 @@ public class ModuleGenerator {
 	static List<Parcel> parcelList = new ArrayList<>();
 	static List<Action> actionList = new ArrayList<>();
 	static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-
+	static String delim;
+	
 	public static void loadDefaultProperties() throws IOException {
 
 		FileInputStream in = new FileInputStream(AppConstants.DEFAULT_PROPERTIES_FILENAME);
@@ -38,6 +39,7 @@ public class ModuleGenerator {
 	public static void main(String[] args) {
 		// load properties
 		try {
+			delim = AppHelper.getDeliminator();
 			loadDefaultProperties();
 			if (!AppHelper.validateDefaultProperties(defaultProps)) {
 				throw new IOException("Invalid defaultProperties file data found.");

@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Properties;
 
 import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.SystemUtils;
 
 import com.beegrinder.sw5e.objects.Equipment;
 import com.beegrinder.sw5e.objects.Power;
@@ -13,6 +14,14 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class AppHelper {
 
+	public static String getDeliminator() {
+		String retVal = "/";
+		if ( SystemUtils.IS_OS_WINDOWS ) {
+			retVal = "\\";
+		}
+		return retVal;
+	}
+	
 	public static List<Equipment> equipmentListFromJson(String equipmentJson) {
 
 		List<Equipment> retVal = new ArrayList<>();
