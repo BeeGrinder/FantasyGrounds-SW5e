@@ -64,7 +64,7 @@ public class ModuleGenerator {
 					// ***** DEV SETTINGS *****
 					frame.getChckbxActions().setEnabled(false);
 					frame.getChckbxParcels().setEnabled(false);
-					frame.getChckbxSpells().setEnabled(false);
+					//frame.getChckbxSpells().setEnabled(false);
 					frame.getChckbxAsDirectory().setSelected(true);
 					frame.getChckbxAsDirectory().setEnabled(false);
 					// ***** END DEV SETTINGS *****

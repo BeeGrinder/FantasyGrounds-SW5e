@@ -28,6 +28,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 import com.beegrinder.sw5e.objects.Equipment;
+import com.beegrinder.sw5e.objects.Power;
 
 public class AppModuleBuild {
 
@@ -82,6 +83,9 @@ public class AppModuleBuild {
 		//create root
 		StringBuffer buff=new StringBuffer();
 		buff.append(BEGIN_XML_TAG).append(createOpenRootTag());
+		// add library section so it shows up when loaded
+		buff.append(buildLibrarySelction(frame.getTextFieldModuleName().getText(),frame.getTextFieldCategory().getText()));
+		
 		
 		// now add sections if they have been checked off (selected)
 		if( frame.getChckbxEquipment().isSelected() ) {
@@ -90,6 +94,14 @@ public class AppModuleBuild {
 				buff = buildItemSection(buff);
 			} catch (Exception e ) {
 				ModuleGenerator.addLogEntry("Error.  Unable to create <item> element. " + e.getMessage());
+			}
+		}
+		if( frame.getChckbxSpells().isSelected() ) {
+			//create <power> element
+			try {
+				buff = buildPowerSection(buff);
+			} catch (Exception e ) {
+				ModuleGenerator.addLogEntry("Error.  Unable to create <power> element. " + e.getMessage());
 			}
 		}
 		
@@ -103,22 +115,67 @@ public class AppModuleBuild {
 	}
 	
 	
+	private static StringBuffer buildPowerSection(StringBuffer buff) throws Exception {
+		buff.append(createOpenTag("spell", null)); //open spell section
+		if ( ( ModuleGenerator.powerList != null ) && ( ! ModuleGenerator.powerList.isEmpty() ) ) {
+			int curSpellCount = 1;
+			for( int i = 0; i < ModuleGenerator.powerList.size(); i++ ) {
+				Power e =  ModuleGenerator.powerList.get(i);
+				if ( ModuleGenerator.ALLOWED_CONTENT_CODES.contains(e.getContentSource())) {
+					final String currId = "id-" + String.format("%05d", (curSpellCount));
+					buff.append(createOpenTag(currId, null));
+					/*
+					 * Begin processing spell data
+					 */
+
+					
+					
+					
+					
+					
+					
+					/*
+					 * Done processing spell object.
+					 */
+					buff.append(createCloseTag(currId));
+					curSpellCount++;
+				}
+			}
+		}
+
+		buff.append(createCloseTag("spell")); //close spell section
+		return buff;
+	}
+
+	
+	private static String buildLibrarySelction(String moduleName, String moduleCategory) throws Exception {
+		StringBuffer buff=new StringBuffer();
+		buff.append(createOpenTag("library"));
+		String idTag="id-"+moduleName.toLowerCase();
+		buff.append(createOpenTag(idTag));
+		buff.append(createOpenTag("categoryname", "string")).append(moduleCategory).append(createCloseTag("categoryname"));
+		buff.append(createOpenTag("name", "string")).append(moduleName).append(createCloseTag("name"));
+		buff.append(createOpenTag("entries")).append(createCloseTag("entries"));
+		buff.append(createCloseTag(idTag));
+		buff.append(createCloseTag("library"));
+		return buff.toString();
+	}
+	
 	private static StringBuffer buildItemSection(StringBuffer buff) throws Exception {
 
-		buff.append(createOpenTag("item", null));
+		buff.append(createOpenTag("item", null)); //open item section
 		if ( ( ModuleGenerator.equipmentList != null ) && ( ! ModuleGenerator.equipmentList.isEmpty() ) ) {
 			int curItemCount = 1;
 			for( int i = 0; i < ModuleGenerator.equipmentList.size(); i++ ) {
 				Equipment e =  ModuleGenerator.equipmentList.get(i);
 				if ( ModuleGenerator.ALLOWED_CONTENT_CODES.contains(e.getContentSource())) {
-				
-					String dexBonusString = "-";
 					final String currId = "id-" + String.format("%05d", (curItemCount));
 					buff.append(createOpenTag(currId, null));
 					/*
-					 * now, parse equipment object
+					 * Begin processing item data
 					 */
 					//** ac
+					String dexBonusString = "-";
 					buff.append(createOpenTag("ac", "number"));
 					if( e.getAc() == null ) {
 						buff.append("0");
@@ -250,12 +307,10 @@ public class AppModuleBuild {
 						buff.append(createCloseTag("damage"));
 						
 					}
-	
-					
-					
+
 					
 					/*
-					 * Done parsing equipment object. Add this id-xxxx to the <item> element
+					 * Done parsing equipment object.
 					 */
 					buff.append(createCloseTag(currId));
 					curItemCount++;
@@ -263,7 +318,7 @@ public class AppModuleBuild {
 			}
 		}
 
-		buff.append(createCloseTag("item"));
+		buff.append(createCloseTag("item")); //close item section
 		return buff;
 	}
 	
@@ -306,6 +361,9 @@ public class AppModuleBuild {
 		return retVal.toString();
 	}
 	
+	private static String createOpenTag(String name) throws Exception {
+		return createOpenTag(name, null);
+	}
 	private static String createCloseTag(String name) throws Exception {
 		StringBuffer retVal=new StringBuffer();
 		if( ! StringUtils.isBlank(name)) {
