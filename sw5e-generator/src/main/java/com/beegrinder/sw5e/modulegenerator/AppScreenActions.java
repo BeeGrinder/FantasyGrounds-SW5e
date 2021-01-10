@@ -56,7 +56,7 @@ public class AppScreenActions {
 			String equipFileName = frame.getTextFieldEquipmentFile().getText();
 			try {
 				Path filePath = Path.of(equipFileName);
-				String content = Files.readString(filePath,StandardCharsets.UTF_8);
+				String content = Files.readString(filePath,StandardCharsets.UTF_8).replaceAll("\\r\\n", "");
 				ModuleGenerator.equipmentList = AppHelper.equipmentListFromJson(content);
 				frame.getChckbxEquipment().setText("Equipment (" + ModuleGenerator.equipmentList.size() + ")");
 			}

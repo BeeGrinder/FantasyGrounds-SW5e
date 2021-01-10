@@ -5,9 +5,11 @@ import java.util.Map;
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import com.fasterxml.jackson.annotation.JsonAnySetter;
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreType;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+import com.fasterxml.jackson.annotation.JsonRawValue;
 
 /*
 Created with utility at http://www.jsonschema2pojo.org/
@@ -53,7 +55,7 @@ public class Equipment {
 	@JsonProperty("name")
 	private String name;
 	@JsonProperty("description")
-	private Object description;
+	private String description;
 	@JsonProperty("cost")
 	private Integer cost;
 	@JsonProperty("weight")
@@ -130,12 +132,12 @@ public class Equipment {
 	}
 
 	@JsonProperty("description")
-	public Object getDescription() {
+	public String getDescription() {
 		return description;
 	}
 
 	@JsonProperty("description")
-	public void setDescription(Object description) {
+	public void setDescription(String description) {
 		this.description = description;
 	}
 

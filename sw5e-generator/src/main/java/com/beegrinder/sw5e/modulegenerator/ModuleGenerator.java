@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 import java.util.Properties;
@@ -27,6 +28,7 @@ public class ModuleGenerator {
 	static List<Action> actionList = new ArrayList<>();
 	static SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 	static String delim;
+	static List<String> ALLOWED_CONTENT_CODES = new ArrayList<>(Arrays.asList("PHB"));
 	
 	public static void loadDefaultProperties() throws IOException {
 
@@ -89,6 +91,8 @@ public class ModuleGenerator {
 
 	public static void addLogEntry(String message) {
 		frame.getTextAreaLogOutput().append("\n" + dateFormat.format(new Date()) + ": " + message);
+		frame.getTextAreaLogOutput().update(frame.getTextAreaLogOutput().getGraphics());
+
 	}
 
 }
