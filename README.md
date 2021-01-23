@@ -89,6 +89,10 @@ The *__ext-src__* dirctory is for the extension sources.
 
 __Project News__
 
+Jan 23, 2021
+
+Updates are slow, but I am working on a way to update spells(powers) from the sw5e web site instead of hand copying/coding them when they do their frequent changes.  Without a way to automate these changes, keeping a module updated is extremely difficult especially because they do not follow the WoTC document and phrasing standards which most 3rd party electronic systems depend upon.
+
 Dec 12, 2020
 
 All current equipment added.  Only unfinished category for version 3.0 is Tech and Force "Spells".
