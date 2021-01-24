@@ -53,11 +53,11 @@ public class CreatePowerData {
 			+ ", casting_time text null, xml_casting_time text null" 
 			+ ", duration text null, xml_duration text null" + ", power_group text null" 
 			+ ", power_level integer null,xml_level integer null"
-			+ ", range text null, xml_range text null" 
+			+ ", range text null, xml_range text null, concentration integer null" 
 			+ ", school text null" + ", power_source text null" + ");";
 	private static final String insertJsonSql = "insert into powers"
-			+ "(name, in_json,sw5e_description, casting_time, duration, power_level, range, power_source,school,in_xml)"
-			+ "values (?,?,?,?,?,?,?,?,?,?)";
+			+ "(name, in_json,sw5e_description, casting_time, duration, power_level, range, power_source,school,in_xml,concentration)"
+			+ "values (?,?,?,?,?,?,?,?,?,?,?)";
 	private static final String insertXmlSql = "insert into powers"
 			+ "(name,in_json, in_xml,description, casting_time, duration, power_level, range, power_source,school,actions)"
 			+ "values (?,?,?,?,?,?,?,?,?,?,?)";
@@ -170,6 +170,7 @@ public class CreatePowerData {
 					stmt.setString(9, p.getPowerType());
 				}
 				stmt.setInt(10, 0);
+				stmt.setInt(11, p.getConcentration()?1:0);
 				stmt.executeUpdate();
 				stmt.close();
 				count++;
