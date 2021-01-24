@@ -34,7 +34,15 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-
+/*
+ *  the powers program is meant to collect the differences between the existing (xml) spell list
+ *  and the spell list from sw5e.com (json)
+ *  
+ *  New/changed spells can be found more easily and have a set of actions added in the database.
+ *  
+ *  Once the reconciliation is complete, a clean set of updated spells can be generate for fantasy grounds
+ *  
+ */
 public class powers {
 
 	private static final String spellJsonFileName = "../sw5e-generator/spells.json";
