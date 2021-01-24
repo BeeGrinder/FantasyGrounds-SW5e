@@ -43,7 +43,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  *  Once the reconciliation is complete, a clean set of updated spells can be generate for fantasy grounds
  *  
  */
-public class powers {
+public class CreatePowerData {
 
 	private static final String spellJsonFileName = "../sw5e-generator/spells.json";
 	private static final String spellXmlFileName = "supplement_spells.xml";
