@@ -14,8 +14,14 @@
 		<jackson.version>2.12.0</jackson.version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 		<okhttp.version>4.9.0</okhttp.version>
+		<sql-verson>3.16.1</sql-verson>
 	</properties>
 	<dependencies>
+		<dependency>
+		    <groupId>org.xerial</groupId>
+		    <artifactId>sqlite-jdbc</artifactId>
+		    <version>${sql-verson}</version>
+		</dependency>
 		<dependency>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-compiler-plugin</artifactId>

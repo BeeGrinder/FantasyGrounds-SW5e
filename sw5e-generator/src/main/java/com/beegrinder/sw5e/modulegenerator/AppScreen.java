@@ -34,15 +34,12 @@ public class AppScreen extends JFrame implements ActionListener {
 	private JTextField textFieldAuthor;
 	private JTextField textFieldModuleFolder;
 	private JTextField textFieldParcelFile;
-	private JTextField textFieldActionsFile;
 	private JCheckBox chckbxSpells;
 	private JCheckBox chckbxEquipment;
 	private JCheckBox chckbxParcels;
-	private JCheckBox chckbxActions;
 	private JButton btnBuild;
 	private JButton btnModuleFolder;
 	private JButton btnParcelFile;
-	private JButton btnActionsFile;
 	private JTextField textFieldEquipmentFile;
 	private JTextField textFieldSpellsFile;
 	private JButton btnEquipmentFile;
@@ -253,93 +250,70 @@ public class AppScreen extends JFrame implements ActionListener {
 		gbc_btnParcelFile.gridx = 12;
 		gbc_btnParcelFile.gridy = 7;
 		contentPane.add(btnParcelFile, gbc_btnParcelFile);
-
-		chckbxActions = new JCheckBox("Actions File");
-		GridBagConstraints gbc_chckbxActions = new GridBagConstraints();
-		gbc_chckbxActions.anchor = GridBagConstraints.EAST;
-		gbc_chckbxActions.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxActions.gridx = 0;
-		gbc_chckbxActions.gridy = 8;
-		contentPane.add(chckbxActions, gbc_chckbxActions);
-
-		textFieldActionsFile = new JTextField();
-		textFieldActionsFile.setEditable(false);
-		GridBagConstraints gbc_textFieldActionsFile = new GridBagConstraints();
-		gbc_textFieldActionsFile.gridwidth = 11;
-		gbc_textFieldActionsFile.insets = new Insets(0, 0, 5, 5);
-		gbc_textFieldActionsFile.fill = GridBagConstraints.HORIZONTAL;
-		gbc_textFieldActionsFile.gridx = 1;
-		gbc_textFieldActionsFile.gridy = 8;
-		contentPane.add(textFieldActionsFile, gbc_textFieldActionsFile);
-		textFieldActionsFile.setColumns(10);
-
-		btnActionsFile = new JButton("Select");
-		btnActionsFile.setEnabled(false);
-		GridBagConstraints gbc_btnActionsFile = new GridBagConstraints();
-		gbc_btnActionsFile.insets = new Insets(0, 0, 5, 0);
-		gbc_btnActionsFile.gridx = 12;
-		gbc_btnActionsFile.gridy = 8;
-		contentPane.add(btnActionsFile, gbc_btnActionsFile);
-
-		chckbxEquipment = new JCheckBox("Equipment File");
-		GridBagConstraints gbc_chckbxEquipment = new GridBagConstraints();
-		gbc_chckbxEquipment.anchor = GridBagConstraints.EAST;
-		gbc_chckbxEquipment.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxEquipment.gridx = 0;
-		gbc_chckbxEquipment.gridy = 9;
-		contentPane.add(chckbxEquipment, gbc_chckbxEquipment);
-
-		textFieldEquipmentFile = new JTextField();
-		textFieldEquipmentFile.setEditable(false);
-		GridBagConstraints gbc_textFieldEquipmentFile = new GridBagConstraints();
-		gbc_textFieldEquipmentFile.gridwidth = 11;
-		gbc_textFieldEquipmentFile.insets = new Insets(0, 0, 5, 5);
-		gbc_textFieldEquipmentFile.fill = GridBagConstraints.HORIZONTAL;
-		gbc_textFieldEquipmentFile.gridx = 1;
-		gbc_textFieldEquipmentFile.gridy = 9;
-		contentPane.add(textFieldEquipmentFile, gbc_textFieldEquipmentFile);
-		textFieldEquipmentFile.setColumns(10);
-
-		btnEquipmentFile = new JButton("Select");
-		btnEquipmentFile.setEnabled(false);
-		GridBagConstraints gbc_btnEquipmentFile = new GridBagConstraints();
-		gbc_btnEquipmentFile.insets = new Insets(0, 0, 5, 0);
-		gbc_btnEquipmentFile.gridx = 12;
-		gbc_btnEquipmentFile.gridy = 9;
-		contentPane.add(btnEquipmentFile, gbc_btnEquipmentFile);
-
-		chckbxSpells = new JCheckBox("Spells File");
-		GridBagConstraints gbc_chckbxSpells = new GridBagConstraints();
-		gbc_chckbxSpells.anchor = GridBagConstraints.EAST;
-		gbc_chckbxSpells.insets = new Insets(0, 0, 5, 5);
-		gbc_chckbxSpells.gridx = 0;
-		gbc_chckbxSpells.gridy = 10;
-		contentPane.add(chckbxSpells, gbc_chckbxSpells);
-
-		textFieldSpellsFile = new JTextField();
-		textFieldSpellsFile.setEditable(false);
-		GridBagConstraints gbc_textFieldSpellsFile = new GridBagConstraints();
-		gbc_textFieldSpellsFile.gridwidth = 11;
-		gbc_textFieldSpellsFile.insets = new Insets(0, 0, 5, 5);
-		gbc_textFieldSpellsFile.fill = GridBagConstraints.HORIZONTAL;
-		gbc_textFieldSpellsFile.gridx = 1;
-		gbc_textFieldSpellsFile.gridy = 10;
-		contentPane.add(textFieldSpellsFile, gbc_textFieldSpellsFile);
-		textFieldSpellsFile.setColumns(10);
-
-		btnSpellsFile = new JButton("Select");
-		btnSpellsFile.setEnabled(false);
-		GridBagConstraints gbc_btnSpellsFile = new GridBagConstraints();
-		gbc_btnSpellsFile.insets = new Insets(0, 0, 5, 0);
-		gbc_btnSpellsFile.gridx = 12;
-		gbc_btnSpellsFile.gridy = 10;
-		contentPane.add(btnSpellsFile, gbc_btnSpellsFile);
+		
+				chckbxEquipment = new JCheckBox("Equipment File");
+				GridBagConstraints gbc_chckbxEquipment = new GridBagConstraints();
+				gbc_chckbxEquipment.anchor = GridBagConstraints.EAST;
+				gbc_chckbxEquipment.insets = new Insets(0, 0, 5, 5);
+				gbc_chckbxEquipment.gridx = 0;
+				gbc_chckbxEquipment.gridy = 8;
+				contentPane.add(chckbxEquipment, gbc_chckbxEquipment);
+				chckbxEquipment.addActionListener(this);
+		
+				textFieldEquipmentFile = new JTextField();
+				textFieldEquipmentFile.setEditable(false);
+				GridBagConstraints gbc_textFieldEquipmentFile = new GridBagConstraints();
+				gbc_textFieldEquipmentFile.gridwidth = 11;
+				gbc_textFieldEquipmentFile.insets = new Insets(0, 0, 5, 5);
+				gbc_textFieldEquipmentFile.fill = GridBagConstraints.HORIZONTAL;
+				gbc_textFieldEquipmentFile.gridx = 1;
+				gbc_textFieldEquipmentFile.gridy = 8;
+				contentPane.add(textFieldEquipmentFile, gbc_textFieldEquipmentFile);
+				textFieldEquipmentFile.setColumns(10);
+		
+				btnEquipmentFile = new JButton("Select");
+				btnEquipmentFile.setEnabled(false);
+				GridBagConstraints gbc_btnEquipmentFile = new GridBagConstraints();
+				gbc_btnEquipmentFile.insets = new Insets(0, 0, 5, 0);
+				gbc_btnEquipmentFile.gridx = 12;
+				gbc_btnEquipmentFile.gridy = 8;
+				contentPane.add(btnEquipmentFile, gbc_btnEquipmentFile);
+				btnEquipmentFile.addActionListener(this);
+		
+				chckbxSpells = new JCheckBox("Spells File");
+				GridBagConstraints gbc_chckbxSpells = new GridBagConstraints();
+				gbc_chckbxSpells.anchor = GridBagConstraints.EAST;
+				gbc_chckbxSpells.insets = new Insets(0, 0, 5, 5);
+				gbc_chckbxSpells.gridx = 0;
+				gbc_chckbxSpells.gridy = 9;
+				contentPane.add(chckbxSpells, gbc_chckbxSpells);
+				chckbxSpells.addActionListener(this);
+		
+				textFieldSpellsFile = new JTextField();
+				textFieldSpellsFile.setEditable(false);
+				GridBagConstraints gbc_textFieldSpellsFile = new GridBagConstraints();
+				gbc_textFieldSpellsFile.gridwidth = 11;
+				gbc_textFieldSpellsFile.insets = new Insets(0, 0, 5, 5);
+				gbc_textFieldSpellsFile.fill = GridBagConstraints.HORIZONTAL;
+				gbc_textFieldSpellsFile.gridx = 1;
+				gbc_textFieldSpellsFile.gridy = 9;
+				contentPane.add(textFieldSpellsFile, gbc_textFieldSpellsFile);
+				textFieldSpellsFile.setColumns(10);
+		
+				btnSpellsFile = new JButton("Select");
+				btnSpellsFile.setEnabled(false);
+				GridBagConstraints gbc_btnSpellsFile = new GridBagConstraints();
+				gbc_btnSpellsFile.insets = new Insets(0, 0, 5, 0);
+				gbc_btnSpellsFile.gridx = 12;
+				gbc_btnSpellsFile.gridy = 9;
+				contentPane.add(btnSpellsFile, gbc_btnSpellsFile);
+				btnSpellsFile.addActionListener(this);
 		
 		lblRuntimeNotes = new JLabel("DEV NOTE: File locations must be in property file");
 		GridBagConstraints gbc_lblRuntimeNotes = new GridBagConstraints();
 		gbc_lblRuntimeNotes.insets = new Insets(0, 0, 5, 5);
 		gbc_lblRuntimeNotes.gridx = 1;
-		gbc_lblRuntimeNotes.gridy = 11;
+		gbc_lblRuntimeNotes.gridy = 10;
 		contentPane.add(lblRuntimeNotes, gbc_lblRuntimeNotes);
 
 		separator_1 = new JSeparator();
@@ -367,14 +341,8 @@ public class AppScreen extends JFrame implements ActionListener {
 		btnBuild.addActionListener(this);
 		btnModuleFolder.addActionListener(this);
 		btnParcelFile.addActionListener(this);
-		btnActionsFile.addActionListener(this);
-		btnEquipmentFile.addActionListener(this);
-		btnSpellsFile.addActionListener(this);
 		chckbxAsDirectory.addActionListener(this);
 		chckbxParcels.addActionListener(this);
-		chckbxActions.addActionListener(this);
-		chckbxEquipment.addActionListener(this);
-		chckbxSpells.addActionListener(this);
 		textFieldModuleName.addActionListener(this);
 		textFieldCategory.addActionListener(this);
 		textFieldAuthor.addActionListener(this);
@@ -389,14 +357,10 @@ public class AppScreen extends JFrame implements ActionListener {
 
 		if (e.getSource().equals(btnBuild)) {
 			AppScreenActions.actionBtnBuild(this, e);
-		} else if (e.getSource().equals(btnActionsFile)) {
-			AppScreenActions.actionBtnActionFile(this, e);
 		} else if (e.getSource().equals(btnModuleFolder)) {
 			AppScreenActions.actionBtnModuleFolder(this, e);
 		} else if (e.getSource().equals(btnParcelFile)) {
 			AppScreenActions.actionBtnParcelFile(this, e);
-		} else if (e.getSource().equals(btnActionsFile)) {
-			AppScreenActions.actionBtnActionFile(this, e);
 		} else if (e.getSource().equals(btnEquipmentFile)) {
 			AppScreenActions.actionBtnEquipmentFile(this, e);
 		} else if (e.getSource().equals(btnSpellsFile)) {
@@ -405,8 +369,6 @@ public class AppScreen extends JFrame implements ActionListener {
 			AppScreenActions.actionChkAsDirectory(this, e);
 		} else if (e.getSource().equals(chckbxParcels)) {
 			AppScreenActions.actionChkParcelFile(this, e);
-		} else if (e.getSource().equals(chckbxActions)) {
-			AppScreenActions.actionChkActionFile(this, e);
 		} else if (e.getSource().equals(chckbxEquipment)) {
 			AppScreenActions.actionChkEquipementFile(this, e);
 		} else if (e.getSource().equals(chckbxSpells)) {
@@ -447,10 +409,6 @@ public class AppScreen extends JFrame implements ActionListener {
 		return textFieldParcelFile;
 	}
 
-	public JTextField getTextFieldActionsFile() {
-		return textFieldActionsFile;
-	}
-
 	public JCheckBox getChckbxSpells() {
 		return chckbxSpells;
 	}
@@ -463,10 +421,6 @@ public class AppScreen extends JFrame implements ActionListener {
 		return chckbxParcels;
 	}
 
-	public JCheckBox getChckbxActions() {
-		return chckbxActions;
-	}
-
 	public JButton getBtnBuild() {
 		return btnBuild;
 	}
@@ -477,10 +431,6 @@ public class AppScreen extends JFrame implements ActionListener {
 
 	public JButton getBtnParcelFile() {
 		return btnParcelFile;
-	}
-
-	public JButton getBtnActionsFile() {
-		return btnActionsFile;
 	}
 
 	public JTextField getTextFieldEquipmentFile() {

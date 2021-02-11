@@ -45,24 +45,24 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  */
 public class CreatePowerData {
 
-	private static final String spellJsonFileName = "../sw5e-generator/spells.json";
+	private static final String spellJsonFileName = "spells.json";
 	private static final String spellXmlFileName = "supplement_spells.xml";
 	private static final String sql = "create table IF NOT EXISTS powers(" + "primary_key INTEGER PRIMARY KEY"
-			+ ", name TEXT NOT NULL" + ", in_json INTEGER NULL" + ", in_xml INTEGER NULL"
+			+ ", name TEXT NOT NULL" + ", new_json INTEGER NULL" + ", old_xml INTEGER NULL"
 			+ ", sw5e_description TEXT NULL" + ", description TEXT NULL" + ", actions TEXT null"
-			+ ", casting_time text null, xml_casting_time text null" 
-			+ ", duration text null, xml_duration text null" + ", power_group text null" 
-			+ ", power_level integer null,xml_level integer null"
-			+ ", range text null, xml_range text null, concentration integer null" 
-			+ ", school text null" + ", power_source text null" + ");";
+			+ ", casting_time text null, old_casting_time text null" 
+			+ ", duration text null, old_duration text null" + ", power_group text null" 
+			+ ", power_level integer null,old_level integer null"
+			+ ", range text null, old_range text null, concentration integer null" 
+			+ ", school text null" + ", power_source text null, special_spell integer null" + ");";
 	private static final String insertJsonSql = "insert into powers"
-			+ "(name, in_json,sw5e_description, casting_time, duration, power_level, range, power_source,school,in_xml,concentration)"
+			+ "(name, new_json,sw5e_description, casting_time, duration, power_level, range, power_source,school,old_xml,concentration)"
 			+ "values (?,?,?,?,?,?,?,?,?,?,?)";
 	private static final String insertXmlSql = "insert into powers"
-			+ "(name,in_json, in_xml,description, casting_time, duration, power_level, range, power_source,school,actions)"
+			+ "(name,new_json, old_xml,description, casting_time, duration, power_level, range, power_source,school,actions)"
 			+ "values (?,?,?,?,?,?,?,?,?,?,?)";
 	private static final String updateXmlSql="update powers set "
-			+" in_xml =?,description=?, xml_casting_time=?,xml_duration=?,xml_level=?,xml_range=?,actions=? "
+			+" old_xml =?,description=?, old_casting_time=?,old_duration=?,old_level=?,old_range=?,actions=? "
 			+"where primary_key = ?";
 	private static final String findJsonRecordSql="select primary_key from powers where name = ?";
 	private static List<Power> powerListsw5e = new ArrayList<>();
@@ -102,7 +102,6 @@ public class CreatePowerData {
 				if( rsSize == 0) {
 //					System.out.println("Inserting");
 					PreparedStatement insStmt=con.prepareStatement(insertXmlSql);
-					//(name,in_json, in_xml,description, casting_time, duration, power_level, range, power_source,school)
 					insStmt.setString(1, s.name);
 					insStmt.setInt(2, 0);
 					insStmt.setInt(3, 1);
@@ -147,36 +146,39 @@ public class CreatePowerData {
 		return count;
 	}
 
-	private static int insertPowerListsw5e(Connection con) {
+	private static int insertPowerListsw5e(Connection con) throws SQLException {
 
 		int count = 1;
-
+		PreparedStatement stmt=null;
 
 		for (Power p : powerListsw5e) {
-
-			try {
-				PreparedStatement stmt = con.prepareStatement(insertJsonSql);
-				stmt.setString(1, p.getName());
-				stmt.setInt(2, 1);
-				stmt.setString(3, p.getDescription());
-				stmt.setString(4, p.getCastingPeriodText());
-				stmt.setString(5, p.getDuration());
-				stmt.setInt(6, p.getLevel());
-				stmt.setString(7, p.getRange());
-				stmt.setString(8, p.getPowerType());
-				if (p.getPowerType().equals("Force")) {
-					stmt.setString(9, p.getForceAlignment());
-				} else {
-					stmt.setString(9, p.getPowerType());
+			if( p.getContentSource().equals("PHB")) {
+				try {
+					stmt = con.prepareStatement(insertJsonSql);
+					stmt.setString(1, p.getName());
+					stmt.setInt(2, 1);
+					stmt.setString(3, p.getDescription());
+					stmt.setString(4, p.getCastingPeriodText());
+					stmt.setString(5, p.getDuration());
+					stmt.setInt(6, p.getLevel());
+					stmt.setString(7, p.getRange());
+					stmt.setString(8, p.getPowerType());
+					if (p.getPowerType().equals("Force")) {
+						stmt.setString(9, p.getForceAlignment());
+					} else {
+						stmt.setString(9, p.getPowerType());
+					}
+					stmt.setInt(10, 0);
+					stmt.setInt(11, p.getConcentration()?1:0);
+					stmt.executeUpdate();
+					stmt.close();
+					count++;
+				} catch (SQLException e) {
+					e.printStackTrace();
+					System.exit(1);
+				} finally {
+					stmt.close();
 				}
-				stmt.setInt(10, 0);
-				stmt.setInt(11, p.getConcentration()?1:0);
-				stmt.executeUpdate();
-				stmt.close();
-				count++;
-			} catch (SQLException e) {
-				e.printStackTrace();
-				System.exit(1);
 			}
 		}
 		return count;

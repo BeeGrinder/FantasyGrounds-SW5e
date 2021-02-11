@@ -74,13 +74,11 @@ public class AppHelper {
 		frame.getTextFieldModuleFolder().setText(defaultProps.getProperty("module.destination"));
 		frame.getTextFieldThumbnail().setText(defaultProps.getProperty("module.thumbnail"));
 		frame.getTextFieldParcelFile().setText(defaultProps.getProperty("input.filename.parcels"));
-		frame.getTextFieldActionsFile().setText(defaultProps.getProperty("input.filename.actions"));
 		frame.getTextFieldSpellsFile().setText(defaultProps.getProperty("input.filename.spells"));
 		frame.getTextFieldEquipmentFile().setText(defaultProps.getProperty("input.filename.items"));
 		frame.getChckbxEquipment().setSelected(false);
 		frame.getChckbxSpells().setSelected(false);
 		frame.getChckbxParcels().setSelected(false);
-		frame.getChckbxActions().setSelected(false);
 		ModuleGenerator.addLogEntry("Logging...");
 		ModuleGenerator.addLogEntry("Defaults read from properties file.");
 	}

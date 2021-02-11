@@ -9,6 +9,7 @@ import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
@@ -29,13 +30,15 @@ import org.w3c.dom.Element;
 
 import com.beegrinder.sw5e.objects.Equipment;
 import com.beegrinder.sw5e.objects.Power;
+import com.beegrinder.sw5e.objects.Spell;
 
 public class AppModuleBuild {
 
 	public final static String BEGIN_XML_TAG="<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>";
 	public final static String DEX_BONUS_PLUS_2 = "Yes  (max 2)";
 	public final static String DEX_BONUS = "Yes";
-	
+	public final static String CONCENTRATION_STRING = "Concentration, ";
+	public final static String MODULE_SPELL_GROUP = "Spells";
 		
 	public static void buildModule(AppScreen frame) throws Exception {
 		Path modulePath = null;
@@ -117,32 +120,106 @@ public class AppModuleBuild {
 	
 	private static StringBuffer buildPowerSection(StringBuffer buff) throws Exception {
 		buff.append(createOpenTag("spell", null)); //open spell section
-		if ( ( ModuleGenerator.powerList != null ) && ( ! ModuleGenerator.powerList.isEmpty() ) ) {
+		buff.append("<category name=\"\" baseicon=\"0\" decalicon=\"0\">");
+		if ( ( ModuleGenerator.spellList != null ) && ( ! ModuleGenerator.spellList.isEmpty() ) ) {
 			int curSpellCount = 1;
-			for( int i = 0; i < ModuleGenerator.powerList.size(); i++ ) {
-				Power e =  ModuleGenerator.powerList.get(i);
-				if ( ModuleGenerator.ALLOWED_CONTENT_CODES.contains(e.getContentSource())) {
-					final String currId = "id-" + String.format("%05d", (curSpellCount));
-					buff.append(createOpenTag(currId, null));
-					/*
-					 * Begin processing spell data
-					 */
-
-					
-					
-					
-					
-					
-					
-					/*
-					 * Done processing spell object.
-					 */
-					buff.append(createCloseTag(currId));
-					curSpellCount++;
+			Collections.sort(ModuleGenerator.spellList);
+			for( int i = 0; i < ModuleGenerator.spellList.size(); i++ ) {
+				Spell e =  ModuleGenerator.spellList.get(i);
+				boolean actions=false;
+				final String currId = "id-" + String.format("%05d", (curSpellCount));
+				buff.append(createOpenTag(currId));
+				/*
+				 * Begin processing spell data
+				 */
+				String act=e.getActions();
+				if(act != null && act.trim().length()>0) {
+					if( ! act.trim().equals("<actions/>")) {
+						actions=true;
+					}
+					buff.append(act);
+				}else {
+					buff.append("<actions/>");
 				}
+				/*
+				 * never used
+				 */
+				buff.append("<cast type=\"number\">0</cast>");
+				buff.append("<components type=\"string\"/>");
+				buff.append("<group type=\"string\">"+MODULE_SPELL_GROUP+"</group>");
+				buff.append("<locked type=\"number\">1</locked>");
+				buff.append("<prepared type=\"number\">0</prepared>");
+				buff.append("<ritual type=\"number\">0</ritual>");
+				/*
+				 * name
+				 */
+				buff.append(createOpenTag("name", "string"));
+				buff.append(e.getName());
+				buff.append(createCloseTag("name"));
+				/*
+				 * castingtime
+				 */
+				buff.append(createOpenTag("castingtime", "string"));
+				buff.append(e.getCasting_time());
+				buff.append(createCloseTag("castingtime"));
+				/*
+				 * description
+				 */
+				buff.append(createOpenTag("description", "formattedtext"));
+				final String desc=e.getSw5e_description();
+				if( StringUtils.isBlank(desc) ) {
+					buff.append("<p />");
+				} else {
+					buff.append("<p>").append(desc.replace("***", "").replace("\r\n\r\n", "</p><p>")).append("</p>");
+				}
+				if(actions) {
+					buff.append("<p>(*FG Coding)</p>");
+				}
+				buff.append(createCloseTag("description"));
+				/*
+				 * duration
+				 */
+				buff.append(createOpenTag("duration", "string"));
+				if(e.getConcentration()!=null && e.getConcentration()==1) {
+					buff.append(CONCENTRATION_STRING);
+				}
+				buff.append(e.getDuration());
+				buff.append(createCloseTag("duration"));
+				/*
+				 * level
+				 */
+				buff.append(createOpenTag("level", "number"));
+				buff.append(e.getPower_level().toString());
+				buff.append(createCloseTag("level"));
+				/*
+				 * range 
+				 */
+				buff.append(createOpenTag("range", "string"));
+				buff.append(e.getRange());
+				buff.append(createCloseTag("range"));
+				/*
+				 * school
+				 */
+				buff.append(createOpenTag("school", "string"));
+				buff.append(e.getSchool());
+				buff.append(createCloseTag("school"));
+				/*
+				 * source
+				 */
+				buff.append(createOpenTag("source", "string"));
+				buff.append(e.getPower_source());
+				buff.append(createCloseTag("source"));
+				
+				
+				/*
+				 * Done processing spell object.
+				 */
+				buff.append(createCloseTag(currId));
+				curSpellCount++;
+
 			}
 		}
-
+		buff.append("</category>");
 		buff.append(createCloseTag("spell")); //close spell section
 		return buff;
 	}

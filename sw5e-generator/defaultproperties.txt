@@ -10,7 +10,7 @@ module.thumbnail=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\thumbnail.pn
 # Local File Locations
 input.filename.parcels=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\parcels.json
 input.filename.actions=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spellactions.json
-input.filename.spells=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spells.json
+input.filename.spells=C:\\sw5e-dev\\FantasyGrounds-SW5e\\power-db\\powers.db
 input.filename.items=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\equipment.json
 # can be PHB, WH, EC.  SPACE delimited list.  I would place different sources in different modules.
 sw5e.contentsource=PHB

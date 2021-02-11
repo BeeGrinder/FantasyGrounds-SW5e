@@ -59,6 +59,7 @@ public class AppScreenActions {
 				String content = Files.readString(filePath,StandardCharsets.UTF_8).replaceAll("\\r\\n", "");
 				ModuleGenerator.equipmentList = AppHelper.equipmentListFromJson(content);
 				frame.getChckbxEquipment().setText("Equipment (" + ModuleGenerator.equipmentList.size() + ")");
+				
 			}
 			catch (NoSuchFileException nsf) {
 				ModuleGenerator.addLogEntry("File not found: " + nsf.getMessage());
@@ -74,16 +75,17 @@ public class AppScreenActions {
 		if(frame.getChckbxSpells().isEnabled()) {
 			String spellFileName = frame.getTextFieldSpellsFile().getText();
 			try {
-				Path filePath = Path.of(spellFileName);
-				String content = Files.readString(filePath,StandardCharsets.UTF_8);
-				ModuleGenerator.powerList = AppHelper.powerListFromJson(content);
-				frame.getChckbxSpells().setText("Spells (" + ModuleGenerator.powerList.size() + ")");
-			}
-			catch (NoSuchFileException nsf) {
-				ModuleGenerator.addLogEntry("File not found: " + nsf.getMessage());
+				AppPowerDb.connect(spellFileName);
+				Integer count=AppPowerDb.getSpellCount();
+				if( count != null ) {
+					frame.getChckbxSpells().setText("Spells (" + count + ")");	
+					AppPowerDb.populateSpellList();
+				} else {
+					ModuleGenerator.addLogEntry("Error getting spell count.");
+				}
 			}
 			catch (Exception ex) {
-				ModuleGenerator.addLogEntry("Error reading spell file: " + ex.getMessage());
+				ModuleGenerator.addLogEntry("Error reading spell database: " + ex.getMessage());
 			}
 		}
 
