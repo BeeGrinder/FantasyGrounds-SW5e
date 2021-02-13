@@ -31,6 +31,9 @@ public class ModuleGenerator {
 	static String delim;
 	static List<String> ALLOWED_CONTENT_CODES = new ArrayList<>(Arrays.asList("PHB"));
 	static Connection conn=null;
+	static String moduleName="";
+	static String par5eClientString="";
+	static String newModuleEntries="";
 	
 	public static void loadDefaultProperties() throws IOException {
 
@@ -48,6 +51,7 @@ public class ModuleGenerator {
 			if (!AppHelper.validateDefaultProperties(defaultProps)) {
 				throw new IOException("Invalid defaultProperties file data found.");
 			}
+			
 		} catch (Exception e) {
 			addLogEntry("Unable to load default properties. " + e.getMessage());
 			System.exit(1);
@@ -62,6 +66,7 @@ public class ModuleGenerator {
 
 					AppHelper.populateDefaultsToScreen(frame, defaultProps); // sloppy reference call
 
+					moduleName=AppHelper.getModuleNameFromXML(frame.getTextFieldDefinitionFile().getText());
 					// TODO: remove disabled after developed
 					// ***** DEV SETTINGS *****
 					frame.getChckbxParcels().setEnabled(false);

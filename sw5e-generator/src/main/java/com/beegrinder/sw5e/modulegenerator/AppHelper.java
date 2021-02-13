@@ -1,12 +1,19 @@
 package com.beegrinder.sw5e.modulegenerator;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.SystemUtils;
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 import com.beegrinder.sw5e.objects.Equipment;
 import com.beegrinder.sw5e.objects.Parcel;
@@ -95,6 +102,7 @@ public class AppHelper {
 		frame.getTextFieldEquipmentFile().setText(defaultProps.getProperty("input.filename.items"));
 		frame.getTextFieldPar5eFile().setText(defaultProps.getProperty("input.filename.par5eclient"));
 		frame.getTextFieldDefinitionFile().setText(defaultProps.getProperty("input.filename.par5edefinition"));
+		
 		frame.getChckbxEquipment().setSelected(false);
 		frame.getChckbxSpells().setSelected(false);
 		frame.getChckbxParcels().setSelected(false);
@@ -102,6 +110,31 @@ public class AppHelper {
 		ModuleGenerator.addLogEntry("Defaults read from properties file.");
 	}
 
+	public static String getModuleNameFromXML(String definitionFileName) {
+		String retVal="";
+		File file = new File(definitionFileName);
+		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+		
+		try {
+			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+			Document doc = dBuilder.parse(file);
+			doc.getDocumentElement().normalize();
+			Node rootNode = doc.getDocumentElement();
+			NodeList list=rootNode.getChildNodes();
+			for(int i=0;i<list.getLength();i++) {
+				Node n=list.item(i);
+				if (n.getNodeType() == Node.ELEMENT_NODE) {
+					if (n.getNodeName().equals("name")) {
+						retVal=n.getTextContent().trim();
+					}
+				}
+			}
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error in getModuleNameFromXML: " + e.getMessage());
+		}
+		return retVal;
+	}
+	
 	public static List<Power> powerListFromJson(String powerJson) {
 
 		List<Power> retVal = new ArrayList<>();

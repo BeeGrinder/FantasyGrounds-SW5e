@@ -2,11 +2,9 @@
 module.destination=D:\\games\\Smiteworks\\FGUData\\modules
 # not used, but an example if we were creating an extension
 extension.destination=D:\\games\\Smiteworks\\FGUData\\extensions
-# name,category,author of module, used in links to objects and the final filename of the module
-module.name=SW5eTestModule
-module.category=SW5e
-module.author=BeeGrinder
+# name,author of module are obtained from par5e definition file
 module.thumbnail=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\thumbnail.png
+module.category=SW5e
 # Local File Locations
 input.filename.parcels=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\parcels.json
 input.filename.actions=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spellactions.json

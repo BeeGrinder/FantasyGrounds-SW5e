@@ -1,37 +1,23 @@
 package com.beegrinder.sw5e.modulegenerator;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-
 import org.apache.commons.lang3.StringUtils;
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
 
 import com.beegrinder.sw5e.objects.Equipment;
 import com.beegrinder.sw5e.objects.Item;
 import com.beegrinder.sw5e.objects.Parcel;
-import com.beegrinder.sw5e.objects.Power;
 import com.beegrinder.sw5e.objects.Spell;
 
 public class AppModuleBuild {
@@ -49,50 +35,92 @@ public class AppModuleBuild {
 			throw new Exception("Error. Module directory not found.");
 		}
 
-		if (frame.getChckbxAsDirectory().isSelected()) {
-			// Prepare for FG Module to be stored as a directory rather than a .mod file.
-			try {
-				removeModFileIfExists(frame.getTextFieldModuleFolder().getText(),
-						frame.getTextFieldModuleName().getText());
-				modulePath = createModWorkDirectory(frame.getTextFieldModuleFolder().getText(),
-						frame.getTextFieldModuleName().getText());
-			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error preparing to deploy module as directory. " + e.getMessage());
-			}
-			// copy thumbnail for module file
-			try {
-				Files.copy(Path.of(frame.getTextFieldThumbnail().getText()),
-						Path.of(modulePath.toString() + ModuleGenerator.delim + "thumbnail.png"),
-						StandardCopyOption.REPLACE_EXISTING);
-			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error copying thumbnail to module. " + e.getMessage());
-			}
-			// Create definition.xml for module file
-			try {
-				createDefinitionFile(modulePath, frame);
-			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error creating definition.xml file. " + e.getMessage());
-			}
-			// create client.xml for module file
-			try {
-				createMainModule(modulePath, frame);
-			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error creating main module file. " + e.getMessage());
-			}
+		//read par5e module (client) xml file into string
+		try {
+			ModuleGenerator.par5eClientString=
+			new String(Files.readAllBytes(Paths.get(ModuleGenerator.defaultProps.getProperty("input.filename.par5eclient"))));
+		}catch(Exception e) {
+			ModuleGenerator.addLogEntry("Error reading par5e client module file. " + e.getMessage());
+		}
+		
 
-		} else {
-			// not "As Directory" so we will create a .mod file and remove a directory if
-			// present.
+		// Prepare for FG Module to be stored as a directory rather than a .mod file.
+		try {
+			removeModFileIfExists(frame.getTextFieldModuleFolder().getText(),
+					ModuleGenerator.moduleName);
+			modulePath = createModWorkDirectory(frame.getTextFieldModuleFolder().getText(),
+					ModuleGenerator.moduleName);
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error preparing to deploy module as directory. " + e.getMessage());
+		}
+		// copy thumbnail for module file
+		try {
+			Files.copy(Path.of(frame.getTextFieldThumbnail().getText()),
+					Path.of(modulePath.toString() + ModuleGenerator.delim + "thumbnail.png"),
+					StandardCopyOption.REPLACE_EXISTING);
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error copying thumbnail to module. " + e.getMessage());
+		}
+		// copy definition.xml for module file (should be copied from par5e output)
+		try {
+			Files.copy(
+					Path.of(ModuleGenerator.defaultProps.getProperty("input.filename.par5edefinition")),
+					Path.of(modulePath.toString() + ModuleGenerator.delim + "definition.xml"));
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error creating definition.xml file. " + e.getMessage());
+		}
+		// create new entries (spell, items, parcels)
+		try {
+			ModuleGenerator.newModuleEntries=createNewModuleEntries(modulePath, frame);
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error creating main module file. " + e.getMessage());
+		}
+
+		//edit par5e output xml with fixes
+		String editedPar5eFile=fixPar5eFile(ModuleGenerator.par5eClientString);
+		//merge new sections into par5e module xml
+		String finalModuleString=addNewModuleEntriesToEnd(editedPar5eFile);
+		//write new module file
+		try {
+			BufferedWriter writer = new BufferedWriter(new FileWriter(modulePath.toString() + ModuleGenerator.delim + "client.xml"));
+		    writer.write(finalModuleString);
+		    writer.close();
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error creating client.xml file. " + e.getMessage());
+		}
+		
+		if (! frame.getChckbxAsDirectory().isSelected()) {
+			// package files created above into zip file and rename to module, then remove above files/directory
+			
 		}
 	}
 
-	private static void createMainModule(Path modulePath, AppScreen frame) throws Exception {
+	private static String addNewModuleEntriesToEnd(String input) {
+		return input.replace("</root>", ModuleGenerator.newModuleEntries+"</root>");
+	}
+	
+	private static String fixPar5eFile(String input) {
+		// maybe use https://github.com/tools4j/unix4j
+		return input
+			.replaceAll("<name type=\"string\">Berserker Approach<\\/name>", "<name type=\"string\">Berserker Approach<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Consular Tradition<\\/name>", "<name type=\"string\">Consular Tradition<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Engineering Discipline<\\/name>","<name type=\"string\">Engineering Discipline<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Fighter Speciality<\\/name>","<name type=\"string\">Fighter Speciality<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Operative Practice<\\/name>","<name type=\"string\">Operative Practice<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Guardian Focus<\\/name>","<name type=\"string\">Guardian Focus<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Monastic Order<\\/name>","<name type=\"string\">Monastic Order<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Academic Pursuit<\\/name>","<name type=\"string\">Academic Pursuit<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Scout Technique<\\/name>","<name type=\"string\">Scout Technique<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("<name type=\"string\">Sentinel Calling<\\/name>","<name type=\"string\">Sentinel Calling<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+			.replaceAll("----FightingMasteryReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000001fightingmastery\\@"+ModuleGenerator.moduleName+"\">Fighting Mastery List<\\/link>")
+			.replaceAll("----LightsaberFormsReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000003lightsaberforms\\@"+ModuleGenerator.moduleName+"\">Saber Form List<\\/link>")
+			.replaceAll("----FightingStyleReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000002fightingstyle\\@"+ModuleGenerator.moduleName+"\">Fighting Style List<\\/link>")
+			;
+	}
+	
+	private static String createNewModuleEntries(Path modulePath, AppScreen frame) throws Exception {
 		// create root
 		StringBuffer buff = new StringBuffer();
-		buff.append(BEGIN_XML_TAG).append(createOpenRootTag());
-		// add library section so it shows up when loaded
-		buff.append(
-				buildLibrarySelction(frame.getTextFieldModuleName().getText(), frame.getTextFieldCategory().getText()));
 
 		// now add sections if they have been checked off (selected)
 		if (frame.getChckbxEquipment().isSelected()) {
@@ -120,12 +148,7 @@ public class AppModuleBuild {
 			}
 		}
 
-		buff.append(createCloseTag("root"));
-		File file = new File(modulePath.toString() + ModuleGenerator.delim + "client.xml");
-		BufferedWriter writer = null;
-		writer = new BufferedWriter(new FileWriter(file));
-		writer.write(buff.toString());
-		writer.close();
+		return buff.toString();
 	}
 
 	private static StringBuffer buildParcelSection(StringBuffer buff) throws Exception {
@@ -272,19 +295,19 @@ public class AppModuleBuild {
 		return buff;
 	}
 
-	private static String buildLibrarySelction(String moduleName, String moduleCategory) throws Exception {
-		StringBuffer buff = new StringBuffer();
-		buff.append(createOpenTag("library"));
-		String idTag = "id-" + moduleName.toLowerCase();
-		buff.append(createOpenTag(idTag));
-		buff.append(createOpenTag("categoryname", "string")).append(moduleCategory)
-				.append(createCloseTag("categoryname"));
-		buff.append(createOpenTag("name", "string")).append(moduleName).append(createCloseTag("name"));
-		buff.append(createOpenTag("entries")).append(createCloseTag("entries"));
-		buff.append(createCloseTag(idTag));
-		buff.append(createCloseTag("library"));
-		return buff.toString();
-	}
+//	private static String buildLibrarySelction(String moduleName, String moduleCategory) throws Exception {
+//		StringBuffer buff = new StringBuffer();
+//		buff.append(createOpenTag("library"));
+//		String idTag = "id-" + moduleName.toLowerCase();
+//		buff.append(createOpenTag(idTag));
+//		buff.append(createOpenTag("categoryname", "string")).append(moduleCategory)
+//				.append(createCloseTag("categoryname"));
+//		buff.append(createOpenTag("name", "string")).append(moduleName).append(createCloseTag("name"));
+//		buff.append(createOpenTag("entries")).append(createCloseTag("entries"));
+//		buff.append(createCloseTag(idTag));
+//		buff.append(createCloseTag("library"));
+//		return buff.toString();
+//	}
 
 	private static StringBuffer buildItemSection(StringBuffer buff) throws Exception {
 
@@ -474,11 +497,11 @@ public class AppModuleBuild {
 		return retVal;
 	}
 
-	private static String createOpenRootTag() {
-		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
-		return "<root dataversion=\"" + dateFormat.format(new Date()) + "\" version=\""
-				+ AppConstants.DEFINITION_MIN_VERSION + "\">";
-	}
+//	private static String createOpenRootTag() {
+//		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
+//		return "<root dataversion=\"" + dateFormat.format(new Date()) + "\" version=\""
+//				+ AppConstants.DEFINITION_MIN_VERSION + "\">";
+//	}
 
 	private static String createOpenTag(String name, String type) throws Exception {
 		StringBuffer retVal = new StringBuffer();
@@ -510,36 +533,36 @@ public class AppModuleBuild {
 		return retVal.toString();
 	}
 
-	private static void createDefinitionFile(Path modulePath, AppScreen frame)
-			throws TransformerException, ParserConfigurationException {
-		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
-		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-		Document doc = dBuilder.newDocument();
-		// root element
-		Element rootElement = doc.createElement("root");
-		doc.appendChild(rootElement);
-		rootElement.setAttribute("version", AppConstants.DEFINITION_MIN_VERSION);
-		rootElement.setAttribute("dataversion", dateFormat.format(new Date()));
-		Element nameElement = doc.createElement("name");
-		nameElement.setTextContent(frame.getTextFieldModuleName().getText());
-		rootElement.appendChild(nameElement);
-		Element categoryElement = doc.createElement("ruleset");
-		categoryElement.setTextContent(frame.getTextFieldCategory().getText());
-		rootElement.appendChild(categoryElement);
-		Element authorElement = doc.createElement("author");
-		authorElement.setTextContent(frame.getTextFieldAuthor().getText());
-		rootElement.appendChild(authorElement);
-		Element rulesetElement = doc.createElement("ruleset");
-		rulesetElement.setTextContent(AppConstants.DEFINITION_RULESET);
-		rootElement.appendChild(rulesetElement);
-		TransformerFactory transformerFactory = TransformerFactory.newInstance();
-		Transformer transformer = transformerFactory.newTransformer();
-		DOMSource source = new DOMSource(doc);
-		StreamResult result = new StreamResult(
-				new File(modulePath.toString() + ModuleGenerator.delim + "definition.xml"));
-		transformer.transform(source, result);
-	}
+//	private static void createDefinitionFile(Path modulePath, AppScreen frame)
+//			throws TransformerException, ParserConfigurationException {
+//		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
+//		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+//		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+//		Document doc = dBuilder.newDocument();
+//		// root element
+//		Element rootElement = doc.createElement("root");
+//		doc.appendChild(rootElement);
+//		rootElement.setAttribute("version", AppConstants.DEFINITION_MIN_VERSION);
+//		rootElement.setAttribute("dataversion", dateFormat.format(new Date()));
+//		Element nameElement = doc.createElement("name");
+//		nameElement.setTextContent(frame.getTextFieldModuleName().getText());
+//		rootElement.appendChild(nameElement);
+//		Element categoryElement = doc.createElement("ruleset");
+//		categoryElement.setTextContent(frame.getTextFieldCategory().getText());
+//		rootElement.appendChild(categoryElement);
+//		Element authorElement = doc.createElement("author");
+//		authorElement.setTextContent(frame.getTextFieldAuthor().getText());
+//		rootElement.appendChild(authorElement);
+//		Element rulesetElement = doc.createElement("ruleset");
+//		rulesetElement.setTextContent(AppConstants.DEFINITION_RULESET);
+//		rootElement.appendChild(rulesetElement);
+//		TransformerFactory transformerFactory = TransformerFactory.newInstance();
+//		Transformer transformer = transformerFactory.newTransformer();
+//		DOMSource source = new DOMSource(doc);
+//		StreamResult result = new StreamResult(
+//				new File(modulePath.toString() + ModuleGenerator.delim + "definition.xml"));
+//		transformer.transform(source, result);
+//	}
 
 	private static Path createModWorkDirectory(String modDir, String modName) throws Exception {
 		Path path = Path.of(modDir + ModuleGenerator.delim + modName);

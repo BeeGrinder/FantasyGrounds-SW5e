@@ -21,8 +21,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Absorb Energy",
-    "timestamp": "2020-12-15T22:30:32.4216528+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4216528Z'\""
+    "timestamp": "2021-02-13T13:26:45.9349446+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9349446Z'\""
   },
   {
     "name": "Acid Dart",
@@ -46,8 +46,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Acid Dart",
-    "timestamp": "2020-12-15T22:30:32.4226545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4226545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9349446+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9349446Z'\""
   },
   {
     "name": "Acid Splash",
@@ -71,8 +71,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Acid Splash",
-    "timestamp": "2020-12-15T22:30:32.4226545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4226545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9349446+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9349446Z'\""
   },
   {
     "name": "Acid Wind",
@@ -96,8 +96,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Acid Wind",
-    "timestamp": "2020-12-15T22:30:32.4226545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4226545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9359455+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9359455Z'\""
   },
   {
     "name": "Acidic Strike",
@@ -121,8 +121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Acidic Strike",
-    "timestamp": "2020-12-15T22:30:32.4226545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4226545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9359455+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9359455Z'\""
   },
   {
     "name": "Affect Mind",
@@ -146,8 +146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Affect Mind",
-    "timestamp": "2020-12-15T22:30:32.3495929+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3495929Z'\""
+    "timestamp": "2021-02-13T13:26:45.2934095+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2934095Z'\""
   },
   {
     "name": "Affliction",
@@ -171,8 +171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Affliction",
-    "timestamp": "2020-12-15T22:30:32.3495929+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3495929Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Alarm",
@@ -196,8 +196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Alarm",
-    "timestamp": "2020-12-15T22:30:32.4236545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4236545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9359455+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9359455Z'\""
   },
   {
     "name": "Analyze",
@@ -221,8 +221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Analyze",
-    "timestamp": "2020-12-15T22:30:32.4236545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4236545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9359455+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9359455Z'\""
   },
   {
     "name": "Animate Weapon",
@@ -246,8 +246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Animate Weapon",
-    "timestamp": "2020-12-15T22:30:32.3505937+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3505937Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Antipathy/Sympathy",
@@ -271,8 +271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "AntipathySympathy",
-    "timestamp": "2020-12-15T22:30:32.4236545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4236545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9359455+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9359455Z'\""
   },
   {
     "name": "Armor of Abeloth",
@@ -296,8 +296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Armor of Abeloth",
-    "timestamp": "2020-12-15T22:30:32.3505937+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3505937Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Assess the Situation",
@@ -321,8 +321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Assess the Situation",
-    "timestamp": "2020-12-15T22:30:32.4236545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4236545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Aura of Purity",
@@ -346,8 +346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Aura of Purity",
-    "timestamp": "2020-12-15T22:30:32.3505937+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3505937Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Aura of Vigor",
@@ -371,8 +371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Aura of Vigor",
-    "timestamp": "2020-12-15T22:30:32.351595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.351595Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Autonomous Servant",
@@ -396,8 +396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Autonomous Servant",
-    "timestamp": "2020-12-15T22:30:32.4236545+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4236545Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Bacta Pack",
@@ -421,8 +421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Bacta Pack",
-    "timestamp": "2020-12-15T22:30:32.4246561+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4246561Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Ballistic Shield",
@@ -446,8 +446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ballistic Shield",
-    "timestamp": "2020-12-15T22:30:32.4246561+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4246561Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Battle Insight",
@@ -471,8 +471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Battle Insight",
-    "timestamp": "2020-12-15T22:30:32.351595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.351595Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Battle Meditation",
@@ -496,8 +496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Battle Meditation",
-    "timestamp": "2020-12-15T22:30:32.351595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.351595Z'\""
+    "timestamp": "2021-02-13T13:26:45.2954103+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2954103Z'\""
   },
   {
     "name": "Battle Precognition",
@@ -521,8 +521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Battle Precognition",
-    "timestamp": "2020-12-15T22:30:32.351595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.351595Z'\""
+    "timestamp": "2021-02-13T13:26:45.2954103+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2954103Z'\""
   },
   {
     "name": "Beacon of Hope",
@@ -546,8 +546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Beacon of Hope",
-    "timestamp": "2020-12-15T22:30:32.351595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.351595Z'\""
+    "timestamp": "2021-02-13T13:26:45.2954103+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2954103Z'\""
   },
   {
     "name": "Beast Trick",
@@ -571,8 +571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Beast Trick",
-    "timestamp": "2020-12-15T22:30:32.351595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.351595Z'\""
+    "timestamp": "2021-02-13T13:26:45.2954103+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2954103Z'\""
   },
   {
     "name": "Bestow Curse",
@@ -596,8 +596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Bestow Curse",
-    "timestamp": "2020-12-15T22:30:32.3525954+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3525954Z'\""
+    "timestamp": "2021-02-13T13:26:45.2954103+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2954103Z'\""
   },
   {
     "name": "Bestow Virus",
@@ -621,8 +621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Bestow Virus",
-    "timestamp": "2020-12-15T22:30:32.4246561+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4246561Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Breath Control",
@@ -646,8 +646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Breath Control",
-    "timestamp": "2020-12-15T22:30:32.3525954+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3525954Z'\""
+    "timestamp": "2021-02-13T13:26:45.2954103+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2954103Z'\""
   },
   {
     "name": "Buffer",
@@ -671,8 +671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Buffer",
-    "timestamp": "2020-12-15T22:30:32.4246561+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4246561Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Burst",
@@ -696,8 +696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Burst",
-    "timestamp": "2020-12-15T22:30:32.3525954+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3525954Z'\""
+    "timestamp": "2021-02-13T13:26:45.2964107+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2964107Z'\""
   },
   {
     "name": "Burst of Speed",
@@ -721,8 +721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Burst of Speed",
-    "timestamp": "2020-12-15T22:30:32.3525954+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3525954Z'\""
+    "timestamp": "2021-02-13T13:26:45.2964107+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2964107Z'\""
   },
   {
     "name": "Cage",
@@ -746,8 +746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cage",
-    "timestamp": "2020-12-15T22:30:32.4256565+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4256565Z'\""
+    "timestamp": "2021-02-13T13:26:45.9369463+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9369463Z'\""
   },
   {
     "name": "Call Lightning",
@@ -771,8 +771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Call Lightning",
-    "timestamp": "2020-12-15T22:30:32.3525954+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3525954Z'\""
+    "timestamp": "2021-02-13T13:26:45.2964107+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2964107Z'\""
   },
   {
     "name": "Calm Emotions",
@@ -796,8 +796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Calm Emotions",
-    "timestamp": "2020-12-15T22:30:32.3535971+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3535971Z'\""
+    "timestamp": "2021-02-13T13:26:45.2964107+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2964107Z'\""
   },
   {
     "name": "Capacity Boost",
@@ -821,8 +821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Capacity Boost",
-    "timestamp": "2020-12-15T22:30:32.4256565+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4256565Z'\""
+    "timestamp": "2021-02-13T13:26:45.9379484+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9379484Z'\""
   },
   {
     "name": "Carbon Fog",
@@ -846,8 +846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Carbon Fog",
-    "timestamp": "2020-12-15T22:30:32.4256565+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4256565Z'\""
+    "timestamp": "2021-02-13T13:26:45.9379484+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9379484Z'\""
   },
   {
     "name": "Carbonite",
@@ -871,8 +871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Carbonite",
-    "timestamp": "2020-12-15T22:30:32.4256565+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4256565Z'\""
+    "timestamp": "2021-02-13T13:26:45.9379484+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9379484Z'\""
   },
   {
     "name": "Carbonite Explosion",
@@ -896,8 +896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Carbonite Explosion",
-    "timestamp": "2020-12-15T22:30:32.4266595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4266595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9379484+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9379484Z'\""
   },
   {
     "name": "Choke",
@@ -921,8 +921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Choke",
-    "timestamp": "2020-12-15T22:30:32.3535971+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3535971Z'\""
+    "timestamp": "2021-02-13T13:26:45.2964107+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2964107Z'\""
   },
   {
     "name": "Cloaking Screen",
@@ -946,8 +946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cloaking Screen",
-    "timestamp": "2020-12-15T22:30:32.4266595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4266595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9379484+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9379484Z'\""
   },
   {
     "name": "Cloud Mind",
@@ -971,8 +971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cloud Mind",
-    "timestamp": "2020-12-15T22:30:32.3535971+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3535971Z'\""
+    "timestamp": "2021-02-13T13:26:45.2974124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2974124Z'\""
   },
   {
     "name": "Coerce Mind",
@@ -996,8 +996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Coerce Mind",
-    "timestamp": "2020-12-15T22:30:32.3535971+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3535971Z'\""
+    "timestamp": "2021-02-13T13:26:45.2974124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2974124Z'\""
   },
   {
     "name": "Combustive Shot",
@@ -1021,8 +1021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Combustive Shot",
-    "timestamp": "2020-12-15T22:30:32.4266595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4266595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9389488+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9389488Z'\""
   },
   {
     "name": "Comprehend Speech",
@@ -1046,8 +1046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Comprehend Speech",
-    "timestamp": "2020-12-15T22:30:32.3535971+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3535971Z'\""
+    "timestamp": "2021-02-13T13:26:45.2974124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2974124Z'\""
   },
   {
     "name": "Concealed Caltrops",
@@ -1071,8 +1071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Concealed Caltrops",
-    "timestamp": "2020-12-15T22:30:32.4266595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4266595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9389488+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9389488Z'\""
   },
   {
     "name": "Condense/Vaporize",
@@ -1096,8 +1096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "CondenseVaporize",
-    "timestamp": "2020-12-15T22:30:32.4276578+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4276578Z'\""
+    "timestamp": "2021-02-13T13:26:45.9389488+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9389488Z'\""
   },
   {
     "name": "Contingency",
@@ -1121,8 +1121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Contingency",
-    "timestamp": "2020-12-15T22:30:32.4276578+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4276578Z'\""
+    "timestamp": "2021-02-13T13:26:45.9389488+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9389488Z'\""
   },
   {
     "name": "Control Pain",
@@ -1146,8 +1146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Control Pain",
-    "timestamp": "2020-12-15T22:30:32.354597+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.354597Z'\""
+    "timestamp": "2021-02-13T13:26:45.2974124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2974124Z'\""
   },
   {
     "name": "Convulsion",
@@ -1171,8 +1171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Convulsion",
-    "timestamp": "2020-12-15T22:30:32.354597+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.354597Z'\""
+    "timestamp": "2021-02-13T13:26:45.2974124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2974124Z'\""
   },
   {
     "name": "Copy",
@@ -1196,8 +1196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Copy",
-    "timestamp": "2020-12-15T22:30:32.4276578+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4276578Z'\""
+    "timestamp": "2021-02-13T13:26:45.9389488+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9389488Z'\""
   },
   {
     "name": "Corrosive Sphere",
@@ -1221,8 +1221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Corrosive Sphere",
-    "timestamp": "2020-12-15T22:30:32.4276578+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4276578Z'\""
+    "timestamp": "2021-02-13T13:26:45.9389488+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9389488Z'\""
   },
   {
     "name": "Countermeasures",
@@ -1246,8 +1246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Countermeasures",
-    "timestamp": "2020-12-15T22:30:32.4276578+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4276578Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Crush",
@@ -1271,8 +1271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Crush",
-    "timestamp": "2020-12-15T22:30:32.354597+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.354597Z'\""
+    "timestamp": "2021-02-13T13:26:45.2974124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2974124Z'\""
   },
   {
     "name": "Cryogenic Blast",
@@ -1296,8 +1296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Blast",
-    "timestamp": "2020-12-15T22:30:32.4286595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4286595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Cryogenic Burst",
@@ -1321,8 +1321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Burst",
-    "timestamp": "2020-12-15T22:30:32.4286595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4286595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Cryogenic Spray",
@@ -1346,8 +1346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Spray",
-    "timestamp": "2020-12-15T22:30:32.4286595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4286595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Cryogenic Storm",
@@ -1371,8 +1371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Storm",
-    "timestamp": "2020-12-15T22:30:32.4286595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4286595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Cryogenic Suspension",
@@ -1396,8 +1396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Suspension",
-    "timestamp": "2020-12-15T22:30:32.4286595+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4286595Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Cryogenic Volley",
@@ -1421,8 +1421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Volley",
-    "timestamp": "2020-12-15T22:30:32.4296603+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4296603Z'\""
+    "timestamp": "2021-02-13T13:26:45.9399497+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9399497Z'\""
   },
   {
     "name": "Cryogenic Wave",
@@ -1446,8 +1446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Cryogenic Wave",
-    "timestamp": "2020-12-15T22:30:32.4296603+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4296603Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Curse",
@@ -1471,8 +1471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Curse",
-    "timestamp": "2020-12-15T22:30:32.354597+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.354597Z'\""
+    "timestamp": "2021-02-13T13:26:45.2984124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2984124Z'\""
   },
   {
     "name": "Danger Sense",
@@ -1496,8 +1496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Danger Sense",
-    "timestamp": "2020-12-15T22:30:32.354597+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.354597Z'\""
+    "timestamp": "2021-02-13T13:26:45.2984124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2984124Z'\""
   },
   {
     "name": "Dark Aura",
@@ -1521,8 +1521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dark Aura",
-    "timestamp": "2020-12-15T22:30:32.354597+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.354597Z'\""
+    "timestamp": "2021-02-13T13:26:45.2984124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2984124Z'\""
   },
   {
     "name": "Dark Shear",
@@ -1546,8 +1546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dark Shear",
-    "timestamp": "2020-12-15T22:30:32.3555983+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3555983Z'\""
+    "timestamp": "2021-02-13T13:26:45.2984124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2984124Z'\""
   },
   {
     "name": "Dark Side Tendrils",
@@ -1571,8 +1571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dark Side Tendrils",
-    "timestamp": "2020-12-15T22:30:32.3555983+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3555983Z'\""
+    "timestamp": "2021-02-13T13:26:45.2984124+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2984124Z'\""
   },
   {
     "name": "Darkness",
@@ -1596,8 +1596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Darkness",
-    "timestamp": "2020-12-15T22:30:32.3555983+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3555983Z'\""
+    "timestamp": "2021-02-13T13:26:45.2994141+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2994141Z'\""
   },
   {
     "name": "Darkvision",
@@ -1621,8 +1621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Darkvision",
-    "timestamp": "2020-12-15T22:30:32.4296603+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4296603Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Death Field",
@@ -1646,8 +1646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Death Field",
-    "timestamp": "2020-12-15T22:30:32.3555983+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3555983Z'\""
+    "timestamp": "2021-02-13T13:26:45.2994141+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2994141Z'\""
   },
   {
     "name": "Debilitating Gas",
@@ -1671,8 +1671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Debilitating Gas",
-    "timestamp": "2020-12-15T22:30:32.4296603+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4296603Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Decryption Program",
@@ -1696,8 +1696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Decryption Program",
-    "timestamp": "2020-12-15T22:30:32.4306611+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4306611Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Defibrillate",
@@ -1721,8 +1721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Defibrillate",
-    "timestamp": "2020-12-15T22:30:32.4306611+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4306611Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Delayed Explosion",
@@ -1746,8 +1746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Delayed Explosion",
-    "timestamp": "2020-12-15T22:30:32.4306611+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4306611Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Denounce",
@@ -1771,8 +1771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Denounce",
-    "timestamp": "2020-12-15T22:30:32.3555983+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3555983Z'\""
+    "timestamp": "2021-02-13T13:26:45.2994141+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2994141Z'\""
   },
   {
     "name": "Destroy Droid",
@@ -1796,8 +1796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Destroy Droid",
-    "timestamp": "2020-12-15T22:30:32.3566004+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3566004Z'\""
+    "timestamp": "2021-02-13T13:26:45.2994141+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2994141Z'\""
   },
   {
     "name": "Destroy Tech",
@@ -1821,8 +1821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Destroy Tech",
-    "timestamp": "2020-12-15T22:30:32.4306611+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4306611Z'\""
+    "timestamp": "2021-02-13T13:26:45.9409501+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9409501Z'\""
   },
   {
     "name": "Detect Enhancement",
@@ -1846,8 +1846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Detect Enhancement",
-    "timestamp": "2020-12-15T22:30:32.4316624+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4316624Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Detect Invisibility",
@@ -1871,8 +1871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Detect Invisibility",
-    "timestamp": "2020-12-15T22:30:32.4316624+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4316624Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Detect Traps",
@@ -1896,8 +1896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Detect Traps",
-    "timestamp": "2020-12-15T22:30:32.4316624+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4316624Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Diminish Tech",
@@ -1921,8 +1921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Diminish Tech",
-    "timestamp": "2020-12-15T22:30:32.4326628+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4326628Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Disable Droid",
@@ -1946,8 +1946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Disable Droid",
-    "timestamp": "2020-12-15T22:30:32.3566004+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3566004Z'\""
+    "timestamp": "2021-02-13T13:26:45.2994141+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2994141Z'\""
   },
   {
     "name": "Disintegrate",
@@ -1971,8 +1971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Disintegrate",
-    "timestamp": "2020-12-15T22:30:32.4326628+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4326628Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Disperse Energy",
@@ -1996,8 +1996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Disperse Energy",
-    "timestamp": "2020-12-15T22:30:32.4326628+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4326628Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Disperse Force",
@@ -2021,8 +2021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Disperse Force",
-    "timestamp": "2020-12-15T22:30:32.3566004+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3566004Z'\""
+    "timestamp": "2021-02-13T13:26:45.3004145+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3004145Z'\""
   },
   {
     "name": "Dominate Beast",
@@ -2046,8 +2046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dominate Beast",
-    "timestamp": "2020-12-15T22:30:32.3566004+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3566004Z'\""
+    "timestamp": "2021-02-13T13:26:45.3004145+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3004145Z'\""
   },
   {
     "name": "Dominate Mind",
@@ -2071,8 +2071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dominate Mind",
-    "timestamp": "2020-12-15T22:30:32.3575995+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3575995Z'\""
+    "timestamp": "2021-02-13T13:26:45.3004145+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3004145Z'\""
   },
   {
     "name": "Dominate Monster",
@@ -2096,8 +2096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dominate Monster",
-    "timestamp": "2020-12-15T22:30:32.3575995+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3575995Z'\""
+    "timestamp": "2021-02-13T13:26:45.3004145+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3004145Z'\""
   },
   {
     "name": "Drain Life",
@@ -2121,8 +2121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Drain Life",
-    "timestamp": "2020-12-15T22:30:32.3575995+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3575995Z'\""
+    "timestamp": "2021-02-13T13:26:45.3014166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3014166Z'\""
   },
   {
     "name": "Drain Vitality",
@@ -2146,8 +2146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Drain Vitality",
-    "timestamp": "2020-12-15T22:30:32.3575995+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3575995Z'\""
+    "timestamp": "2021-02-13T13:26:45.3014166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3014166Z'\""
   },
   {
     "name": "Dun Moch",
@@ -2171,8 +2171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Dun Moch",
-    "timestamp": "2020-12-15T22:30:32.3586008+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3586008Z'\""
+    "timestamp": "2021-02-13T13:26:45.3014166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3014166Z'\""
   },
   {
     "name": "Earthquake",
@@ -2196,8 +2196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Earthquake",
-    "timestamp": "2020-12-15T22:30:32.3586008+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3586008Z'\""
+    "timestamp": "2021-02-13T13:26:45.3014166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3014166Z'\""
   },
   {
     "name": "Echo Blast",
@@ -2221,8 +2221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Echo Blast",
-    "timestamp": "2020-12-15T22:30:32.4326628+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4326628Z'\""
+    "timestamp": "2021-02-13T13:26:45.9419518+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9419518Z'\""
   },
   {
     "name": "Electrical Burst",
@@ -2246,8 +2246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Electrical Burst",
-    "timestamp": "2020-12-15T22:30:32.4336632+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4336632Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Electromesh",
@@ -2271,8 +2271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Electromesh",
-    "timestamp": "2020-12-15T22:30:32.4336632+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4336632Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Electroshock",
@@ -2296,8 +2296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Electroshock",
-    "timestamp": "2020-12-15T22:30:32.4336632+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4336632Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Element of Surprise",
@@ -2321,8 +2321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Element of Surprise",
-    "timestamp": "2020-12-15T22:30:32.4346645+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4346645Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Elemental Accelerant",
@@ -2346,8 +2346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Elemental Accelerant",
-    "timestamp": "2020-12-15T22:30:32.4346645+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4346645Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Encrypted Message",
@@ -2371,8 +2371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Encrypted Message",
-    "timestamp": "2020-12-15T22:30:32.4346645+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4346645Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Energetic Burst",
@@ -2396,8 +2396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Energetic Burst",
-    "timestamp": "2020-12-15T22:30:32.4346645+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4346645Z'\""
+    "timestamp": "2021-02-13T13:26:45.9429513+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9429513Z'\""
   },
   {
     "name": "Energizing Aura",
@@ -2421,8 +2421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Energizing Aura",
-    "timestamp": "2020-12-15T22:30:32.4346645+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4346645Z'\""
+    "timestamp": "2021-02-13T13:26:45.9439526+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9439526Z'\""
   },
   {
     "name": "Energy Shield",
@@ -2446,8 +2446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Energy Shield",
-    "timestamp": "2020-12-15T22:30:32.4346645+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4346645Z'\""
+    "timestamp": "2021-02-13T13:26:45.9439526+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9439526Z'\""
   },
   {
     "name": "Enfeeble",
@@ -2471,8 +2471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Enfeeble",
-    "timestamp": "2020-12-15T22:30:32.3586008+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3586008Z'\""
+    "timestamp": "2021-02-13T13:26:45.3024162+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3024162Z'\""
   },
   {
     "name": "Enhance Droid",
@@ -2496,8 +2496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Enhance Droid",
-    "timestamp": "2020-12-15T22:30:32.4356644+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4356644Z'\""
+    "timestamp": "2021-02-13T13:26:45.9439526+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9439526Z'\""
   },
   {
     "name": "Enhance Weapon",
@@ -2521,8 +2521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Enhance Weapon",
-    "timestamp": "2020-12-15T22:30:32.4356644+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4356644Z'\""
+    "timestamp": "2021-02-13T13:26:45.9439526+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9439526Z'\""
   },
   {
     "name": "Eruption",
@@ -2546,8 +2546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Eruption",
-    "timestamp": "2020-12-15T22:30:32.3586008+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3586008Z'\""
+    "timestamp": "2021-02-13T13:26:45.3024162+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3024162Z'\""
   },
   {
     "name": "Execute Command",
@@ -2571,8 +2571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Execute Command",
-    "timestamp": "2020-12-15T22:30:32.4356644+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4356644Z'\""
+    "timestamp": "2021-02-13T13:26:45.9439526+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9439526Z'\""
   },
   {
     "name": "Expeditious Retreat",
@@ -2596,8 +2596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Expeditious Retreat",
-    "timestamp": "2020-12-15T22:30:32.4366657+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4366657Z'\""
+    "timestamp": "2021-02-13T13:26:45.9439526+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9439526Z'\""
   },
   {
     "name": "Explosion",
@@ -2621,8 +2621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Explosion",
-    "timestamp": "2020-12-15T22:30:32.4366657+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4366657Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Extinguish",
@@ -2646,8 +2646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Extinguish",
-    "timestamp": "2020-12-15T22:30:32.4366657+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4366657Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Fabricate Trap",
@@ -2671,8 +2671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Fabricate Trap",
-    "timestamp": "2020-12-15T22:30:32.4376665+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4376665Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Fear",
@@ -2696,8 +2696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Fear",
-    "timestamp": "2020-12-15T22:30:32.3596016+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3596016Z'\""
+    "timestamp": "2021-02-13T13:26:45.3024162+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3024162Z'\""
   },
   {
     "name": "Feedback",
@@ -2721,8 +2721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Feedback",
-    "timestamp": "2020-12-15T22:30:32.3596016+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3596016Z'\""
+    "timestamp": "2021-02-13T13:26:45.3024162+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3024162Z'\""
   },
   {
     "name": "Find the Path",
@@ -2746,8 +2746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Find the Path",
-    "timestamp": "2020-12-15T22:30:32.4376665+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4376665Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Firestorm",
@@ -2771,8 +2771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Firestorm",
-    "timestamp": "2020-12-15T22:30:32.4376665+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4376665Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Flame Sweep",
@@ -2796,8 +2796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Flame Sweep",
-    "timestamp": "2020-12-15T22:30:32.4386678+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4386678Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Flaming Shots",
@@ -2821,8 +2821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Flaming Shots",
-    "timestamp": "2020-12-15T22:30:32.4386678+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4386678Z'\""
+    "timestamp": "2021-02-13T13:26:45.9449534+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9449534Z'\""
   },
   {
     "name": "Flash",
@@ -2846,8 +2846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Flash",
-    "timestamp": "2020-12-15T22:30:32.4386678+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4386678Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Force Barrier",
@@ -2871,8 +2871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Barrier",
-    "timestamp": "2020-12-15T22:30:32.3596016+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3596016Z'\""
+    "timestamp": "2021-02-13T13:26:45.3024162+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3024162Z'\""
   },
   {
     "name": "Force Blind/Deafen",
@@ -2896,8 +2896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force BlindDeafen",
-    "timestamp": "2020-12-15T22:30:32.3596016+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3596016Z'\""
+    "timestamp": "2021-02-13T13:26:45.3034166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3034166Z'\""
   },
   {
     "name": "Force Blinding",
@@ -2921,8 +2921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Blinding",
-    "timestamp": "2020-12-15T22:30:32.3606029+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3606029Z'\""
+    "timestamp": "2021-02-13T13:26:45.3034166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3034166Z'\""
   },
   {
     "name": "Force Blur",
@@ -2946,8 +2946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Blur",
-    "timestamp": "2020-12-15T22:30:32.3596016+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3596016Z'\""
+    "timestamp": "2021-02-13T13:26:45.3024162+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3024162Z'\""
   },
   {
     "name": "Force Body",
@@ -2971,8 +2971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Body",
-    "timestamp": "2020-12-15T22:30:32.3606029+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3606029Z'\""
+    "timestamp": "2021-02-13T13:26:45.3034166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3034166Z'\""
   },
   {
     "name": "Force Breach",
@@ -2996,8 +2996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Breach",
-    "timestamp": "2020-12-15T22:30:32.3606029+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3606029Z'\""
+    "timestamp": "2021-02-13T13:26:45.3034166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3034166Z'\""
   },
   {
     "name": "Force Camouflage",
@@ -3021,8 +3021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Camouflage",
-    "timestamp": "2020-12-15T22:30:32.3616029+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3616029Z'\""
+    "timestamp": "2021-02-13T13:26:45.3034166+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3034166Z'\""
   },
   {
     "name": "Force Chain Lightning",
@@ -3046,8 +3046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Chain Lightning",
-    "timestamp": "2020-12-15T22:30:32.3616029+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3616029Z'\""
+    "timestamp": "2021-02-13T13:26:45.3044174+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3044174Z'\""
   },
   {
     "name": "Force Concealment",
@@ -3071,8 +3071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Concealment",
-    "timestamp": "2020-12-15T22:30:32.3616029+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3616029Z'\""
+    "timestamp": "2021-02-13T13:26:45.3044174+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3044174Z'\""
   },
   {
     "name": "Force Confusion",
@@ -3096,8 +3096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Confusion",
-    "timestamp": "2020-12-15T22:30:32.3626041+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3626041Z'\""
+    "timestamp": "2021-02-13T13:26:45.3044174+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3044174Z'\""
   },
   {
     "name": "Force Disarm",
@@ -3121,8 +3121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Disarm",
-    "timestamp": "2020-12-15T22:30:32.3626041+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3626041Z'\""
+    "timestamp": "2021-02-13T13:26:45.3044174+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3044174Z'\""
   },
   {
     "name": "Force Enlightenment",
@@ -3146,8 +3146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Enlightenment",
-    "timestamp": "2020-12-15T22:30:32.3626041+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3626041Z'\""
+    "timestamp": "2021-02-13T13:26:45.3044174+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3044174Z'\""
   },
   {
     "name": "Force Focus",
@@ -3171,8 +3171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Focus",
-    "timestamp": "2020-12-15T22:30:32.363605+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.363605Z'\""
+    "timestamp": "2021-02-13T13:26:45.3054183+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3054183Z'\""
   },
   {
     "name": "Force Imbuement",
@@ -3196,8 +3196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Imbuement",
-    "timestamp": "2020-12-15T22:30:32.363605+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.363605Z'\""
+    "timestamp": "2021-02-13T13:26:45.3054183+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3054183Z'\""
   },
   {
     "name": "Force Immunity",
@@ -3221,8 +3221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Immunity",
-    "timestamp": "2020-12-15T22:30:32.363605+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.363605Z'\""
+    "timestamp": "2021-02-13T13:26:45.3054183+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3054183Z'\""
   },
   {
     "name": "Force Jump",
@@ -3246,8 +3246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Jump",
-    "timestamp": "2020-12-15T22:30:32.3646058+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3646058Z'\""
+    "timestamp": "2021-02-13T13:26:45.3054183+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3054183Z'\""
   },
   {
     "name": "Force Leap",
@@ -3271,8 +3271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Leap",
-    "timestamp": "2020-12-15T22:30:32.3646058+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3646058Z'\""
+    "timestamp": "2021-02-13T13:26:45.3054183+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3054183Z'\""
   },
   {
     "name": "Force Lightning",
@@ -3296,8 +3296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Lightning",
-    "timestamp": "2020-12-15T22:30:32.3646058+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3646058Z'\""
+    "timestamp": "2021-02-13T13:26:45.3054183+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3054183Z'\""
   },
   {
     "name": "Force Lightning Cone",
@@ -3321,8 +3321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Lightning Cone",
-    "timestamp": "2020-12-15T22:30:32.3656062+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3656062Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Link",
@@ -3346,8 +3346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Link",
-    "timestamp": "2020-12-15T22:30:32.3656062+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3656062Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Mask",
@@ -3371,8 +3371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Mask",
-    "timestamp": "2020-12-15T22:30:32.3656062+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3656062Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Meld",
@@ -3396,8 +3396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Meld",
-    "timestamp": "2020-12-15T22:30:32.3666083+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3666083Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Mend",
@@ -3421,8 +3421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Mend",
-    "timestamp": "2020-12-15T22:30:32.3666083+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3666083Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Project",
@@ -3446,8 +3446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Project",
-    "timestamp": "2020-12-15T22:30:32.3666083+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3666083Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Propel",
@@ -3471,8 +3471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Propel",
-    "timestamp": "2020-12-15T22:30:32.3666083+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3666083Z'\""
+    "timestamp": "2021-02-13T13:26:45.30642+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.30642Z'\""
   },
   {
     "name": "Force Push/Pull",
@@ -3496,8 +3496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force PushPull",
-    "timestamp": "2020-12-15T22:30:32.36761+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36761Z'\""
+    "timestamp": "2021-02-13T13:26:45.3074204+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3074204Z'\""
   },
   {
     "name": "Force Reflect",
@@ -3521,8 +3521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Reflect",
-    "timestamp": "2020-12-15T22:30:32.36761+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36761Z'\""
+    "timestamp": "2021-02-13T13:26:45.3074204+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3074204Z'\""
   },
   {
     "name": "Force Repulse",
@@ -3546,8 +3546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Repulse",
-    "timestamp": "2020-12-15T22:30:32.36761+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36761Z'\""
+    "timestamp": "2021-02-13T13:26:45.3074204+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3074204Z'\""
   },
   {
     "name": "Force Scream",
@@ -3571,8 +3571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Scream",
-    "timestamp": "2020-12-15T22:30:32.36761+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36761Z'\""
+    "timestamp": "2021-02-13T13:26:45.3074204+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3074204Z'\""
   },
   {
     "name": "Force Shunt",
@@ -3596,8 +3596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Shunt",
-    "timestamp": "2020-12-15T22:30:32.36761+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36761Z'\""
+    "timestamp": "2021-02-13T13:26:45.3074204+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3074204Z'\""
   },
   {
     "name": "Force Sight",
@@ -3621,8 +3621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Sight",
-    "timestamp": "2020-12-15T22:30:32.36861+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36861Z'\""
+    "timestamp": "2021-02-13T13:26:45.3074204+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3074204Z'\""
   },
   {
     "name": "Force Storm",
@@ -3646,8 +3646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Storm",
-    "timestamp": "2020-12-15T22:30:32.36861+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36861Z'\""
+    "timestamp": "2021-02-13T13:26:45.3084208+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3084208Z'\""
   },
   {
     "name": "Force Suppression",
@@ -3671,8 +3671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Suppression",
-    "timestamp": "2020-12-15T22:30:32.36861+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36861Z'\""
+    "timestamp": "2021-02-13T13:26:45.3084208+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3084208Z'\""
   },
   {
     "name": "Force Technique",
@@ -3696,8 +3696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Technique",
-    "timestamp": "2020-12-15T22:30:32.36861+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.36861Z'\""
+    "timestamp": "2021-02-13T13:26:45.3084208+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3084208Z'\""
   },
   {
     "name": "Force Throw",
@@ -3721,8 +3721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Throw",
-    "timestamp": "2020-12-15T22:30:32.3696112+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3696112Z'\""
+    "timestamp": "2021-02-13T13:26:45.3084208+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3084208Z'\""
   },
   {
     "name": "Force Trance",
@@ -3746,8 +3746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Trance",
-    "timestamp": "2020-12-15T22:30:32.3696112+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3696112Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Force Vision",
@@ -3771,8 +3771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Vision",
-    "timestamp": "2020-12-15T22:30:32.3696112+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3696112Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Force Weapon",
@@ -3796,8 +3796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Weapon",
-    "timestamp": "2020-12-15T22:30:32.3696112+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3696112Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Force Whisper",
@@ -3821,8 +3821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Force Whisper",
-    "timestamp": "2020-12-15T22:30:32.3696112+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3696112Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Freedom of Movement",
@@ -3846,8 +3846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Freedom of Movement",
-    "timestamp": "2020-12-15T22:30:32.3696112+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3696112Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Frequency Scan",
@@ -3871,8 +3871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Frequency Scan",
-    "timestamp": "2020-12-15T22:30:32.4386678+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4386678Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Friendly Fire",
@@ -3896,8 +3896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Friendly Fire",
-    "timestamp": "2020-12-15T22:30:32.4396682+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4396682Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Give Life",
@@ -3921,8 +3921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Give Life",
-    "timestamp": "2020-12-15T22:30:32.3706121+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3706121Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Gleaming Outline",
@@ -3946,8 +3946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Gleaming Outline",
-    "timestamp": "2020-12-15T22:30:32.4396682+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4396682Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Glide",
@@ -3971,8 +3971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Glide",
-    "timestamp": "2020-12-15T22:30:32.4396682+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4396682Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Grasping Vine",
@@ -3996,8 +3996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Grasping Vine",
-    "timestamp": "2020-12-15T22:30:32.3706121+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3706121Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Greater Analyze",
@@ -4021,8 +4021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Analyze",
-    "timestamp": "2020-12-15T22:30:32.440669+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.440669Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Greater Explosion",
@@ -4046,8 +4046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Explosion",
-    "timestamp": "2020-12-15T22:30:32.440669+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.440669Z'\""
+    "timestamp": "2021-02-13T13:26:45.9459538+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9459538Z'\""
   },
   {
     "name": "Greater Feedback",
@@ -4071,8 +4071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Feedback",
-    "timestamp": "2020-12-15T22:30:32.3706121+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3706121Z'\""
+    "timestamp": "2021-02-13T13:26:45.3094216+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3094216Z'\""
   },
   {
     "name": "Greater Heal",
@@ -4096,8 +4096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Heal",
-    "timestamp": "2020-12-15T22:30:32.3716116+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3716116Z'\""
+    "timestamp": "2021-02-13T13:26:45.3104224+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3104224Z'\""
   },
   {
     "name": "Greater Hologram",
@@ -4121,8 +4121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Hologram",
-    "timestamp": "2020-12-15T22:30:32.440669+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.440669Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Greater Light",
@@ -4146,8 +4146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Light",
-    "timestamp": "2020-12-15T22:30:32.4416707+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4416707Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Greater Saber Throw",
@@ -4171,8 +4171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Saber Throw",
-    "timestamp": "2020-12-15T22:30:32.3716116+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3716116Z'\""
+    "timestamp": "2021-02-13T13:26:45.3104224+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3104224Z'\""
   },
   {
     "name": "Greater Sabotage Charges",
@@ -4196,8 +4196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Sabotage Charges",
-    "timestamp": "2020-12-15T22:30:32.4416707+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4416707Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Greater Salvo",
@@ -4221,8 +4221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Salvo",
-    "timestamp": "2020-12-15T22:30:32.4416707+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4416707Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Greater Translation Program",
@@ -4246,8 +4246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Translation Program",
-    "timestamp": "2020-12-15T22:30:32.4416707+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4416707Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Greater Translocate",
@@ -4271,8 +4271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Greater Translocate",
-    "timestamp": "2020-12-15T22:30:32.4426703+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4426703Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Group Hologram",
@@ -4296,8 +4296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Group Hologram",
-    "timestamp": "2020-12-15T22:30:32.4426703+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4426703Z'\""
+    "timestamp": "2021-02-13T13:26:45.9469547+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9469547Z'\""
   },
   {
     "name": "Guidance",
@@ -4321,8 +4321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Guidance",
-    "timestamp": "2020-12-15T22:30:32.3716116+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3716116Z'\""
+    "timestamp": "2021-02-13T13:26:45.3104224+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3104224Z'\""
   },
   {
     "name": "Hallucination",
@@ -4346,8 +4346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Hallucination",
-    "timestamp": "2020-12-15T22:30:32.3716116+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3716116Z'\""
+    "timestamp": "2021-02-13T13:26:45.3104224+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3104224Z'\""
   },
   {
     "name": "Haywire",
@@ -4371,8 +4371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Haywire",
-    "timestamp": "2020-12-15T22:30:32.4426703+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4426703Z'\""
+    "timestamp": "2021-02-13T13:26:45.9479555+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9479555Z'\""
   },
   {
     "name": "Heal",
@@ -4396,8 +4396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Heal",
-    "timestamp": "2020-12-15T22:30:32.3726129+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3726129Z'\""
+    "timestamp": "2021-02-13T13:26:45.3104224+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3104224Z'\""
   },
   {
     "name": "Heroism",
@@ -4421,8 +4421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Heroism",
-    "timestamp": "2020-12-15T22:30:32.3726129+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3726129Z'\""
+    "timestamp": "2021-02-13T13:26:45.3114233+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3114233Z'\""
   },
   {
     "name": "Hex",
@@ -4446,8 +4446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Hex",
-    "timestamp": "2020-12-15T22:30:32.3726129+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3726129Z'\""
+    "timestamp": "2021-02-13T13:26:45.3114233+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3114233Z'\""
   },
   {
     "name": "Hold Droid",
@@ -4471,8 +4471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Hold Droid",
-    "timestamp": "2020-12-15T22:30:32.4426703+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4426703Z'\""
+    "timestamp": "2021-02-13T13:26:45.9479555+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9479555Z'\""
   },
   {
     "name": "Holding Cell",
@@ -4496,8 +4496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Holding Cell",
-    "timestamp": "2020-12-15T22:30:32.443672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.443672Z'\""
+    "timestamp": "2021-02-13T13:26:45.9479555+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9479555Z'\""
   },
   {
     "name": "Hologram",
@@ -4521,8 +4521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Hologram",
-    "timestamp": "2020-12-15T22:30:32.443672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.443672Z'\""
+    "timestamp": "2021-02-13T13:26:45.9479555+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9479555Z'\""
   },
   {
     "name": "Holographic Disguise",
@@ -4546,8 +4546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Holographic Disguise",
-    "timestamp": "2020-12-15T22:30:32.443672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.443672Z'\""
+    "timestamp": "2021-02-13T13:26:45.9479555+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9479555Z'\""
   },
   {
     "name": "Homing Rockets",
@@ -4571,8 +4571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Homing Rockets",
-    "timestamp": "2020-12-15T22:30:32.443672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.443672Z'\""
+    "timestamp": "2021-02-13T13:26:45.9479555+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9479555Z'\""
   },
   {
     "name": "Horror",
@@ -4596,8 +4596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Horror",
-    "timestamp": "2020-12-15T22:30:32.3736137+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3736137Z'\""
+    "timestamp": "2021-02-13T13:26:45.3114233+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3114233Z'\""
   },
   {
     "name": "Hysteria",
@@ -4621,8 +4621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Hysteria",
-    "timestamp": "2020-12-15T22:30:32.3736137+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3736137Z'\""
+    "timestamp": "2021-02-13T13:26:45.3114233+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3114233Z'\""
   },
   {
     "name": "Illusory Strike",
@@ -4646,8 +4646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Illusory Strike",
-    "timestamp": "2020-12-15T22:30:32.4446728+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4446728Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Illusory Terrain",
@@ -4671,8 +4671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Illusory Terrain",
-    "timestamp": "2020-12-15T22:30:32.4446728+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4446728Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Immolate",
@@ -4696,8 +4696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Immolate",
-    "timestamp": "2020-12-15T22:30:32.4446728+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4446728Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Implant Message",
@@ -4721,8 +4721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Implant Message",
-    "timestamp": "2020-12-15T22:30:32.4446728+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4446728Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Improved Battle Meditation",
@@ -4746,8 +4746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Battle Meditation",
-    "timestamp": "2020-12-15T22:30:32.3736137+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3736137Z'\""
+    "timestamp": "2021-02-13T13:26:45.3114233+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3114233Z'\""
   },
   {
     "name": "Improved Dark Side Tendrils",
@@ -4771,8 +4771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Dark Side Tendrils",
-    "timestamp": "2020-12-15T22:30:32.3736137+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3736137Z'\""
+    "timestamp": "2021-02-13T13:26:45.3114233+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.3114233Z'\""
   },
   {
     "name": "Improved Feedback",
@@ -4796,8 +4796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Feedback",
-    "timestamp": "2020-12-15T22:30:32.3065584+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3065584Z'\""
+    "timestamp": "2021-02-13T13:26:45.2783965+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2783965Z'\""
   },
   {
     "name": "Improved Force Barrier",
@@ -4821,8 +4821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Force Barrier",
-    "timestamp": "2020-12-15T22:30:32.3065584+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3065584Z'\""
+    "timestamp": "2021-02-13T13:26:45.2783965+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2783965Z'\""
   },
   {
     "name": "Improved Force Camouflage",
@@ -4846,8 +4846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Force Camouflage",
-    "timestamp": "2020-12-15T22:30:32.3075592+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3075592Z'\""
+    "timestamp": "2021-02-13T13:26:45.2783965+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2783965Z'\""
   },
   {
     "name": "Improved Force Immunity",
@@ -4871,8 +4871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Force Immunity",
-    "timestamp": "2020-12-15T22:30:32.3075592+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3075592Z'\""
+    "timestamp": "2021-02-13T13:26:45.2783965+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2783965Z'\""
   },
   {
     "name": "Improved Force Scream",
@@ -4896,8 +4896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Force Scream",
-    "timestamp": "2020-12-15T22:30:32.3075592+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3075592Z'\""
+    "timestamp": "2021-02-13T13:26:45.2783965+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2783965Z'\""
   },
   {
     "name": "Improved Heal",
@@ -4921,8 +4921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Heal",
-    "timestamp": "2020-12-15T22:30:32.3075592+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3075592Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Improved Phasestrike",
@@ -4946,8 +4946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Phasestrike",
-    "timestamp": "2020-12-15T22:30:32.3075592+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3075592Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Improved Phasewalk",
@@ -4971,8 +4971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Phasewalk",
-    "timestamp": "2020-12-15T22:30:32.3085596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3085596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Improved Restoration",
@@ -4996,8 +4996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Restoration",
-    "timestamp": "2020-12-15T22:30:32.3085596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3085596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Improved Revitalize",
@@ -5021,8 +5021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Revitalize",
-    "timestamp": "2020-12-15T22:30:32.3085596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3085596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Improved Saber Throw",
@@ -5046,8 +5046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Improved Saber Throw",
-    "timestamp": "2020-12-15T22:30:32.3085596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3085596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Incendiary Cloud",
@@ -5071,8 +5071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Incendiary Cloud",
-    "timestamp": "2020-12-15T22:30:32.4456736+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4456736Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Infiltrate",
@@ -5096,8 +5096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Infiltrate",
-    "timestamp": "2020-12-15T22:30:32.4456736+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4456736Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Insanity",
@@ -5121,8 +5121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Insanity",
-    "timestamp": "2020-12-15T22:30:32.3085596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3085596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Invisibility to Cameras",
@@ -5146,8 +5146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Invisibility to Cameras",
-    "timestamp": "2020-12-15T22:30:32.4456736+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4456736Z'\""
+    "timestamp": "2021-02-13T13:26:45.948958+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.948958Z'\""
   },
   {
     "name": "Invulnerability",
@@ -5171,8 +5171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Invulnerability",
-    "timestamp": "2020-12-15T22:30:32.4466749+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4466749Z'\""
+    "timestamp": "2021-02-13T13:26:45.9499572+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9499572Z'\""
   },
   {
     "name": "Ion Blast",
@@ -5196,8 +5196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ion Blast",
-    "timestamp": "2020-12-15T22:30:32.4466749+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4466749Z'\""
+    "timestamp": "2021-02-13T13:26:45.9499572+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9499572Z'\""
   },
   {
     "name": "Ionic Bond",
@@ -5221,8 +5221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ionic Bond",
-    "timestamp": "2020-12-15T22:30:32.4466749+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4466749Z'\""
+    "timestamp": "2021-02-13T13:26:45.9499572+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9499572Z'\""
   },
   {
     "name": "Ionic Strike",
@@ -5246,8 +5246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ionic Strike",
-    "timestamp": "2020-12-15T22:30:32.4466749+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4466749Z'\""
+    "timestamp": "2021-02-13T13:26:45.9499572+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9499572Z'\""
   },
   {
     "name": "Jet of Flame",
@@ -5271,8 +5271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Jet of Flame",
-    "timestamp": "2020-12-15T22:30:32.4476749+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4476749Z'\""
+    "timestamp": "2021-02-13T13:26:45.9499572+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9499572Z'\""
   },
   {
     "name": "Kill",
@@ -5296,8 +5296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kill",
-    "timestamp": "2020-12-15T22:30:32.3095596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3095596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2793969+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2793969Z'\""
   },
   {
     "name": "Knight Speed",
@@ -5321,8 +5321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Knight Speed",
-    "timestamp": "2020-12-15T22:30:32.3095596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3095596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2803986+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2803986Z'\""
   },
   {
     "name": "Kolto Cloud",
@@ -5346,8 +5346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kolto Cloud",
-    "timestamp": "2020-12-15T22:30:32.4476749+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.4476749Z'\""
+    "timestamp": "2021-02-13T13:26:45.9499572+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.9499572Z'\""
   },
   {
     "name": "Kolto Dispenser",
@@ -5371,8 +5371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kolto Dispenser",
-    "timestamp": "2020-12-15T22:30:32.5507606+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5507606Z'\""
+    "timestamp": "2021-02-13T13:26:45.4955777+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4955777Z'\""
   },
   {
     "name": "Kolto Infusion",
@@ -5396,8 +5396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kolto Infusion",
-    "timestamp": "2020-12-15T22:30:32.5507606+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5507606Z'\""
+    "timestamp": "2021-02-13T13:26:45.4955777+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4955777Z'\""
   },
   {
     "name": "Kolto Pack",
@@ -5421,8 +5421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kolto Pack",
-    "timestamp": "2020-12-15T22:30:32.5517614+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5517614Z'\""
+    "timestamp": "2021-02-13T13:26:45.4955777+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4955777Z'\""
   },
   {
     "name": "Kolto Reserve",
@@ -5446,8 +5446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kolto Reserve",
-    "timestamp": "2020-12-15T22:30:32.5517614+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5517614Z'\""
+    "timestamp": "2021-02-13T13:26:45.4955777+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4955777Z'\""
   },
   {
     "name": "Kolto Waves",
@@ -5471,8 +5471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Kolto Waves",
-    "timestamp": "2020-12-15T22:30:32.5517614+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5517614Z'\""
+    "timestamp": "2021-02-13T13:26:45.4955777+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4955777Z'\""
   },
   {
     "name": "Light",
@@ -5496,8 +5496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Light",
-    "timestamp": "2020-12-15T22:30:32.5527622+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5527622Z'\""
+    "timestamp": "2021-02-13T13:26:45.4965794+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4965794Z'\""
   },
   {
     "name": "Lightning Charge",
@@ -5521,8 +5521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Lightning Charge",
-    "timestamp": "2020-12-15T22:30:32.3095596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3095596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2803986+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2803986Z'\""
   },
   {
     "name": "Locate Creature",
@@ -5546,8 +5546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Locate Creature",
-    "timestamp": "2020-12-15T22:30:32.3095596+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3095596Z'\""
+    "timestamp": "2021-02-13T13:26:45.2803986+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2803986Z'\""
   },
   {
     "name": "Locate Object",
@@ -5571,8 +5571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Locate Object",
-    "timestamp": "2020-12-15T22:30:32.3105609+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3105609Z'\""
+    "timestamp": "2021-02-13T13:26:45.2803986+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2803986Z'\""
   },
   {
     "name": "Lock",
@@ -5596,8 +5596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Lock",
-    "timestamp": "2020-12-15T22:30:32.5527622+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5527622Z'\""
+    "timestamp": "2021-02-13T13:26:45.4965794+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4965794Z'\""
   },
   {
     "name": "Maddening Darkness",
@@ -5621,8 +5621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Maddening Darkness",
-    "timestamp": "2020-12-15T22:30:32.3105609+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3105609Z'\""
+    "timestamp": "2021-02-13T13:26:45.2803986+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2803986Z'\""
   },
   {
     "name": "Magnetic Field",
@@ -5646,8 +5646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Magnetic Field",
-    "timestamp": "2020-12-15T22:30:32.5527622+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5527622Z'\""
+    "timestamp": "2021-02-13T13:26:45.4965794+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4965794Z'\""
   },
   {
     "name": "Magnetic Hold",
@@ -5671,8 +5671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Magnetic Hold",
-    "timestamp": "2020-12-15T22:30:32.5527622+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5527622Z'\""
+    "timestamp": "2021-02-13T13:26:45.4975789+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4975789Z'\""
   },
   {
     "name": "Malacia",
@@ -5696,8 +5696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Malacia",
-    "timestamp": "2020-12-15T22:30:32.3105609+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3105609Z'\""
+    "timestamp": "2021-02-13T13:26:45.2803986+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2803986Z'\""
   },
   {
     "name": "Mass Animation",
@@ -5721,8 +5721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mass Animation",
-    "timestamp": "2020-12-15T22:30:32.3105609+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3105609Z'\""
+    "timestamp": "2021-02-13T13:26:45.2813995+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2813995Z'\""
   },
   {
     "name": "Mass Coerce Mind",
@@ -5746,8 +5746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mass Coerce Mind",
-    "timestamp": "2020-12-15T22:30:32.3105609+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3105609Z'\""
+    "timestamp": "2021-02-13T13:26:45.2813995+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2813995Z'\""
   },
   {
     "name": "Mass Hysteria",
@@ -5771,8 +5771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mass Hysteria",
-    "timestamp": "2020-12-15T22:30:32.3115617+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3115617Z'\""
+    "timestamp": "2021-02-13T13:26:45.2813995+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2813995Z'\""
   },
   {
     "name": "Mass Malacia",
@@ -5796,8 +5796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mass Malacia",
-    "timestamp": "2020-12-15T22:30:32.3115617+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3115617Z'\""
+    "timestamp": "2021-02-13T13:26:45.2813995+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2813995Z'\""
   },
   {
     "name": "Mass Repair Droid",
@@ -5821,8 +5821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mass Repair Droid",
-    "timestamp": "2020-12-15T22:30:32.5537631+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5537631Z'\""
+    "timestamp": "2021-02-13T13:26:45.4975789+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4975789Z'\""
   },
   {
     "name": "Master Battle Meditation",
@@ -5846,8 +5846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Battle Meditation",
-    "timestamp": "2020-12-15T22:30:32.3115617+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3115617Z'\""
+    "timestamp": "2021-02-13T13:26:45.2813995+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2813995Z'\""
   },
   {
     "name": "Master Feedback",
@@ -5871,8 +5871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Feedback",
-    "timestamp": "2020-12-15T22:30:32.3115617+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3115617Z'\""
+    "timestamp": "2021-02-13T13:26:45.2813995+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2813995Z'\""
   },
   {
     "name": "Master Force Barrier",
@@ -5896,8 +5896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Force Barrier",
-    "timestamp": "2020-12-15T22:30:32.3125621+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3125621Z'\""
+    "timestamp": "2021-02-13T13:26:45.2824003+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2824003Z'\""
   },
   {
     "name": "Master Force Immunity",
@@ -5921,8 +5921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Force Immunity",
-    "timestamp": "2020-12-15T22:30:32.3125621+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3125621Z'\""
+    "timestamp": "2021-02-13T13:26:45.2824003+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2824003Z'\""
   },
   {
     "name": "Master Force Scream",
@@ -5946,8 +5946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Force Scream",
-    "timestamp": "2020-12-15T22:30:32.3125621+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3125621Z'\""
+    "timestamp": "2021-02-13T13:26:45.2824003+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2824003Z'\""
   },
   {
     "name": "Master Heal",
@@ -5971,8 +5971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Heal",
-    "timestamp": "2020-12-15T22:30:32.3125621+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3125621Z'\""
+    "timestamp": "2021-02-13T13:26:45.2824003+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2824003Z'\""
   },
   {
     "name": "Master Malacia",
@@ -5996,8 +5996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Malacia",
-    "timestamp": "2020-12-15T22:30:32.3135629+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3135629Z'\""
+    "timestamp": "2021-02-13T13:26:45.2824003+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2824003Z'\""
   },
   {
     "name": "Master Revitalize",
@@ -6021,8 +6021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Revitalize",
-    "timestamp": "2020-12-15T22:30:32.3135629+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3135629Z'\""
+    "timestamp": "2021-02-13T13:26:45.2824003+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2824003Z'\""
   },
   {
     "name": "Master Saber Throw",
@@ -6046,8 +6046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Saber Throw",
-    "timestamp": "2020-12-15T22:30:32.3135629+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3135629Z'\""
+    "timestamp": "2021-02-13T13:26:45.2834011+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2834011Z'\""
   },
   {
     "name": "Master Speed",
@@ -6071,8 +6071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Master Speed",
-    "timestamp": "2020-12-15T22:30:32.3135629+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3135629Z'\""
+    "timestamp": "2021-02-13T13:26:45.2834011+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2834011Z'\""
   },
   {
     "name": "Mending",
@@ -6096,8 +6096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mending",
-    "timestamp": "2020-12-15T22:30:32.5537631+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5537631Z'\""
+    "timestamp": "2021-02-13T13:26:45.4975789+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4975789Z'\""
   },
   {
     "name": "Mind Blank",
@@ -6121,8 +6121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mind Blank",
-    "timestamp": "2020-12-15T22:30:32.3135629+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3135629Z'\""
+    "timestamp": "2021-02-13T13:26:45.2834011+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2834011Z'\""
   },
   {
     "name": "Mind Prison",
@@ -6146,8 +6146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mind Prison",
-    "timestamp": "2020-12-15T22:30:32.3145638+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3145638Z'\""
+    "timestamp": "2021-02-13T13:26:45.2834011+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2834011Z'\""
   },
   {
     "name": "Mind Spike",
@@ -6171,8 +6171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mind Spike",
-    "timestamp": "2020-12-15T22:30:32.3145638+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3145638Z'\""
+    "timestamp": "2021-02-13T13:26:45.2834011+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2834011Z'\""
   },
   {
     "name": "Mind Trap",
@@ -6196,8 +6196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mind Trap",
-    "timestamp": "2020-12-15T22:30:32.3145638+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3145638Z'\""
+    "timestamp": "2021-02-13T13:26:45.2844015+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2844015Z'\""
   },
   {
     "name": "Mind Trick",
@@ -6221,8 +6221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mind Trick",
-    "timestamp": "2020-12-15T22:30:32.3145638+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3145638Z'\""
+    "timestamp": "2021-02-13T13:26:45.2844015+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2844015Z'\""
   },
   {
     "name": "Minor Defibrillation",
@@ -6246,8 +6246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Minor Defibrillation",
-    "timestamp": "2020-12-15T22:30:32.5537631+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5537631Z'\""
+    "timestamp": "2021-02-13T13:26:45.4975789+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4975789Z'\""
   },
   {
     "name": "Minor Hologram",
@@ -6271,8 +6271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Minor Hologram",
-    "timestamp": "2020-12-15T22:30:32.5537631+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5537631Z'\""
+    "timestamp": "2021-02-13T13:26:45.4985802+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4985802Z'\""
   },
   {
     "name": "Mirror Image",
@@ -6296,8 +6296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mirror Image",
-    "timestamp": "2020-12-15T22:30:32.5547635+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5547635Z'\""
+    "timestamp": "2021-02-13T13:26:45.4985802+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4985802Z'\""
   },
   {
     "name": "Mislead",
@@ -6321,8 +6321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mislead",
-    "timestamp": "2020-12-15T22:30:32.5547635+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5547635Z'\""
+    "timestamp": "2021-02-13T13:26:45.4985802+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4985802Z'\""
   },
   {
     "name": "Mobile Lights",
@@ -6346,8 +6346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Mobile Lights",
-    "timestamp": "2020-12-15T22:30:32.5547635+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5547635Z'\""
+    "timestamp": "2021-02-13T13:26:45.4985802+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.4985802Z'\""
   },
   {
     "name": "Morichro",
@@ -6371,8 +6371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Morichro",
-    "timestamp": "2020-12-15T22:30:32.3155646+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3155646Z'\""
+    "timestamp": "2021-02-13T13:26:45.2844015+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2844015Z'\""
   },
   {
     "name": "Motivator Boost",
@@ -6396,8 +6396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Motivator Boost",
-    "timestamp": "2020-12-15T22:30:32.5557643+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5557643Z'\""
+    "timestamp": "2021-02-13T13:26:45.499581+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.499581Z'\""
   },
   {
     "name": "Necrotic Charge",
@@ -6421,8 +6421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Necrotic Charge",
-    "timestamp": "2020-12-15T22:30:32.3155646+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3155646Z'\""
+    "timestamp": "2021-02-13T13:26:45.2844015+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2844015Z'\""
   },
   {
     "name": "Necrotic Touch",
@@ -6446,8 +6446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Necrotic Touch",
-    "timestamp": "2020-12-15T22:30:32.3155646+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3155646Z'\""
+    "timestamp": "2021-02-13T13:26:45.2844015+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2844015Z'\""
   },
   {
     "name": "Neurotoxin",
@@ -6471,8 +6471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Neurotoxin",
-    "timestamp": "2020-12-15T22:30:32.5557643+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5557643Z'\""
+    "timestamp": "2021-02-13T13:26:45.499581+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.499581Z'\""
   },
   {
     "name": "Oil Slick",
@@ -6496,8 +6496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Oil Slick",
-    "timestamp": "2020-12-15T22:30:32.5557643+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5557643Z'\""
+    "timestamp": "2021-02-13T13:26:45.499581+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.499581Z'\""
   },
   {
     "name": "On/Off",
@@ -6521,8 +6521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "OnOff",
-    "timestamp": "2020-12-15T22:30:32.5567656+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5567656Z'\""
+    "timestamp": "2021-02-13T13:26:45.499581+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.499581Z'\""
   },
   {
     "name": "Overheat",
@@ -6546,8 +6546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Overheat",
-    "timestamp": "2020-12-15T22:30:32.5567656+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5567656Z'\""
+    "timestamp": "2021-02-13T13:26:45.5005823+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5005823Z'\""
   },
   {
     "name": "Overload",
@@ -6571,8 +6571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Overload",
-    "timestamp": "2020-12-15T22:30:32.5567656+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5567656Z'\""
+    "timestamp": "2021-02-13T13:26:45.5005823+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5005823Z'\""
   },
   {
     "name": "Override Interface",
@@ -6596,8 +6596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Override Interface",
-    "timestamp": "2020-12-15T22:30:32.5567656+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5567656Z'\""
+    "timestamp": "2021-02-13T13:26:45.5005823+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5005823Z'\""
   },
   {
     "name": "Paralyze Creature",
@@ -6621,8 +6621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Paralyze Creature",
-    "timestamp": "2020-12-15T22:30:32.5577668+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5577668Z'\""
+    "timestamp": "2021-02-13T13:26:45.5005823+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5005823Z'\""
   },
   {
     "name": "Paralyze Humanoid",
@@ -6646,8 +6646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Paralyze Humanoid",
-    "timestamp": "2020-12-15T22:30:32.5577668+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5577668Z'\""
+    "timestamp": "2021-02-13T13:26:45.5005823+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5005823Z'\""
   },
   {
     "name": "Phasestrike",
@@ -6671,8 +6671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Phasestrike",
-    "timestamp": "2020-12-15T22:30:32.3155646+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3155646Z'\""
+    "timestamp": "2021-02-13T13:26:45.2844015+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2844015Z'\""
   },
   {
     "name": "Phasewalk",
@@ -6696,8 +6696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Phasewalk",
-    "timestamp": "2020-12-15T22:30:32.3155646+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3155646Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Pheromone Burst",
@@ -6721,8 +6721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Pheromone Burst",
-    "timestamp": "2020-12-15T22:30:32.5577668+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5577668Z'\""
+    "timestamp": "2021-02-13T13:26:45.5015827+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5015827Z'\""
   },
   {
     "name": "Plague",
@@ -6746,8 +6746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Plague",
-    "timestamp": "2020-12-15T22:30:32.3165659+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3165659Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Plant Surge",
@@ -6771,8 +6771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Plant Surge",
-    "timestamp": "2020-12-15T22:30:32.3165659+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3165659Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Poison Dart",
@@ -6796,8 +6796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Poison Dart",
-    "timestamp": "2020-12-15T22:30:32.5577668+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5577668Z'\""
+    "timestamp": "2021-02-13T13:26:45.5015827+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5015827Z'\""
   },
   {
     "name": "Poison Spray",
@@ -6821,8 +6821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Poison Spray",
-    "timestamp": "2020-12-15T22:30:32.5587672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5587672Z'\""
+    "timestamp": "2021-02-13T13:26:45.5015827+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5015827Z'\""
   },
   {
     "name": "Precognition",
@@ -6846,8 +6846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Precognition",
-    "timestamp": "2020-12-15T22:30:32.3165659+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3165659Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Predictive AI",
@@ -6871,8 +6871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Predictive AI",
-    "timestamp": "2020-12-15T22:30:32.5587672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5587672Z'\""
+    "timestamp": "2021-02-13T13:26:45.5015827+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5015827Z'\""
   },
   {
     "name": "Preparedness",
@@ -6896,8 +6896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Preparedness",
-    "timestamp": "2020-12-15T22:30:32.5587672+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5587672Z'\""
+    "timestamp": "2021-02-13T13:26:45.5015827+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5015827Z'\""
   },
   {
     "name": "Pressure Crush",
@@ -6921,8 +6921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Pressure Crush",
-    "timestamp": "2020-12-15T22:30:32.5597689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5597689Z'\""
+    "timestamp": "2021-02-13T13:26:45.5025835+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5025835Z'\""
   },
   {
     "name": "Programmed Illusion",
@@ -6946,8 +6946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Programmed Illusion",
-    "timestamp": "2020-12-15T22:30:32.5597689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5597689Z'\""
+    "timestamp": "2021-02-13T13:26:45.5025835+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5025835Z'\""
   },
   {
     "name": "Project",
@@ -6971,8 +6971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Project",
-    "timestamp": "2020-12-15T22:30:32.3165659+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3165659Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Project Hologram",
@@ -6996,8 +6996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Project Hologram",
-    "timestamp": "2020-12-15T22:30:32.5597689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5597689Z'\""
+    "timestamp": "2021-02-13T13:26:45.5025835+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5025835Z'\""
   },
   {
     "name": "Protection from Energy",
@@ -7021,8 +7021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Protection from Energy",
-    "timestamp": "2020-12-15T22:30:32.5597689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5597689Z'\""
+    "timestamp": "2021-02-13T13:26:45.5025835+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5025835Z'\""
   },
   {
     "name": "Psychic Charge",
@@ -7046,8 +7046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Psychic Charge",
-    "timestamp": "2020-12-15T22:30:32.3165659+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3165659Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Psychometry",
@@ -7071,8 +7071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Psychometry",
-    "timestamp": "2020-12-15T22:30:32.3175663+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3175663Z'\""
+    "timestamp": "2021-02-13T13:26:45.285402+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.285402Z'\""
   },
   {
     "name": "Pyrotechnics",
@@ -7096,8 +7096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Pyrotechnics",
-    "timestamp": "2020-12-15T22:30:32.5597689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5597689Z'\""
+    "timestamp": "2021-02-13T13:26:45.5025835+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5025835Z'\""
   },
   {
     "name": "Radiation",
@@ -7121,8 +7121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Radiation",
-    "timestamp": "2020-12-15T22:30:32.5607689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5607689Z'\""
+    "timestamp": "2021-02-13T13:26:45.503584+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.503584Z'\""
   },
   {
     "name": "Rage",
@@ -7146,8 +7146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Rage",
-    "timestamp": "2020-12-15T22:30:32.3175663+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3175663Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Read Memory",
@@ -7171,8 +7171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Read Memory",
-    "timestamp": "2020-12-15T22:30:32.5607689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5607689Z'\""
+    "timestamp": "2021-02-13T13:26:45.503584+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.503584Z'\""
   },
   {
     "name": "Reboot",
@@ -7196,8 +7196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Reboot",
-    "timestamp": "2020-12-15T22:30:32.5607689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5607689Z'\""
+    "timestamp": "2021-02-13T13:26:45.503584+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.503584Z'\""
   },
   {
     "name": "Rebuke",
@@ -7221,8 +7221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Rebuke",
-    "timestamp": "2020-12-15T22:30:32.3175663+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3175663Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Release",
@@ -7246,8 +7246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Release",
-    "timestamp": "2020-12-15T22:30:32.5607689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5607689Z'\""
+    "timestamp": "2021-02-13T13:26:45.503584+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.503584Z'\""
   },
   {
     "name": "Remove Curse",
@@ -7271,8 +7271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Remove Curse",
-    "timestamp": "2020-12-15T22:30:32.3175663+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3175663Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Remove Virus",
@@ -7296,8 +7296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Remove Virus",
-    "timestamp": "2020-12-15T22:30:32.5607689+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5607689Z'\""
+    "timestamp": "2021-02-13T13:26:45.503584+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.503584Z'\""
   },
   {
     "name": "Repair Droid",
@@ -7321,8 +7321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Repair Droid",
-    "timestamp": "2020-12-15T22:30:32.5617706+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5617706Z'\""
+    "timestamp": "2021-02-13T13:26:45.5045852+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5045852Z'\""
   },
   {
     "name": "Reprogram Droid",
@@ -7346,8 +7346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Reprogram Droid",
-    "timestamp": "2020-12-15T22:30:32.5617706+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5617706Z'\""
+    "timestamp": "2021-02-13T13:26:45.5045852+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5045852Z'\""
   },
   {
     "name": "Rescue",
@@ -7371,8 +7371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Rescue",
-    "timestamp": "2020-12-15T22:30:32.3185675+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3185675Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Resistance",
@@ -7396,8 +7396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Resistance",
-    "timestamp": "2020-12-15T22:30:32.3185675+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3185675Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Restoration",
@@ -7421,8 +7421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Restoration",
-    "timestamp": "2020-12-15T22:30:32.3185675+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3185675Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Revitalize",
@@ -7446,8 +7446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Revitalize",
-    "timestamp": "2020-12-15T22:30:32.3185675+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3185675Z'\""
+    "timestamp": "2021-02-13T13:26:45.2864028+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2864028Z'\""
   },
   {
     "name": "Rewrite Memory",
@@ -7471,8 +7471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Rewrite Memory",
-    "timestamp": "2020-12-15T22:30:32.5617706+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5617706Z'\""
+    "timestamp": "2021-02-13T13:26:45.5045852+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5045852Z'\""
   },
   {
     "name": "Rime Shot",
@@ -7496,8 +7496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Rime Shot",
-    "timestamp": "2020-12-15T22:30:32.5617706+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5617706Z'\""
+    "timestamp": "2021-02-13T13:26:45.5045852+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5045852Z'\""
   },
   {
     "name": "Rime Strike",
@@ -7521,8 +7521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Rime Strike",
-    "timestamp": "2020-12-15T22:30:32.5617706+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5617706Z'\""
+    "timestamp": "2021-02-13T13:26:45.5045852+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5045852Z'\""
   },
   {
     "name": "Ring of Fire",
@@ -7546,8 +7546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ring of Fire",
-    "timestamp": "2020-12-15T22:30:32.5627714+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5627714Z'\""
+    "timestamp": "2021-02-13T13:26:45.5045852+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5045852Z'\""
   },
   {
     "name": "Ruin",
@@ -7571,8 +7571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ruin",
-    "timestamp": "2020-12-15T22:30:32.3195683+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3195683Z'\""
+    "timestamp": "2021-02-13T13:26:45.2874036+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2874036Z'\""
   },
   {
     "name": "Saber Reflect",
@@ -7596,8 +7596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Saber Reflect",
-    "timestamp": "2020-12-15T22:30:32.3195683+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3195683Z'\""
+    "timestamp": "2021-02-13T13:26:45.2874036+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2874036Z'\""
   },
   {
     "name": "Saber Throw",
@@ -7621,8 +7621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Saber Throw",
-    "timestamp": "2020-12-15T22:30:32.3195683+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3195683Z'\""
+    "timestamp": "2021-02-13T13:26:45.2874036+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2874036Z'\""
   },
   {
     "name": "Saber Ward",
@@ -7646,8 +7646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Saber Ward",
-    "timestamp": "2020-12-15T22:30:32.3195683+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3195683Z'\""
+    "timestamp": "2021-02-13T13:26:45.2874036+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2874036Z'\""
   },
   {
     "name": "Sabotage Charges",
@@ -7671,8 +7671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sabotage Charges",
-    "timestamp": "2020-12-15T22:30:32.5627714+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5627714Z'\""
+    "timestamp": "2021-02-13T13:26:45.5055856+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5055856Z'\""
   },
   {
     "name": "Salvo",
@@ -7696,8 +7696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Salvo",
-    "timestamp": "2020-12-15T22:30:32.5627714+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5627714Z'\""
+    "timestamp": "2021-02-13T13:26:45.5055856+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5055856Z'\""
   },
   {
     "name": "Sanctuary",
@@ -7721,8 +7721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sanctuary",
-    "timestamp": "2020-12-15T22:30:32.3205692+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3205692Z'\""
+    "timestamp": "2021-02-13T13:26:45.2874036+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2874036Z'\""
   },
   {
     "name": "Sap Vitality",
@@ -7746,8 +7746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sap Vitality",
-    "timestamp": "2020-12-15T22:30:32.3205692+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3205692Z'\""
+    "timestamp": "2021-02-13T13:26:45.2874036+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2874036Z'\""
   },
   {
     "name": "Scan Area",
@@ -7771,8 +7771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Scan Area",
-    "timestamp": "2020-12-15T22:30:32.5627714+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5627714Z'\""
+    "timestamp": "2021-02-13T13:26:45.5055856+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5055856Z'\""
   },
   {
     "name": "Scourge",
@@ -7796,8 +7796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Scourge",
-    "timestamp": "2020-12-15T22:30:32.3205692+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3205692Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Scramble Interface",
@@ -7821,8 +7821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Scramble Interface",
-    "timestamp": "2020-12-15T22:30:32.5627714+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5627714Z'\""
+    "timestamp": "2021-02-13T13:26:45.5055856+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5055856Z'\""
   },
   {
     "name": "Scrambling Barrier",
@@ -7846,8 +7846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Scrambling Barrier",
-    "timestamp": "2020-12-15T22:30:32.5637727+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5637727Z'\""
+    "timestamp": "2021-02-13T13:26:45.5065877+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5065877Z'\""
   },
   {
     "name": "Scrambling Field",
@@ -7871,8 +7871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Scrambling Field",
-    "timestamp": "2020-12-15T22:30:32.5637727+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5637727Z'\""
+    "timestamp": "2021-02-13T13:26:45.5065877+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5065877Z'\""
   },
   {
     "name": "Security Protocols",
@@ -7896,8 +7896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Security Protocols",
-    "timestamp": "2020-12-15T22:30:32.5637727+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5637727Z'\""
+    "timestamp": "2021-02-13T13:26:45.5065877+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5065877Z'\""
   },
   {
     "name": "Seethe",
@@ -7921,8 +7921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Seethe",
-    "timestamp": "2020-12-15T22:30:32.3215704+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3215704Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Sending",
@@ -7946,8 +7946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sending",
-    "timestamp": "2020-12-15T22:30:32.5637727+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5637727Z'\""
+    "timestamp": "2021-02-13T13:26:45.5065877+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5065877Z'\""
   },
   {
     "name": "Sense Emotion",
@@ -7971,8 +7971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sense Emotion",
-    "timestamp": "2020-12-15T22:30:32.3215704+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3215704Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Sense Force",
@@ -7996,8 +7996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sense Force",
-    "timestamp": "2020-12-15T22:30:32.3215704+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3215704Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Sensor Probe",
@@ -8021,8 +8021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sensor Probe",
-    "timestamp": "2020-12-15T22:30:32.5637727+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5637727Z'\""
+    "timestamp": "2021-02-13T13:26:45.5065877+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5065877Z'\""
   },
   {
     "name": "Sever Force",
@@ -8046,8 +8046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sever Force",
-    "timestamp": "2020-12-15T22:30:32.3215704+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3215704Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Shadow Sight",
@@ -8071,8 +8071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shadow Sight",
-    "timestamp": "2020-12-15T22:30:32.3225708+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3225708Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Share Life",
@@ -8096,8 +8096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Share Life",
-    "timestamp": "2020-12-15T22:30:32.3225708+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3225708Z'\""
+    "timestamp": "2021-02-13T13:26:45.2884045+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2884045Z'\""
   },
   {
     "name": "Shared Shielding",
@@ -8121,8 +8121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shared Shielding",
-    "timestamp": "2020-12-15T22:30:32.5647722+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5647722Z'\""
+    "timestamp": "2021-02-13T13:26:45.5065877+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5065877Z'\""
   },
   {
     "name": "Shatter",
@@ -8146,8 +8146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shatter",
-    "timestamp": "2020-12-15T22:30:32.5647722+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5647722Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Shock",
@@ -8171,8 +8171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shock",
-    "timestamp": "2020-12-15T22:30:32.3225708+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3225708Z'\""
+    "timestamp": "2021-02-13T13:26:45.2894053+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2894053Z'\""
   },
   {
     "name": "Shocking Ray",
@@ -8196,8 +8196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shocking Ray",
-    "timestamp": "2020-12-15T22:30:32.5647722+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5647722Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Shocking Shield",
@@ -8221,8 +8221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shocking Shield",
-    "timestamp": "2020-12-15T22:30:32.3225708+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3225708Z'\""
+    "timestamp": "2021-02-13T13:26:45.2894053+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2894053Z'\""
   },
   {
     "name": "Short Circuit",
@@ -8246,8 +8246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Short Circuit",
-    "timestamp": "2020-12-15T22:30:32.5647722+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5647722Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Shroud of Darkness",
@@ -8271,8 +8271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shroud of Darkness",
-    "timestamp": "2020-12-15T22:30:32.3235717+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3235717Z'\""
+    "timestamp": "2021-02-13T13:26:45.2894053+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2894053Z'\""
   },
   {
     "name": "Shutdown",
@@ -8296,8 +8296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Shutdown",
-    "timestamp": "2020-12-15T22:30:32.565773+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.565773Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Siphon Life",
@@ -8321,8 +8321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Siphon Life",
-    "timestamp": "2020-12-15T22:30:32.3235717+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3235717Z'\""
+    "timestamp": "2021-02-13T13:26:45.2894053+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2894053Z'\""
   },
   {
     "name": "Skill Empowerment",
@@ -8346,8 +8346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Skill Empowerment",
-    "timestamp": "2020-12-15T22:30:32.3235717+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3235717Z'\""
+    "timestamp": "2021-02-13T13:26:45.2894053+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2894053Z'\""
   },
   {
     "name": "Skill Protocol",
@@ -8371,8 +8371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Skill Protocol",
-    "timestamp": "2020-12-15T22:30:32.565773+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.565773Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Slow",
@@ -8396,8 +8396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Slow",
-    "timestamp": "2020-12-15T22:30:32.3235717+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3235717Z'\""
+    "timestamp": "2021-02-13T13:26:45.2904057+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2904057Z'\""
   },
   {
     "name": "Slow Descent",
@@ -8421,8 +8421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Slow Descent",
-    "timestamp": "2020-12-15T22:30:32.3235717+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3235717Z'\""
+    "timestamp": "2021-02-13T13:26:45.2904057+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2904057Z'\""
   },
   {
     "name": "Slow-Release Medpac",
@@ -8446,8 +8446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Slow-Release Medpac",
-    "timestamp": "2020-12-15T22:30:32.565773+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.565773Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Smoke Cloud",
@@ -8471,8 +8471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Smoke Cloud",
-    "timestamp": "2020-12-15T22:30:32.565773+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.565773Z'\""
+    "timestamp": "2021-02-13T13:26:45.5075873+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5075873Z'\""
   },
   {
     "name": "Smuggle",
@@ -8496,8 +8496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Smuggle",
-    "timestamp": "2020-12-15T22:30:32.5667739+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5667739Z'\""
+    "timestamp": "2021-02-13T13:26:45.5085881+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5085881Z'\""
   },
   {
     "name": "Sonic Charge",
@@ -8521,8 +8521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sonic Charge",
-    "timestamp": "2020-12-15T22:30:32.3245742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3245742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2904057+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2904057Z'\""
   },
   {
     "name": "Sonic Fists",
@@ -8546,8 +8546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sonic Fists",
-    "timestamp": "2020-12-15T22:30:32.5667739+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5667739Z'\""
+    "timestamp": "2021-02-13T13:26:45.5085881+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5085881Z'\""
   },
   {
     "name": "Sonic Shot",
@@ -8571,8 +8571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sonic Shot",
-    "timestamp": "2020-12-15T22:30:32.5667739+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5667739Z'\""
+    "timestamp": "2021-02-13T13:26:45.5085881+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5085881Z'\""
   },
   {
     "name": "Sonic Strike",
@@ -8596,8 +8596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sonic Strike",
-    "timestamp": "2020-12-15T22:30:32.5667739+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5667739Z'\""
+    "timestamp": "2021-02-13T13:26:45.5085881+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5085881Z'\""
   },
   {
     "name": "Sound Trick",
@@ -8621,8 +8621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sound Trick",
-    "timestamp": "2020-12-15T22:30:32.3245742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3245742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2904057+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2904057Z'\""
   },
   {
     "name": "Spare the Dying",
@@ -8646,8 +8646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Spare the Dying",
-    "timestamp": "2020-12-15T22:30:32.3245742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3245742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2904057+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2904057Z'\""
   },
   {
     "name": "Spectrum Bolt",
@@ -8671,8 +8671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Spectrum Bolt",
-    "timestamp": "2020-12-15T22:30:32.5667739+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5667739Z'\""
+    "timestamp": "2021-02-13T13:26:45.5085881+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5085881Z'\""
   },
   {
     "name": "Spectrum Ray",
@@ -8696,8 +8696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Spectrum Ray",
-    "timestamp": "2020-12-15T22:30:32.567776+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.567776Z'\""
+    "timestamp": "2021-02-13T13:26:45.5095894+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5095894Z'\""
   },
   {
     "name": "Spirit Blade",
@@ -8721,8 +8721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Spirit Blade",
-    "timestamp": "2020-12-15T22:30:32.3245742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3245742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2914078+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2914078Z'\""
   },
   {
     "name": "Spot the Weakness",
@@ -8746,8 +8746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Spot the Weakness",
-    "timestamp": "2020-12-15T22:30:32.567776+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.567776Z'\""
+    "timestamp": "2021-02-13T13:26:45.5095894+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5095894Z'\""
   },
   {
     "name": "Stack the Deck",
@@ -8771,8 +8771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Stack the Deck",
-    "timestamp": "2020-12-15T22:30:32.567776+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.567776Z'\""
+    "timestamp": "2021-02-13T13:26:45.5095894+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5095894Z'\""
   },
   {
     "name": "Stasis",
@@ -8796,8 +8796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Stasis",
-    "timestamp": "2020-12-15T22:30:32.3255733+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3255733Z'\""
+    "timestamp": "2021-02-13T13:26:45.2914078+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2914078Z'\""
   },
   {
     "name": "Stasis Field",
@@ -8821,8 +8821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Stasis Field",
-    "timestamp": "2020-12-15T22:30:32.3255733+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3255733Z'\""
+    "timestamp": "2021-02-13T13:26:45.2914078+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2914078Z'\""
   },
   {
     "name": "Storming Shot",
@@ -8846,8 +8846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Storming Shot",
-    "timestamp": "2020-12-15T22:30:32.567776+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.567776Z'\""
+    "timestamp": "2021-02-13T13:26:45.5095894+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5095894Z'\""
   },
   {
     "name": "Stun",
@@ -8871,8 +8871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Stun",
-    "timestamp": "2020-12-15T22:30:32.3255733+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3255733Z'\""
+    "timestamp": "2021-02-13T13:26:45.2914078+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2914078Z'\""
   },
   {
     "name": "Stun Dart",
@@ -8896,8 +8896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Stun Dart",
-    "timestamp": "2020-12-15T22:30:32.5687751+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5687751Z'\""
+    "timestamp": "2021-02-13T13:26:45.5095894+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5095894Z'\""
   },
   {
     "name": "Stun Droid",
@@ -8921,8 +8921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Stun Droid",
-    "timestamp": "2020-12-15T22:30:32.3265742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3265742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2914078+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2914078Z'\""
   },
   {
     "name": "Superior Translation Program",
@@ -8946,8 +8946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Superior Translation Program",
-    "timestamp": "2020-12-15T22:30:32.5687751+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5687751Z'\""
+    "timestamp": "2021-02-13T13:26:45.5105902+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5105902Z'\""
   },
   {
     "name": "Sustained Lightning",
@@ -8971,8 +8971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Sustained Lightning",
-    "timestamp": "2020-12-15T22:30:32.3265742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3265742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2924074+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2924074Z'\""
   },
   {
     "name": "Synchronicity",
@@ -8996,8 +8996,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Synchronicity",
-    "timestamp": "2020-12-15T22:30:32.5687751+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5687751Z'\""
+    "timestamp": "2021-02-13T13:26:45.5105902+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5105902Z'\""
   },
   {
     "name": "Tactical Advantage",
@@ -9021,8 +9021,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tactical Advantage",
-    "timestamp": "2020-12-15T22:30:32.5697772+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5697772Z'\""
+    "timestamp": "2021-02-13T13:26:45.5105902+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5105902Z'\""
   },
   {
     "name": "Tactical Barrier",
@@ -9046,8 +9046,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tactical Barrier",
-    "timestamp": "2020-12-15T22:30:32.5697772+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5697772Z'\""
+    "timestamp": "2021-02-13T13:26:45.5105902+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5105902Z'\""
   },
   {
     "name": "Tactical Superiority",
@@ -9071,8 +9071,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tactical Superiority",
-    "timestamp": "2020-12-15T22:30:32.5697772+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5697772Z'\""
+    "timestamp": "2021-02-13T13:26:45.5105902+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5105902Z'\""
   },
   {
     "name": "Target Lock",
@@ -9096,8 +9096,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Target Lock",
-    "timestamp": "2020-12-15T22:30:32.5707785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5707785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5115915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5115915Z'\""
   },
   {
     "name": "Targeting Shot",
@@ -9121,8 +9121,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Targeting Shot",
-    "timestamp": "2020-12-15T22:30:32.5707785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5707785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5115915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5115915Z'\""
   },
   {
     "name": "Tech Override",
@@ -9146,8 +9146,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tech Override",
-    "timestamp": "2020-12-15T22:30:32.5707785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5707785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5115915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5115915Z'\""
   },
   {
     "name": "Telekinesis",
@@ -9171,8 +9171,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Telekinesis",
-    "timestamp": "2020-12-15T22:30:32.3265742+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3265742Z'\""
+    "timestamp": "2021-02-13T13:26:45.2924074+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2924074Z'\""
   },
   {
     "name": "Telekinetic Burst",
@@ -9196,8 +9196,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Telekinetic Burst",
-    "timestamp": "2020-12-15T22:30:32.327575+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.327575Z'\""
+    "timestamp": "2021-02-13T13:26:45.2924074+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2924074Z'\""
   },
   {
     "name": "Telekinetic Shield",
@@ -9221,8 +9221,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Telekinetic Shield",
-    "timestamp": "2020-12-15T22:30:32.327575+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.327575Z'\""
+    "timestamp": "2021-02-13T13:26:45.2924074+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2924074Z'\""
   },
   {
     "name": "Telekinetic Storm",
@@ -9246,8 +9246,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Telekinetic Storm",
-    "timestamp": "2020-12-15T22:30:32.327575+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.327575Z'\""
+    "timestamp": "2021-02-13T13:26:45.2924074+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2924074Z'\""
   },
   {
     "name": "Telekinetic Wave",
@@ -9271,8 +9271,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Telekinetic Wave",
-    "timestamp": "2020-12-15T22:30:32.327575+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.327575Z'\""
+    "timestamp": "2021-02-13T13:26:45.2924074+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2924074Z'\""
   },
   {
     "name": "Telemetry",
@@ -9296,8 +9296,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Telemetry",
-    "timestamp": "2020-12-15T22:30:32.327575+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.327575Z'\""
+    "timestamp": "2021-02-13T13:26:45.2934095+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2934095Z'\""
   },
   {
     "name": "Temporary Boost",
@@ -9321,8 +9321,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Temporary Boost",
-    "timestamp": "2020-12-15T22:30:32.5707785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5707785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5115915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5115915Z'\""
   },
   {
     "name": "Tonal Translocate",
@@ -9346,8 +9346,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tonal Translocate",
-    "timestamp": "2020-12-15T22:30:32.5717785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5717785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5125915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5125915Z'\""
   },
   {
     "name": "Toxic Cloud",
@@ -9371,8 +9371,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Toxic Cloud",
-    "timestamp": "2020-12-15T22:30:32.5717785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5717785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5125915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5125915Z'\""
   },
   {
     "name": "Toxin Purge",
@@ -9396,8 +9396,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Toxin Purge",
-    "timestamp": "2020-12-15T22:30:32.5717785+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5717785Z'\""
+    "timestamp": "2021-02-13T13:26:45.5125915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5125915Z'\""
   },
   {
     "name": "Toxin Scan",
@@ -9421,8 +9421,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Toxin Scan",
-    "timestamp": "2020-12-15T22:30:32.5727789+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5727789Z'\""
+    "timestamp": "2021-02-13T13:26:45.5125915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5125915Z'\""
   },
   {
     "name": "Tracer Bolt",
@@ -9446,8 +9446,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tracer Bolt",
-    "timestamp": "2020-12-15T22:30:32.5727789+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5727789Z'\""
+    "timestamp": "2021-02-13T13:26:45.5125915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5125915Z'\""
   },
   {
     "name": "Tracker Droid Interface",
@@ -9471,8 +9471,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tracker Droid Interface",
-    "timestamp": "2020-12-15T22:30:32.5727789+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5727789Z'\""
+    "timestamp": "2021-02-13T13:26:45.5125915+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5125915Z'\""
   },
   {
     "name": "Tranquilizer",
@@ -9496,8 +9496,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tranquilizer",
-    "timestamp": "2020-12-15T22:30:32.5737797+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5737797Z'\""
+    "timestamp": "2021-02-13T13:26:45.5135923+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5135923Z'\""
   },
   {
     "name": "Translation Program",
@@ -9521,8 +9521,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Translation Program",
-    "timestamp": "2020-12-15T22:30:32.5737797+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5737797Z'\""
+    "timestamp": "2021-02-13T13:26:45.5135923+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5135923Z'\""
   },
   {
     "name": "Translocate",
@@ -9546,8 +9546,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Translocate",
-    "timestamp": "2020-12-15T22:30:32.5737797+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5737797Z'\""
+    "timestamp": "2021-02-13T13:26:45.5135923+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5135923Z'\""
   },
   {
     "name": "Tremor",
@@ -9571,8 +9571,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Tremor",
-    "timestamp": "2020-12-15T22:30:32.3285767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3285767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2934095+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2934095Z'\""
   },
   {
     "name": "True Sight",
@@ -9596,8 +9596,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "True Sight",
-    "timestamp": "2020-12-15T22:30:32.3285767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3285767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2934095+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2934095Z'\""
   },
   {
     "name": "Truth Serum",
@@ -9621,8 +9621,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Truth Serum",
-    "timestamp": "2020-12-15T22:30:32.5737797+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5737797Z'\""
+    "timestamp": "2021-02-13T13:26:45.5135923+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5135923Z'\""
   },
   {
     "name": "Turbulence",
@@ -9646,8 +9646,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Turbulence",
-    "timestamp": "2020-12-15T22:30:32.3285767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3285767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2934095+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2934095Z'\""
   },
   {
     "name": "Valor",
@@ -9671,8 +9671,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Valor",
-    "timestamp": "2020-12-15T22:30:32.3285767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3285767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2934095+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2934095Z'\""
   },
   {
     "name": "Venomous Strike",
@@ -9696,8 +9696,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Venomous Strike",
-    "timestamp": "2020-12-15T22:30:32.5747805+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5747805Z'\""
+    "timestamp": "2021-02-13T13:26:45.5135923+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5135923Z'\""
   },
   {
     "name": "Vertical Maneuvering",
@@ -9721,8 +9721,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Vertical Maneuvering",
-    "timestamp": "2020-12-15T22:30:32.5747805+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5747805Z'\""
+    "timestamp": "2021-02-13T13:26:45.5145932+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5145932Z'\""
   },
   {
     "name": "Voltaic Shielding",
@@ -9746,8 +9746,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Voltaic Shielding",
-    "timestamp": "2020-12-15T22:30:32.5747805+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5747805Z'\""
+    "timestamp": "2021-02-13T13:26:45.5145932+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5145932Z'\""
   },
   {
     "name": "Vortex Shot",
@@ -9771,8 +9771,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Vortex Shot",
-    "timestamp": "2020-12-15T22:30:32.5757814+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5757814Z'\""
+    "timestamp": "2021-02-13T13:26:45.5145932+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5145932Z'\""
   },
   {
     "name": "Wall of Light",
@@ -9796,8 +9796,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Wall of Light",
-    "timestamp": "2020-12-15T22:30:32.3295767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3295767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Ward",
@@ -9821,8 +9821,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Ward",
-    "timestamp": "2020-12-15T22:30:32.5757814+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5757814Z'\""
+    "timestamp": "2021-02-13T13:26:45.5145932+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5145932Z'\""
   },
   {
     "name": "Warding Shot",
@@ -9846,8 +9846,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Warding Shot",
-    "timestamp": "2020-12-15T22:30:32.5757814+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5757814Z'\""
+    "timestamp": "2021-02-13T13:26:45.5145932+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.5145932Z'\""
   },
   {
     "name": "Whirlwind",
@@ -9871,8 +9871,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Whirlwind",
-    "timestamp": "2020-12-15T22:30:32.3295767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3295767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Will of the Force",
@@ -9896,8 +9896,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Will of the Force",
-    "timestamp": "2020-12-15T22:30:32.3295767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3295767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Wire Bind",
@@ -9921,8 +9921,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Wire Bind",
-    "timestamp": "2020-12-15T22:30:32.5767826+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5767826Z'\""
+    "timestamp": "2021-02-13T13:26:45.515594+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.515594Z'\""
   },
   {
     "name": "Wire Line",
@@ -9946,8 +9946,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Wire Line",
-    "timestamp": "2020-12-15T22:30:32.5767826+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.5767826Z'\""
+    "timestamp": "2021-02-13T13:26:45.515594+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.515594Z'\""
   },
   {
     "name": "Wound",
@@ -9971,8 +9971,8 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Wound",
-    "timestamp": "2020-12-15T22:30:32.3295767+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3295767Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   },
   {
     "name": "Wrack",
@@ -9996,7 +9996,7 @@
     "contentSource": "PHB",
     "partitionKey": "Core",
     "rowKey": "Wrack",
-    "timestamp": "2020-12-15T22:30:32.3305771+00:00",
-    "eTag": "W/\"datetime'2020-12-15T22%3A30%3A32.3305771Z'\""
+    "timestamp": "2021-02-13T13:26:45.2944099+00:00",
+    "eTag": "W/\"datetime'2021-02-13T13%3A26%3A45.2944099Z'\""
   }
 ]
