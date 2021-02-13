@@ -29,17 +29,19 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 import com.beegrinder.sw5e.objects.Equipment;
+import com.beegrinder.sw5e.objects.Item;
+import com.beegrinder.sw5e.objects.Parcel;
 import com.beegrinder.sw5e.objects.Power;
 import com.beegrinder.sw5e.objects.Spell;
 
 public class AppModuleBuild {
 
-	public final static String BEGIN_XML_TAG="<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>";
+	public final static String BEGIN_XML_TAG = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>";
 	public final static String DEX_BONUS_PLUS_2 = "Yes  (max 2)";
 	public final static String DEX_BONUS = "Yes";
 	public final static String CONCENTRATION_STRING = "Concentration, ";
 	public final static String MODULE_SPELL_GROUP = "Spells";
-		
+
 	public static void buildModule(AppScreen frame) throws Exception {
 		Path modulePath = null;
 		// check that the module parent directory exists
@@ -48,34 +50,36 @@ public class AppModuleBuild {
 		}
 
 		if (frame.getChckbxAsDirectory().isSelected()) {
-			// Prepare for directory based module
+			// Prepare for FG Module to be stored as a directory rather than a .mod file.
 			try {
-			removeModFileIfExists(frame.getTextFieldModuleFolder().getText(), frame.getTextFieldModuleName().getText());
-			modulePath = createModWorkDirectory(frame.getTextFieldModuleFolder().getText(),
-					frame.getTextFieldModuleName().getText());
-			} catch ( Exception e ) {
-				ModuleGenerator.addLogEntry("Error preparing to deploy module as directory. "+ e.getMessage() );
-			}
-			// copy thumbnail
-			try {
-			Files.copy(Path.of(frame.getTextFieldThumbnail().getText()),
-					Path.of(modulePath.toString() + ModuleGenerator.delim + "thumbnail.png"), StandardCopyOption.REPLACE_EXISTING);
+				removeModFileIfExists(frame.getTextFieldModuleFolder().getText(),
+						frame.getTextFieldModuleName().getText());
+				modulePath = createModWorkDirectory(frame.getTextFieldModuleFolder().getText(),
+						frame.getTextFieldModuleName().getText());
 			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error copying thumbnail to module. "+ e.getMessage() );
+				ModuleGenerator.addLogEntry("Error preparing to deploy module as directory. " + e.getMessage());
 			}
-			// Create definition.xml
+			// copy thumbnail for module file
+			try {
+				Files.copy(Path.of(frame.getTextFieldThumbnail().getText()),
+						Path.of(modulePath.toString() + ModuleGenerator.delim + "thumbnail.png"),
+						StandardCopyOption.REPLACE_EXISTING);
+			} catch (Exception e) {
+				ModuleGenerator.addLogEntry("Error copying thumbnail to module. " + e.getMessage());
+			}
+			// Create definition.xml for module file
 			try {
 				createDefinitionFile(modulePath, frame);
-			} catch (Exception e ) {
-				ModuleGenerator.addLogEntry("Error creating definition.xml file. "+ e.getMessage() );
+			} catch (Exception e) {
+				ModuleGenerator.addLogEntry("Error creating definition.xml file. " + e.getMessage());
 			}
-			// TODO: create client.xml
+			// create client.xml for module file
 			try {
 				createMainModule(modulePath, frame);
 			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error creating main module file. "+ e.getMessage() );
+				ModuleGenerator.addLogEntry("Error creating main module file. " + e.getMessage());
 			}
-			
+
 		} else {
 			// not "As Directory" so we will create a .mod file and remove a directory if
 			// present.
@@ -83,62 +87,107 @@ public class AppModuleBuild {
 	}
 
 	private static void createMainModule(Path modulePath, AppScreen frame) throws Exception {
-		//create root
-		StringBuffer buff=new StringBuffer();
+		// create root
+		StringBuffer buff = new StringBuffer();
 		buff.append(BEGIN_XML_TAG).append(createOpenRootTag());
 		// add library section so it shows up when loaded
-		buff.append(buildLibrarySelction(frame.getTextFieldModuleName().getText(),frame.getTextFieldCategory().getText()));
-		
-		
+		buff.append(
+				buildLibrarySelction(frame.getTextFieldModuleName().getText(), frame.getTextFieldCategory().getText()));
+
 		// now add sections if they have been checked off (selected)
-		if( frame.getChckbxEquipment().isSelected() ) {
-			//create <item> element
+		if (frame.getChckbxEquipment().isSelected()) {
+			// create <item> element
 			try {
 				buff = buildItemSection(buff);
-			} catch (Exception e ) {
+			} catch (Exception e) {
 				ModuleGenerator.addLogEntry("Error.  Unable to create <item> element. " + e.getMessage());
 			}
 		}
-		if( frame.getChckbxSpells().isSelected() ) {
-			//create <power> element
+		if (frame.getChckbxSpells().isSelected()) {
+			// create <power> element
 			try {
 				buff = buildPowerSection(buff);
-			} catch (Exception e ) {
+			} catch (Exception e) {
 				ModuleGenerator.addLogEntry("Error.  Unable to create <power> element. " + e.getMessage());
 			}
 		}
-		
-		
+		if (frame.getChckbxParcels().isSelected()) {
+			// create <treasureparcels> element
+			try {
+				buff = buildParcelSection(buff);
+			} catch (Exception e) {
+				ModuleGenerator.addLogEntry("Error.  Unable to create <power> element. " + e.getMessage());
+			}
+		}
+
 		buff.append(createCloseTag("root"));
-		File file= new File(modulePath.toString() + ModuleGenerator.delim + "client.xml");
-		BufferedWriter  writer = null;
-		writer=new BufferedWriter(new FileWriter(file));
+		File file = new File(modulePath.toString() + ModuleGenerator.delim + "client.xml");
+		BufferedWriter writer = null;
+		writer = new BufferedWriter(new FileWriter(file));
 		writer.write(buff.toString());
 		writer.close();
 	}
-	
-	
+
+	private static StringBuffer buildParcelSection(StringBuffer buff) throws Exception {
+		buff.append(createOpenTag("treasureparcels"));
+		buff.append("<category name=\"SW5e Equipment Packs\" baseicon=\"0\" decalicon=\"0\">");
+		// now do each parcel
+		for (int i = 0; i < ModuleGenerator.parcelList.size(); i++) {
+			Parcel p = ModuleGenerator.parcelList.get(i);
+			List<Equipment> eList = new ArrayList<>();
+			// get items for parcel
+			List<Item> iList = p.getItems();
+			// find equpment from main equipment list
+			for (Item item : iList) {
+				Equipment e = findEquipmentByName(item.getName());
+				if (e == null) {
+					throw new Exception("Unable to find " + item.getName() + " for parcel " + p.getName());
+				} else {
+					eList.add(e);
+				}
+			}
+
+		}
+
+		// all done with parcels
+		buff.append("</category>");
+		buff.append(createCloseTag("treasureparcels"));
+		return buff;
+	}
+
+	private static Equipment findEquipmentByName(String name) {
+		Equipment retVal = null;
+		for (Equipment e : ModuleGenerator.equipmentList) {
+			if (e.getName().trim().equalsIgnoreCase(name.trim())) {
+				if (retVal != null)
+					ModuleGenerator.addLogEntry("Error.  Multiple found for equipment name " + name);
+				retVal = e;
+			}
+		}
+		return retVal;
+	}
+
 	private static StringBuffer buildPowerSection(StringBuffer buff) throws Exception {
-		buff.append(createOpenTag("spell", null)); //open spell section
+		buff.append(createOpenTag("spell", null)); // open spell section
 		buff.append("<category name=\"\" baseicon=\"0\" decalicon=\"0\">");
-		if ( ( ModuleGenerator.spellList != null ) && ( ! ModuleGenerator.spellList.isEmpty() ) ) {
+		if ((ModuleGenerator.spellList != null) && (!ModuleGenerator.spellList.isEmpty())) {
 			int curSpellCount = 1;
 			Collections.sort(ModuleGenerator.spellList);
-			for( int i = 0; i < ModuleGenerator.spellList.size(); i++ ) {
-				Spell e =  ModuleGenerator.spellList.get(i);
-				boolean actions=false;
+			for (int i = 0; i < ModuleGenerator.spellList.size(); i++) {
+				Spell e = ModuleGenerator.spellList.get(i);
+				boolean actions = false;
 				final String currId = "id-" + String.format("%05d", (curSpellCount));
 				buff.append(createOpenTag(currId));
 				/*
 				 * Begin processing spell data
 				 */
-				String act=e.getActions();
-				if(act != null && act.trim().length()>0) {
-					if( ! act.trim().equals("<actions/>")) {
-						actions=true;
+				String act = e.getActions();
+				if (act != null && act.trim().length() > 0) {
+					if (!act.trim().equals("<actions/>")) {
+						actions = true;
 					}
 					buff.append(act);
-				}else {
+				} else {
 					buff.append("<actions/>");
 				}
 				/*
@@ -146,7 +195,7 @@ public class AppModuleBuild {
 				 */
 				buff.append("<cast type=\"number\">0</cast>");
 				buff.append("<components type=\"string\"/>");
-				buff.append("<group type=\"string\">"+MODULE_SPELL_GROUP+"</group>");
+				buff.append("<group type=\"string\">" + MODULE_SPELL_GROUP + "</group>");
 				buff.append("<locked type=\"number\">1</locked>");
 				buff.append("<prepared type=\"number\">0</prepared>");
 				buff.append("<ritual type=\"number\">0</ritual>");
@@ -166,13 +215,13 @@ public class AppModuleBuild {
 				 * description
 				 */
 				buff.append(createOpenTag("description", "formattedtext"));
-				final String desc=e.getSw5e_description();
-				if( StringUtils.isBlank(desc) ) {
+				final String desc = e.getSw5e_description();
+				if (StringUtils.isBlank(desc)) {
 					buff.append("<p />");
 				} else {
 					buff.append("<p>").append(desc.replace("***", "").replace("\r\n\r\n", "</p><p>")).append("</p>");
 				}
-				if(actions) {
+				if (actions) {
 					buff.append("<p>(*FG Coding)</p>");
 				}
 				buff.append(createCloseTag("description"));
@@ -180,7 +229,7 @@ public class AppModuleBuild {
 				 * duration
 				 */
 				buff.append(createOpenTag("duration", "string"));
-				if(e.getConcentration()!=null && e.getConcentration()==1) {
+				if (e.getConcentration() != null && e.getConcentration() == 1) {
 					buff.append(CONCENTRATION_STRING);
 				}
 				buff.append(e.getDuration());
@@ -192,7 +241,7 @@ public class AppModuleBuild {
 				buff.append(e.getPower_level().toString());
 				buff.append(createCloseTag("level"));
 				/*
-				 * range 
+				 * range
 				 */
 				buff.append(createOpenTag("range", "string"));
 				buff.append(e.getRange());
@@ -209,8 +258,7 @@ public class AppModuleBuild {
 				buff.append(createOpenTag("source", "string"));
 				buff.append(e.getPower_source());
 				buff.append(createCloseTag("source"));
-				
-				
+
 				/*
 				 * Done processing spell object.
 				 */
@@ -220,94 +268,99 @@ public class AppModuleBuild {
 			}
 		}
 		buff.append("</category>");
-		buff.append(createCloseTag("spell")); //close spell section
+		buff.append(createCloseTag("spell")); // close spell section
 		return buff;
 	}
 
-	
 	private static String buildLibrarySelction(String moduleName, String moduleCategory) throws Exception {
-		StringBuffer buff=new StringBuffer();
+		StringBuffer buff = new StringBuffer();
 		buff.append(createOpenTag("library"));
-		String idTag="id-"+moduleName.toLowerCase();
+		String idTag = "id-" + moduleName.toLowerCase();
 		buff.append(createOpenTag(idTag));
-		buff.append(createOpenTag("categoryname", "string")).append(moduleCategory).append(createCloseTag("categoryname"));
+		buff.append(createOpenTag("categoryname", "string")).append(moduleCategory)
+				.append(createCloseTag("categoryname"));
 		buff.append(createOpenTag("name", "string")).append(moduleName).append(createCloseTag("name"));
 		buff.append(createOpenTag("entries")).append(createCloseTag("entries"));
 		buff.append(createCloseTag(idTag));
 		buff.append(createCloseTag("library"));
 		return buff.toString();
 	}
-	
+
 	private static StringBuffer buildItemSection(StringBuffer buff) throws Exception {
 
-		buff.append(createOpenTag("item", null)); //open item section
-		if ( ( ModuleGenerator.equipmentList != null ) && ( ! ModuleGenerator.equipmentList.isEmpty() ) ) {
+		buff.append(createOpenTag("item", null)); // open item section
+		if ((ModuleGenerator.equipmentList != null) && (!ModuleGenerator.equipmentList.isEmpty())) {
 			int curItemCount = 1;
-			for( int i = 0; i < ModuleGenerator.equipmentList.size(); i++ ) {
-				Equipment e =  ModuleGenerator.equipmentList.get(i);
-				if ( ModuleGenerator.ALLOWED_CONTENT_CODES.contains(e.getContentSource())) {
+			for (int i = 0; i < ModuleGenerator.equipmentList.size(); i++) {
+				Equipment e = ModuleGenerator.equipmentList.get(i);
+				if (ModuleGenerator.ALLOWED_CONTENT_CODES.contains(e.getContentSource())) {
 					final String currId = "id-" + String.format("%05d", (curItemCount));
 					buff.append(createOpenTag(currId, null));
 					/*
 					 * Begin processing item data
 					 */
-					//** ac
+					// ** ac
 					String dexBonusString = "-";
 					buff.append(createOpenTag("ac", "number"));
-					if( e.getAc() == null ) {
+					if (e.getAc() == null) {
 						buff.append("0");
 					} else {
-						String acString=e.getAc();
-						if( acString.contains("+ Dex modifier") && acString.contains("max 2") ) {
+						String acString = e.getAc();
+						if (acString.contains("+ Dex modifier") && acString.contains("max 2")) {
 							dexBonusString = DEX_BONUS_PLUS_2;
 						} else if (acString.contains("+ Dex modifier")) {
 							dexBonusString = DEX_BONUS;
 						}
-						buff.append(acString.replace("+","").replace("Dex modifier", "").replace("(max 2)", "").trim());
+						buff.append(
+								acString.replace("+", "").replace("Dex modifier", "").replace("(max 2)", "").trim());
 					}
 					buff.append(createCloseTag("ac"));
-					//** bonus
+					// ** bonus
 					buff.append(createOpenTag("bonus", "number"));
 					buff.append("0");
 					buff.append(createCloseTag("bonus"));
-					//**cost
+					// **cost
 					buff.append(createOpenTag("cost", "string"));
-					buff.append(e.getCost()+AppConstants.ITEM_COST_SUFFIX1);
+					buff.append(e.getCost() + AppConstants.ITEM_COST_SUFFIX1);
 					buff.append(createCloseTag("cost"));
-					//**name
+					// **name
 					buff.append(createOpenTag("name", "string"));
 					buff.append(e.getName());
 					buff.append(createCloseTag("name"));
-					if(AppConstants.DEBUG)ModuleGenerator.addLogEntry("Item name: "+ e.getName() );
-					//**description
+					if (AppConstants.DEBUG)
+						ModuleGenerator.addLogEntry("Item name: " + e.getName());
+					// **description
 					buff.append(createOpenTag("description", "formattedtext"));
-					final String desc=e.getDescription();
-					if( StringUtils.isBlank(desc) ) {
+					final String desc = e.getDescription();
+					if (StringUtils.isBlank(desc)) {
 						buff.append("<p />");
 					} else {
-						buff.append("<p>").append(desc.replace("***", "").replace("\r\n\r\n", "</p><p>")).append("</p>");
+						buff.append("<p>").append(desc.replace("***", "").replace("\r\n\r\n", "</p><p>"))
+								.append("</p>");
 					}
 					buff.append(createCloseTag("description"));
-					//**isidentified
+					// **isidentified
 					buff.append(createOpenTag("isidentified", "number"));
 					buff.append("1");
 					buff.append(createCloseTag("isidentified"));
-					//**locked
+					// **locked
 					buff.append(createOpenTag("locked", "number"));
 					buff.append("1");
 					buff.append(createCloseTag("locked"));
-					//**type and subtype
+					// **type and subtype
 					String typeString = "";
 					String subtypeString = "";
-					final Integer equipCat=(e.getEquipmentCategoryEnum()==null) ? 0 : e.getEquipmentCategoryEnum();
-					if (equipCat==3) { //WEAPON
+					final Integer equipCat = (e.getEquipmentCategoryEnum() == null) ? 0 : e.getEquipmentCategoryEnum();
+					if (equipCat == 3) { // WEAPON
 						typeString = "Weapon";
-						subtypeString = ( e.getWeaponClassification() ==null) ? "" : splitcamelcase( e.getWeaponClassification() );
-					} else if (equipCat==4) { //ARMOR
+						subtypeString = (e.getWeaponClassification() == null) ? ""
+								: splitcamelcase(e.getWeaponClassification());
+					} else if (equipCat == 4) { // ARMOR
 						typeString = "Armor";
-						subtypeString = (e.getArmorClassification()==null)?"": e.getArmorClassification();					
+						subtypeString = (e.getArmorClassification() == null) ? "" : e.getArmorClassification();
 					} else { // all other
-						typeString = (e.getEquipmentCategory() == null) ? "Standard" : splitcamelcase( e.getEquipmentCategory() );
+						typeString = (e.getEquipmentCategory() == null) ? "Standard"
+								: splitcamelcase(e.getEquipmentCategory());
 						subtypeString = "Adventuring Gear";
 					}
 					buff.append(createOpenTag("type", "string"));
@@ -316,16 +369,17 @@ public class AppModuleBuild {
 					buff.append(createOpenTag("subtype", "string"));
 					buff.append(subtypeString);
 					buff.append(createCloseTag("subtype"));
-					//**weight
+					// **weight
 					buff.append(createOpenTag("weight", "number"));
-					buff.append( (e.getWeight()==null)?"":e.getWeight());
+					buff.append((e.getWeight() == null) ? "" : e.getWeight());
 					buff.append(createCloseTag("weight"));
-					//**properties
-					List<String> propList= (e.getProperties()==null)? new ArrayList<>(): e.getProperties();
-					if( ! propList.isEmpty()) {
+					// **properties
+					List<String> propList = (e.getProperties() == null) ? new ArrayList<>() : e.getProperties();
+					if (!propList.isEmpty()) {
 						buff.append(createOpenTag("properties", "string"));
-						for ( int x=0;x<propList.size();x++) {
-							if(x>0) buff.append(", ");
+						for (int x = 0; x < propList.size(); x++) {
+							if (x > 0)
+								buff.append(", ");
 							buff.append(propList.get(x));
 						}
 						buff.append(createCloseTag("properties"));
@@ -333,59 +387,60 @@ public class AppModuleBuild {
 					/*
 					 * set up properties MAP
 					 */
-					Map <String,String> propMap = new HashMap<>();
-					if(e.getPropertiesMap()!=null) {
+					Map<String, String> propMap = new HashMap<>();
+					if (e.getPropertiesMap() != null) {
 						propMap = e.getPropertiesMap().getAdditionalProperties();
-						if(propMap == null)propMap = new HashMap<>();
+						if (propMap == null)
+							propMap = new HashMap<>();
 					}
 					/*
 					 * ARMOR SPECIFIC
 					 */
-					//**dexbonus
-					if(equipCat==4) {
+					// **dexbonus
+					if (equipCat == 4) {
 						buff.append(createOpenTag("dexbonus", "string"));
 						buff.append(dexBonusString);
 						buff.append(createCloseTag("dexbonus"));
-					//**stealth
-						String stealthString = e.getStealthDisadvantage()?"Disadvantage":"-";
+						// **stealth
+						String stealthString = e.getStealthDisadvantage() ? "Disadvantage" : "-";
 						buff.append(createOpenTag("stealth", "string")).append(stealthString);
 						buff.append(createCloseTag("stealth"));
-					//**strength
-						if ( propMap.size() > 0 ) {
+						// **strength
+						if (propMap.size() > 0) {
 							String str = propMap.get("Strength");
-							if( StringUtils.isBlank(str))str = "-";
-							if( ! StringUtils.isBlank(str)) {
+							if (StringUtils.isBlank(str))
+								str = "-";
+							if (!StringUtils.isBlank(str)) {
 								buff.append(createOpenTag("strength", "string"));
 								buff.append(str.replace("strength", "Str"));
-								buff.append(createCloseTag("strength"));	
+								buff.append(createCloseTag("strength"));
 							}
 						}
-						
+
 					}
 					/*
 					 * WEAPON SPECIFIC
 					 */
-					if(equipCat==3) {
-						String damType=(e.getDamageType()==null)?"":e.getDamageType().toLowerCase();
-						Integer damNumDie=(e.getDamageNumberOfDice()==null)?0:e.getDamageNumberOfDice();
-						Integer damDieType=(e.getDamageDieType()==null)?0:e.getDamageDieType();
-						Integer damDieModifier=(e.getDamageDieModifier()==null)?0:e.getDamageDieModifier();
-						//**damage
-						StringBuffer dambuff=new StringBuffer();
-						if(damNumDie > 0) {
-							dambuff.append(damNumDie.toString()+"d"+damDieType);
-							if(damDieModifier!=0) {
-								dambuff.append("+"+damDieModifier);
+					if (equipCat == 3) {
+						String damType = (e.getDamageType() == null) ? "" : e.getDamageType().toLowerCase();
+						Integer damNumDie = (e.getDamageNumberOfDice() == null) ? 0 : e.getDamageNumberOfDice();
+						Integer damDieType = (e.getDamageDieType() == null) ? 0 : e.getDamageDieType();
+						Integer damDieModifier = (e.getDamageDieModifier() == null) ? 0 : e.getDamageDieModifier();
+						// **damage
+						StringBuffer dambuff = new StringBuffer();
+						if (damNumDie > 0) {
+							dambuff.append(damNumDie.toString() + "d" + damDieType);
+							if (damDieModifier != 0) {
+								dambuff.append("+" + damDieModifier);
 							}
-							dambuff.append(" "+damType);
+							dambuff.append(" " + damType);
 						}
 						buff.append(createOpenTag("damage", "string"));
 						buff.append(dambuff.toString());
 						buff.append(createCloseTag("damage"));
-						
+
 					}
 
-					
 					/*
 					 * Done parsing equipment object.
 					 */
@@ -395,64 +450,66 @@ public class AppModuleBuild {
 			}
 		}
 
-		buff.append(createCloseTag("item")); //close item section
+		buff.append(createCloseTag("item")); // close item section
 		return buff;
 	}
-	
+
 	private static String splitcamelcase(String sourceString) {
-		
+
 		String retVal = "";
-		
+
 		StringBuffer buf = new StringBuffer();
 		String[] array = StringUtils.splitByCharacterTypeCamelCase(sourceString);
-		if ( array != null ) {
-			for ( int i=0;i < array.length; i++ ) {
-				if( ! StringUtils.isBlank(array[i])) {
-					if(i>0) buf.append(" ");
-					buf.append(array[i].replace("And", "and").replace( "Or", "or"));
+		if (array != null) {
+			for (int i = 0; i < array.length; i++) {
+				if (!StringUtils.isBlank(array[i])) {
+					if (i > 0)
+						buf.append(" ");
+					buf.append(array[i].replace("And", "and").replace("Or", "or"));
 				}
 			}
 			retVal = buf.toString();
 		}
-		
+
 		return retVal;
 	}
-	
+
 	private static String createOpenRootTag() {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
-		return "<root dataversion=\""+dateFormat.format(new Date())+"\" version=\""+AppConstants.DEFINITION_MIN_VERSION+"\">";
+		return "<root dataversion=\"" + dateFormat.format(new Date()) + "\" version=\""
+				+ AppConstants.DEFINITION_MIN_VERSION + "\">";
 	}
-	
+
 	private static String createOpenTag(String name, String type) throws Exception {
-		StringBuffer retVal=new StringBuffer();
-		if( ! StringUtils.isBlank(name)) {
-			retVal.append("<"+name);
-			if ( ! StringUtils.isBlank(type)) {
-				retVal.append(" type=\""+type+"\"");
+		StringBuffer retVal = new StringBuffer();
+		if (!StringUtils.isBlank(name)) {
+			retVal.append("<" + name);
+			if (!StringUtils.isBlank(type)) {
+				retVal.append(" type=\"" + type + "\"");
 			}
 			retVal.append(">");
 		} else {
 			throw new Exception("Invalid call to AppModuleBuild.createOpenTag. Field 'name' is blank.");
 		}
-		
+
 		return retVal.toString();
 	}
-	
+
 	private static String createOpenTag(String name) throws Exception {
 		return createOpenTag(name, null);
 	}
+
 	private static String createCloseTag(String name) throws Exception {
-		StringBuffer retVal=new StringBuffer();
-		if( ! StringUtils.isBlank(name)) {
-			retVal.append("</"+name+">");
+		StringBuffer retVal = new StringBuffer();
+		if (!StringUtils.isBlank(name)) {
+			retVal.append("</" + name + ">");
 		} else {
 			throw new Exception("Invalid call to AppModuleBuild.createCloseTag. Field 'name' is blank.");
 		}
-		
-		
+
 		return retVal.toString();
 	}
-	
+
 	private static void createDefinitionFile(Path modulePath, AppScreen frame)
 			throws TransformerException, ParserConfigurationException {
 		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
@@ -479,7 +536,8 @@ public class AppModuleBuild {
 		TransformerFactory transformerFactory = TransformerFactory.newInstance();
 		Transformer transformer = transformerFactory.newTransformer();
 		DOMSource source = new DOMSource(doc);
-		StreamResult result = new StreamResult(new File(modulePath.toString() + ModuleGenerator.delim + "definition.xml"));
+		StreamResult result = new StreamResult(
+				new File(modulePath.toString() + ModuleGenerator.delim + "definition.xml"));
 		transformer.transform(source, result);
 	}
 

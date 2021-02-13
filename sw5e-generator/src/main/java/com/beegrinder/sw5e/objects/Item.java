@@ -1,7 +1,6 @@
 package com.beegrinder.sw5e.objects;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import com.fasterxml.jackson.annotation.JsonAnyGetter;
 import com.fasterxml.jackson.annotation.JsonAnySetter;
@@ -13,14 +12,14 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonPropertyOrder({
 "name",
-"items"
+"quantity"
 })
-public class Parcel {
+public class Item {
 
 @JsonProperty("name")
 private String name;
-@JsonProperty("items")
-private List<Item> items = null;
+@JsonProperty("quantity")
+private Integer quantity;
 @JsonIgnore
 private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
@@ -34,14 +33,14 @@ public void setName(String name) {
 this.name = name;
 }
 
-@JsonProperty("items")
-public List<Item> getItems() {
-return items;
+@JsonProperty("quantity")
+public Integer getQuantity() {
+return quantity;
 }
 
-@JsonProperty("items")
-public void setItems(List<Item> items) {
-this.items = items;
+@JsonProperty("quantity")
+public void setQuantity(Integer quantity) {
+this.quantity = quantity;
 }
 
 @JsonAnyGetter

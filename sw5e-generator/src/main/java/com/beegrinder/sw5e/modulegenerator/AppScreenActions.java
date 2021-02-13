@@ -44,6 +44,22 @@ public class AppScreenActions {
 
 	public static void actionChkParcelFile(AppScreen frame, ActionEvent e) {
 		System.out.println("Action: actionChkParcelFile");
+		if(frame.getChckbxParcels().isEnabled()) {
+			String parcelFileName = frame.getTextFieldParcelFile().getText();
+			try {
+				Path filePath = Path.of(parcelFileName);
+				String content = Files.readString(filePath,StandardCharsets.UTF_8).replaceAll("\\r\\n", "");
+				ModuleGenerator.parcelList = AppHelper.parcelListFromJson(content);
+				frame.getChckbxParcels().setText("Parcel (" + ModuleGenerator.parcelList.size() + ")");
+				
+			}
+			catch (NoSuchFileException nsf) {
+				ModuleGenerator.addLogEntry("File not found: " + nsf.getMessage());
+			}
+			catch (Exception ex) {
+				ModuleGenerator.addLogEntry("Error reading equipment file: " + ex.getMessage());
+			}
+		}
 	}
 
 	public static void actionChkActionFile(AppScreen frame, ActionEvent e) {
@@ -59,7 +75,7 @@ public class AppScreenActions {
 				String content = Files.readString(filePath,StandardCharsets.UTF_8).replaceAll("\\r\\n", "");
 				ModuleGenerator.equipmentList = AppHelper.equipmentListFromJson(content);
 				frame.getChckbxEquipment().setText("Equipment (" + ModuleGenerator.equipmentList.size() + ")");
-				
+				frame.getChckbxParcels().setEnabled(true);
 			}
 			catch (NoSuchFileException nsf) {
 				ModuleGenerator.addLogEntry("File not found: " + nsf.getMessage());

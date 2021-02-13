@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Burglar's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Chronometer",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 5
+      },
+      {
+        "name": "Fusion Cutter",
+        "quantity": 1
+      },
+      {
+        "name": "Glowrod",
+        "quantity": 2
+      },
+      {
+        "name": "Grappling Hook",
+        "quantity": 1
+      },
+      {
+        "name": "Hydrospanner",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Diplomat's Pack",
+    "items": [
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Chest",
+        "quantity": 1
+      },
+      {
+        "name": "Clothes, Fine",
+        "quantity": 1
+      },
+      {
+        "name": "Datacard",
+        "quantity": 5
+      },
+      {
+        "name": "Datapad",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 5
+      },
+      {
+        "name": "Stylus Pen",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Dungeoneer's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Chronometer",
+        "quantity": 1
+      },
+      {
+        "name": "Fibercord cable, 50 ft (rolled)",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 10
+      },
+      {
+        "name": "Fusion Cutter",
+        "quantity": 1
+      },
+      {
+        "name": "Glowrod",
+        "quantity": 5
+      },
+      {
+        "name": "Grappling Hook",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Entertainer's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Bedroll",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Clothes, Costume",
+        "quantity": 1
+      },
+      {
+        "name": "Disguise Kit",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 5
+      },
+      {
+        "name": "Glowrod",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Explorer's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Bedroll",
+        "quantity": 1
+      },
+      {
+        "name": "Blanket",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Commlink",
+        "quantity": 1
+      },
+      {
+        "name": "Fibercord cable, 50 ft (rolled)",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 10
+      },
+      {
+        "name": "Glowrod",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Priest's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Blanket",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Datapad",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 5
+      },
+      {
+        "name": "Glowrod",
+        "quantity": 2
+      },
+      {
+        "name": "Traumakit",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Scholar's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Datacard",
+        "quantity": 5
+      },
+      {
+        "name": "Datapad",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 5
+      },
+      {
+        "name": "Holorecorder",
+        "quantity": 2
+      },
+      {
+        "name": "Stylus Pen",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Technologist's Pack",
+    "items": [
+      {
+        "name": "Backpack",
+        "quantity": 1
+      },
+      {
+        "name": "Bedroll",
+        "quantity": 1
+      },
+      {
+        "name": "Canteen",
+        "quantity": 1
+      },
+      {
+        "name": "Chronometer",
+        "quantity": 1
+      },
+      {
+        "name": "Commlink",
+        "quantity": 1
+      },
+      {
+        "name": "Datapad",
+        "quantity": 1
+      },
+      {
+        "name": "Field rations (one day's)",
+        "quantity": 5
+      },
+      {
+        "name": "Holocomm",
+        "quantity": 1
+      }
+    ]
+  }
+]

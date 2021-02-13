@@ -35,12 +35,11 @@ import org.xml.sax.SAXException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 /*
- *  the powers program is meant to collect the differences between the existing (xml) spell list
- *  and the spell list from sw5e.com (json)
+ *  this program is to get data from the newer SW5e website json data and load it into a database along with 
+ *  the old spell data from the fantasy ground sw5e module so they can be compared.
  *  
- *  New/changed spells can be found more easily and have a set of actions added in the database.
- *  
- *  Once the reconciliation is complete, a clean set of updated spells can be generate for fantasy grounds
+ *  This program should do minimal data manipulation to put the data in a good state, but how the data 
+ *  is used and parsed should be in the sw5e-generator program which consumes the database made by this program.
  *  
  */
 public class CreatePowerData {
@@ -48,13 +47,13 @@ public class CreatePowerData {
 	private static final String spellJsonFileName = "spells.json";
 	private static final String spellXmlFileName = "supplement_spells.xml";
 	private static final String sql = "create table IF NOT EXISTS powers(" + "primary_key INTEGER PRIMARY KEY"
-			+ ", name TEXT NOT NULL" + ", new_json INTEGER NULL" + ", old_xml INTEGER NULL"
+			+ ", name TEXT NOT NULL" + ", new_json INTEGER DEFAULT 0" + ", old_xml INTEGER DEFAULT 0"
 			+ ", sw5e_description TEXT NULL" + ", description TEXT NULL" + ", actions TEXT null"
 			+ ", casting_time text null, old_casting_time text null" 
 			+ ", duration text null, old_duration text null" + ", power_group text null" 
-			+ ", power_level integer null,old_level integer null"
-			+ ", range text null, old_range text null, concentration integer null" 
-			+ ", school text null" + ", power_source text null, special_spell integer null" + ");";
+			+ ", power_level integer DEFAULT 0,old_level integer DEFAULT 0"
+			+ ", range text null, old_range text null, concentration integer DEFAULT 0" 
+			+ ", school text null" + ", power_source text null, special_spell integer DEFAULT 0" + ");";
 	private static final String insertJsonSql = "insert into powers"
 			+ "(name, new_json,sw5e_description, casting_time, duration, power_level, range, power_source,school,old_xml,concentration)"
 			+ "values (?,?,?,?,?,?,?,?,?,?,?)";
@@ -71,10 +70,14 @@ public class CreatePowerData {
 	public static void main(String[] args) throws SQLException {
 		Connection con = connect();
 		try {
+			// read old FG XML file into objects
 			spellListXml = getSpellsFromXml();
+			// read json from sw5e website
 			loadSpellJsonFile();
+			// insert from sw5e site objects into db
 			int c = insertPowerListsw5e(con);
 			System.out.println("Added " + c + " spells from json.");
+			// insert from old supplement xml into db
 			int x = procesPowerListXml(con);
 			System.out.println("Processed " + x + " spells from xml.");
 		} catch (Exception e) {

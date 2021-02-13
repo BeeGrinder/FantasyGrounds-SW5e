@@ -9,6 +9,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.SystemUtils;
 
 import com.beegrinder.sw5e.objects.Equipment;
+import com.beegrinder.sw5e.objects.Parcel;
 import com.beegrinder.sw5e.objects.Power;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -21,6 +22,25 @@ public class AppHelper {
 		}
 		return retVal;
 	}
+	
+	public static List<Parcel> parcelListFromJson(String parcelJson) {
+
+		List<Parcel> retVal = new ArrayList<>();
+		ObjectMapper objectMapper = new ObjectMapper();
+//		TypeFactory typeFactory = objectMapper.getTypeFactory();	
+		try {
+			if ( StringUtils.isBlank(parcelJson)) {
+				throw new Exception("Parcel data is empty");
+			}
+			Parcel[] parcelArray = objectMapper.readValue(parcelJson, Parcel[].class);
+			retVal = Arrays.asList(parcelArray);
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error in parcelListFromJson: " + e.getMessage());
+		}
+
+		return retVal;
+	}
+	
 	
 	public static List<Equipment> equipmentListFromJson(String equipmentJson) {
 
@@ -68,14 +88,13 @@ public class AppHelper {
 
 	public static void populateDefaultsToScreen(AppScreen frame, Properties defaultProps) {
 
-		frame.getTextFieldModuleName().setText(defaultProps.getProperty("module.name"));
-		frame.getTextFieldCategory().setText(defaultProps.getProperty("module.category"));
-		frame.getTextFieldAuthor().setText(defaultProps.getProperty("module.author"));
 		frame.getTextFieldModuleFolder().setText(defaultProps.getProperty("module.destination"));
 		frame.getTextFieldThumbnail().setText(defaultProps.getProperty("module.thumbnail"));
 		frame.getTextFieldParcelFile().setText(defaultProps.getProperty("input.filename.parcels"));
 		frame.getTextFieldSpellsFile().setText(defaultProps.getProperty("input.filename.spells"));
 		frame.getTextFieldEquipmentFile().setText(defaultProps.getProperty("input.filename.items"));
+		frame.getTextFieldPar5eFile().setText(defaultProps.getProperty("input.filename.par5eclient"));
+		frame.getTextFieldDefinitionFile().setText(defaultProps.getProperty("input.filename.par5edefinition"));
 		frame.getChckbxEquipment().setSelected(false);
 		frame.getChckbxSpells().setSelected(false);
 		frame.getChckbxParcels().setSelected(false);
