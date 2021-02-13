@@ -5,3 +5,4 @@ desktop.ini
 .project
 .classpath
 target
+*.db
