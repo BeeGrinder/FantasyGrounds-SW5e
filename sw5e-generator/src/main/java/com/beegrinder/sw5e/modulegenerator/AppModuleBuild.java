@@ -23,6 +23,8 @@ import com.beegrinder.sw5e.objects.Spell;
 public class AppModuleBuild {
 
 	public final static String BEGIN_XML_TAG = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>";
+	public final static String PARCEL_COIN_LIST = "<coinlist><id-00001><amount type=\"number\">0</amount><description type=\"string\">cr</description></id-00001></coinlist>";
+	public final static String PARCEL_LOCKED = "<locked type=\"number\">1</locked>";
 	public final static String DEX_BONUS_PLUS_2 = "Yes  (max 2)";
 	public final static String DEX_BONUS = "Yes";
 	public final static String CONCENTRATION_STRING = "Concentration, ";
@@ -152,26 +154,71 @@ public class AppModuleBuild {
 	}
 
 	private static StringBuffer buildParcelSection(StringBuffer buff) throws Exception {
+		Integer curParcelCount=1;
 		buff.append(createOpenTag("treasureparcels"));
 		buff.append("<category name=\"SW5e Equipment Packs\" baseicon=\"0\" decalicon=\"0\">");
 		// now do each parcel
 		for (int i = 0; i < ModuleGenerator.parcelList.size(); i++) {
 			Parcel p = ModuleGenerator.parcelList.get(i);
-			List<Equipment> eList = new ArrayList<>();
 			// get items for parcel
 			List<Item> iList = p.getItems();
-			// find equpment from main equipment list
+
+			//now create parcel code
+			final String currParcelId = "id-" + String.format("%05d", (curParcelCount));
+			// things at parcel level
+			buff.append(createOpenTag(currParcelId));
+			buff.append(createOpenTag("name", "string"));
+			buff.append(p.getName());
+			buff.append(createCloseTag("name"));
+			buff.append("<temp/>");
+			buff.append(PARCEL_LOCKED);
+			buff.append(PARCEL_COIN_LIST);
+			// now for each item
+			Integer curItemCount=1;
+			buff.append(createOpenTag("itemlist"));
 			for (Item item : iList) {
 				Equipment e = findEquipmentByName(item.getName());
 				if (e == null) {
 					throw new Exception("Unable to find " + item.getName() + " for parcel " + p.getName());
 				} else {
-					eList.add(e);
+					final String currEquipId = "id-" + String.format("%05d", (curItemCount));
+					buff.append(createOpenTag(currEquipId));
+					//cost
+					buff.append(createOpenTag("cost", "string"));
+					buff.append(e.getCost().toString()+" cr");
+					buff.append(createCloseTag("cost"));
+					//count
+					buff.append(createOpenTag("count", "number"));
+					buff.append(item.getQuantity());
+					buff.append(createCloseTag("count"));
+					//name
+					buff.append(createOpenTag("name", "string"));
+					buff.append(e.getName());
+					buff.append(createCloseTag("name"));
+					//weight
+					buff.append(createOpenTag("weight", "number"));
+					buff.append(e.getWeight());
+					buff.append(createCloseTag("weight"));
+					//type
+					String typeString = (e.getEquipmentCategory() == null) ? "Standard"
+							: splitcamelcase(e.getEquipmentCategory());
+					String subtypeString = "Adventuring Gear";
+					buff.append(createOpenTag("type", "string"));
+					buff.append(typeString);
+					buff.append(createCloseTag("type"));
+					buff.append(createOpenTag("subtype", "string"));
+					buff.append(subtypeString);
+					buff.append(createCloseTag("subtype"));
+					buff.append(PARCEL_LOCKED);
+					buff.append(createCloseTag(currEquipId));
+					curItemCount++;
 				}
 			}
-
+			//end of item list, close list
+			buff.append(createCloseTag("itemlist"));
+			buff.append(createCloseTag(currParcelId));
+			curParcelCount++;
 		}
-
 		// all done with parcels
 		buff.append("</category>");
 		buff.append(createCloseTag("treasureparcels"));
