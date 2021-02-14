@@ -11,8 +11,8 @@ import com.beegrinder.sw5e.objects.Spell;
 public class AppPowerDb {
 
 	private static final String getSpellCountSQL = "select count(*) cnt from powers where new_json=1";
-	private static final String getSpellsSQL = "select * from powers where new_json=1 and ifnull(special_spell,0) =0";
-	
+	//private static final String getSpellsSQL = "select * from powers where new_json=1 and ifnull(special_spell,0) =0";
+	private static final String getSpellsSQL = "select * from powers where (new_json=1 and ifnull(special_spell,0) =0) or (new_json =0 and name like '%:%')";
 	public static void connect(String db) {
 		// SQLite connection string
 		String url = "jdbc:sqlite:"+db;

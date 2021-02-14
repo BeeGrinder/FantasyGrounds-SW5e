@@ -785,34 +785,31 @@ As a part of the bonus action to adopt this form, you can flourish your weapon t
 #@;Read Me
 #!;Fantasy Grounds SW5e
 ##;Player/GM notes
-The Fantasy Grounds SW5e modules are not meant to replace the PDF documentation.  All participants should use the PDF for rules and game mechanics.
+The Fantasy Grounds SW5e module is not meant to replace the PDF documentation.  All participants should use the PDF for rules and game mechanics.
 #h;The SW5e Extension
 #ls;
 #li;The SW5e extension must be loaded in your campaign. Many of the features will not work if the extension is not loaded.
 #le;
-#h;The SW5e Modules
-The following modules should all be used together
+#h;The SW5e Module
+The following module contains the game data from the SW5e Player Manual and Scum and Villainy (the monster manual).
 #ls;
-#li;SW5e Player Book (Class, Race, Background, etc)
-#li;SW5e Supplement (Spells, Items, etc)
-#li;SW5e NPC Manual (NPCs, Monsters, Droids, etc)
+#li;SW5e Player Book (Class, Race, Background, NPCs, Spells, Items, etc.)
 #le;
+#h;How to modify anything in the module
+Anything from NPCs, Equipment, Backgrounds, Race, even Classes can be copied by simply dragging it in the interface and making a copy.  You can then unlock your copy and modify it as you see fit.
 #h;Issues to be aware of
 #bp; Berserker Unarmored Defense
 This skill does not automatically alter the AC calculation in the character sheet.  The player/GM must add the CON bonus manually.
-#bp; Items and Equipment
-Items and Equipment are in the SW5e Supplement.mod. It must be loaded to use inventory features.
 #bp; Item Effects
 Some items, like grenades, have effects or conditions that can be used in the combat tracker, many of these are included in the SW5e Supplement module.
 #bp; Class, Race, Background Effects
 Some classes, races, backgrounds, etc. have effects or conditions that can be used in the combat tracker, many of these are included in the SW5e Supplement module.
-#bp; Equipment Packs
-The starting Equipment Packs are found as Parcels in the SW5e Supplement module.  They have no cost, so if doing the starting wealth option, be sure to deduct the proper costs involved.
+#bp; Equipment Parcels
+The starting Equipment Packs are found as Parcels.  They have no cost, so if doing the starting wealth option, be sure to deduct the proper costs involved.
 #bp; Items Button Weapon/Armor Lists
 When you use the "Items" button on the right side of the screen you will see the Armor and Weapons buttons at the top of that window.  These buttons should give items by category for picking weapons and armor.
 #h; Powers(Spells)
-Powers(Spells) are in the SW5e Supplement.mod. It must be loaded to use caster features.
-Translation of Spell terms
+Translation of Spell(Power) terms
 #ls;
 #li;Tech/Force Powers Known = Number of spells known/prepared
 #li;Tech/Force Points = Spell Points
@@ -822,6 +819,9 @@ Translation of Spell terms
 Many times in this converion to the Fantasy Grounds(FG) 5e ruleset you may see force/tech powers referred to as "spells".  This is because the FG system is not set up to handle custom powers at this time.
 #bp; Spell Points
 The power (spell) system in SW5e uses the alternate rules of spell points as defined in the 5e DMG.  This can be implemented in Fantasy Grounds in the character sheet Actions tab.  Use the Add Power (Star) button to add a power called "Spell Points" and finish with the "-" button.  Go to mode "Preparation" and enter the number of desired points with the period "Daily".  This will automatically reset on a long rest.
+#bp; Spell Effects Coding
+Many of the spells have effects for use in the combat tracker.  This is one of the primary features that makes Fantasy Grounds a fantastic gaming platform.  These effects are easily used in the Combat Tracker and the duration, saving throws, Concentration, etc. are all automatically tracked by Fantasy Grounds.
+If a spell has effects coding it is indicated in the description with the text (*FG Coding).
 #bp; Spells/Powers and NPCs
 In the Fantasy Grounds combat tracker you should see the available spells as actions.  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker.
 The combat tracker can be used to automate many effects, saves, and other roles.

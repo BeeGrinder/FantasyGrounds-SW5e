@@ -663,7 +663,7 @@ Senses passive Perception 10
 Languages Galactic Basic and one other
 Challenge 12 (8,400 XP)
 Force Resistance. The dark lord has advantage on saving throws against force powers.
-Spellcasting. The dark lord is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The dark lord has 77 force points. The dark lord has the following  spells prepared:\rCantrips (At will): affect mind, denounce, force push/pull, mind trick, saber reflect, saber ward, shock\r1st level (77 slots): battle precognition, force body, hex\r2nd level (77 slots): battle meditation, darkness, phasewalk\r3rd level (77 slots): force lightning, force suppression, sever force\r4th level (77 slots): dominate beast, force immunity, shocking shield\r5th level (77 slots): mproved battle meditation, improved phasewalk, telekinesis\r6th level (77 slots): force chain lightning, improved force immunity\r7th level (77 slots): force lightning cone\r8th level (77 slots): master force immunity\r9th level (77 slots): force storm
+Spellcasting. The dark lord is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The dark lord has 77 force points. The dark lord has the following  spells prepared:\rCantrips (At will): affect mind, denounce, force push/pull, mind trick, saber reflect, saber ward, shock\r1st level (77 slots): battle precognition, force body, hex\r2nd level (77 slots): battle meditation, darkness, phasewalk\r3rd level (77 slots): force lightning, force suppression, sever force\r4th level (77 slots): dominate beast, force immunity, shocking shield\r5th level (77 slots): improved battle meditation, improved phasewalk, telekinesis\r6th level (77 slots): force chain lightning, improved force immunity\r7th level (77 slots): force lightning cone\r8th level (77 slots): master force immunity\r9th level (77 slots): force storm
 ACTIONS
 Lightfoil. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) energy damage.
 ##;
@@ -729,7 +729,7 @@ Languages Understands Galactic Basic but can't speak, telepathy 60 ft.
 Challenge 1/4 (50 XP)
 Advanced Telepathy. The jubba bird can perceive the content of any telepathic communication used within 60 feet of it, and it can't be surprised by creatures with any form of telepathy.
 Force Sensitive. The jubba bird has innate forcecasting ability.
-Innate Spellcasting. The jubba bird's innate spellcasting ability is  (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells:\rAt will: sense emotions
+Innate Spellcasting. The jubba bird's innate spellcasting ability is  (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells:\rAt will: sense emotion
 ACTIONS
 Talons. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) kinetic damage.
 ##;
@@ -749,7 +749,7 @@ Languages Galactic Basic and one other
 Challenge 17 (18,000 XP)
 Force Resistance. The juggernaut has advantage on saving throws against force powers.
 Scornful Rebuke. When a creature hits the juggernaut with an attack, it takes 4 psychic damage as long as the juggernaut is not incapacitated.
-Spellcasting. The juggernaut is a 19-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The juggernaut has 42 force points. The juggernaut has the following  spells prepared:\rCantrips (At will): affect mind, denounce, feedback, overcharge saber, saber ward\r1st level (42 slots): force jump, improved feedback, sap vitality, wound\r2nd level (42 slots): darkness, drain vitality, force sight\r3rd level (42 slots): force scream, sever force\r4th level (42 slots): dominate beast, force immunity, shroud of darkness\r5th level (42 slots): greater feedback, improved force scream, steel wind strike
+Spellcasting. The juggernaut is a 19-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). The juggernaut has 42 force points. The juggernaut has the following  spells prepared:\rCantrips (At will): affect mind, denounce, feedback, lightning charge, saber ward\r1st level (42 slots): force jump, improved feedback, sap vitality, wound\r2nd level (42 slots): darkness, drain vitality, force sight\r3rd level (42 slots): force scream, sever force\r4th level (42 slots): dominate beast, force immunity, shroud of darkness\r5th level (42 slots): greater feedback, improved force scream, improved phasestrike
 ACTIONS
 Multiattack. The juggernaut makes three attacks.
 Lightsaber. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8+5) energy damage.
@@ -2482,7 +2482,7 @@ Languages Galactic Basic and one other
 Challenge 4 (1100 XP)
 Tactical Technology. When the engineer casts a tech power that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the power and to succeed on the required saving throw.
 Technological Advantage. Once per turn, the engineer can deal an extra 7 (2d6) damage to a creature it hits with a damaging tech attack if that target is within 5 feet of an ally of the engineer and that ally isn't incapacitated.
-Spellcasting. The combat engineer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The engineer has 31 tech points. The combat engineer has the following  spells prepared:\rCantrips (At will): acid splash, jet of flame, cryogenic burst, electroshock\r1st level (31 slots): smoke cloud, homing rockets, overload\r2nd level (31 slots): magnetic field, acid dart, scorching ray\r3rd level (31 slots): explosion, tactical advantage, kolto cloud\r4th level (31 slots): cryogenic storm
+Spellcasting. The combat engineer is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The engineer has 31 tech points. The combat engineer has the following  spells prepared:\rCantrips (At will): acid splash, jet of flame, cryogenic burst, electroshock\r1st level (31 slots): smoke cloud, homing rockets, overload\r2nd level (31 slots): magnetic field, acid dart, shocking ray\r3rd level (31 slots): explosion, tactical advantage, kolto cloud\r4th level (31 slots): cryogenic storm
 ACTIONS
 Vibrostaff. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) kinetic damage if used with two hands.
 Light Pistol. Ranged Weapon Attack: +3 to hit, range 40/160 ft., one target. Hit: 4 (1d4+1) energy damage.
@@ -2498,7 +2498,7 @@ Skills Technology +4
 Senses passive Perception 10
 Languages Galactic Basic
 Challenge 1 (200 XP)
-Spellcasting. The combat engineer is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The engineer has 14 tech points. The combat engineer has the following  spells prepared:\rCantrips (At will): electro shock, encrypted message, rime shot\r1st level (14 slots): energy shield, homing rockets, repair droid, smoke cloud\r2nd level (14 slots): acid dart, magnetic field
+Spellcasting. The combat engineer is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The engineer has 14 tech points. The combat engineer has the following  spells prepared:\rCantrips (At will): electroshock, encrypted message, rime shot\r1st level (14 slots): energy shield, homing rockets, repair droid, smoke cloud\r2nd level (14 slots): acid dart, magnetic field
 ACTIONS
 Blaster Carbine. Ranged Weapon Attack: +3 to hit, range 60/240 ft., one target. Hit: 4 (1d6 + 1) energy damage.
 ##;
@@ -2974,7 +2974,7 @@ Damage Resistances fire
 Senses passive Perception 13
 Languages Galactic Basic
 Challenge 3 (700 XP)
-Spellcasting. The explosives specialist is a 6th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The specialist has 27 tech points. The explosives specialist has the following  spells prepared:\rCantrips (At will): combustive shot, electro shock, encrypted message\r1st level (27 slots): absorb energy, energy shield, oil slick, smoke cloud\r2nd level (27 slots): overheat, release, scorching ray\r3rd level (27 slots): explosion, sabotage charges
+Spellcasting. The explosives specialist is a 6th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The specialist has 27 tech points. The explosives specialist has the following  spells prepared:\rCantrips (At will): combustive shot, electroshock, encrypted message\r1st level (27 slots): absorb energy, energy shield, oil slick, smoke cloud\r2nd level (27 slots): overheat, release, shocking ray\r3rd level (27 slots): explosion, sabotage charges
 ACTIONS
 Blaster Rifle. Ranged Weapon Attack: +4 to hit, range 100/400 ft., one target. Hit: 6 (1d8 + 2) energy damage.
 Breaching Charge. After spending at least 30 seconds setting the charge, the engineer may attach the charge to a surface. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator, which the engineer has. Once detonated, the breaching charge destroys an unenhanced section of wall up to 10 feet wide, 10 feet tall, and 5 feet deep. Additionally, each creature within 20 feet of the charge must make a DC 13 Dexterity saving throw. A creature takes 3d6 fire damage and 3d6 kinetic damage on a failed save, or half as much on a successful one. A construct makes this save with disadvantage. If the breaching charge is installed on the construct, it automatically fails the saving throw.
@@ -3244,7 +3244,7 @@ Languages Galactic Basic, one other of your choice
 Challenge 3 (700 XP)
 Cunning Action. On each of its turns, the infiltrator can use a bonus action to take the Dash, Disengage, or Hide action.
 Evasion. If the infiltrator is subjected to an effect that allows it to make a Dex saving throw to take only half damage, the infiltrator instead takes no damage on a success, and half damage on a fail.
-Spellcasting. The isb infiltrator is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The infiltrator has 15 tech points. The isb infiltrator has the following  spells prepared:\rCantrips (At will): electrical burst, encrypted message, on/off\r1st level (15 slots): holographic disguise, smoke cloud, tranquilizer\r2nd level (15 slots): infiltrate, scorching ray
+Spellcasting. The isb infiltrator is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The infiltrator has 15 tech points. The isb infiltrator has the following  spells prepared:\rCantrips (At will): electrical burst, encrypted message, on/off\r1st level (15 slots): holographic disguise, smoke cloud, tranquilizer\r2nd level (15 slots): infiltrate, shocking ray
 ACTIONS
 Blaster Carbine. Ranged Weapon Attack: +5 to hit, range 60/240 ft., one target. Hit: 6 (1d6 + 3) energy damage.\rThe attack deals an extra 14 (4d6) damage when the infiltrator has advantage on the attack roll, or when the target is within 5 feet of an ally of the infiltrator and the infiltrator doesn't have disadvantage on the attack roll.
 REACTIONS
@@ -4540,7 +4540,7 @@ Legendary Resistance (3/Day). If the tactical droid fails a saving throw, it can
 Master Of The Droid. While within 30 feet of the tactical droid, any droid ally of the tactical droid makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.
 Circuitry. The tactical droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
 Tactical Technology. When the tactical droid casts a tech power that causes damage or that forces other creatures to make a saving throw, it can choose itself and any number of allies to be immune to the damage caused by the power and to succeed on the required saving throw.
-Spellcasting. The super tactical droid is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The droid has 57 tech points. The super tactical droid has the following  spells prepared:\rCantrips (At will): assess the situation, encrypted message, electroshock, poison spray, cryogenic burst, combustive shot\r1st level (57 slots): homing rockets, expeditious retreat, repair droid\r2nd level (57 slots): mirror image, charge power cell\r3rd level (57 slots): explosion, tactical advantage\r4th level (57 slots): sensor probe, synchronicity\r5th level (57 slots): mass repair droid, toxic cloud\r6th level (57 slots): security protocols\r7th level (57 slots): tactical superiority
+Spellcasting. The super tactical droid is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). The droid has 57 tech points. The super tactical droid has the following  spells prepared:\rCantrips (At will): assess the situation, encrypted message, electroshock, poison spray, cryogenic burst, combustive shot\r1st level (57 slots): homing rockets, expeditious retreat, repair droid\r2nd level (57 slots): mirror image, capacity boost\r3rd level (57 slots): explosion, tactical advantage\r4th level (57 slots): sensor probe, synchronicity\r5th level (57 slots): mass repair droid, toxic cloud\r6th level (57 slots): security protocols\r7th level (57 slots): tactical superiority
 ACTIONS
 Multiattack. The tactical droid makes three biopistol attacks.
 Biopistol. Melee Weapon Ateack. +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) kinetic damage plus 14 (4d6) poison damage.

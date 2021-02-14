@@ -1,6 +1,7 @@
 package com.beegrinder.sw5e.modulegenerator;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -14,6 +15,7 @@ import java.util.List;
 import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
+import org.apache.maven.shared.utils.io.FileUtils;
 
 import com.beegrinder.sw5e.objects.Equipment;
 import com.beegrinder.sw5e.objects.Item;
@@ -41,6 +43,7 @@ public class AppModuleBuild {
 		try {
 			ModuleGenerator.par5eClientString=
 			new String(Files.readAllBytes(Paths.get(ModuleGenerator.defaultProps.getProperty("input.filename.par5eclient"))));
+			ModuleGenerator.addLogEntry("Read par5e client file.");
 		}catch(Exception e) {
 			ModuleGenerator.addLogEntry("Error reading par5e client module file. " + e.getMessage());
 		}
@@ -60,6 +63,7 @@ public class AppModuleBuild {
 			Files.copy(Path.of(frame.getTextFieldThumbnail().getText()),
 					Path.of(modulePath.toString() + ModuleGenerator.delim + "thumbnail.png"),
 					StandardCopyOption.REPLACE_EXISTING);
+			ModuleGenerator.addLogEntry("Copied thumbnail file.");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error copying thumbnail to module. " + e.getMessage());
 		}
@@ -67,13 +71,16 @@ public class AppModuleBuild {
 		try {
 			Files.copy(
 					Path.of(ModuleGenerator.defaultProps.getProperty("input.filename.par5edefinition")),
-					Path.of(modulePath.toString() + ModuleGenerator.delim + "definition.xml"));
+					Path.of(modulePath.toString() + ModuleGenerator.delim + "definition.xml"),
+					StandardCopyOption.REPLACE_EXISTING);
+			ModuleGenerator.addLogEntry("Copied definition.xml file.");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error creating definition.xml file. " + e.getMessage());
 		}
 		// create new entries (spell, items, parcels)
 		try {
 			ModuleGenerator.newModuleEntries=createNewModuleEntries(modulePath, frame);
+			ModuleGenerator.addLogEntry("Done creating additional sections (Spell, Equipment, etc).");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error creating main module file. " + e.getMessage());
 		}
@@ -87,8 +94,19 @@ public class AppModuleBuild {
 			BufferedWriter writer = new BufferedWriter(new FileWriter(modulePath.toString() + ModuleGenerator.delim + "client.xml"));
 		    writer.write(finalModuleString);
 		    writer.close();
+		    ModuleGenerator.addLogEntry("New client.xml file written.");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error creating client.xml file. " + e.getMessage());
+		}
+		//finally we need to copy the images and tokens into destination
+		File tokenSource=new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5etokens"));
+		File imageSource=new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5eimages"));
+		try {
+			FileUtils.copyDirectoryStructure(tokenSource, new File(modulePath.toString() + ModuleGenerator.delim + "tokens"));
+			FileUtils.copyDirectoryStructure(imageSource, new File(modulePath.toString() + ModuleGenerator.delim + "images"));
+			ModuleGenerator.addLogEntry("Copied image and token directories.");
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error copying image and/or token directories. " + e.getMessage());
 		}
 		
 		if (! frame.getChckbxAsDirectory().isSelected()) {
@@ -102,7 +120,7 @@ public class AppModuleBuild {
 	}
 	
 	private static String fixPar5eFile(String input) {
-		// maybe use https://github.com/tools4j/unix4j
+
 		return input
 			.replaceAll("<name type=\"string\">Berserker Approach<\\/name>", "<name type=\"string\">Berserker Approach<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
 			.replaceAll("<name type=\"string\">Consular Tradition<\\/name>", "<name type=\"string\">Consular Tradition<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")

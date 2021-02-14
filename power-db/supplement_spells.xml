@@ -10482,7 +10482,7 @@
 						<order type="number">1</order>
 						<onmissdamage type="string">half</onmissdamage>
 						<savedcbase type="string">fixed</savedcbase>
-						<savedcmod type="number">12</savedcmod>
+						<savedcmod type="number">14</savedcmod>
 						<savemagic type="number">1</savemagic>
 						<savetype type="string">dexterity</savetype>
 						<type type="string">cast</type>
@@ -10491,7 +10491,7 @@
 						<damagelist>
 							<id-00001>
 								<bonus type="number">0</bonus>
-								<dice type="dice">d4,d4</dice>
+								<dice type="dice">d6,d6</dice>
 								<type type="string">ion</type>
 							</id-00001>
 						</damagelist>
@@ -10504,8 +10504,8 @@
 				<castingtime type="string">1 action</castingtime>
 				<components type="string"/>
 				<description type="formattedtext">
-					<p/>
-					<p/>
+					<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties).</p>
+					<p>As an action, you can throw a grenade at a point you can see within 30 feet + your Strength modifier x 5. Each creature within 10 feet must make a DC 14 Dexterity saving throw. A creature takes 2d6 ion damage on a failed save, or half as much as on a successful one. Any electronics within the blast radius are disabled until rebooted.</p>
 				</description>
 				<duration type="string">Instantaneous</duration>
 				<group type="string">Spells</group>
@@ -10746,6 +10746,9 @@
 				<level type="number">0</level>
 				<locked type="number">1</locked>
 				<name type="string">Operative: Sneak Attack</name>
+				<range type="string"></range>
+				<duration type="string"></duration>
+				<castingtime type="string"></castingtime>
 				<prepared type="number">0</prepared>
 				<ritual type="number">0</ritual>
 				<school type="string">Class</school>
@@ -10785,6 +10788,8 @@
 				<level type="number">0</level>
 				<locked type="number">1</locked>
 				<name type="string">Guardian Channel Force: Cause Harm</name>
+				<duration type="string"></duration>
+				<castingtime type="string"></castingtime>
 				<prepared type="number">0</prepared>
 				<range type="string">30 feet</range>
 				<ritual type="number">0</ritual>
@@ -10817,6 +10822,8 @@
 				<level type="number">0</level>
 				<locked type="number">1</locked>
 				<name type="string">Guardian Channel Force: Lend Aid</name>
+				<duration type="string"></duration>
+				<castingtime type="string"></castingtime>
 				<prepared type="number">0</prepared>
 				<range type="string">Touch</range>
 				<ritual type="number">0</ritual>
