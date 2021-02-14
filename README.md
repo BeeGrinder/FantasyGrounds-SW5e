@@ -15,7 +15,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 |Sub-Project | Status | Notes |
 | --- | --- | -- |
 |SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, NPCs, etc. Requires Suplement module to also be loaded.|
-|SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement. Must be loaded with PHB module. |
+|SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement. Must be loaded with PHB module.(this module will be removed in version 3 |
 |Ruleset Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
 
 See the FG Forum post for news about current projects and module changes underway.
@@ -35,13 +35,13 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 
    Download version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
-   Download version 3.0 "alpha testing" module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/modules)
+   Download version 3.0 "alpha testing" module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1)
  
 * To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.  Currently only works with FG Classic.
 
    Download version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
-   Download version 3.0 "alpha testing" extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/tree/master/extensions)
+   Download version 3.0 "alpha testing" extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1)
 
 * __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds any notes or special instructions.
 
@@ -62,9 +62,9 @@ Download version 2.0 here:  [Version 2.0 DOWNLOAD](https://github.com/BeeGrinder
 Because the SW5e project is constantly adding/removing/changing the contents of their PDFs, I will be providing links to the version of the PDFs that match this FG ruleset.
 Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your FG game use the provided matching copy of these documents.
 
-__Version 3.0__ is currently under construction/testing.  Version 3.0 will bring this project up to date with the "current" version of SW5e.
+__Version 3.0__ is currently under construction/testing.  Version 3 will bring this project up to date with the "current" version of SW5e.  If you are in the middle of a campaign, *__please do not use the version 3 module yet__*.  It has not been tested extensively.
 
-The working "alpha" copy of the current work can be found in the *modules* and *extensions* directories of this project. And below are links to the SW5e PDFs for this version.
+The working "alpha" copy of the current work can be [found here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1). And below are links to the SW5e PDFs for this version.
 
 [SW5e PHB PDF for version 3.0](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
 
@@ -81,13 +81,17 @@ The *__par5e__* directory is for the text files that are parsed into the *__Play
 
 PAR5e note: Do not use: equipment.txt, spells.txt, or parcels.txt.  Compatibility issues with modern Fantasy Grounds.
 
-The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML.
+The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML. (Note: this module will be going away in version 3)
 
 The *__ext-src__* dirctory is for the extension sources.
 
 ---
 
 __Project News__
+
+Feb 13, 2021
+
+I have made release 3.0.1 as a pre-release and you can download the module and extension [from here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1).  Please, notice it is now a single module.  You *__MUST__* unload all old modules when testing 3.0.1!
 
 Jan 23, 2021
 
