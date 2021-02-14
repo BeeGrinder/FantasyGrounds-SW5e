@@ -226,43 +226,14 @@ public class AppScreen extends JFrame implements ActionListener {
 																		btnModuleFolder.addActionListener(this);
 																
 																separator_2 = new JSeparator();
+																separator_2.setForeground(Color.GRAY);
 																GridBagConstraints gbc_separator_2 = new GridBagConstraints();
+																gbc_separator_2.fill = GridBagConstraints.HORIZONTAL;
+																gbc_separator_2.gridwidth = 13;
 																gbc_separator_2.insets = new Insets(0, 0, 5, 5);
 																gbc_separator_2.gridx = 0;
 																gbc_separator_2.gridy = 8;
 																contentPane.add(separator_2, gbc_separator_2);
-
-
-														
-																chckbxParcels = new JCheckBox("Parcel File");
-																chckbxParcels.setHorizontalAlignment(SwingConstants.RIGHT);
-																GridBagConstraints gbc_chckbxParcels = new GridBagConstraints();
-																gbc_chckbxParcels.anchor = GridBagConstraints.EAST;
-																gbc_chckbxParcels.insets = new Insets(0, 0, 5, 5);
-																gbc_chckbxParcels.gridx = 0;
-																gbc_chckbxParcels.gridy = 9;
-																contentPane.add(chckbxParcels, gbc_chckbxParcels);
-																chckbxParcels.addActionListener(this);
-												
-														textFieldParcelFile = new JTextField();
-														textFieldParcelFile.setEditable(false);
-														GridBagConstraints gbc_textFieldParcelFile = new GridBagConstraints();
-														gbc_textFieldParcelFile.gridwidth = 11;
-														gbc_textFieldParcelFile.insets = new Insets(0, 0, 5, 5);
-														gbc_textFieldParcelFile.fill = GridBagConstraints.HORIZONTAL;
-														gbc_textFieldParcelFile.gridx = 1;
-														gbc_textFieldParcelFile.gridy = 9;
-														contentPane.add(textFieldParcelFile, gbc_textFieldParcelFile);
-														textFieldParcelFile.setColumns(10);
-										
-												btnParcelFile = new JButton("Select");
-												btnParcelFile.setEnabled(false);
-												GridBagConstraints gbc_btnParcelFile = new GridBagConstraints();
-												gbc_btnParcelFile.insets = new Insets(0, 0, 5, 0);
-												gbc_btnParcelFile.gridx = 12;
-												gbc_btnParcelFile.gridy = 9;
-												contentPane.add(btnParcelFile, gbc_btnParcelFile);
-												btnParcelFile.addActionListener(this);
 								
 										chckbxEquipment = new JCheckBox("Equipment File");
 										GridBagConstraints gbc_chckbxEquipment = new GridBagConstraints();
@@ -292,13 +263,45 @@ public class AppScreen extends JFrame implements ActionListener {
 						gbc_btnEquipmentFile.gridy = 10;
 						contentPane.add(btnEquipmentFile, gbc_btnEquipmentFile);
 						btnEquipmentFile.addActionListener(this);
+				
+				
+																		
+																				chckbxParcels = new JCheckBox("Parcel File");
+																				chckbxParcels.setHorizontalAlignment(SwingConstants.RIGHT);
+																				GridBagConstraints gbc_chckbxParcels = new GridBagConstraints();
+																				gbc_chckbxParcels.anchor = GridBagConstraints.EAST;
+																				gbc_chckbxParcels.insets = new Insets(0, 0, 5, 5);
+																				gbc_chckbxParcels.gridx = 0;
+																				gbc_chckbxParcels.gridy = 11;
+																				contentPane.add(chckbxParcels, gbc_chckbxParcels);
+																				chckbxParcels.addActionListener(this);
+				
+						textFieldParcelFile = new JTextField();
+						textFieldParcelFile.setEditable(false);
+						GridBagConstraints gbc_textFieldParcelFile = new GridBagConstraints();
+						gbc_textFieldParcelFile.gridwidth = 11;
+						gbc_textFieldParcelFile.insets = new Insets(0, 0, 5, 5);
+						gbc_textFieldParcelFile.fill = GridBagConstraints.HORIZONTAL;
+						gbc_textFieldParcelFile.gridx = 1;
+						gbc_textFieldParcelFile.gridy = 11;
+						contentPane.add(textFieldParcelFile, gbc_textFieldParcelFile);
+						textFieldParcelFile.setColumns(10);
+				
+						btnParcelFile = new JButton("Select");
+						btnParcelFile.setEnabled(false);
+						GridBagConstraints gbc_btnParcelFile = new GridBagConstraints();
+						gbc_btnParcelFile.insets = new Insets(0, 0, 5, 0);
+						gbc_btnParcelFile.gridx = 12;
+						gbc_btnParcelFile.gridy = 11;
+						contentPane.add(btnParcelFile, gbc_btnParcelFile);
+						btnParcelFile.addActionListener(this);
 		
 				chckbxSpells = new JCheckBox("Spells File");
 				GridBagConstraints gbc_chckbxSpells = new GridBagConstraints();
 				gbc_chckbxSpells.anchor = GridBagConstraints.EAST;
 				gbc_chckbxSpells.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxSpells.gridx = 0;
-				gbc_chckbxSpells.gridy = 11;
+				gbc_chckbxSpells.gridy = 12;
 				contentPane.add(chckbxSpells, gbc_chckbxSpells);
 				chckbxSpells.addActionListener(this);
 		
@@ -309,7 +312,7 @@ public class AppScreen extends JFrame implements ActionListener {
 				gbc_textFieldSpellsFile.insets = new Insets(0, 0, 5, 5);
 				gbc_textFieldSpellsFile.fill = GridBagConstraints.HORIZONTAL;
 				gbc_textFieldSpellsFile.gridx = 1;
-				gbc_textFieldSpellsFile.gridy = 11;
+				gbc_textFieldSpellsFile.gridy = 12;
 				contentPane.add(textFieldSpellsFile, gbc_textFieldSpellsFile);
 				textFieldSpellsFile.setColumns(10);
 		
@@ -318,7 +321,7 @@ public class AppScreen extends JFrame implements ActionListener {
 				GridBagConstraints gbc_btnSpellsFile = new GridBagConstraints();
 				gbc_btnSpellsFile.insets = new Insets(0, 0, 5, 0);
 				gbc_btnSpellsFile.gridx = 12;
-				gbc_btnSpellsFile.gridy = 11;
+				gbc_btnSpellsFile.gridy = 12;
 				contentPane.add(btnSpellsFile, gbc_btnSpellsFile);
 				btnSpellsFile.addActionListener(this);
 		
@@ -326,7 +329,7 @@ public class AppScreen extends JFrame implements ActionListener {
 		GridBagConstraints gbc_lblRuntimeNotes = new GridBagConstraints();
 		gbc_lblRuntimeNotes.insets = new Insets(0, 0, 5, 5);
 		gbc_lblRuntimeNotes.gridx = 1;
-		gbc_lblRuntimeNotes.gridy = 12;
+		gbc_lblRuntimeNotes.gridy = 13;
 		contentPane.add(lblRuntimeNotes, gbc_lblRuntimeNotes);
 
 		separator_1 = new JSeparator();
@@ -470,6 +473,10 @@ public class AppScreen extends JFrame implements ActionListener {
 		return lblThumbnail;
 	}
 
+	public JLabel getLblModuleName() {
+		return lblModuleName;
+	}
+	
 	public JTextField getTextFieldThumbnail() {
 		return textFieldThumbnail;
 	}

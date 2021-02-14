@@ -67,6 +67,7 @@ public class ModuleGenerator {
 					AppHelper.populateDefaultsToScreen(frame, defaultProps); // sloppy reference call
 
 					moduleName=AppHelper.getModuleNameFromXML(frame.getTextFieldDefinitionFile().getText());
+					frame.getLblModuleName().setText("Module Name: "+moduleName);
 					// TODO: remove disabled after developed
 					// ***** DEV SETTINGS *****
 					frame.getChckbxParcels().setEnabled(false);
