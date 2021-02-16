@@ -270,6 +270,11 @@ public class AppModuleBuild {
 				 * Begin processing spell data
 				 */
 				String act = e.getActions();
+				// check if new actions exist for new null spells
+				if( act == null) {
+					act=AppActions.getNewActionsMap().get(e.getName());
+				}
+				// now if it's still null(should never be), or empty, append fake actions.
 				if (act != null && act.trim().length() > 0) {
 					if (!act.trim().equals("<actions/>")) {
 						actions = true;
