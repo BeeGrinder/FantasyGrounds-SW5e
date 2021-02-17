@@ -1,0 +1,18 @@
+# module.destination is where you want finished module to be written to
+module.destination="6/SmiteWorks/Fantasy Grounds/modules"
+# not used, but an example if we were creating an extension
+extension.destination="/SmiteWorks/Fantasy Grounds/extensions"
+# name,author of module are obtained from par5e definition file
+module.thumbnail="/Development/beegrinder/FantasyGrounds-SW5e/sw5e-generator/thumbnail.png"
+module.category=SW5e
+# Local File Locations
+input.filename.parcels="/Development/beegrinder/FantasyGrounds-SW5e/sw5e-generator/parcels.json"
+input.filename.actions="/Development/beegrinder/FantasyGrounds-SW5e/sw5e-generator/spellactions.json"
+input.filename.spells="/Development/beegrinder/FantasyGrounds-SW5e/power-db/powers.db"
+input.filename.items="/Development/beegrinder/FantasyGrounds-SW5e/sw5e-generator/equipment.json"
+input.filename.par5eclient="/Development/beegrinder/FantasyGrounds-SW5e/par5e/output/client.xml"
+input.filename.par5edefinition="/Development/beegrinder/FantasyGrounds-SW5e/par5e/output/definition.xml"
+input.filename.par5eimages="/Development/beegrinder/FantasyGrounds-SW5e/par5e/output/images"
+input.filename.par5etokens="/Development/beegrinder/FantasyGrounds-SW5e/par5e/output/tokens"
+# can be PHB, WH, EC.  SPACE delimited list.  I would place different sources in different modules.
+sw5e.contentsource=PHB
