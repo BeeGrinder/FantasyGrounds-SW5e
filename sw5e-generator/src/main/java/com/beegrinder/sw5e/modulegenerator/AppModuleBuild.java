@@ -448,6 +448,7 @@ public class AppModuleBuild {
 						typeString = "Weapon";
 						subtypeString = (e.getWeaponClassification() == null) ? ""
 								: splitcamelcase(e.getWeaponClassification());
+						subtypeString=subtypeString.replace("Vibroweapon", "Melee Vibroweapon").replace("Blaster", "Ranged Blaster").replace("Lightweapon", "Melee Lightweapon");
 					} else if (equipCat == 4) { // ARMOR
 						typeString = "Armor";
 						subtypeString = (e.getArmorClassification() == null) ? "" : e.getArmorClassification();

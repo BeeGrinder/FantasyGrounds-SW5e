@@ -195,7 +195,7 @@ function onInit()
 	GameSystem.languagefonts = languagefonts;
 	GameSystem.currencies = { Interface.getString("currency_value_cr") };
 	GameSystem.currencyDefault = Interface.getString("currency_value_cr");
-	LibraryData5E.aListViews.item.weapon.aGroupValueOrder = { "Simple Vibroweapon", "Simple Blaster", "Simple Lightweapon", "Martial Vibroweapon", "Martial Blaster", "Martial Lightweapon"};
+	LibraryData5E.aListViews.item.weapon.aGroupValueOrder = { "Simple Melee Vibroweapon", "Simple Ranged Blaster", "Simple Melee Lightweapon", "Martial Melee Vibroweapon", "Martial Ranged Blaster", "Martial Melee Lightweapon"};
 	LibraryData5E.aListViews.item.armor.aGroupValueOrder = { "Light", "Medium", "Heavy", "Shield"};
 	-- background choices
 	OptionsManager.addOptionValue("DDCL", "option_val_sw5e_custom1", "desktopdecal_sw5e1", true);
