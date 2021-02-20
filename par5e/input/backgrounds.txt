@@ -863,7 +863,7 @@ d6 Flaw
 6 I’d rather eat my armor than admit when I’m wrong.
 ##;Force Adept
 You are keenly attuned to the flow of the mysterious energy field known as the Force. With proper training, you could learn to consciously sense and manipulate that energy further. As it is, you may appear to have heightened senses, extremely quick reflexes, an intuitive understanding of others, or an uncanny ability to persuade people to your way of thinking. Your powers may have lain dormant for a long time, perhaps you felt something inside of you but never knew what it was. Perhaps your abilities were awoken by a strong encounter with another force-sensitive with the powers of the Force, or an object associated with the Force, such as a lightsaber.
-Skill Proficiencies: Choose two from Deception, Insight, Perception, and Persuasion
+Skill Proficiencies: Choose two from among Deception, Insight, Perception, and Persuasion
 Tool Proficiencies: Two of your choice of artisan's implements, gaming sets, or musical instruments
 Equipment: A set of common clothes, a sturdy knife, and a belt pouch containing 150 cr
 Feature: Guided by the Force
@@ -911,7 +911,7 @@ d6 Flaw
 6  Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 ##;Investigator
 Rarer than watch or patrol members are a community’s investigators, who are responsible for solving crimes after the fact. Though such folk are seldom found in rural areas, nearly every settlement of decent size has at least one or two watch members who have the skill to investigate crime scenes and track down criminals.
-Skill Proficiencies: Choose two from Insight, Investigation, Perception, and Survival
+Skill Proficiencies: Choose two from among Insight, Investigation, Perception, and Survival
 Languages: Two of your choice
 Equipment: A uniform in the style of your unit and indicative of your rank, a horn with which to summon help, a set of binders, and a pouch containing 100 cr
 Feature: Watcher's Eye
@@ -959,7 +959,7 @@ d6 Flaw
 6  I'd rather eat my armor than admit when I'm wrong.
 ##;Nomad
 You grew up in the wilds, far from civilization and the comforts of town and technology. You’ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don’t know the specific features of the terrain, you know the ways of the wild.
-Skill Proficiencies: Choose two from Animal Handling, Athletics, Medicine, and Survival
+Skill Proficiencies: Choose two from among Animal Handling, Athletics, Medicine, and Survival
 Tool Proficiencies: One type of musical instrument
 Languages: One of your choice
 Equipment: A walking stick, a hunting trap, a trophy from an animal you killed, a set of traveler's clothes, and a belt pouch containing 100 cr
@@ -1008,7 +1008,7 @@ d6 Flaw
 6  Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.
 ##;Outlaw
 You are a notorious free adventurer who, due to unfortunate circumstances, has lost favor with the law. However, being of the common people, they protect you due to your just nature. A protector of the people, a thorn in the side of authorities.
-Skill Proficiencies: Choose two from Acrobatics, Athletics, Insight, and Survival
+Skill Proficiencies: Choose two from among Acrobatics, Athletics, Insight, and Survival
 Tool Proficiencies: Disguise kit
 Languages: One of your choice
 Equipment: A hunting trap, an iron pot, a set of traveler's clothes, and a pouch containing 150 cr
@@ -1068,7 +1068,7 @@ d6 Flaw
 6  I have trouble trusting in my allies.
 ##;Pirate
 You are an experienced pirate. Banditry and raiding are common in the Outer Rim, and little negative stigma is given to pirates. Those that prey on the Empire are sometimes even held in high regard as bold warriors. However, you still have contacts within the criminal underworld and you’re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of finer society.
-Skill Proficiencies: Choose two from Athletics, Deception, Intimidation, and Piloting
+Skill Proficiencies: Choose two from among Athletics, Deception, Intimidation, and Piloting
 Tool Proficiencies: One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
 Equipment: One set of traveler's clothes, a gaming set you are proficient with, poorly wrought maps of Outer Rim worlds in your territory, a small piece of jewelry worth 100 cr from some exotic planet, and a pouch containing 50 cr
 Feature: Galactic Scourge
