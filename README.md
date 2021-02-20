@@ -32,40 +32,34 @@ This extension and module primarily cover the PHB and Scum and Villainy PDFs fro
 #### Installation
 ##### Please Help - I need play testing done, please report any errors, omissions or typos.
 
-* To install the module(s) for use in Fantasy Grounds, download the file(s) in the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+* To install the module for use in Fantasy Grounds, download the file into the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
-   Download version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+   Download version 3.0 module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
 
-   Download version 3.0 "alpha testing" module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1)
- 
+   Download old version 2.0 from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+
 * To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.  Currently only works with FG Classic.
 
-   Download version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+   Download version 3.0 extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
 
-   Download version 3.0 "alpha testing" extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1)
+   Download old version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
 * __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds any notes or special instructions.
 
 #### Creating your sw5e campaign
 
-* When creating your new campaign in FG for SW5e, select the 5e rule-set (All the SW5e content is dependent on the base 5e rule-set).
+* When creating your new campaign in FG for SW5e, select the *__5e__* rule-set (All the SW5e content is dependent on the base 5e rule-set).
 * Once you select the 5e rule-set, the sw5e extension will appear in the extension window.  Select the SW5e extension.
 
-  Note: It's best to only load SW5e modules and extensions. I cannot guarantee compatibility with other module or extensions.
-* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Supplement__* and the *__SW5e Player Book__*.  It is *__VERY IMPORTANT TO OPEN BOTH__*!
+  Note: It's best to only load SW5e module and extensions. I cannot guarantee compatibility with other module or extensions.
+* Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*.
 
 #### Which version of the Fantasy Grounds SW5e rules?
 
-__Version 2.0__ is complete and fixes are still being done. The *__matching version of the SW5e PDFs__* can be found at the release page.
-
-Download version 2.0 here:  [Version 2.0 DOWNLOAD](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+__Version 2.0__ is available for long-running campaigns that need to continue to use the old module/extension.  New campaigns should use the latest version.
 
 Because the SW5e project is constantly adding/removing/changing the contents of their PDFs, I will be providing links to the version of the PDFs that match this FG ruleset.
-Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your FG game use the provided matching copy of these documents.
-
-__Version 3.0__ is currently under construction/testing.  Version 3 will bring this project up to date with the "current" version of SW5e.  If you are in the middle of a campaign, *__please do not use the version 3 module yet__*.  It has not been tested extensively.
-
-The working "alpha" copy of the current work can be [found here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1). And below are links to the SW5e PDFs for this version.
+Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your game group use the provided matching copy of these documents.
 
 [SW5e PHB PDF for version 3.0](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
 
@@ -82,7 +76,7 @@ The *__par5e__* directory is for the text files that are parsed into the *__Play
 
 PAR5e note: Do not use: equipment.txt, spells.txt, or parcels.txt.  Compatibility issues with modern Fantasy Grounds.
 
-The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML. (Note: this module will be going away in version 3)
+The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML. (Note: this module has gone away in version 3)
 
 The *__ext-src__* dirctory is for the extension sources.
 
