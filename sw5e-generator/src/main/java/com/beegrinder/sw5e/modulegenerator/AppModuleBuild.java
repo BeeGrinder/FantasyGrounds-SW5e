@@ -270,22 +270,23 @@ public class AppModuleBuild {
 				/*
 				 * Begin processing spell data
 				 */
-				String act = e.getActions();
-				// check if new actions exist for new null spells
-				if( act == null) {
-					act=AppActions.getNewActionsMap().get(e.getName());
-				}
-				// now if it's still null(should never be), or empty, append fake actions.
-				if (act != null && act.trim().length() > 0) {
-					if (!act.trim().equals("<actions/>")) {
-						actions = true;
-					}
-					buff.append(act);
-				} else {
-					buff.append("<actions/>");
-				}
 				/*
-				 * never used
+				 * A C T I O N S *
+				 */
+				String act=AppActionOverride.getActionOverrideMap().get(e.getName());
+				// if action override does not exist, get from current spell or if that is blank append filler action.
+				if( StringUtils.isBlank(act) ) {
+					act = StringUtils.isBlank(e.getActions()) ? "<actions/>" : e.getActions() ;
+				}
+				// now add action to buffer
+				buff.append(act);
+				// if action code exists, flip boolean for later description update
+				if( (! StringUtils.isBlank(act)) && (! act.equals("<actions/>")) ) {
+					actions=true;
+				}
+
+				/*
+				 * add static sections
 				 */
 				buff.append("<cast type=\"number\">0</cast>");
 				buff.append("<components type=\"string\"/>");

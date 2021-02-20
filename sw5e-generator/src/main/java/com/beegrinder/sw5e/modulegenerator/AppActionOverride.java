@@ -3,9 +3,9 @@ package com.beegrinder.sw5e.modulegenerator;
 import java.util.HashMap;
 import java.util.Map;
 
-public class AppActions {
+public class AppActionOverride {
 
-	private static final Map<String, String> newActionsMap = new HashMap<>() {
+	private static final Map<String, String> actionOverrideMap = new HashMap<>() {
 		{
 			put("Acid Wind","<actions/>");
 			put("Acidic Strike","<actions/>");
@@ -163,8 +163,8 @@ public class AppActions {
 		
 	};
 
-	public static Map<String, String> getNewActionsMap() {
-		return newActionsMap;
+	public static Map<String, String> getActionOverrideMap() {
+		return actionOverrideMap;
 	}
 
 }
