@@ -91,6 +91,10 @@ The *__ext-src__* dirctory is for the extension sources.
 
 __Project News__
 
+Feb 20, 2021
+
+Updates to v3 release files.  Fixed weapon category issues, NPC size issues, NPC token issues, and background skill choices.
+
 Feb 13, 2021
 
 I have made release 3.0.1 as a pre-release and you can download the module and extension [from here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.1).  Please, notice it is now a single module.  You *__MUST__* unload all old modules when testing 3.0.1!
@@ -114,14 +118,6 @@ All class definitions updated thanks to the assistance of lordcygnus! Also fixed
 Nov 30, 2020
 
 Updated Berserker class to current.
-
-Nov 28, 2020
-
-Fixes for NPC spell actions and Operative Practice choice at level 3 have been posted as module updates.
-
-May 23, 2020
-
-All NPCs from the Scum and Villainy PDF have been added to the PHB module.
 
 ---
 If you like my work, you can [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">](https://www.buymeacoffee.com/BeeGrinder)
