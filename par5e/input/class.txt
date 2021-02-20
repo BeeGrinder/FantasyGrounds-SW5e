@@ -105,7 +105,7 @@ At 3rd level, you gain an uncanny sense of when things nearby aren’t as they s
 You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 #fe;Berserker Approach;3
 Also at 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -336,7 +336,7 @@ When you reach 3rd level, you’ve developed an affinity for one of the three as
 #le;
 #fe;Consular Tradition;3
 Also at 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;One with the Force;20
 At 20th level, your attunement to the Force is absolute. Your Wisdom or Charisma score increases by 4, and your maximum for this score increases by 4. Additionally, you gain mastery over a single force power, and can cast it with little effort. Choose one 3rd-level force power that you know as your signature power. You can cast it once at 3rd level without expending force points. When you do so, you can’t do so again until you finish a short or long rest.
@@ -504,7 +504,7 @@ This bonus increases to +2 at 10th level and +3 at 15th level.
 Also at 2nd level, you gain expertise in any tool proficiencies you gain from this class.
 #fe;Engineering Discipline;3
 Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Quick Thinking;5
 Beginning when you reach 5th level, you regain all of your expended uses of Potent Aptitude when you finish a short or long rest.
@@ -1084,7 +1084,7 @@ Also at 3rd level, you choose a specialty that you strive to emulate in your com
 #zl;fighter_ability;Shield Specialist
 #zl;fighter_ability;Tactical Specialist
 #zle;
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -1360,7 +1360,7 @@ Also at 3rd level, you begin to focus your studies on a specific lightsaber form
 #zl;guardian_ability;soresuform;Soresu Form
 #zle;
 
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 
 #fe;Extra Attack;5
@@ -1666,7 +1666,7 @@ Lastly at 3rd level, you commit yourself to one monastic order, which is detaile
 #zl;monk_ability;Matukai Order
 #zl;monk_ability;Nightsister Order
 #zle;
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Slow Fall;4
 Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
@@ -1886,7 +1886,7 @@ Also at 3rd level, you dedicate your studies towards a pursuit, which is detaile
 #zl;scholar_ability;politicianpursuit;Politician Pursuit
 #zl;scholar_ability;tacticianpursuit;Tactician Pursuit
 #zle;
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two Ability Scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Multitasker;5
 Starting at 5th level, you can take a second reaction each round. You can only take one reaction per turn.
@@ -2211,7 +2211,7 @@ Also at 3rd level, you choose to focus on a specific scout technique, which is d
 #zl;scout_ability;Stalker Technique
 #zl;scout_ability;Deadeye Technique
 #zle;
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -2519,7 +2519,7 @@ When you reach 3rd level, you choose a sentinel calling, which is detailed at th
 #zl;sentinel_ability;Path Of Shadows
 #zl;sentinel_ability;Path Of the Forceblade
 #zle;
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Extra Attack;5
 At 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
@@ -2731,7 +2731,7 @@ Also at 3rd level, you choose a practice that you emulate in the exercise of you
 #zl;operative_ability;Lethality Practice
 #zl;operative_ability;Saboteur Practice
 #zle;
-#fe;Ability Score Improvement;
+#fe;Ability Score Improvement;4
 When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
 #fe;Uncanny Dodge;5
 Starting at 5th level, when an attacker that you can see deals damage to you with an attack, you can use your reaction to halve the attack’s damage against you.
