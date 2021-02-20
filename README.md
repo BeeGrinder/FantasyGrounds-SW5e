@@ -2,7 +2,7 @@
 # FantasyGrounds-SW5e
 #### A Fantasy Grounds&reg; module to implement SW5e game
 
-SW5e is a user created (Home-brew) set of new Races, Classes, NPCs, etc. that works within the 5e ruleset but is set in the Star Wars&reg; universe.
+SW5e is a user created (Home-brew) set of new Races, Classes, NPCs, etc. that works within the 5e ruleset but "flavored" for the Star Wars&reg; universe.
 
 [SW5e Website](https://sw5e.com/)
 
@@ -56,7 +56,11 @@ This extension and module primarily cover the PHB and Scum and Villainy PDFs fro
 
 #### Which version of the Fantasy Grounds&reg; SW5e rules?
 
-__Version 2.0__ is available for long-running campaigns that need to continue to use the old module/extension.  New campaigns should use the latest version.
+__Version 2.0__ is available for long-running campaigns that need to continue to use the old module/extension.  
+
+New campaigns should use the __latest version 3.0__.
+
+#### PDFs
 
 Because the SW5e project is constantly adding/removing/changing the contents of their PDFs, I will be providing links to the version of the PDFs that match this FG ruleset.
 Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your game group use the provided matching copy of these documents.
@@ -65,6 +69,13 @@ Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any 
 
 [SW5e Scum & Villainy PDF for version 3.0](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
 
+__A note on spells (powers)
+
+Perhaps the most useful and powerful feature of FG is automation.  A player can target a group of many NPCs in combat, roll attack and damage and all saving throws and damage calculations are done automatically.  Any GM who has delt with large numbers in combat tracking knows this is a __HUGE__ time saver and makes combat move exponentially faster.  Which helps keep players "in the game" instead of "checking out" while the GM does all these rolls and calculations individually.
+
+All spells (powers) with FG coding have the note "(* FG Coding)" at the end if their descriptions.  Not all the newer additions to the spell lists have been updated with coding yet.  As GM you can add coding yourself, or let the players do it manually until the module is updated. 
+
+[Here is an excellent tutorial on spell effects coding](https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/pages/996642031/5E+Effects+for+Advanced+Automation)
 
 __New Starship Rules__
 
@@ -86,7 +97,7 @@ __Project News__
 
 Feb 20, 2021
 
-Updates to v3 release files.  Fixed weapon category issues, NPC size issues, NPC token issues, Class ability score improvement, and background skill choices.
+v3 released.  Fixed weapon category issues, NPC size issues, NPC token issues, Class ability score improvement, and background skill choices.
 
 Feb 13, 2021
 
