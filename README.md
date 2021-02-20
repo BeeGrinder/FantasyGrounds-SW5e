@@ -16,7 +16,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 | --- | --- | -- |
 |SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, NPCs, etc. Requires Suplement module to also be loaded.|
 |SW5e Supplement.mod | Released. | Powers (Spells) and Items/Equipement. Must be loaded with PHB module.(this module will be removed in version 3 |
-|Ruleset Extension | Released. | Fantasy Grounds Classic ruleset modifications extension |
+|Ruleset Extension | Released. | Fantasy Grounds 5e ruleset modification extension |
 
 See the FG Forum post for news about current projects and module changes underway.
 
