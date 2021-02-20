@@ -6,3 +6,4 @@ desktop.ini
 .classpath
 target
 *.db
+par5e/output/client.xml
