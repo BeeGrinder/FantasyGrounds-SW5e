@@ -21,7 +21,7 @@ See the FG Forum post for news about current projects and module changes underwa
 
 ---
 
-__Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU.  When reporting a problem, be sure to specify if you are using FGU or Classic.
+__Fantasy Grounds Unity&reg; (FGU)__ : I am now primarily testing this rule set in FGU.  When reporting a problem, be sure to specify if you are using FGU or Classic.
 
 ---
 
@@ -54,7 +54,7 @@ This extension and module primarily cover the PHB and Scum and Villainy PDFs fro
   Note: It's best to only load SW5e module and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*.
 
-#### Which version of the Fantasy Grounds SW5e rules?
+#### Which version of the Fantasy Grounds&reg; SW5e rules?
 
 __Version 2.0__ is available for long-running campaigns that need to continue to use the old module/extension.  New campaigns should use the latest version.
 
