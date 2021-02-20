@@ -1,8 +1,8 @@
 ![alt text](https://github.com/BeeGrinder/FantasyGrounds-SW5e/blob/master/SW5EBW.png "SW5e")
 # FantasyGrounds-SW5e
-#### A FantasyGrounds module to implement SW5e game
+#### A Fantasy Grounds&reg; module to implement SW5e game
 
-SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works within the 5e ruleset.
+SW5e is a user created (Home-brew) set of new Races, Classes, NPCs, etc. that works within the 5e ruleset but is set in the Star Wars&reg; universe.
 
 [SW5e Website](https://sw5e.com/)
 
@@ -15,7 +15,7 @@ SW5e is a user created (Home-brew) set of Races, Classes, NPCs, etc. that works 
 |Sub-Project | Status | Notes |
 | --- | --- | -- |
 |SW5e Player Book.mod | Released. | Classes, Races, Backgrounds, Feats, Skills, Spells, NPCs, etc.|
-|Ruleset Extension | Released. | Fantasy Grounds 5e ruleset modification extension |
+|Ruleset Extension | Released. | Fantasy Grounds&reg; 5e ruleset modification extension |
 
 See the FG Forum post for news about current projects and module changes underway.
 
@@ -25,14 +25,14 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 
 ---
 
-### Fantasy Grounds User Information
+### Fantasy Grounds&reg; User Information
 
 This extension and module primarily cover the PHB and Scum and Villainy PDFs from the SW5e project.  This should be a good base from which others can add their own content and/or publish modules for the expanded content.
 
 #### Installation
 ##### Please Help - I need play testing done, please report any errors, omissions or typos.
 
-* To install the module for use in Fantasy Grounds, download the file into the module directory of this project into your Fantasy Grounds modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+* To install the module for use in Fantasy Grounds&reg;, download the file into the module directory of this project into your Fantasy Grounds&reg; modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
 
    Download version 3.0 module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
 
