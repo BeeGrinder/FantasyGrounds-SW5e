@@ -69,7 +69,7 @@ Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any 
 
 [SW5e Scum & Villainy PDF for version 3.0](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
 
-__A note on spells (powers)
+__A note on spells__ (powers)
 
 Perhaps the most useful and powerful feature of FG is automation.  A player can target a group of many NPCs in combat, roll attack and damage and all saving throws and damage calculations are done automatically.  Any GM who has delt with large numbers in combat tracking knows this is a __HUGE__ time saver and makes combat move exponentially faster.  Which helps keep players "in the game" instead of "checking out" while the GM does all these rolls and calculations individually.
 
