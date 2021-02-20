@@ -135,6 +135,7 @@ public class AppModuleBuild {
 			.replaceAll("----FightingMasteryReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000001fightingmastery\\@"+ModuleGenerator.moduleName+"\">Fighting Mastery List<\\/link>")
 			.replaceAll("----LightsaberFormsReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000003lightsaberforms\\@"+ModuleGenerator.moduleName+"\">Saber Form List<\\/link>")
 			.replaceAll("----FightingStyleReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000002fightingstyle\\@"+ModuleGenerator.moduleName+"\">Fighting Style List<\\/link>")
+			.replace("<token type=\"token\">tokens\\SW5e Player Bookr", "<token type=\"token\">tokens\\SW5e Player Book\\r")
 			;
 	}
 	
