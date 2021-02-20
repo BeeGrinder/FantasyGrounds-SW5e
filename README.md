@@ -28,6 +28,8 @@ __Fantasy Grounds Unity(FGU)__ : I am now primarily testing this rule set in FGU
 
 ### Fantasy Grounds User Information
 
+This extension and module primarily cover the PHB and Scum and Villainy PDFs from the SW5e project.  This should be a good base from which others can add their own content and/or publish modules for the expanded content.
+
 #### Installation
 ##### Please Help - I need play testing done, please report any errors, omissions or typos.
 
@@ -73,7 +75,7 @@ The working "alpha" copy of the current work can be [found here](https://github.
 
 __New Starship Rules__
 
-At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.
+At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.  You can still used FG for the maps, tokens and dice rolls.
 
 ### Developer Information
 
