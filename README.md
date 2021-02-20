@@ -93,7 +93,7 @@ __Project News__
 
 Feb 20, 2021
 
-Updates to v3 release files.  Fixed weapon category issues, NPC size issues, NPC token issues, and background skill choices.
+Updates to v3 release files.  Fixed weapon category issues, NPC size issues, NPC token issues, Class ability score improvement, and background skill choices.
 
 Feb 13, 2021
 
