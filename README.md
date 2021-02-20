@@ -4,11 +4,11 @@
 
 SW5e is a user created (Home-brew) set of new Races, Classes, NPCs, etc. that works within the 5e ruleset but "flavored" for the Star Wars&reg; universe.
 
+[Fantasy Grounds Forum Thread about the SW5e module](https://www.fantasygrounds.com/forums/showthread.php?47628-SW5e-a-star-wars-home-brew-on-the-5e-rule-set)
+
 [SW5e Website](https://sw5e.com/)
 
 [SW5e Subreddit](https://www.reddit.com/r/sw5e/)
-
-[SW5e Fantasy Grounds Forum Thread](https://www.fantasygrounds.com/forums/showthread.php?47628-SW5e-a-star-wars-home-brew-on-the-5e-rule-set)
 
 ---
 
