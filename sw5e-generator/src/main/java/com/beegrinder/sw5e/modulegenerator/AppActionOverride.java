@@ -15,7 +15,7 @@ public class AppActionOverride {
 		{
 			put("Acid Wind","<actions/>");
 			put("Acidic Strike","<actions/>");
-			put("Armor of Abeloth","<actions/>");
+			put("Armor of Abeloth","<actions><id-00001><heallist><id-00001><bonus type=\"number\">5</bonus><dice type=\"dice\"></dice></id-00001></heallist><healtargeting type=\"string\">self</healtargeting><healtype type=\"string\">temp</healtype><order type=\"number\">1</order><type type=\"string\">heal</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">5</bonus><dice type=\"dice\"></dice><type type=\"string\">psychic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002><id-00003><durmod type=\"number\">1</durmod><durunit type=\"string\">hour</durunit><label type=\"string\">Armor of Abeloth</label><order type=\"number\">3</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00003></actions>");
 			put("Autonomous Servant","<actions/>");
 			put("Bacta Pack","<actions/>");
 			put("Battle Insight","<actions><id-00001><apply type=\"string\">roll</apply><durmod type=\"number\">1</durmod><effect_target type=\"string\">self</effect_target><label type=\"string\">Battle Insight; GRANTADVATK</label><order type=\"number\">1</order><type type=\"string\">effect</type></id-00001><id-00002><durmod type=\"number\">1</durmod><label type=\"string\">Battle Insight (C)</label><order type=\"number\">2</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00002></actions>");
@@ -39,7 +39,7 @@ public class AppActionOverride {
 			put("Decryption Program","<actions/>");
 			put("Defibrillate","<actions/>");
 			put("Destroy Tech","<actions/>");
-			put("Dun Moch","<actions/>");
+			put("Dun Moch","<actions><id-00001><atkmod type=\"number\">0</atkmod><atkprof type=\"number\">1</atkprof><order type=\"number\">1</order><savedcmod type=\"number\">0</savedcmod><savedcprof type=\"number\">1</savedcprof><savemagic type=\"number\">0</savemagic><savetype type=\"string\">wisdom</savetype><type type=\"string\">cast</type></id-00001><id-00002><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Dun Moch (C)</label><order type=\"number\">2</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00002><id-00003><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Dun Moch (C); DISATK</label><order type=\"number\">3</order><type type=\"string\">effect</type></id-00003><id-00004><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><effect_target type=\"string\">self</effect_target><label type=\"string\">Dun Moch (C); GRANTADVATK; Hold SHIFT and drag effect to target</label><order type=\"number\">4</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00004></actions>");
 			put("Echo Blast","<actions/>");
 			put("Elemental Accelerant","<actions/>");
 			put("Energetic Burst","<actions/>");
@@ -75,7 +75,7 @@ public class AppActionOverride {
 			put("Group Hologram","<actions/>");
 			put("Hallucination","<actions/>");
 			put("Haywire","<actions/>");
-			put("Heroism","<actions/>");
+			put("Heroism","<actions><id-00001><heallist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\"></dice><stat type=\"string\">base</stat></id-00001></heallist><healtype type=\"string\">temp</healtype><order type=\"number\">3</order><type type=\"string\">heal</type></id-00001><id-00002><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Heroism (C)</label><order type=\"number\">2</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00002><id-00003><durmod type=\"number\">0</durmod><label type=\"string\">Heroism (C); IMMUNE: Frightened; [CHA] temporary HP at start of turn</label><order type=\"number\">1</order><type type=\"string\">effect</type></id-00003></actions>");
 			put("Holding Cell","<actions/>");
 			put("Hologram","<actions/>");
 			put("Holographic Disguise","<actions/>");
@@ -91,7 +91,7 @@ public class AppActionOverride {
 			put("Kolto Dispenser","<actions/>");
 			put("Magnetic Field","<actions/>");
 			put("Magnetic Hold","<actions/>");
-			put("Malacia","<actions/>");
+			put("Malacia","<actions><id-00001><order type=\"number\">1</order><savemagic type=\"number\">1</savemagic><savetype type=\"string\">wisdom</savetype><type type=\"string\">cast</type></id-00001><id-00002><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Malacia; Incapacitated</label><order type=\"number\">2</order><type type=\"string\">effect</type></id-00002><id-00003><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Malacia (C)</label><order type=\"number\">3</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00003><id-00004><durmod type=\"number\">0</durmod><label type=\"string\">Malacia; Prone</label><order type=\"number\">4</order><type type=\"string\">effect</type></id-00004></actions>");
 			put("Mass Animation","<actions/>");
 			put("Mass Hysteria","<actions/>");
 			put("Mass Malacia","<actions/>");
@@ -114,7 +114,7 @@ public class AppActionOverride {
 			put("Predictive AI","<actions/>");
 			put("Pressure Crush","<actions/>");
 			put("Project Hologram","<actions/>");
-			put("Psychic Charge","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">1d8</dice><type type=\"string\">psychic</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001><id-00002><durmod type=\"number\">1</durmod><label type=\"string\">Psychic Charge - Silenced; </label><order type=\"number\">2</order><type type=\"string\">effect</type></id-00002></actions>");
+			put("Psychic Charge","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d8</dice><type type=\"string\">psychic</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001><id-00002><durmod type=\"number\">1</durmod><label type=\"string\">Psychic Charge - Silenced; </label><order type=\"number\">2</order><type type=\"string\">effect</type></id-00002></actions>");
 			put("Psychometry","<actions/>");
 			put("Radiation","<actions/>");
 			put("Read Memory","<actions/>");
@@ -131,22 +131,22 @@ public class AppActionOverride {
 			put("Scrambling Barrier","<actions/>");
 			put("Security Protocols","<actions/>");
 			put("Seethe","<actions/>");
-			put("Shadow Sight","<actions/>");
+			put("Shadow Sight","<actions><id-00001><durmod type=\"number\">1</durmod><durunit type=\"string\">hour</durunit><label type=\"string\">Shadow Sight; </label><order type=\"number\">4</order><type type=\"string\">effect</type></id-00001></actions>");
 			put("Shocking Ray","<actions/>");
 			put("Short Circuit","<actions/>");
 			put("Skill Protocol","<actions/>");
 			put("Smoke Cloud","<actions/>");
-			put("Sonic Charge","<actions/>");
+			put("Sonic Charge","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d4</dice><type type=\"string\">sonic</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001></actions>");
 			put("Sonic Fists","<actions/>");
 			put("Sonic Shot","<actions/>");
 			put("Sonic Strike","<actions/>");
 			put("Sound Trick","<actions/>");
 			put("Spectrum Bolt","<actions/>");
 			put("Spectrum Ray","<actions/>");
-			put("Spirit Blade","<actions/>");
+			put("Spirit Blade","<actions><id-00001><atktype type=\"string\">melee</atktype><order type=\"number\">1</order><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d10</dice><type type=\"string\">necrotic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002></actions>");
 			put("Stun Dart","<actions/>");
 			put("Superior Translation Program","<actions/>");
-			put("Sustained Lightning","<actions/>");
+			put("Sustained Lightning","<actions><id-00001><atktype type=\"string\">ranged</atktype><order type=\"number\">1</order><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d12</dice><type type=\"string\">lightning</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002><id-00003><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Sustained Lightning (C)</label><order type=\"number\">3</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00003></actions>");
 			put("Targeting Shot","<actions/>");
 			put("Telekinetic Shield","<actions/>");
 			put("Telekinetic Storm","<actions/>");
