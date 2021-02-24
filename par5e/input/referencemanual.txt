@@ -832,6 +832,23 @@ Please, note that the NPCs spell slot count is NOT to be used as spell slots! Th
 #li; The AT-AT and AT-TE should be Gargantuan but is listed as Huge. 
 #le;
 Due to an issue with the module utility these NPCs have an incorect size category.  If this will not work in your game, you can copy the NPC and change the size category.
+##;Spell Points Cost Table
+#h;Spell Cost By Level
+#ts;
+#th;Power Level;Point Cost;
+#tr;0;0;
+#tr;1;2;
+#tr;2;3;
+#tr;3;4;
+#tr;4;5;
+#tr;5;6;
+#tr;6;7;
+#tr;7;8;
+#tr;8;9;
+#tr;9;10;
+#te;
+
+This table is made to easily drag into your quick bar.
 #@;Attribution and Copyright
 #!;SW5e Ruleset Information
 ##;Credits and Attribution
