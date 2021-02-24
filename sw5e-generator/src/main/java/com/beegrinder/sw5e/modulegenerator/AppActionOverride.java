@@ -5,6 +5,12 @@ import java.util.Map;
 
 public class AppActionOverride {
 
+	
+	/*
+	 * This is basically a spell action coding lookup database by spell name.
+	 * 
+	 * The actions section of the spell will be inserted into the module xml.
+	 */
 	private static final Map<String, String> actionOverrideMap = new HashMap<>() {
 		{
 			put("Acid Wind","<actions/>");
@@ -12,7 +18,7 @@ public class AppActionOverride {
 			put("Armor of Abeloth","<actions/>");
 			put("Autonomous Servant","<actions/>");
 			put("Bacta Pack","<actions/>");
-			put("Battle Insight","<actions/>");
+			put("Battle Insight","<actions><id-00001><apply type=\"string\">roll</apply><durmod type=\"number\">1</durmod><effect_target type=\"string\">self</effect_target><label type=\"string\">Battle Insight; GRANTADVATK</label><order type=\"number\">1</order><type type=\"string\">effect</type></id-00001><id-00002><durmod type=\"number\">1</durmod><label type=\"string\">Battle Insight (C)</label><order type=\"number\">2</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00002></actions>");
 			put("Beacon of Hope","<actions/>");
 			put("Bestow Curse","<actions/>");
 			put("Bestow Virus","<actions/>");
@@ -42,18 +48,18 @@ public class AppActionOverride {
 			put("Extinguish","<actions/>");
 			put("Fabricate Trap","<actions/>");
 			put("Flash","<actions/>");
-			put("Force Blinding","<actions/>");
+			put("Force Blinding","<actions><id-00001><durmod type=\"number\">1</durmod><label type=\"string\">Force Blinding; Blinded</label><order type=\"number\">1</order><type type=\"string\">effect</type></id-00001></actions>");
 			put("Force Blur","<actions/>");
 			put("Force Concealment","<actions/>");
-			put("Force Focus","<actions/>");
-			put("Force Imbuement","<actions/>");
-			put("Force Leap","<actions/>");
-			put("Force Mask","<actions/>");
+			put("Force Focus","<actions><id-00001><apply type=\"string\">roll</apply><durmod type=\"number\">0</durmod><label type=\"string\">Force Focus; DMG: 1d4 force</label><order type=\"number\">1</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00001><id-00002><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Force Focus (C)</label><order type=\"number\">2</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00002></actions>");
+			put("Force Imbuement","<actions><id-00001><atkbase type=\"string\">ability</atkbase><atkmod type=\"number\">0</atkmod><atkprof type=\"number\">1</atkprof><atkstat type=\"string\">base</atkstat><atktype type=\"string\">melee</atktype><order type=\"number\">1</order><savedcmod type=\"number\">0</savedcmod><savedcprof type=\"number\">1</savedcprof><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d8</dice><stat type=\"string\">wisdom</stat><type type=\"string\">kinetic, magic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002><id-00003><durmod type=\"number\">1</durmod><durunit type=\"string\">minute</durunit><label type=\"string\">Force Imbuement</label><order type=\"number\">3</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00003></actions>");
+			put("Force Leap","<actions><id-00001><durmod type=\"number\">1</durmod><label type=\"string\">Force Leap</label><order type=\"number\">1</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00001></actions>");
+			put("Force Mask","<actions><id-00001><durmod type=\"number\">1</durmod><durunit type=\"string\">hour</durunit><label type=\"string\">Force Mask</label><order type=\"number\">1</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00001></actions>");
 			put("Force Meld","<actions/>");
-			put("Force Propel","<actions/>");
-			put("Force Reflect","<actions/>");
+			put("Force Propel","<actions><id-00001><onmissdamage type=\"string\">half</onmissdamage><order type=\"number\">1</order><savetype type=\"string\">dexterity</savetype><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d8,d8,d8</dice><type type=\"string\">kinetic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002></actions>");
+			put("Force Reflect","<actions><id-00001><atkmod type=\"number\">0</atkmod><atkprof type=\"number\">1</atkprof><atktype type=\"string\">ranged</atktype><order type=\"number\">1</order><savedcmod type=\"number\">0</savedcmod><savedcprof type=\"number\">1</savedcprof><savemagic type=\"number\">0</savemagic><type type=\"string\">cast</type></id-00001><id-00002><heallist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d10</dice><statmult type=\"number\">1</statmult></id-00001></heallist><healtargeting type=\"string\">self</healtargeting><order type=\"number\">2</order><type type=\"string\">heal</type></id-00002></actions>");
 			put("Force Repulse","<actions/>");
-			put("Force Shunt","<actions/>");
+			put("Force Shunt","<actions><id-00001><order type=\"number\">1</order><savetype type=\"string\">strength</savetype><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d4</dice><type type=\"string\">kinetic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002><id-00003><durmod type=\"number\">0</durmod><label type=\"string\">Force Shunt; Prone</label><order type=\"number\">3</order><type type=\"string\">effect</type></id-00003></actions>");
 			put("Force Throw","<actions/>");
 			put("Force Vision","<actions/>");
 			put("Force Weapon","<actions/>");
@@ -98,8 +104,8 @@ public class AppActionOverride {
 			put("Minor Hologram","<actions/>");
 			put("Morichro","<actions/>");
 			put("Motivator Boost","<actions/>");
-			put("Necrotic Charge","<actions/>");
-			put("Necrotic Touch","<actions/>");
+			put("Necrotic Charge","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d8</dice><type type=\"string\">necrotic</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001></actions>");
+			put("Necrotic Touch","<actions><id-00001><atktype type=\"string\">melee</atktype><order type=\"number\">1</order><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d6</dice><type type=\"string\">necrotic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002></actions>");
 			put("Neurotoxin","<actions/>");
 			put("Override Interface","<actions/>");
 			put("Phasewalk","<actions/>");
@@ -108,12 +114,12 @@ public class AppActionOverride {
 			put("Predictive AI","<actions/>");
 			put("Pressure Crush","<actions/>");
 			put("Project Hologram","<actions/>");
-			put("Psychic Charge","<actions/>");
+			put("Psychic Charge","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">1d8</dice><type type=\"string\">psychic</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001><id-00002><durmod type=\"number\">1</durmod><label type=\"string\">Psychic Charge - Silenced; </label><order type=\"number\">2</order><type type=\"string\">effect</type></id-00002></actions>");
 			put("Psychometry","<actions/>");
 			put("Radiation","<actions/>");
 			put("Read Memory","<actions/>");
 			put("Reboot","<actions/>");
-			put("Rebuke","<actions/>");
+			put("Rebuke","<actions><id-00001><atkbase type=\"string\">ability</atkbase><atkmod type=\"number\">0</atkmod><atkprof type=\"number\">1</atkprof><atkstat type=\"string\">base</atkstat><atktype type=\"string\">melee</atktype><order type=\"number\">1</order><savedcmod type=\"number\">0</savedcmod><savedcprof type=\"number\">1</savedcprof><type type=\"string\">cast</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d12</dice><type type=\"string\">force</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002><id-00003><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d10</dice><type type=\"string\">force</type></id-00001></damagelist><order type=\"number\">3</order><type type=\"string\">damage</type></id-00003><id-00004><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d8</dice><type type=\"string\">force</type></id-00001></damagelist><order type=\"number\">4</order><type type=\"string\">damage</type></id-00004></actions>");
 			put("Remove Curse","<actions/>");
 			put("Remove Virus","<actions/>");
 			put("Reprogram Droid","<actions/>");
