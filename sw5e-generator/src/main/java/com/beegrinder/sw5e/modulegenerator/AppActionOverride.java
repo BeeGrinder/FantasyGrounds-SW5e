@@ -14,7 +14,7 @@ public class AppActionOverride {
 	private static final Map<String, String> actionOverrideMap = new HashMap<>() {
 		{
 			put("Acid Wind","<actions/>");
-			put("Acidic Strike","<actions/>");
+			put("Acidic Strike","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\">d8</dice><type type=\"string\">acid</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001><id-00002><durmod type=\"number\">1</durmod><label type=\"string\">Acidic Strike</label><order type=\"number\">2</order><type type=\"string\">effect</type></id-00002></actions>");
 			put("Armor of Abeloth","<actions><id-00001><heallist><id-00001><bonus type=\"number\">5</bonus><dice type=\"dice\"></dice></id-00001></heallist><healtargeting type=\"string\">self</healtargeting><healtype type=\"string\">temp</healtype><order type=\"number\">1</order><type type=\"string\">heal</type></id-00001><id-00002><damagelist><id-00001><bonus type=\"number\">5</bonus><dice type=\"dice\"></dice><type type=\"string\">psychic</type></id-00001></damagelist><order type=\"number\">2</order><type type=\"string\">damage</type></id-00002><id-00003><durmod type=\"number\">1</durmod><durunit type=\"string\">hour</durunit><label type=\"string\">Armor of Abeloth</label><order type=\"number\">3</order><targeting type=\"string\">self</targeting><type type=\"string\">effect</type></id-00003></actions>");
 			put("Autonomous Servant","<actions/>");
 			put("Bacta Pack","<actions/>");
@@ -27,7 +27,7 @@ public class AppActionOverride {
 			put("Capacity Boost","<actions/>");
 			put("Carbon Fog","<actions/>");
 			put("Carbonite Explosion","<actions/>");
-			put("Combustive Shot","<actions/>");
+			put("Combustive Shot","<actions><id-00001><damagelist><id-00001><bonus type=\"number\">0</bonus><dice type=\"dice\"></dice><stat type=\"string\">base</stat><type type=\"string\">fire</type></id-00001></damagelist><order type=\"number\">1</order><type type=\"string\">damage</type></id-00001></actions>");
 			put("Comprehend Speech","<actions/>");
 			put("Concealed Caltrops","<actions/>");
 			put("Condense/Vaporize","<actions/>");
