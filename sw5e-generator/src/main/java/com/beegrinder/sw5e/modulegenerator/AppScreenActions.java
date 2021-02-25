@@ -71,6 +71,11 @@ public class AppScreenActions {
 		if(frame.getChckbxEquipment().isEnabled()) {
 			String equipFileName = frame.getTextFieldEquipmentFile().getText();
 			try {
+				//open database if not already open
+				if( ModuleGenerator.conn == null ) {
+					String spellFileName = frame.getTextFieldSpellsFile().getText();
+					AppPowerDb.connect(spellFileName);
+				}
 				Path filePath = Path.of(equipFileName);
 				String content = Files.readString(filePath,StandardCharsets.UTF_8).replaceAll("\\r\\n", "");
 				ModuleGenerator.equipmentList = AppHelper.equipmentListFromJson(content);
@@ -89,9 +94,12 @@ public class AppScreenActions {
 	public static void actionChkSpellFile(AppScreen frame, ActionEvent e) {
 		System.out.println("Action: actionChkSpellFile");
 		if(frame.getChckbxSpells().isEnabled()) {
-			String spellFileName = frame.getTextFieldSpellsFile().getText();
 			try {
-				AppPowerDb.connect(spellFileName);
+				//open database if not already open
+				if( ModuleGenerator.conn == null ) {
+					String spellFileName = frame.getTextFieldSpellsFile().getText();
+					AppPowerDb.connect(spellFileName);
+				}
 				Integer count=AppPowerDb.getSpellCount();
 				if( count != null ) {
 					frame.getChckbxSpells().setText("Spells (" + count + ")");	

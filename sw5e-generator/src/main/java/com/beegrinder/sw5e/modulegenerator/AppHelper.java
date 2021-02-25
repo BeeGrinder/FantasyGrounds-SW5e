@@ -59,6 +59,12 @@ public class AppHelper {
 				throw new Exception("Equipment data is empty");
 			}
 			Equipment[] equipArray = objectMapper.readValue(equipmentJson, Equipment[].class);
+			// Add equipment to db for audits
+			AppPowerDb.createEquipmentTable();
+			for(Equipment e:Arrays.asList(equipArray)) {
+				AppPowerDb.addEquipmentToDb(e);
+			}
+			//
 			retVal = Arrays.asList(equipArray);
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error in equipmentListFromJson: " + e.getMessage());
