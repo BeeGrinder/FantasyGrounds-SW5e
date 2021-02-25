@@ -31,6 +31,12 @@ public class AppModuleBuild {
 	public final static String DEX_BONUS = "Yes";
 	public final static String CONCENTRATION_STRING = "Concentration, ";
 	public final static String MODULE_SPELL_GROUP = "Spells";
+	public final static Integer EQUIP_CATEGORY_WEAPON = 3;
+	public final static Integer EQUIP_CATEGORY_ARMOR = 4;
+	public final static Integer EQUIP_CATEGORY_TOOLS = 12;
+	public final static Integer EQUIP_CATEGORY_GAME = 17;
+	public final static Integer EQUIP_CATEGORY_KIT = 21;
+	public final static Integer EQUIP_CATEGORY_MUSIC = 18;
 
 	public static void buildModule(AppScreen frame) throws Exception {
 		Path modulePath = null;
@@ -442,22 +448,36 @@ public class AppModuleBuild {
 					buff.append(createOpenTag("locked", "number"));
 					buff.append("1");
 					buff.append(createCloseTag("locked"));
-					// **type and subtype
+					/*
+					 * begin type and subtype
+					 */
 					String typeString = "";
 					String subtypeString = "";
 					final Integer equipCat = (e.getEquipmentCategoryEnum() == null) ? 0 : e.getEquipmentCategoryEnum();
-					if (equipCat == 3) { // WEAPON
+					if ( EQUIP_CATEGORY_WEAPON.equals(equipCat)) { // WEAPON
 						typeString = "Weapon";
 						subtypeString = (e.getWeaponClassification() == null) ? ""
 								: splitcamelcase(e.getWeaponClassification());
 						subtypeString=subtypeString.replace("Vibroweapon", "Melee Vibroweapon").replace("Blaster", "Ranged Blaster").replace("Lightweapon", "Melee Lightweapon");
-					} else if (equipCat == 4) { // ARMOR
+					} else if (EQUIP_CATEGORY_ARMOR.equals(equipCat)) { // ARMOR
 						typeString = "Armor";
 						subtypeString = (e.getArmorClassification() == null) ? "" : e.getArmorClassification();
+					} else if(EQUIP_CATEGORY_TOOLS.equals(equipCat)) { // Artisan's Tools
+						typeString = "Tools";
+						subtypeString = "Artisan's Tools";
+					} else if(EQUIP_CATEGORY_GAME.equals(equipCat)) { // Gaming Set
+						typeString = "Tools";
+						subtypeString = "Gaming Set";
+					} else if(EQUIP_CATEGORY_KIT.equals(equipCat)) { // Kits / Sets
+						typeString = "Tools";
+						subtypeString = "Kits / Sets";
+					} else if(EQUIP_CATEGORY_MUSIC.equals(equipCat)) { //Musical Instrument
+						typeString = "Tools";
+						subtypeString = "Musical Instrument";
 					} else { // all other
-						typeString = (e.getEquipmentCategory() == null) ? "Standard"
+						typeString = "Adventuring Gear";
+						subtypeString = (e.getEquipmentCategory() == null) ? "Standard"
 								: splitcamelcase(e.getEquipmentCategory());
-						subtypeString = "Adventuring Gear";
 					}
 					buff.append(createOpenTag("type", "string"));
 					buff.append(typeString);
@@ -465,6 +485,9 @@ public class AppModuleBuild {
 					buff.append(createOpenTag("subtype", "string"));
 					buff.append(subtypeString);
 					buff.append(createCloseTag("subtype"));
+					/*
+					 * end of type and subtype
+					 */
 					// **weight
 					buff.append(createOpenTag("weight", "number"));
 					buff.append((e.getWeight() == null) ? "" : e.getWeight());
