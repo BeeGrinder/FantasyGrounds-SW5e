@@ -10,9 +10,10 @@ import java.nio.file.Path;
 public class AppScreenActions {
 
 	public static void actionBtnBuild(AppScreen frame, ActionEvent e) {
-		System.out.println("Action: actionBtnBuild");
+		ModuleGenerator.addLogEntry("Beginning module build.");	
 		try {
 			AppModuleBuild.buildModule(frame);
+			ModuleGenerator.addLogEntry("Module build complete.");
 		} catch (Exception ex) {
 			ModuleGenerator.addLogEntry("Error! "+ ex.getMessage());
 		}
@@ -43,7 +44,6 @@ public class AppScreenActions {
 	}
 
 	public static void actionChkParcelFile(AppScreen frame, ActionEvent e) {
-		System.out.println("Action: actionChkParcelFile");
 		if(frame.getChckbxParcels().isEnabled()) {
 			String parcelFileName = frame.getTextFieldParcelFile().getText();
 			try {
@@ -51,7 +51,7 @@ public class AppScreenActions {
 				String content = Files.readString(filePath,StandardCharsets.UTF_8).replaceAll("\\r\\n", "");
 				ModuleGenerator.parcelList = AppHelper.parcelListFromJson(content);
 				frame.getChckbxParcels().setText("Parcel (" + ModuleGenerator.parcelList.size() + ")");
-				
+				ModuleGenerator.addLogEntry("Loaded parcel data.");	
 			}
 			catch (NoSuchFileException nsf) {
 				ModuleGenerator.addLogEntry("File not found: " + nsf.getMessage());
@@ -67,7 +67,6 @@ public class AppScreenActions {
 	}
 
 	public static void actionChkEquipementFile(AppScreen frame, ActionEvent e) {
-		System.out.println("Action: actionChkEquipementFile");
 		if(frame.getChckbxEquipment().isEnabled()) {
 			String equipFileName = frame.getTextFieldEquipmentFile().getText();
 			try {
@@ -81,6 +80,7 @@ public class AppScreenActions {
 				ModuleGenerator.equipmentList = AppHelper.equipmentListFromJson(content);
 				frame.getChckbxEquipment().setText("Equipment (" + ModuleGenerator.equipmentList.size() + ")");
 				frame.getChckbxParcels().setEnabled(true);
+				ModuleGenerator.addLogEntry("Loaded equipment data.");
 			}
 			catch (NoSuchFileException nsf) {
 				ModuleGenerator.addLogEntry("File not found: " + nsf.getMessage());
@@ -92,7 +92,6 @@ public class AppScreenActions {
 	}
 
 	public static void actionChkSpellFile(AppScreen frame, ActionEvent e) {
-		System.out.println("Action: actionChkSpellFile");
 		if(frame.getChckbxSpells().isEnabled()) {
 			try {
 				//open database if not already open
@@ -107,6 +106,7 @@ public class AppScreenActions {
 				} else {
 					ModuleGenerator.addLogEntry("Error getting spell count.");
 				}
+				ModuleGenerator.addLogEntry("Loaded spell(power) data.");
 			}
 			catch (Exception ex) {
 				ModuleGenerator.addLogEntry("Error reading spell database: " + ex.getMessage());

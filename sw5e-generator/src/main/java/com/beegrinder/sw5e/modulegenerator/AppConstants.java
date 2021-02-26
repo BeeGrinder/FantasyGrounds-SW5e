@@ -2,7 +2,7 @@ package com.beegrinder.sw5e.modulegenerator;
 
 public class AppConstants {
 
-	public static final boolean DEBUG = true;
+	public static final boolean DEBUG = false;
 	/*
 	 * Invisible Variables
 	 */

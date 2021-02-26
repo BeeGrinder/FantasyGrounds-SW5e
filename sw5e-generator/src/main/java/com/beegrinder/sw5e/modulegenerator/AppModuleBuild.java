@@ -45,22 +45,19 @@ public class AppModuleBuild {
 			throw new Exception("Error. Module directory not found.");
 		}
 
-		//read par5e module (client) xml file into string
+		// read par5e module (client) xml file into string
 		try {
-			ModuleGenerator.par5eClientString=
-			new String(Files.readAllBytes(Paths.get(ModuleGenerator.defaultProps.getProperty("input.filename.par5eclient"))));
+			ModuleGenerator.par5eClientString = new String(Files
+					.readAllBytes(Paths.get(ModuleGenerator.defaultProps.getProperty("input.filename.par5eclient"))));
 			ModuleGenerator.addLogEntry("Read par5e client file.");
-		}catch(Exception e) {
+		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error reading par5e client module file. " + e.getMessage());
 		}
-		
 
 		// Prepare for FG Module to be stored as a directory rather than a .mod file.
 		try {
-			removeModFileIfExists(frame.getTextFieldModuleFolder().getText(),
-					ModuleGenerator.moduleName);
-			modulePath = createModWorkDirectory(frame.getTextFieldModuleFolder().getText(),
-					ModuleGenerator.moduleName);
+			removeModFileIfExists(frame.getTextFieldModuleFolder().getText(), ModuleGenerator.moduleName);
+			modulePath = createModWorkDirectory(frame.getTextFieldModuleFolder().getText(), ModuleGenerator.moduleName);
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error preparing to deploy module as directory. " + e.getMessage());
 		}
@@ -75,8 +72,7 @@ public class AppModuleBuild {
 		}
 		// copy definition.xml for module file (should be copied from par5e output)
 		try {
-			Files.copy(
-					Path.of(ModuleGenerator.defaultProps.getProperty("input.filename.par5edefinition")),
+			Files.copy(Path.of(ModuleGenerator.defaultProps.getProperty("input.filename.par5edefinition")),
 					Path.of(modulePath.toString() + ModuleGenerator.delim + "definition.xml"),
 					StandardCopyOption.REPLACE_EXISTING);
 			ModuleGenerator.addLogEntry("Copied definition.xml file.");
@@ -85,66 +81,85 @@ public class AppModuleBuild {
 		}
 		// create new entries (spell, items, parcels)
 		try {
-			ModuleGenerator.newModuleEntries=createNewModuleEntries(modulePath, frame);
+			ModuleGenerator.newModuleEntries = createNewModuleEntries(modulePath, frame);
 			ModuleGenerator.addLogEntry("Done creating additional sections (Spell, Equipment, etc).");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error creating main module file. " + e.getMessage());
 		}
 
-		//edit par5e output xml with fixes
-		String editedPar5eFile=fixPar5eFile(ModuleGenerator.par5eClientString);
-		//merge new sections into par5e module xml
-		String finalModuleString=addNewModuleEntriesToEnd(editedPar5eFile);
-		//write new module file
+		// edit par5e output xml with fixes
+		String editedPar5eFile = fixPar5eFile(ModuleGenerator.par5eClientString);
+		// merge new sections into par5e module xml
+		String finalModuleString = addNewModuleEntriesToEnd(editedPar5eFile);
+		// write new module file
 		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(modulePath.toString() + ModuleGenerator.delim + "client.xml"));
-		    writer.write(finalModuleString);
-		    writer.close();
-		    ModuleGenerator.addLogEntry("New client.xml file written.");
+			BufferedWriter writer = new BufferedWriter(
+					new FileWriter(modulePath.toString() + ModuleGenerator.delim + "client.xml"));
+			writer.write(finalModuleString);
+			writer.close();
+			ModuleGenerator.addLogEntry("New client.xml file written.");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error creating client.xml file. " + e.getMessage());
 		}
-		//finally we need to copy the images and tokens into destination
-		File tokenSource=new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5etokens"));
-		File imageSource=new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5eimages"));
+		// finally we need to copy the images and tokens into destination
+		File tokenSource = new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5etokens"));
+		File imageSource = new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5eimages"));
 		try {
-			FileUtils.copyDirectoryStructure(tokenSource, new File(modulePath.toString() + ModuleGenerator.delim + "tokens"));
-			FileUtils.copyDirectoryStructure(imageSource, new File(modulePath.toString() + ModuleGenerator.delim + "images"));
+			FileUtils.copyDirectoryStructure(tokenSource,
+					new File(modulePath.toString() + ModuleGenerator.delim + "tokens"));
+			FileUtils.copyDirectoryStructure(imageSource,
+					new File(modulePath.toString() + ModuleGenerator.delim + "images"));
 			ModuleGenerator.addLogEntry("Copied image and token directories.");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error copying image and/or token directories. " + e.getMessage());
 		}
-		
-		if (! frame.getChckbxAsDirectory().isSelected()) {
-			// package files created above into zip file and rename to module, then remove above files/directory
-			
+
+		if (!frame.getChckbxAsDirectory().isSelected()) {
+			// package files created above into zip file and rename to module, then remove
+			// above files/directory
+
 		}
 	}
 
 	private static String addNewModuleEntriesToEnd(String input) {
-		return input.replace("</root>", ModuleGenerator.newModuleEntries+"</root>");
+		return input.replace("</root>", ModuleGenerator.newModuleEntries + "</root>");
 	}
-	
+
 	private static String fixPar5eFile(String input) {
 
-		return input
-			.replaceAll("<name type=\"string\">Berserker Approach<\\/name>", "<name type=\"string\">Berserker Approach<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Consular Tradition<\\/name>", "<name type=\"string\">Consular Tradition<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Engineering Discipline<\\/name>","<name type=\"string\">Engineering Discipline<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Fighter Speciality<\\/name>","<name type=\"string\">Fighter Speciality<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Operative Practice<\\/name>","<name type=\"string\">Operative Practice<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Guardian Focus<\\/name>","<name type=\"string\">Guardian Focus<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Monastic Order<\\/name>","<name type=\"string\">Monastic Order<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Academic Pursuit<\\/name>","<name type=\"string\">Academic Pursuit<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Scout Technique<\\/name>","<name type=\"string\">Scout Technique<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("<name type=\"string\">Sentinel Calling<\\/name>","<name type=\"string\">Sentinel Calling<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
-			.replaceAll("----FightingMasteryReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000001fightingmastery\\@"+ModuleGenerator.moduleName+"\">Fighting Mastery List<\\/link>")
-			.replaceAll("----LightsaberFormsReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000003lightsaberforms\\@"+ModuleGenerator.moduleName+"\">Saber Form List<\\/link>")
-			.replaceAll("----FightingStyleReferenceList----","<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000002fightingstyle\\@"+ModuleGenerator.moduleName+"\">Fighting Style List<\\/link>")
-			.replace("<token type=\"token\">tokens\\SW5e Player Bookr", "<token type=\"token\">tokens\\SW5e Player Book\\r")
-			;
+		return input.replaceAll("<name type=\"string\">Berserker Approach<\\/name>",
+				"<name type=\"string\">Berserker Approach<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Consular Tradition<\\/name>",
+						"<name type=\"string\">Consular Tradition<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Engineering Discipline<\\/name>",
+						"<name type=\"string\">Engineering Discipline<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Fighter Speciality<\\/name>",
+						"<name type=\"string\">Fighter Speciality<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Operative Practice<\\/name>",
+						"<name type=\"string\">Operative Practice<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Guardian Focus<\\/name>",
+						"<name type=\"string\">Guardian Focus<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Monastic Order<\\/name>",
+						"<name type=\"string\">Monastic Order<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Academic Pursuit<\\/name>",
+						"<name type=\"string\">Academic Pursuit<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Scout Technique<\\/name>",
+						"<name type=\"string\">Scout Technique<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("<name type=\"string\">Sentinel Calling<\\/name>",
+						"<name type=\"string\">Sentinel Calling<\\/name><specializationchoice type=\"number\">1<\\/specializationchoice>")
+				.replaceAll("----FightingMasteryReferenceList----",
+						"<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000001fightingmastery\\@"
+								+ ModuleGenerator.moduleName + "\">Fighting Mastery List<\\/link>")
+				.replaceAll("----LightsaberFormsReferenceList----",
+						"<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000003lightsaberforms\\@"
+								+ ModuleGenerator.moduleName + "\">Saber Form List<\\/link>")
+				.replaceAll("----FightingStyleReferenceList----",
+						"<link class=\"referencetext\" recordname=\"reference.refmanualdata.refpage_000002fightingstyle\\@"
+								+ ModuleGenerator.moduleName + "\">Fighting Style List<\\/link>")
+				.replace("<token type=\"token\">tokens\\SW5e Player Bookr",
+						"<token type=\"token\">tokens\\SW5e Player Book\\r");
 	}
-	
+
 	private static String createNewModuleEntries(Path modulePath, AppScreen frame) throws Exception {
 		// create root
 		StringBuffer buff = new StringBuffer();
@@ -179,7 +194,7 @@ public class AppModuleBuild {
 	}
 
 	private static StringBuffer buildParcelSection(StringBuffer buff) throws Exception {
-		Integer curParcelCount=1;
+		Integer curParcelCount = 1;
 		buff.append(createOpenTag("treasureparcels"));
 		buff.append("<category name=\"SW5e Equipment Packs\" baseicon=\"0\" decalicon=\"0\">");
 		// now do each parcel
@@ -188,7 +203,7 @@ public class AppModuleBuild {
 			// get items for parcel
 			List<Item> iList = p.getItems();
 
-			//now create parcel code
+			// now create parcel code
 			final String currParcelId = "id-" + String.format("%05d", (curParcelCount));
 			// things at parcel level
 			buff.append(createOpenTag(currParcelId));
@@ -199,7 +214,7 @@ public class AppModuleBuild {
 			buff.append(PARCEL_LOCKED);
 			buff.append(PARCEL_COIN_LIST);
 			// now for each item
-			Integer curItemCount=1;
+			Integer curItemCount = 1;
 			buff.append(createOpenTag("itemlist"));
 			for (Item item : iList) {
 				Equipment e = findEquipmentByName(item.getName());
@@ -208,23 +223,23 @@ public class AppModuleBuild {
 				} else {
 					final String currEquipId = "id-" + String.format("%05d", (curItemCount));
 					buff.append(createOpenTag(currEquipId));
-					//cost
+					// cost
 					buff.append(createOpenTag("cost", "string"));
-					buff.append(e.getCost().toString()+" cr");
+					buff.append(e.getCost().toString() + " cr");
 					buff.append(createCloseTag("cost"));
-					//count
+					// count
 					buff.append(createOpenTag("count", "number"));
 					buff.append(item.getQuantity());
 					buff.append(createCloseTag("count"));
-					//name
+					// name
 					buff.append(createOpenTag("name", "string"));
 					buff.append(e.getName());
 					buff.append(createCloseTag("name"));
-					//weight
+					// weight
 					buff.append(createOpenTag("weight", "number"));
 					buff.append(e.getWeight());
 					buff.append(createCloseTag("weight"));
-					//type
+					// type
 					String typeString = (e.getEquipmentCategory() == null) ? "Standard"
 							: splitcamelcase(e.getEquipmentCategory());
 					String subtypeString = "Adventuring Gear";
@@ -239,7 +254,7 @@ public class AppModuleBuild {
 					curItemCount++;
 				}
 			}
-			//end of item list, close list
+			// end of item list, close list
 			buff.append(createCloseTag("itemlist"));
 			buff.append(createCloseTag(currParcelId));
 			curParcelCount++;
@@ -247,6 +262,7 @@ public class AppModuleBuild {
 		// all done with parcels
 		buff.append("</category>");
 		buff.append(createCloseTag("treasureparcels"));
+		ModuleGenerator.addLogEntry("Done creating module parcel section.");
 		return buff;
 	}
 
@@ -268,6 +284,7 @@ public class AppModuleBuild {
 		if ((ModuleGenerator.spellList != null) && (!ModuleGenerator.spellList.isEmpty())) {
 			int curSpellCount = 1;
 			Collections.sort(ModuleGenerator.spellList);
+			ModuleGenerator.addLogEntry("Actions loaded. " + AppActionOverride.getActionOverrideMap().size());
 			for (int i = 0; i < ModuleGenerator.spellList.size(); i++) {
 				Spell e = ModuleGenerator.spellList.get(i);
 				boolean actions = false;
@@ -279,16 +296,17 @@ public class AppModuleBuild {
 				/*
 				 * A C T I O N S *
 				 */
-				String act=AppActionOverride.getActionOverrideMap().get(e.getName());
-				// if action override does not exist, get from current spell or if that is blank append filler action.
-				if( StringUtils.isBlank(act) ) {
-					act = StringUtils.isBlank(e.getActions()) ? "<actions/>" : e.getActions() ;
+				String act = AppActionOverride.getActionOverrideMap().get(e.getName());
+				// if action override does not exist, get from current spell or if that is blank
+				// append filler action.
+				if (StringUtils.isBlank(act)) {
+					act = StringUtils.isBlank(e.getActions()) ? "<actions/>" : e.getActions();
 				}
 				// now add action to buffer
 				buff.append(act);
 				// if action code exists, flip boolean for later description update
-				if( (! StringUtils.isBlank(act)) && (! act.equals("<actions/>")) ) {
-					actions=true;
+				if ((!StringUtils.isBlank(act)) && (!act.equals("<actions/>"))) {
+					actions = true;
 				}
 
 				/*
@@ -370,22 +388,9 @@ public class AppModuleBuild {
 		}
 		buff.append("</category>");
 		buff.append(createCloseTag("spell")); // close spell section
+		ModuleGenerator.addLogEntry("Done creating module spell(power) section.");
 		return buff;
 	}
-
-//	private static String buildLibrarySelction(String moduleName, String moduleCategory) throws Exception {
-//		StringBuffer buff = new StringBuffer();
-//		buff.append(createOpenTag("library"));
-//		String idTag = "id-" + moduleName.toLowerCase();
-//		buff.append(createOpenTag(idTag));
-//		buff.append(createOpenTag("categoryname", "string")).append(moduleCategory)
-//				.append(createCloseTag("categoryname"));
-//		buff.append(createOpenTag("name", "string")).append(moduleName).append(createCloseTag("name"));
-//		buff.append(createOpenTag("entries")).append(createCloseTag("entries"));
-//		buff.append(createCloseTag(idTag));
-//		buff.append(createCloseTag("library"));
-//		return buff.toString();
-//	}
 
 	private static StringBuffer buildItemSection(StringBuffer buff) throws Exception {
 
@@ -454,24 +459,25 @@ public class AppModuleBuild {
 					String typeString = "";
 					String subtypeString = "";
 					final Integer equipCat = (e.getEquipmentCategoryEnum() == null) ? 0 : e.getEquipmentCategoryEnum();
-					if ( EQUIP_CATEGORY_WEAPON.equals(equipCat)) { // WEAPON
+					if (EQUIP_CATEGORY_WEAPON.equals(equipCat)) { // WEAPON
 						typeString = "Weapon";
 						subtypeString = (e.getWeaponClassification() == null) ? ""
 								: splitcamelcase(e.getWeaponClassification());
-						subtypeString=subtypeString.replace("Vibroweapon", "Melee Vibroweapon").replace("Blaster", "Ranged Blaster").replace("Lightweapon", "Melee Lightweapon");
+						subtypeString = subtypeString.replace("Vibroweapon", "Melee Vibroweapon")
+								.replace("Blaster", "Ranged Blaster").replace("Lightweapon", "Melee Lightweapon");
 					} else if (EQUIP_CATEGORY_ARMOR.equals(equipCat)) { // ARMOR
 						typeString = "Armor";
 						subtypeString = (e.getArmorClassification() == null) ? "" : e.getArmorClassification();
-					} else if(EQUIP_CATEGORY_TOOLS.equals(equipCat)) { // Artisan's Tools
+					} else if (EQUIP_CATEGORY_TOOLS.equals(equipCat)) { // Artisan's Tools
 						typeString = "Tools";
 						subtypeString = "Artisan's Tools";
-					} else if(EQUIP_CATEGORY_GAME.equals(equipCat)) { // Gaming Set
+					} else if (EQUIP_CATEGORY_GAME.equals(equipCat)) { // Gaming Set
 						typeString = "Tools";
 						subtypeString = "Gaming Set";
-					} else if(EQUIP_CATEGORY_KIT.equals(equipCat)) { // Kits / Sets
+					} else if (EQUIP_CATEGORY_KIT.equals(equipCat)) { // Kits / Sets
 						typeString = "Tools";
 						subtypeString = "Kits / Sets";
-					} else if(EQUIP_CATEGORY_MUSIC.equals(equipCat)) { //Musical Instrument
+					} else if (EQUIP_CATEGORY_MUSIC.equals(equipCat)) { // Musical Instrument
 						typeString = "Tools";
 						subtypeString = "Musical Instrument";
 					} else { // all other
@@ -570,6 +576,7 @@ public class AppModuleBuild {
 		}
 
 		buff.append(createCloseTag("item")); // close item section
+		ModuleGenerator.addLogEntry("Done creating module item(equipment) section.");
 		return buff;
 	}
 
