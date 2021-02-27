@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="iso-8859-1"?>
 <root>
 	<framedef name="desktop">
-		<bitmap file="graphics/starfield1.jpg"/>
+		<bitmap file="graphics/starfield1-1080.jpg"/>
 		<top rect="0, 0, 1920, 1080"/>
 		<middle rect="0, 1080, 1920, 200"/>
 	</framedef>

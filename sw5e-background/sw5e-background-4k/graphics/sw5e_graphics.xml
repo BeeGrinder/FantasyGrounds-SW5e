@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+	<framedef name="desktop">
+		<bitmap file="graphics/starfield1-4k.jpg"/>
+		<top rect="0, 0, 3840, 2160"/>
+		<middle rect="0, 2160, 3840, 200"/>
+	</framedef>
+</root>
