@@ -800,10 +800,13 @@ Anything from NPCs, Equipment, Backgrounds, Race, even Classes can be copied by 
 #h;Issues to be aware of
 #bp; Berserker Unarmored Defense
 This skill does not automatically alter the AC calculation in the character sheet.  The player/GM must add the CON bonus manually.
+#bp; Backgrounds
+When selecting a background for a character in the character wizard, be sure to check you Tool and Language proficiencies.  Also money and equipment is not automatically added.
+The DnD 5e ruleset in FG has much of the background information hard-coded for the default 5e tools and languages.  There is little that can be done about this.
 #bp; Item Effects
-Some items, like grenades, have effects or conditions that can be used in the combat tracker, many of these are included in the SW5e Supplement module.
+Some items, like grenades, have effects or conditions that can be used in the combat tracker. Only a few are done, but they can be used as examples for you to create your own.
 #bp; Class, Race, Background Effects
-Some classes, races, backgrounds, etc. have effects or conditions that can be used in the combat tracker, many of these are included in the SW5e Supplement module.
+Some classes, races, backgrounds, etc. have effects or conditions that can be used in the combat tracker. Only a few are done, but they can be used as examples for you to create your own.
 #bp; Equipment Parcels
 The starting Equipment Packs are found as Parcels.  They have no cost, so if doing the starting wealth option, be sure to deduct the proper costs involved.
 #bp; Items Button Weapon/Armor Lists
@@ -826,10 +829,12 @@ If a spell has effects coding it is indicated in the description with the text (
 In the Fantasy Grounds combat tracker you should see the available spells as actions.  Many have effects that can be dragged onto the effected PC or NPC in the combat tracker.
 The combat tracker can be used to automate many effects, saves, and other roles.
 Please, note that the NPCs spell slot count is NOT to be used as spell slots! These numbers reflect the spell points the NPC has. Do not add them together. The spell points are shown in every spell level the NPC is capable of casting.  This is not possible to track in the combat tracker at this time.  The DM/GM must manually track an NPCs remaining spell points.
-#h;Player Character Spell Casting Stat
+#h; Player Character Spell Casting Stat
 Do not forget when adding spells to a character sheet to check that the chosen casting stat is set correctly.  Most classes have a choice of which stat is used for casting their "powers".  This must be configured correctly for the spell effect coding to function properly.
-#h;Spell Save DC Note
+#h; Spell Save DC Note
 For unknown reasons when you put a spell into a players character sheet, the Spell Save DC does not display correctly.  Simply open up the settings for that spell in the character sheet (the magnifier) and it auto-calculates it.
+#h; Magic resistance.  Resistance to non-magical weapons.
+In SW5e, magic and magic items are referred to as "Enhanced".  Because the wording of this type of effect is not compatible with the DnD 5e wording, the automated FG effects that take resistance to magic and/or non-magical items do not work properly.  Be aware of this issue.
 ##;Spell Points Cost Table
 #h;Spell Cost By Level
 #ts;

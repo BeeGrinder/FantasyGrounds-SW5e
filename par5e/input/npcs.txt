@@ -5215,3 +5215,86 @@ ACTIONS
 Multiattack. The wookiee engineer makes two melee attacks.
 Vibromace. Melee Weapon Attack: +5 to hit, one target. Hit: 12 (2d10 + 3) kinetic damage.
 ##;
+
+Autonomous Servant
+Tiny construct, unaligned
+Armor Class 15
+Hit Points 10 (4d4)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA 4 (-3) 16 (+3) 10 (+0) 2 (-4) 10 (+0) 1 (-5)
+Damage Vulnerabilities ion
+Damage Resistances necrotic, poison, psychic
+Condition Immunities exhaustion, charmed, deafened, poisoned
+Senses blindsight 60 ft. (blind beyond this radius),passive Perception 10
+Languages  --
+Challenge 0 (10 XP)
+Tech Construct. Created with the Autonomous Servant tech power.
+Circuitry. The construct has disadvantage on saving throws against effects that would deal ion or lightning damage.
+ACTIONS
+Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit 5 (1d4 + 3) kinetic damage.
+##;
+
+Mass Animation, Tiny
+Tiny construct, unaligned
+Armor Class 16
+Hit Points 20 (5d4)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 0 (+0) 0 (-0) 0 (+0) 0 (+0) 0 (+0) 0 (+0)
+Languages  --
+Challenge 0 (10 XP)
+Force Construct. Created with the Mass Animation force power.
+ACTIONS
+Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit 5 (1d4+3) kinetic damage.
+##;
+
+Mass Animation, Small
+Small construct, unaligned
+Armor Class 15
+Hit Points 25 (7d4)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 0 (+0) 0 (-0) 0 (+0) 0 (+0) 0 (+0) 0 (+0)
+Languages  --
+Challenge 0 (10 XP)
+Force Construct. Created with the Mass Animation force power.
+ACTIONS
+Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit 5 (1d8+2) kinetic damage.
+##;
+
+Mass Animation, Medium
+Medium construct, unaligned
+Armor Class 13
+Hit Points 40 (10d4)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 0 (+0) 0 (-0) 0 (+0) 0 (+0) 0 (+0) 0 (+0)
+Languages  --
+Challenge 0 (10 XP)
+Force Construct. Created with the Mass Animation force power.
+ACTIONS
+Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit 5 (2d6+1) kinetic damage.
+##;
+
+Mass Animation, Large
+Large construct, unaligned
+Armor Class 10
+Hit Points 50 (5d10)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 0 (+0) 0 (-0) 0 (+0) 0 (+0) 0 (+0) 0 (+0)
+Languages  --
+Challenge 0 (10 XP)
+Force Construct. Created with the Mass Animation force power.
+ACTIONS
+Strike. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit 5 (2d10+2) kinetic damage.
+##;
+
+Mass Animation, Huge
+Huge construct, unaligned
+Armor Class 10
+Hit Points 80 (8d10)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA 0 (+0) 0 (-0) 0 (+0) 0 (+0) 0 (+0) 0 (+0)
+Languages  --
+Challenge 0 (10 XP)
+Force Construct. Created with the Mass Animation force power.
+ACTIONS
+Strike. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit 5 (2d12+4) kinetic damage.
+##;
