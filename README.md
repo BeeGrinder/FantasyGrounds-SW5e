@@ -36,13 +36,13 @@ This extension and module primarily cover the PHB and Scum and Villainy PDFs fro
 
    Download version 3.0 module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
 
-   Download old version 2.0 from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+   Download old version 2.0 module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
 * To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.  Currently only works with FG Classic.
 
    Download version 3.0 extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
 
-   Download old version 2.0 "stable" from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+   Download old version 2.0 extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
 
 * __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds any notes or special instructions.
 
