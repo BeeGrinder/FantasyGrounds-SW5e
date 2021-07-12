@@ -338,7 +338,17 @@ public class AppModuleBuild {
 				if (StringUtils.isBlank(desc)) {
 					buff.append("<p />");
 				} else {
-					buff.append("<p>").append(desc.replace("***", "").replace("\r\n\r\n", "</p><p>")).append("</p>");
+					buff.append("<p>");
+					buff.append(desc
+							// include edits to work with FG parsing
+							.replace("***Overcharge Tech.***", "</p><p><b>At Higher Levels.</b>")
+							.replace("ranged tech attack","ranged spell attack")
+							.replace("ranged force attack","ranged spell attack")
+							.replace("melee force attack","melee spell attack")
+							.replace("melee tech attack","melee spell attack")
+							.replace("***", "")
+							.replace("\r\n\r\n", "</p><p>"));
+					buff.append("</p>");
 				}
 				if (actions) {
 					buff.append("<p>(*FG Coding)</p>");
