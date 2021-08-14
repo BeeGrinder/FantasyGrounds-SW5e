@@ -316,4 +316,15 @@
 		<isgmonly type="number">0</isgmonly>
 		<label type="string">Slippery Mind; SAVE: 2 wisdom</label>
 	</id-00063>
+	<id-00064>
+		<duration type="number">1</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Tactical Advantage; AC: 2; ADSAV: dexterity; 'additional action on turn</label>
+		<unit type="string">minute</unit>
+	</id-00064>
+	<id-00065>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Electroshock; DMG: 1d8 lightning; [ROLL]; [SELF]</label>
+	</id-00065>
 </effects>
