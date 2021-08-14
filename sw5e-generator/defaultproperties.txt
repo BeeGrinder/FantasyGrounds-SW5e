@@ -10,9 +10,11 @@ input.filename.parcels=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\parcel
 input.filename.actions=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\spellactions.json
 input.filename.spells=C:\\sw5e-dev\\FantasyGrounds-SW5e\\power-db\\powers.db
 input.filename.items=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\equipment.json
+input.filename.effects=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\effects.xml
 input.filename.par5eclient=C:\\sw5e-dev\\FantasyGrounds-SW5e\\par5e\\output\\client.xml
 input.filename.par5edefinition=C:\\sw5e-dev\\FantasyGrounds-SW5e\\par5e\\output\\definition.xml
 input.filename.par5eimages=C:\\sw5e-dev\\FantasyGrounds-SW5e\\par5e\\output\\images
 input.filename.par5etokens=C:\\sw5e-dev\\FantasyGrounds-SW5e\\par5e\\output\\tokens
+output.module.save=C:\\sw5e-dev\\FantasyGrounds-SW5e\\sw5e-generator\\module-output
 # can be PHB, WH, EC.  SPACE delimited list.  I would place different sources in different modules.
 sw5e.contentsource=PHB
