@@ -1,0 +1,319 @@
+<effects>
+	<id-00001>
+		<duration type="number">10</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Heat generator; 'adpated to cold climates</label>
+		<unit type="string">minute</unit>
+	</id-00001>
+	<id-00002>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Bipod; 'ignore STR requirement while prone - speed 0 - +10 to ability and saving throws against disarming</label>
+	</id-00002>
+	<id-00003>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Comm jammer; 'unenhanced communications devices jammed in 100 ft radius</label>
+	</id-00003>
+	<id-00004>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Doublesaber; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00004>
+	<id-00005>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Doubleshoto; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00005>
+	<id-00006>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Enviro-suit; 'can survive in space and other dangerous conditions</label>
+	</id-00006>
+	<id-00007>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Respirator; 'survive in low-oxygen environment</label>
+	</id-00007>
+	<id-00008>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Light ring; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00008>
+	<id-00009>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Aquatic rebreather; 'can breath both air and water</label>
+	</id-00009>
+	<id-00010>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Friction-grip gear; 'climbing speed equals walking speed</label>
+	</id-00010>
+	<id-00011>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Chirodactyl's Instinct; IF: CUSTOM(Rage); VISION: 30 blindsight</label>
+	</id-00011>
+	<id-00012>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Greatsaber; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00012>
+	<id-00013>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Rocket boots; 'flying speed of 25 ft for 1 min before recharge or new power cells</label>
+	</id-00013>
+	<id-00014>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Lightclub; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00014>
+	<id-00015>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Lightdagger; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00015>
+	<id-00016>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Lightfoil; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00016>
+	<id-00017>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Lightsaber pike; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00017>
+	<id-00018>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Lightsaber; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00018>
+	<id-00019>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Martial lightsaber; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00019>
+	<id-00020>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Saberspear; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00020>
+	<id-00021>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Saberwhip; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00021>
+	<id-00022>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Shotosaber; DISSKILL: stealth; LIGHT: 5 candle</label>
+	</id-00022>
+	<id-00023>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Stealth field generator; ADVSKILL: stealth; 'relies on sight last 1 min ends if make attack or cast</label>
+	</id-00023>
+	<id-00024>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Tripod; 'ignore STR requirements - speed 0 - +10 to ability and saving throws against disarming</label>
+	</id-00024>
+	<id-00025>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Acklay's Instinct; IF: CUSTOM(Rage); ADVSAV: constitution</label>
+	</id-00025>
+	<id-00026>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Alert; IFT: Invisible; GRANTDISATK; 'cant be surprised</label>
+	</id-00026>
+	<id-00027>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Loth-Cat's Instinct; IF: CUSTOM(Rage); GRANTDISATK: opportunity</label>
+	</id-00027>
+	<id-00028>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Keen Mind; ADVSAV: wisdom</label>
+	</id-00028>
+	<id-00029>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Force Purity; IMMUNE: poison,disease</label>
+	</id-00029>
+	<id-00030>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Droid Vulnerabilities; VULN: ion</label>
+	</id-00030>
+	<id-00031>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Droid Resistances; RESIST: necrotic,poison,psychic; IMMUNE: poisoned,diseased</label>
+	</id-00031>
+	<id-00032>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Gamorrean Toughness; ADVSAV: constitution</label>
+	</id-00032>
+	<id-00033>
+		<duration type="number">10</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Glowrod; LIGHT: 20 torch</label>
+		<unit type="string">hour</unit>
+	</id-00033>
+	<id-00034>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Gand Resilience; RESIST: poison</label>
+	</id-00034>
+	<id-00035>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Sonic Resistance; RESIST: sonic</label>
+	</id-00035>
+	<id-00036>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Life in the Void; RESIST: necrotic</label>
+	</id-00036>
+	<id-00037>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Mon Calamari Resistance; RESIST: cold</label>
+	</id-00037>
+	<id-00038>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Natural Antitoxins; RESIST: poison</label>
+	</id-00038>
+	<id-00039>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Industrial Hazards; RESIST: acid</label>
+	</id-00039>
+	<id-00040>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Electric Attunement; RESIST: lightning</label>
+	</id-00040>
+	<id-00041>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Force Resistance; RESIST: force</label>
+	</id-00041>
+	<id-00042>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Purity of Body; IMMUNE; disease,poison; RESIST; poison</label>
+	</id-00042>
+	<id-00043>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Blindsense; VISION: 10 blindsight</label>
+	</id-00043>
+	<id-00044>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Two Heads; ADVSKILL: perception</label>
+	</id-00044>
+	<id-00045>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Thunderous Momentum; IMMUNE: shocked</label>
+	</id-00045>
+	<id-00046>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Wrathful Combatant; ADVSAV: strength; ADVCHK: strength</label>
+	</id-00046>
+	<id-00047>
+		<duration type="number">1</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Shocked; ' cannot take any reactions</label>
+	</id-00047>
+	<id-00048>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Strength In Numbers; ADVCHK: strength,constitution; ADVSAV: strength,constitution</label>
+	</id-00048>
+	<id-00049>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Keen Senses; ADVSKILL: perception</label>
+	</id-00049>
+	<id-00050>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Escape the Horde; GRANTDISATK: opportunity</label>
+	</id-00050>
+	<id-00051>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Explosive; IF: CUSTOM(Rage); DMG: 2</label>
+	</id-00051>
+	<id-00052>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Feral Impulse; ADVINIT</label>
+	</id-00052>
+	<id-00053>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Hardened Mind; RESIST: psychic</label>
+	</id-00053>
+	<id-00054>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Improved Force-Empowered Strikes; DMG: 1d8 melee</label>
+	</id-00054>
+	<id-00055>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Medical Practitioner; SKILL: 1 medicine</label>
+	</id-00055>
+	<id-00056>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Observant; ADVCHK: perception,investigation</label>
+	</id-00056>
+	<id-00057>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Observant Protocol; ADVCHK: perception,investigation</label>
+	</id-00057>
+	<id-00058>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Pathfinder; SKILL: 1 survival</label>
+	</id-00058>
+	<id-00059>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Performance Protocol; ADVCHK: perception,investigation</label>
+	</id-00059>
+	<id-00060>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Programmer; SKILL: 4 technology</label>
+	</id-00060>
+	<id-00061>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Danger Sense; ADVSAV: dexterity</label>
+	</id-00061>
+	<id-00062>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Silver Tongue; SKILL: 1 deception,intimidation,performance,persuasion</label>
+	</id-00062>
+	<id-00063>
+		<duration type="number">0</duration>
+		<isgmonly type="number">0</isgmonly>
+		<label type="string">Slippery Mind; SAVE: 2 wisdom</label>
+	</id-00063>
+</effects>
