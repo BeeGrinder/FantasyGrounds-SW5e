@@ -91,7 +91,7 @@ public class AppModuleBuild {
 		String editedPar5eFile = fixPar5eFile(ModuleGenerator.par5eClientString);
 		// merge new sections into par5e module xml
 		String finalModuleString = addNewModuleEntriesToEnd(editedPar5eFile);
-		// write new module file
+		// write new module file to game dir
 		try {
 			BufferedWriter writer = new BufferedWriter(
 					new FileWriter(modulePath.toString() + ModuleGenerator.delim + "client.xml"));
@@ -100,6 +100,20 @@ public class AppModuleBuild {
 			ModuleGenerator.addLogEntry("New client.xml file written.");
 		} catch (Exception e) {
 			ModuleGenerator.addLogEntry("Error creating client.xml file. " + e.getMessage());
+		}
+		if ( StringUtils.isNotBlank( ModuleGenerator.defaultProps.getProperty("output.module.save") ) ) {
+			//write to save area for saving to git
+			try {
+				BufferedWriter writer = new BufferedWriter(
+						new FileWriter(ModuleGenerator.defaultProps.getProperty("output.module.save")
+								+ ModuleGenerator.delim
+								+ "client.xml"));
+				writer.write(finalModuleString);
+				writer.close();
+				ModuleGenerator.addLogEntry("New client.xml file written for save.");
+			} catch (Exception e) {
+				ModuleGenerator.addLogEntry("Error creating client.xml save file. " + e.getMessage());
+			}		
 		}
 		// finally we need to copy the images and tokens into destination
 		File tokenSource = new File(ModuleGenerator.defaultProps.getProperty("input.filename.par5etokens"));
@@ -186,8 +200,14 @@ public class AppModuleBuild {
 			try {
 				buff = buildParcelSection(buff);
 			} catch (Exception e) {
-				ModuleGenerator.addLogEntry("Error.  Unable to create <power> element. " + e.getMessage());
+				ModuleGenerator.addLogEntry("Error.  Unable to create <parcel> element. " + e.getMessage());
 			}
+		}
+		//create <effects> element
+		try {
+			buff = buildEffectsSection(buff);
+		} catch (Exception e) {
+			ModuleGenerator.addLogEntry("Error.  Unable to create <effects> element. " + e.getMessage());
 		}
 
 		return buff.toString();
@@ -278,6 +298,16 @@ public class AppModuleBuild {
 		return retVal;
 	}
 
+	private static StringBuffer buildEffectsSection(StringBuffer buff) throws Exception{
+		buff.append(new String(Files
+				.readAllBytes(
+						Paths.get(ModuleGenerator.defaultProps.getProperty("input.filename.effects"))))
+				);
+		
+		ModuleGenerator.addLogEntry("Done creating module effects section.");
+		return buff;
+	}
+	
 	private static StringBuffer buildPowerSection(StringBuffer buff) throws Exception {
 		buff.append(createOpenTag("spell", null)); // open spell section
 		buff.append("<category name=\"\" baseicon=\"0\" decalicon=\"0\">");
