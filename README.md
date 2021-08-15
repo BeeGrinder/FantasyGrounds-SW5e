@@ -30,21 +30,15 @@ __Fantasy Grounds Unity&reg; (FGU)__ : I am now primarily testing this rule set 
 This extension and module primarily cover the PHB and Scum and Villainy PDFs from the SW5e project.  This should be a good base from which others can add their own content and/or publish modules for the expanded content.
 
 #### Installation
-##### Please Help - I need play testing done, please report any errors, omissions or typos.
 
-* To install the module for use in Fantasy Grounds&reg;, download the file into the module directory of this project into your Fantasy Grounds&reg; modules directory *(...\Fantasy Grounds\modules)*.  Then load sw5e modules using the Library->Modules selections.
+* The *__extension is required__* for the module to function.  
 
-   Download version 3.0 module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
+* Get the __extension__ from the Forge [here](https://forge.fantasygrounds.com/shop/items/53/view)
 
-   Download old version 2.0 module files from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
+* The __module__ is available from the Forge [here](https://forge.fantasygrounds.com/shop/items/44/view)
+ 
 
-* To install the extension, download *__sw5e.ext__* and place in your extensions directory *(...\Fantasy Grounds\extensions)*. When creating/loading your campaign, make sure to select extension *__sw5e__* from the list.  Currently only works with FG Classic.
-
-   Download version 3.0 extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/v3.0.5)
-
-   Download old version 2.0 extension file from [here](https://github.com/BeeGrinder/FantasyGrounds-SW5e/releases/tag/2.0.0)
-
-* __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds any notes or special instructions.
+* __*IMPORTANT:*__ Read the __Reference__ section of each module in Fantasy Grounds for any notes or special instructions.
 
 #### Creating your sw5e campaign
 
@@ -54,20 +48,14 @@ This extension and module primarily cover the PHB and Scum and Villainy PDFs fro
   Note: It's best to only load SW5e module and extensions. I cannot guarantee compatibility with other module or extensions.
 * Once your campaign opens, go to *__Library__* then *__Modules__* and open the *__SW5e Player Book__*.
 
-#### Which version of the Fantasy Grounds&reg; SW5e rules?
-
-__Version 2.0__ is available for long-running campaigns that need to continue to use the old module/extension.  
-
-New campaigns should use the __latest version 3.0__.
-
 #### PDFs
 
-Because the SW5e project is constantly adding/removing/changing the contents of their PDFs, I will be providing links to the version of the PDFs that match this FG ruleset.
-Due to the constantly changing nature of the SW5e PDFs, it is unlikely that any release here will 100% match what is on their website. It is __STRONGLY__ advised that your game group use the provided matching copy of these documents.
+Because the SW5e project is constantly adding/removing/changing the contents of their Player Hand Book PDFs, 
+I will be providing links to the version of the PDFs that match this FG ruleset.
 
-[SW5e PHB PDF for version 3.0](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
+[SW5e PHB PDF for Fantasy Grounds Module](https://mega.nz/file/2IEH1awA#NvlThnx4ZwxsvWNkpcIxXLDn5WfCRVV3hPKKeSsbXaE)
 
-[SW5e Scum & Villainy PDF for version 3.0](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
+[SW5e Scum & Villainy PDF for Fantasy Grounds Module](https://mega.nz/file/TM8kVYaa#YcHsUUW5fi0CitCX_hQ1cXMLhZpqdKubP_PwCWzLvk4)
 
 __A note on spells__ (powers)
 
@@ -79,21 +67,23 @@ All spells (powers) with FG coding have the note "(* FG Coding)" at the end if t
 
 __New Starship Rules__
 
-At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.  You can still used FG for the maps, tokens and dice rolls.
+At this time none of the Starship combat rules will be added to my modules.  It is not compatible with the 5e ruleset and will require extensive extension development.  You can still used FG for the maps, tokens and dice rolls.  See the above link to the thread on the Fantasy Grounds forums to see 3rd party content for this module and user implemented space combat rules.
 
 ### Developer Information
 
-The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 99% compiled using PAR5e v0.0.9-b62.  I've added a sed script to add the level 3 sub-class choices to the output XML.
+The *__par5e__* directory is for the text files that are parsed into the *__Player Book__* module and the "source" of the module content. The current player book module is 80% compiled using PAR5e v0.0.9-b62.  I've created a crude java app called ModuleGenerator that takes the output from Par5e, massages and adds data to create a complete module.  If I continue down this path, eventually I will stop using Par5e.
 
 PAR5e note: Do not use: equipment.txt, spells.txt, or parcels.txt.  Compatibility issues with modern Fantasy Grounds.
-
-The *__supplement-mod__* directory contains all Force and Tech Powers (spells) and Items/Equipment source.  It is maintained through editing the source XML. (Note: this module has gone away in version 3)
 
 The *__ext-src__* dirctory is for the extension sources.
 
 ---
 
 __Project News__
+
+Aug 15, 2021
+
+Fixes for caster attach rolls in combat tracker, concentration checks in combat tracker, new effects for items, class/race features, etc.  New release is v20210815.1 and will be available via the Forge "Test" build channel.
 
 Feb 20, 2021
 
