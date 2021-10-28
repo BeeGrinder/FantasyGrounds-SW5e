@@ -2,11 +2,11 @@
 
 <root>
 	<font name="Aurebesh">
-		<ttf file="fonts/Aurebesh.ttf" name="Aurebesh" size="10" />
-		<color value="#261A12" />
+		<ttf file="fonts/Aurebesh.ttf" name="Aurebesh" size="16" />
+		<color value="#AAAAAA" />
 	</font>
 	<font name="Binary">
-		<ttf file="fonts/morse.ttf" name="morse" size="10" />
-		<color value="#261A12" />
+		<ttf file="fonts/morse.ttf" name="morse" size="16" />
+		<color value="#AAAAAA" />
 	</font>
 </root>

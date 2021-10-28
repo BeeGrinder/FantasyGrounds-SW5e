@@ -8,7 +8,7 @@
 -->
 <root version="2.9">
 	<properties>
-		<name>SW5e</name>
+		<name>SW5e (Classic)</name>
 		<version>0.1</version>
 		<author>BeeGrinder</author>
 		<description>SW5e. A Community Extension for "Homebrew" Star Wars themed games.</description>
@@ -18,10 +18,12 @@
 	</properties>
 	<announcement text="SW5e ruleset extension. https://github.com/BeeGrinder/FantasyGrounds-SW5e" font="emotefont" icon=""/> 
 	<base>
+		<script name="SW5eMain" file="scripts/sw5e-main.lua" />
+		<includefile source="scripts/template_power.xml" /> <!-- thanks to miked2681 -->
 		<!-- Strings -->
 		<includefile source="strings/strings_SW5e.xml" />
+		<!-- Fonts -->
 		<includefile source="fonts/fonts.xml"/>
-		<script name="SW5eMain" file="scripts/sw5e-main.lua" />
 		<!-- Custom theme background -->
 		<string name="option_val_sw5e_custom1">SW5e-1</string>
 		<string name="option_val_sw5e_custom2">SW5e-2</string>

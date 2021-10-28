@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root>
+	<template name="cycler_power">
+		<button_stringcycler>
+			<anchored width="50" height="20" />
+			<parameters>
+				<defaultlabelres>dash</defaultlabelres>
+				<labelsres>base|str|dex|con|int|wis|cha|prof|lvl|class_short_berserker|class_short_consular|class_short_engineer|class_short_fighter|class_short_guardian|class_short_monk|class_short_operative|class_short_scholar|class_short_scout|class_short_sentinel</labelsres>
+				<values>base|strength|dexterity|constitution|intelligence|wisdom|charisma|prf|level|berserker|jediconsular|engineer|fighter|guardian|monk|operative|scholar|scout|sentinel</values>
+			</parameters>
+		</button_stringcycler>
+	</template>
+	<template name="cycler_group_dc">
+		<button_stringcycler>
+			<parameters>
+				<defaultlabelres mergerule="replace">base</defaultlabelres>
+				<labelsres>str|dex|con|int|wis|cha|prof|lvl|class_short_berserker|class_short_consular|class_short_engineer|class_short_fighter|class_short_guardian|class_short_monk|class_short_operative|class_short_scholar|class_short_scout|class_short_sentinel</labelsres>
+				<values>strength|dexterity|constitution|intelligence|wisdom|charisma|prf|level|berserker|jediconsular|engineer|fighter|guardian|monk|operative|scholar|scout|sentinel</values>
+			</parameters>
+		</button_stringcycler>
+	</template>
+</root>
