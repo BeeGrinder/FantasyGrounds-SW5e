@@ -10,7 +10,7 @@
 		<maven.compiler.target>11</maven.compiler.target>
 		<commons-lang3-version>3.11</commons-lang3-version>
 		<sql-verson>3.16.1</sql-verson>
-		<jackson.version>2.12.0</jackson.version>
+		<jackson.version>2.12.6.1</jackson.version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 	</properties>
 	<dependencies>
