@@ -14,7 +14,7 @@
 		<jackson.version>2.13.4.1</jackson.version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 		<okhttp.version>4.9.0</okhttp.version>
-		<sql-verson>3.16.1</sql-verson>
+		<sql-verson>3.41.2.2</sql-verson>
 	</properties>
 	<dependencies>
 		<dependency>
